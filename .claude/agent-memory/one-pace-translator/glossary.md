@@ -1,0 +1,1073 @@
+---
+name: translation-glossary
+description: Complete EN→zh-TW glossary for One Pace subtitle translations — character names, groups, ranks, devil fruits, attacks, locations, terms, lore, and catchphrases
+type: reference
+---
+
+## Main Characters
+| English | 繁體中文 |
+|---|---|
+| Monkey D. Luffy | 蒙其·D·魯夫 |
+| Roronoa Zoro | 羅羅亞·索隆 |
+| Nami | 娜美 |
+| Usopp | 騙人布 |
+| Sanji | 香吉士 |
+| Tony Tony Chopper | 多尼多尼·喬巴 |
+| Nico Robin | 妮可·羅賓 |
+| Franky | 佛朗基 |
+| Brook | 布魯克 |
+| Jinbe | 吉貝爾 |
+| Vivi | 薇薇 |
+| Karoo | 卡魯 |
+| Nefertari Cobra | 內費塔利·眼鏡蛇 |
+| Mr. 2 Bon Kurei / Bentham | 2號先生·蹦可雷 |
+| Mr. 3 | 3號先生 |
+| Mr. 1 | 1號先生 |
+| Sir Crocodile | 克洛克達爾先生 |
+| Portgas D. Ace | 波特卡斯·D·艾斯 |
+| Smoker (Captain Smoker) | 煙薰（煙薰上尉）|
+| Tashigi | 塔西姬 |
+| Marshall D. Teach / Blackbeard | 馬歇爾·D·帝奇 / 黑鬍子 |
+| Igaram | 伊乂拉姆 |
+| Eyelashes (camel) | 睫毛（駱駝）|
+
+## Titles & Groups
+| English | 繁體中文 |
+|---|---|
+| Straw Hat Pirates | 草帽海賊團 |
+| Pirate | 海賊 |
+| Marine | 海軍 |
+| World Government | 世界政府 |
+| Celestial Dragons | 天龍人 |
+| Seven Warlords (of the Sea) | 七武海 |
+| Four Emperors | 四皇 |
+| Worst Generation | 最惡世代 |
+| Revolutionary Army | 革命軍 |
+| Baroque Works | 巴洛克工作社 |
+| Billions (Baroque Works rank) | 十億組 |
+| Officer Agents | 幹部 |
+| Whitebeard Pirates | 白鬍子海賊團 |
+| Whitebeard (Edward Newgate) | 白鬍子 |
+
+## Ranks & Positions
+| English | 繁體中文 |
+|---|---|
+| Pirate King | 海賊王 |
+| Admiral | 大將 |
+| Vice Admiral | 中將 |
+| Fleet Admiral | 元帥 |
+| Captain | 船長 |
+| Sniper | 狙擊手 |
+| Cook | 廚師 |
+| Navigator | 航海士 |
+| Doctor | 醫生 |
+| Archaeologist | 考古學家 |
+| Shipwright | 船匠 |
+| Musician | 音樂家 |
+| Helmsman | 舵手 |
+
+## Devil Fruits & Powers
+| English | 繁體中文 |
+|---|---|
+| Devil Fruit | 惡魔果實 |
+| Paramecia | 超人系 |
+| Zoan | 動物系 |
+| Logia | 自然系 |
+| Awakening | 覺醒 |
+| Clone-Clone Fruit | 仿仿果實 |
+| Flame-Flame Fruit (Mera Mera no Mi) | 火火果實 |
+| Smoke-Smoke Fruit (Moku Moku no Mi) | 烟烟果實 |
+| Wax-Wax Fruit (Doru Doru no Mi) | 蠟蠟果實 |
+
+## Haki
+| English | 繁體中文 |
+|---|---|
+| Haki | 霸氣 |
+| Observation Haki | 見聞色霸氣 |
+| Armament Haki | 武裝色霸氣 |
+| Conqueror's Haki | 霸王色霸氣 |
+
+## Attacks
+| English | 繁體中文 |
+|---|---|
+| Gum-Gum Pistol | 橡膠手槍 |
+| Gum-Gum Gatling | 橡膠機關槍 |
+| Gum-Gum Bazooka | 橡膠火箭炮 |
+| Gum-Gum Red Hawk | 橡膠紅鷹 |
+| Gum-Gum Rocket | 橡膠火箭 |
+| Three Sword Style | 三刀流 |
+| Oni Giri | 鬼斬 |
+| Diable Jambe | 惡魔風腳 |
+| Gum-Gum Stamp | 橡膠印章 |
+| Gum-Gum Battle Axe | 橡膠戰斧 |
+| Gum-Gum Finger Net | 橡膠手指網 |
+| Gum-Gum Whip | 橡膠鞭腿 |
+| Gum-Gum Munch Munch | 橡膠啃食 |
+| Anti-Manner Kick Course (Sanji attack) | 反禮儀踢擊路線 |
+| Desert Spada (Crocodile attack) | 沙漠長刀 |
+| Desert Girasole (Crocodile attack) | 沙漠向日葵 |
+| Barján (Crocodile attack) | 新月形沙丘 |
+| Sables (Crocodile attack) | 沙暴 |
+| Fire Fist (Ace's epithet & attack) | 火拳 |
+| White Snake (Smoker attack) | 白蛇 |
+| White Blow (Smoker attack) | 白擊 |
+| White Spark (Smoker attack) | 白閃 |
+| Heat Haze (Smoker attack) | 炎熱霞 |
+| Dice-Dice Fruit (Supa Supa no Mi) | 快斬果實 |
+| Spike-Spike Fruit (Toge Toge no Mi) | 荊棘果實 |
+| Stinger Finger (Miss Doublefinger attack) | 刺棘指 |
+| Stinger Hedgehog (Miss Doublefinger attack) | 刺棘刺蝟 |
+| Sewing Stinger (Miss Doublefinger attack) | 縫紉刺棘 |
+| Stinger Step (Miss Doublefinger attack) | 刺棘踏步 |
+| Climate Baton (Nami weapon) | 天候棒 |
+| Fine Tempo (Nami attack) | 晴天節拍 |
+| Cloudy Tempo (Nami attack) | 陰天節拍 |
+| Thunder Tempo (Nami attack) | 雷電節拍 |
+| Cyclone Tempo (Nami attack) | 旋風節拍 |
+| Heat Ball (Climate Baton) | 熱氣泡 |
+| Cool Ball (Climate Baton) | 冷氣泡 |
+| Thunder Ball (Climate Baton) | 電氣泡 |
+| Dieciséis Fleurs (Robin attack) | 十六輪花 |
+| Miss Doublefinger | 雙指小姐 |
+| Pluton (Ancient Weapon) | 冥王 |
+
+## World & Locations
+| English | 繁體中文 |
+|---|---|
+| Grand Line | 偉大航道 |
+| Red Line | 紅土大陸 |
+| Calm Belt | 無風帶 |
+| New World | 新世界 |
+| East Blue | 東海 |
+| One Piece | ONE PIECE (keep in English) |
+| Alabasta / Kingdom of Alabasta | 阿拉巴斯坦 / 阿拉巴斯坦王國 |
+| Sandy Island | 沙之島 |
+| Nanohana | 納諾哈那 |
+| Port of Nanohana | 納諾哈那港 |
+| Alubarna | 阿魯巴納 |
+| Whisky Peak | 威士忌山峰 |
+| Erumalu (City of Green) | 愛魯瑪魯（翠綠之城）|
+| Yuba | 優芭 |
+| Sandora River | 桑多拉河 |
+| Kingdom of Drum | 德魯姆王國 |
+| Medi Assembly Hall | 梅迪集會廳 |
+
+## Important Terms
+| English | 繁體中文 |
+|---|---|
+| Bounty | 懸賞金 |
+| Belly (currency) | 貝里 |
+| Wanted Poster | 通緝令 |
+| Crew | 船員 |
+| Nakama | 夥伴 |
+| Treasure | 寶藏 |
+| Dream | 夢想 |
+| Justice | 正義 |
+| Sea King | 海王類 |
+| Sea Cat | 海貓 |
+| Mellorine (Sanji exclamation) | 美味蕾 |
+| Rebellion / Rebel Army | 反抗軍 |
+| Desert strawberry (poisonous spider) | 沙漠草莓 |
+| Dance powder | 跳舞粉 |
+| Rain-summoning powder | 呼雨之粉 |
+| Kung fu dugong | 功夫儒艮 |
+| Rogue heron / desert bandit (bird) | 無賴蒼鷺 / 沙漠強盜 |
+| Sandora dragon | 桑多拉龍 |
+| Irrigation canal | 灌溉水渠 |
+| Moving crab | 走路蟹 |
+| Mr. Prince (Sanji alias) | 普林斯先生 |
+| Rainbase | 雨地 |
+| Quicksand | 流沙 |
+
+## Lore
+| English | 繁體中文 |
+|---|---|
+| Will of D. | D之意志 |
+| Inherited will | 繼承的意志 |
+| Void Century | 空白的一百年 |
+| Poneglyph | 歷史本文 |
+| Ancient Weapons | 古代兵器 |
+| Poseidon (Ancient Weapon) | 海神 |
+| Laugh Tale (final island) | 拉夫德魯 |
+| Gol D. Roger | 哥爾·D·羅傑 |
+
+## Character Catchphrases
+| Character | English | 繁體中文 |
+|---|---|---|
+| Mr. 2 Bon Kurei | "Nobody's clowning here!" | 這不是在搞笑！ |
+| Mr. 2 Bon Kurei | "swan-swan" (speech quirk) | 天鵝天鵝 |
+| Mr. 2 Bon Kurei | "Un, Deux, Korrois/Ourrois!" (dance count) | 一、兩、三！／一、兩、四！ |
+| Mr. 2 Bon Kurei | "Bold Change!" (transformation call) | 大變身！ |
+| Mr. 2 Bon Kurei | "Okama way" | 御宅之道 |
+| Koza | Koza (child / rebel leader) | 乂薩 |
+| Toto | Toto (man from Yuba) | 多多 |
+| Paula | Paula (Spiders Cafe proprietor / Miss Doublefinger) | 乂拉 |
+| Frilled Runners | Baroque Works urgent delivery force | 褶領蜥蜴快跑隊 |
+| Bunchi | Special All-Terrain Transport Turtle, Baroque Works | 笨吉 |
+| Katorea | Oasis city near Nanohana, rebel base | 卡特蕾亞 |
+| Sand-Sand Clan | Vivi's childhood gang | 沙沙團 |
+| Octopar | Octopus parfait (Mr. 2's order) | 章魚聖代 |
+| Orange pekoe | Tea served at Spiders Cafe | 橙白茶 |
+| Rain Dinners | Casino in Rainbase (Crocodile's base) | 雨地丁納斯 |
+| Operation Utopia | Baroque Works' ultimate plan to seize Alabasta | 烏托邦行動 |
+| Rebel Army / Royal Army | Two sides of Alabasta's civil war | 反抗軍 / 王軍 |
+| Bananagator | Giant crocodilian creature in Rain Dinners basement | 香蕉鱷魚 |
+| Unluckies | Baroque Works punishment unit (Mr. 13 & Miss Friday) | 不幸組 |
+| Miss All Sunday | Robin's BW alias; Crocodile's second-in-command | 星期日小姐 |
+| Miss Wednesday | Vivi's BW undercover alias | 星期三小姐 |
+| Chaka | Royal guard dog-zoan warrior | 恰卡 |
+| Pell | Royal guard falcon-zoan warrior | 佩魯 |
+| Cobra (King Nefertari Cobra) | King of Alabasta, Vivi's father | 內費塔利·眼鏡蛇（國王）|
+| Miss Merry Christmas | Mr. 4's partner, mole-zoan | 聖誕小姐 |
+| Mr. 4 | Baroque Works officer agent | 4號先生 |
+| Supersonic Duck Squad | Alabasta's fastest duck unit | 超音速鴨子部隊 |
+| Accelegator | Second fastest animal in Alabasta | 加速鱷魚 |
+| Sandoran catfish | Rare giant catfish in Sandora River | 桑多拉鯰魚 |
+| Lethal Fire Star (Usopp attack) | Usopp's incendiary projectile | 必殺火焰星 |
+| Giant spot-billed duck | Fastest birds in Alabasta | 大斑嘴鴨 |
+| Lassoo | Mr. 4's gun-dog (ate Dog-Dog Fruit: Dachshund) | 犬槍 |
+| Dog-Dog Fruit: Dachshund | Lassoo's devil fruit | 犬犬果實·臘腸犬型態 |
+| Mole-Mole Fruit | Miss Merry Christmas's devil fruit | 鼴鼠果實 |
+| Usopp Pound | Usopp's hammer attack | 騙人布重擊 |
+| Usopp Hammer (Edition S) | Portable papier-mâché hammer | 騙人布鐵鎚 S版 |
+| Lethal Uso-pper Hammer Comet | Usopp & Chopper's combo finishing move | 必殺·騙人布錘星彗星 |
+| Rubber Band (Usopp attack) | Usopp's slingshot technique | 橡皮筋 |
+| Smoke Star (Usopp attack) | Usopp's smoke projectile | 煙霧星 |
+| Horn Point | Chopper's antler transformation | 角強化 |
+| Brain Point | Chopper's analysis transformation | 頭腦強化 |
+| Scope | Chopper's weakness-scanning technique | 探索 |
+| Rumble Ball | Chopper's transformation drug | 藍波球 |
+| Mole Banana | Miss Merry Christmas underground tackle | 鼴鼠香蕉 |
+| Mole Evasion: Molefish | Miss Merry Christmas evasion technique | 鼴鼠遁走：鼴魚 |
+| Molehill Highway | Miss Merry Christmas high-speed drag attack | 鼴鼠塚高速公路 |
+| Mole-Mole Impact | Miss Merry Christmas wall crash attack | 鼴鼠衝擊 |
+| Molehill Junction Four | Miss Merry Christmas + Mr. 4 combo | 鼴鼠塚四號交叉口 |
+| Molehill Zone Four | Mr. 4 & Miss Merry Christmas's territory | 鼴鼠塚四號區 |
+| 400-Hit Punk Knock | Mr. 4 & Lassoo rapid-fire combo | 四百連擊龐克打 |
+| Swan Dash | Mr. 2 Bon Kurei's running attack | 天鵝衝刺 |
+| Okama kenpo | Mr. 2's fighting style | 御宅拳法 |
+| Drunken Swan Soiree | Mr. 2 Bon Kurei attack | 醉天鵝晚宴 |
+| Okama Chop | Mr. 2 Bon Kurei attack | 御宅手刀 |
+| Kick Pointe | Mr. 2 Bon Kurei attack | 踢擊尖端 |
+| Mascara Boomerang | Mr. 2 Bon Kurei attack | 睫毛膏迴力鏢 |
+| Memoirs of a Summer's Day | Mr. 2 Bon Kurei okama kenpo technique | 盛夏之日的回憶 |
+| Memoirs of a Winter's Sky | Mr. 2 Bon Kurei okama kenpo technique | 寒冬之空的回憶 |
+| Bombardier | Mr. 2 Bon Kurei focused kick attack | 轟炸機 |
+| Bombardier Arabesque | Mr. 2 Bon Kurei combo attack | 轟炸機蔓藤花紋 |
+| Swan Arabesque | Mr. 2 Bon Kurei finishing move | 天鵝蔓藤花紋 |
+| Clone-Clone Montage | Mr. 2 Bon Kurei face-mixing technique | 仿仿蒙太奇 |
+| Collier Shoot | Sanji kick (neck) | 頸肉射擊 |
+| Épaule | Sanji kick (shoulder) | 肩肉 |
+| Côtelette | Sanji kick (ribs/back) | 背肉 |
+| Selle | Sanji kick (saddle/lower back) | 鞍下肉 |
+| Poitrine | Sanji kick (chest/breast) | 胸肉 |
+| Gigot | Sanji kick (leg) | 腿肉 |
+| Mouton Shot | Sanji finishing kick | 羊肉射擊 |
+| Joue Shoot | Sanji kick (cheek) | 頰肉射擊 |
+| Basse Côte | Sanji kick (chuck rib) | 上等肋排 |
+| Longe | Sanji kick (loin) | 後腰肉 |
+| Tendron | Sanji kick (tendron/breast) | 胸腹肉 |
+| Flanchet | Sanji kick (flank) | 側腹肉 |
+| Quasi | Sanji kick (rump) | 臀肉 |
+| Cuisseau | Sanji kick (thigh) | 後腿肉 |
+| Jarret | Sanji kick (shank) | 小腿肉 |
+| Queue | Sanji kick (tail) | 尾肉 |
+| Veau Shot | Sanji finishing kick (veal shot) | 小牛肉射擊 |
+| Polka Street | Street in South Block, Alubarna | 波爾卡街 |
+| Tornado Tempo (Nami attack) | 龍捲風節拍 |
+| Rain Tempo (Nami attack) | 下雨節拍 |
+| Sprinkler (Nami Climate Baton) | 灑水器 |
+| Sea Urchin Stinger (Miss Doublefinger attack) | 海膽刺棘 |
+| Spike-Spike Doping (Miss Doublefinger attack) | 荊棘興奮劑 |
+| Stinger Flail (Miss Doublefinger attack) | 刺棘連枷 |
+| Bull Spines (Zoro attack) | 牛針 |
+| Spider (Mr. 1 attack) | 蜘蛛 |
+| Sparkling Daisy (Mr. 1 attack) | 火花雛菊 |
+| Atomic Spar (Mr. 1 attack) | 原子撕裂 |
+| Crab Grab (Zoro attack) | 螃蟹鉗 |
+| Spiral Hollow (Mr. 1 attack) | 螺旋空洞 |
+| Spar Break (Mr. 1 attack) | 撕裂破壞 |
+| One-Sword Style Draw: Lion Song (Zoro) | 一刀流·拔刀·獅子歌歌 |
+| Atomic Spurt (Mr. 1 attack) | 原子噴射 |
+| Tiger Trap (Zoro attack) | 虎狩 |
+| Koushirou (Zoro's teacher) | 老師 |
+| Dog-Dog Fruit: Jackal (Chaka's devil fruit) | 犬犬果實·胡狼形態 |
+| Howling Fangs (Chaka attack) | 嚎牙 |
+| Kicking Claw Force (Alabasta elite guard) | 攻擊爪部隊 |
+| Hero elixir (deadly power potion) | 英雄水 |
+| Gum-Gum Buzzsaw (Luffy attack) | 橡膠圓鋸 |
+| Water Luffy (Luffy form) | 水魯夫 |
+| Water-Water Pistol (Luffy attack) | 水水手槍 |
+| Ground Secco (Crocodile attack) | 地面乾燥 |
+| Ground Death (Crocodile attack) | 侵蝕輪迴 |
+| Shotgun (Crocodile attack) | 散彈槍 |
+| Treinta Fleurs (Robin attack) | 三十輪花 |
+| Strangle (Robin attack) | 絞殺 |
+| Sergeant Major (Marine rank) | 軍曹長 |
+| Red Serpent Star (Usopp attack) | 赤蛇星 |
+| Usopp Noise (Usopp attack) | 騙人布噪音 |
+| Usopp's Rubber Band of Doom (Usopp attack) | 騙人布末日橡皮筋 |
+| Ribbit-Ribbit Gun (Mr. 7 attack) | 呱呱連環槍 |
+| Mr. 7 (Baroque Works Frontier Agent) | 7號先生 |
+| Miss Father's Day (Baroque Works Frontier Agent) | 父親節小姐 |
+| Frontier Agent (Baroque Works rank) | 前線特工 |
+| Mortuary Temple (Royal Mausoleum) | 靈廟（皇家陵寢）|
+| Peacock String Slasher (Vivi attack) | 孔雀串斬擊 |
+| Peacock String Runback (Vivi attack) | 孔雀串迴轉 |
+| Sables Pesado (Crocodile attack) | 沙暴·重壓 |
+| Yellow Gun (Miss Father's Day attack) | 黃金槍 |
+| Happiness Punch (Nami move) | 幸福一拳 |
+
+## Characters (Alabasta Arc - Supporting)
+| English | 繁體中文 |
+|---|---|
+| Hina / "Black Cage" Hina | 希娜 / 「黑檻」希娜 |
+| Terracotta (Igaram's wife) | 泰拉科塔 |
+| Toto (old man from Yuba) | 多多 |
+| Tamarisk (Eastern Port of Alabasta) | 泰瑪利斯克 |
+| Downpour (Baroque Works rainmaking ship) | 暴雨號 |
+| White Hound (Smoker's epithet) | 白獵 |
+| Jango / "Turncoat" Jango | 乂乂哥 / 「變節者」乂乂哥 |
+| Fullbody / "Ironfist" Fullbody | 富爾巴迪 / 「鐵拳」富爾巴迪 |
+| Private Third Class (Marine rank) | 三等兵 |
+| Black Cage Unit (Hina's unit) | 黑檻部隊 |
+| Black spear formation | 黑矛陣形 |
+| Going Merry | 前進梅利號 |
+
+## Characters (Skypiea Arc)
+| English | 繁體中文 |
+|---|---|
+| Gan Fall (Sky Knight) | 乂爾（空騎士）|
+| Pierre (Gan Fall's bird partner) | 乂路 |
+| Inspector Amazon (Heaven's Gate) | 監察官亞瑪遜 |
+| Conis (Angel Beach resident) | 乂妮絲 |
+| Suu (cloud fox) | 小蘇 |
+| Pagaya (Conis's father) | 帕乂亞 |
+| God Enel | 神艾乂爾 |
+| Captain McKinley (White Berets) | 麥金利隊長 |
+| White Berets (Skypiea Police) | 白貝雷帽（Skypiea警察）|
+
+## Characters (Jaya Arc)
+| English | 繁體中文 |
+|---|---|
+| Masira / "Salvage King" Masira | 瑪斯拉 / 「打撈王」瑪斯拉 |
+| Masira Pirates | 瑪斯拉海賊團 |
+| Bellamy "the Hyena" | 「鬣狗」貝拉密 |
+| Bellamy Pirates | 貝拉密海賊團 |
+| "Big Knife" Sarquiss | 「大刀」乂奇士 |
+| Roshio "the Executioner" | 「行刑者」路基歐 |
+| Roshio Pirates | 路基歐海賊團 |
+| Lily (Bellamy crew member) | 莉莉 |
+| Stronger (Doc Q's horse) | 斯特隆格 |
+| Shojo "the Oceanographer" | 「海洋學家」乂祖 |
+| Shojo Pirates | 乂祖海賊團 |
+| Mont Blanc Cricket | 蒙布朗·乂力克特 |
+| Buggy "the Clown" | 「小丑」巴乂 |
+| Mohji (Buggy Pirates) | 摩奇 |
+| Richie (Mohji's lion) | 里奇 |
+| Alvida "Iron Mace" | 「鐵棒」阿爾貝達 |
+| Captain John | 約翰船長 |
+| Shanks / "Red Hair" Shanks | 傑克斯 / 「紅髮」傑克斯 |
+| Red Hair Pirates | 紅髮海賊團 |
+| Rockstar (Red Hair Pirates) | 洛克斯達 |
+| Donquixote Doflamingo | 唐乂柯德·乂佛朗明歌 |
+| Bartholomew Kuma | 乂索隆熊 |
+| Sengoku "the Buddha" | 「佛」戰國 |
+| "Master Tactician" Tsuru | 「智謀」鶴 |
+| Dracule Mihawk / "Hawk Eye" | 「鷹眼」密佛格 |
+| Laffitte (Blackbeard Pirates) | 拉飛特 |
+| Jesus Burgess "Champion" | 「冠軍」吉薩斯·乂乂斯 |
+| Van Augur "Supersonic" | 「音速」乂恩·乂古爾 |
+| Doc Q "the Reaper" | 乂乂乂Q「死神」 |
+| Edward Newgate / Whitebeard | 愛德華·乂乂蓋特 / 白鬍子 |
+| Five Elders (Gorosei) | 五老星 |
+| Blackbeard Pirates | 黑鬍子海賊團 |
+
+## Locations (Jaya Arc)
+| English | 繁體中文 |
+|---|---|
+| Skypiea | Skypiea（空島）|
+| Sky Island | 空島 |
+| Jaya | 加亞 |
+| Mock Town | 嘲笑城鎮 |
+| Tropical Hotel | 熱帶飯店 |
+| Mouth Bay (Jaya) | 海口灣 |
+| Western Jaya | 西加亞 |
+
+## Ships (Jaya Arc)
+| English | 繁體中文 |
+|---|---|
+| Saint Briss | 聖布利斯號 |
+| Kingdom of Briss | 布利斯王國 |
+
+## Attacks (Jaya Arc)
+| English | 繁體中文 |
+|---|---|
+| Monkey Punch (Masira) | 猿猴拳 |
+| Barco Hunter (Masira's device) | 船舶獵人 |
+| Havoc Sonar (Shojo attack) | 浩劫聲納 |
+| Lethal Ketchup Star (Usopp attack) | 必殺番茄醬星 |
+| Guard Point (Chopper) | 防禦強化 |
+| Jumping Point (Chopper) | 跳躍強化 |
+| Spring-Spring Fruit (Bellamy's devil fruit) | 彈簧果實 |
+| Spring Snipe (Bellamy attack) | 彈簧狙擊 |
+| Spring Hopper (Bellamy attack) | 彈簧跳人 |
+| Big Chop (Sarquiss attack) | 大斬擊 |
+
+## Terms (Jaya Arc)
+| English | 繁體中文 |
+|---|---|
+| Salvage | 打撈 |
+| Log Pose | 記錄指針 |
+| Eternal Pose | 永久指針 |
+| Trepanation | 環鋸術 |
+| Cradle (salvage equipment) | 托架 |
+| Knock-Up Stream | 衝天海流 |
+| New era (Bellamy's ideology) | 新時代 |
+| City of Gold | 黃金之都 |
+| Emerald City | 翡翠之都 |
+| Spring island (climate type) | 春天島 |
+| Gold bullion | 黃金鑄塊 |
+| Utan Divers (Shojo's crew) | 猩猩潛水員 |
+| Saruyama Alliance | 猿山聯合軍 |
+| Mont Blanc Noland | 蒙布朗·諾蘭德 |
+| Noland the Liar (story title) | 大話王諾蘭德 |
+| Last Boss (Cricket's title in Saruyama Alliance) | 最終大老 |
+| Villa (cheerful town in Noland's logbook) | 維拉 |
+| Waver (sky island vehicle) | 威霸 |
+| Sky fish | 空島魚 |
+| Divers' disease / Decompression sickness | 潛水夫病 |
+| Pelagic calendar | 遠洋曆 |
+| Noland's logbook | 諾蘭德的航海日誌 |
+| South bird | 指南鳥 |
+| Cumuloimperator clouds | 積帝雲 |
+| Atlas beetle | 阿特拉斯甲蟲 |
+| Hercules beetle | 赫拉克勒斯甲蟲 |
+| Miyama beetle (stag beetle) | 深山鍬形蟲 |
+| Tabasco bomber (Usopp prank) | 辣醬炸彈 |
+| Saury (fish) | 秋刀魚 |
+| Three Great Powers (balance of power) | 三大勢力 |
+| Mary Geoise / Holy Land | 瑪麗喬亞 / 聖地 |
+| Winter Island (climate type) | 冬島 |
+| Roger (Gol D. Roger / Pirate King) | 羅傑 |
+
+## Locations (Skypiea Arc)
+| English | 繁體中文 |
+|---|---|
+| White Sea | 白海 |
+| White-White Sea | 白白海 |
+| Heaven's Gate | 天國之門 |
+| God Land Skypiea | 神之國度Skypiea |
+| Angel Beach | 天使海灘 |
+| Upper Yard | Upper Yard |
+| Cloud quarry | 採雲場 |
+| Milky road | 白路 |
+
+## Terms (Skypiea Arc)
+| English | 繁體中文 |
+|---|---|
+| Blue Sea people | 青海人 |
+| Sky Knight | 空騎士 |
+| Extol (sky currency) | 伊斯多 |
+| Whistle (Gan Fall's service unit) | 哨子 |
+| Express lobster | 快速龍蝦 |
+| Island Clouds (solid/fluffy clouds) | 島雲 |
+| Sea Clouds (ocean-like clouds) | 海雲 |
+| Guerrilla (sky attacker) | 游擊兵 |
+| Horse-Horse Fruit (Uma Uma no Mi) | 馬馬果實 |
+| Pegasus (Pierre's form) | 飛馬 |
+| High West (sky route) | High West |
+| Divine Reckoning | 神的制裁 |
+| God (Skypiea ruler) | 神 |
+| Priests (God's subordinates) | 神官 |
+| Illegal entrant | 非法入境者 |
+| Dial (general) | 貝殼 |
+| Tone Dial | 音貝 |
+| Breath Dial | 風貝 |
+| Lamp Dial | 燈貝 |
+| Flame Dial | 火貝 |
+| Flavor Dial | 味貝 |
+| Vision Dial | 映像貝 |
+| Conash (sky fruit) | 空果 |
+| Cloud fox | 雲狐 |
+| Pyrobroin (corneous particles) | 派羅布洛因（角質粒子）|
+| Seastone | 海樓石 |
+| Sacred ground | 神聖的土地 |
+| Heso (sky greeting) | Heso |
+| Vearth (earth/soil in sky) | 大地 |
+| Sent to the clouds (death penalty) | 送上雲刑 |
+| Dial craft engineer | 貝殼工藝技師 |
+| Water Dial | 水貝 |
+| Lovely Street (Angel Island) | 可愛之街（天使島）|
+| Milky Arrows (White Berets attack) | 乳白之箭 |
+| Formation B (Nami's tactic) | 陣形B |
+| Eleventh-degree crime | 十一級罪行 |
+| Fifth-degree crime | 五級犯罪 |
+| Tenth-degree crime | 十級犯罪 |
+| Second-degree criminal | 二級罪犯 |
+| Cloud End (edge of sky) | 雲之盡頭 |
+| Sacrificial altar | 祭壇 |
+| Cloud canals (milky roads around Upper Yard) | 雲之水道 |
+| Ordeal (Divine Reckoning punishment) | 試煉 |
+| Little Crow (Conis's boat) | 小烏鴉號 |
+| Citizen duty (lead criminals to reckoning) | 公民義務 |
+| Blasphemy (against God Enel) | 褻瀆 |
+
+## Attacks (Skypiea Arc)
+| English | 繁體中文 |
+|---|---|
+| Ojos Fleurs (Robin) | 眼花朵朵開 |
+| Veinte Fleurs (Robin) | 二十輪花 |
+| Impact (Satori's dial attack) | 衝擊 |
+| Cinco Fleurs (Robin) | 五輪花 |
+| Reject (Wyper's dial attack) | 排擊 |
+| Axe Dial (warrior monk weapon) | 斧貝 |
+| Seis Fleurs (Robin) | 六輪花 |
+| Thirty-Six-Pound Phoenix (Zoro) | 三十六煩惱鳳 |
+| Tiger Trap (Zoro attack, Skypiea) | 虎狩 |
+| Milky Dial (Braham's weapon) | 白路貝 |
+| Flash guns (Braham's weapons) | 閃光槍 |
+| Burn Bazooka (Wyper's weapon) | 火焰炮 |
+| Gum-Gum Spear (Luffy attack) | 橡膠長矛 |
+
+## Characters (Skypiea Arc - Priests & Enemies)
+| English | 繁體中文 |
+|---|---|
+| Satori (Skypiea Priest, "of the Forest") | 沙多利（森之沙多利）|
+| Ohm (Skypiea Priest, "of the Iron") | 奧姆（鐵之奧姆）|
+| Shura (Skypiea Priest, "of the String") | 修羅（繩之修羅）|
+| Gedatsu (Skypiea Priest, "of the Swamp") | 乂達茲（沼之乂達茲）|
+| Yama (Skypiean Abbot) | 亞瑪（Skypiea神兵長）|
+| Enel (God of Skypiea) | 艾尼路（Skypiea之神）|
+| Wyper (Shandian warrior) | 乂柏（香迪亞戰士）|
+| Kamakiri (Shandian warrior) | 卡瑪奇利（香迪亞戰士）|
+| Raki (Shandian woman) | 拉琪（香迪亞人）|
+| Aisa (Shandian child) | 艾莎（香迪亞兒童）|
+
+## Terms (Skypiea Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Shandians (sky people tribe) | 香迪亞人 |
+| God's Shrine | 神之社 |
+| Maxim (Enel's ark) | 瑪克西姆 |
+| Cloud wolves | 雲狼 |
+| Surprise clouds | 驚奇雲 |
+| Lost Woods (Satori's forest) | 迷途之森 |
+| Ordeal of Balls | 玉之試煉 |
+| Ordeal of Swamp | 沼之試煉 |
+| Ordeal of Iron | 鐵之試煉 |
+| Ordeal of String | 繩之試煉 |
+| Mantra (observation ability) | 心綱 |
+| Sky shark | 空鯊 |
+| Sky lamprey | 空島八目鰻 |
+| Survival rate (10 percent) | 存活率（百分之十）|
+| Dial boat | 貝殼船 |
+| Impact Dial | 衝擊貝 |
+| Reject Dial | 排擊貝 |
+| Axe Dial | 斧貝 |
+| Heat javelin (dial weapon) | 火焰標槍 |
+| String clouds (Shura's trap) | 繩雲 |
+| Fuza (Shura's bird) | 芙扎 |
+| Braham (Shandian warrior) | 布拉漢姆（香迪亞戰士）|
+| Warrior monks (Enel's soldiers) | 武僧 |
+| Holy Host (former God's army) | 神兵隊 |
+| Survival game (Upper Yard) | 生存遊戲 |
+| Pumpkin juice (Wyper's favorite) | 南瓜汁 |
+| Hotori (Satori's brother, prior) | 霍多利（副神官）|
+| Kotori (Satori's brother, prior) | 科多利（副神官）|
+| Priors (Satori's brothers) | 副神官 |
+| Genbo (Shandian front-line attacker) | 乂恩博（香迪亞前鋒）|
+| Giant Jack (great beanstalk) | 巨大豆蔓 |
+| Shandora (ancient city of gold) | 香朵拉 |
+| Swamp Cloud Burger (Gedatsu attack) | 沼雲漢堡 |
+| Jet Punch (Gedatsu attack) | 噴射拳 |
+| Jet Dial | 噴射貝 |
+| Tenfold Axe (Yama attack) | 十倍斧 |
+| Axe Mountain (Yama attack) | 斧山 |
+| Cloven Cross (Chopper Arm Point attack) | 刻蹄十字架 |
+| Arm Point (Chopper) | 臂力強化 |
+| Walk Point (Chopper) | 行走強化 |
+| Heavy Point (Chopper) | 重量強化 |
+| Fog Tempo (Nami attack) | 霧之節拍 |
+| Surprise Dial Illusion (Hotori/Kotori) | 驚奇貝殼幻術 |
+| Gauntlet (Gan Fall's iron impact weapon) | 臂甲 |
+| Swamp clouds (Gedatsu's trap) | 沼雲 |
+| Sky Punk Gedatsu (Gedatsu's title) | 空之暴徒乂達茲 |
+| Burn Blade (Kamakiri attack) | 燃燒之刃 |
+| One Million Volts: Vari (Enel attack) | 一百萬伏特·雷電 |
+| Stomach Mountain (Yama attack) | 腹山 |
+| Punch Mountain (Yama attack) | 拳山 |
+| Drop Mountain (Yama attack) | 落山 |
+| Calendula (Robin attack) | 金盞花 |
+| Cien Fleurs (Robin attack) | 百輪花 |
+| Delphinium (Robin attack) | 飛燕草 |
+| Clutch (Robin attack) | 鎖技 |
+| Hang (Robin attack) | 絞殺 |
+| Rio Poneglyph | 真正的歷史本文 |
+| Grand belfry (Shandora) | 大鐘樓 |
+| Holy (Ohm's dog) | 乂力 |
+| Iron cloud (material) | 鐵雲 |
+| Upper Ruins (Upper Yard area) | 上層遺跡 |
+| Master of the Sky (giant snake) | 天空的主人 |
+| Thunder-Thunder Fruit (Goro Goro no Mi) | 雷電果實 |
+| Sky breeder (Ohm's role) | 空島飼育師 |
+| Eisen Whip (Ohm attack) | 鐵雲鞭 |
+| Eisen Back (Ohm defense) | 鐵雲壁 |
+| Eisen Fan (Ohm attack) | 鐵雲扇 |
+| Eisen Fork (Ohm attack) | 鐵雲叉 |
+| Eisen Fleuret (Ohm attack) | 鐵雲劍 |
+| One-Hundred-Eight-Pound Phoenix (Zoro) | 一百零八煩惱鳳 |
+| Two-Sword Style: Hawk Surge (Zoro) | 二刀流·鷹波 |
+| Shango (Enel attack) | 萬雷 |
+| Ark Maxim (Enel's flying ship) | 方舟瑪克西姆 |
+| Song of the island (golden bell legend) | 島的歌聲 |
+| White-barbed death match (Ohm's arena) | 白刺死亡鬥技場 |
+| 20 Million Volts: Vari (Enel attack) | 兩千萬伏特·雷電 |
+| 30 Million Volts: Hino (Enel attack) | 三千萬伏特·雷鳥 |
+| 5 Million Volts (Enel attack) | 五百萬伏特 |
+| 10 Million Volts (Enel attack) | 一千萬伏特 |
+| Kiten (Enel attack) | 雷獸 |
+| Kari (Enel attack) | 雷獸 |
+| El Thor (Enel attack) | 雷神萬雷 |
+| Endless Vearth (Enel's goal) | 無限大地 |
+| Golden bell (Shandora) | 黃金鐘 |
+| Kalgara (great Shandian warrior) | 卡爾加拉 |
+| Light of Shandora (Shandian oath) | 香朵拉之光 |
+| Return of the divine (Enel's philosophy) | 聖者歸來 |
+| Ball Cloud (cloud type) | 球雲 |
+| Quintet (episode title) | 五重奏 |
+| 60 Million Volts: Thunder Serpent (Enel attack) | 六千萬伏特·雷蛇 |
+| 100 Million Volts: Vari (Enel attack) | 一億伏特·雷電 |
+| Birka (Enel's homeland, destroyed sky island) | 比爾卡 |
+| Angel Island (Skypiea residential area) | 天使島 |
+| Max 200 Million Volts: Vari (Enel attack) | 最大兩億伏特·雷電 |
+| Lightning Forge (Enel technique) | 雷電冶煉 |
+| Deathpiea (Enel's cloud weapon system) | Deathpiea |
+| God's Reckoning: El Thor (Enel attack) | 神的制裁：雷神萬雷 |
+| Gum-Gum Daze (Luffy technique) | 橡膠放空 |
+| Gum-Gum Octopus (Luffy technique) | 橡膠章魚 |
+| Gum-Gum Octopus Fireworks (Luffy technique) | 橡膠章魚花火 |
+| Gum-Gum Rifle (Luffy attack) | 橡膠來福槍 |
+| Usopp Aah-eeh-ah (Usopp's belt gadget) | 騙人布啊咿啊 |
+| Gum-Gum Hook (Luffy attack) | 橡膠鉤拳 |
+| Lethal Exploding Star (Usopp attack) | 必殺火藥星 |
+| Usopp Spell (Usopp technique) | 騙人布咒語 |
+| Usopp Hopping (Usopp technique) | 騙人布跳躍 |
+| Mamaragan (Enel attack) | 萬雷 |
+| Raigo (Enel attack) | 雷迎 |
+| Gum-Gum Yo-Yo (Luffy technique) | 橡膠溜溜球 |
+| Gum-Gum Fireworks (Luffy attack) | 橡膠花火 |
+| Gum-Gum Fireworks: Golden Peony (Luffy attack) | 橡膠花火·黃金牡丹 |
+| Gum-Gum Golden Rifle (Luffy attack) | 橡膠黃金來福槍 |
+| 200 Million Volts: Amaru (Enel final attack) | 兩億伏特·雷神 |
+| Rolling Exploding Star (Usopp attack) | 滾動火藥星 |
+| Exploding Star Star (Usopp attack) | 火藥連星 |
+| Nola (giant snake, Master of the Sky) | 諾拉（巨蛇，天空的主人）|
+
+## Characters (Noland/Kalgara Flashback)
+| English | 繁體中文 |
+|---|---|
+| Mont Blanc Noland (Commodore) | 蒙布朗·諾蘭德（准將）|
+| Kalgara (Great Warrior of Shandora) | 卡爾加拉（香朵拉偉大戰士）|
+| Mousse (Shandian woman, Kalgara's daughter) | 慕絲（香迪亞人，卡爾加拉的女兒）|
+| Seto (Shandian boy) | 瀨戶（香迪亞少年）|
+| God Kashi (giant snake worshipped as god) | 卡西大神（被當作神崇拜的巨蛇）|
+
+## Terms (Noland/Kalgara Flashback)
+| English | 繁體中文 |
+|---|---|
+| Kingdom of Lvneel (North Blue) | 利比尼魯王國（北海）|
+| Tree fever (deadly disease) | 樹熱病 |
+| Cona tree (source of cure) | 柯尼樹 |
+| Conine (cure extracted from cona tree bark) | 柯尼涅 |
+| Commodore (Noland's rank) | 准將 |
+| Demon of Shandora (Kalgara's epithet) | 香朵拉之鬼 |
+| Godkiller (Noland's epithet on Jaya) | 殺神者 |
+| Sun God (Shandian deity) | 太陽神 |
+| Sacrificial altar (Shandian ceremony) | 祭壇 |
+
+## Characters (Long Ring Long Land Arc)
+| English | 繁體中文 |
+|---|---|
+| Tonjit (nomad of Long Ring Long Land) | 東吉特 |
+| Shelly (Tonjit's horse) | 雪莉 |
+| Foxy "the Silver Fox" | 「銀狐」弗乂西 |
+| Foxy Pirates | 狐狸海賊團 |
+| Porche (Foxy Pirate fighter) | 波琪 |
+| Hamburg (Foxy Pirate fighter) | 漢堡 |
+| Itomimizu (Foxy Pirates commentator) | 糸蜷 |
+| Capote (swordfish fishman, Foxy Pirates) | 卡波提 |
+| Monda (star shark, Foxy Pirates) | 蒙達 |
+| Fang-Frog Pirates | 牙蛙海賊團 |
+| Pickles "Tackle Machine" (Foxy Pirates) | 「擒抱機器」皮乂斯 |
+| Big Pan (wotan, half-fishman half-giant) | 大潘（沃坦，半魚人半巨人）|
+
+## Locations (Long Ring Long Land Arc)
+| English | 繁體中文 |
+|---|---|
+| Long Ring Long Land | 長環長島 |
+
+## Terms (Long Ring Long Land Arc)
+| English | 繁體中文 |
+|---|---|
+| Davy Back Fight | Davy Back Fight |
+| Davy Jones | Davy Jones |
+| Davy Jones' Locker | Davy Jones的箱子 |
+| Davy Back (stealing from enemy) | Davy Back |
+| Three-coin game (orthodox rules) | 三枚幣比賽（正統規則）|
+| Donut Race (Round 1) | 甜甜圈競速 |
+| Groggy Ring (Round 2) | 酒醉格鬥環 |
+| Combat (Round 3) | 格鬥 |
+| Barrel Tiger (Straw Hat boat) | 木桶之虎 |
+| Cutie Wagon (Foxy team boat) | 可愛馬車 |
+| Chirp-Chirp (Super Sparrow) | 嘰嘰（超級麻雀）|
+| Sea Monkeys | 海猴子 |
+| Pirate Island | 海賊島 |
+| Split-Head (Luffy's nickname for Foxy) | 劈頭 |
+| Slow Slow Fruit (Noro Noro no Mi) | 遲緩果實 |
+| Slow Beam (Foxy attack) | 遲緩光線 |
+| Slowmo Photons (Noro Noro Beam particles) | 遲緩光子 |
+| Groggy Monsters (Foxy Pirates team) | 酒醉怪獸 |
+| Barrel Mines (Cutie Wagon trap) | 桶裝地雷 |
+| Mothership Coaster (Cutie Wagon alternate name) | 母艦過山車 |
+| Sea Surface Splitter (Capote attack) | 海面劈裂 |
+| Ocho Fleurs (Robin attack, 8 flowers) | 八輪花 |
+| Cutie Baton (Porche weapon) | 可愛接力棒 |
+| Flower Shurikens (Porche attack) | 花手裏劍 |
+| Two Fish Engine (Capote+Monda combo) | 雙魚引擎 |
+| Long Coral Reef (LRLL course obstacle) | 長珊瑚礁 |
+| Long Ring Whirlpool (LRLL course obstacle) | 長環漩渦 |
+| Long Cape / Long Bamboo Cape | 長海岬 / 長竹海岬 |
+| Operation White Out (Foxy ploy) | 白幕行動 |
+| Operation Lie to Them (Foxy ploy #18) | 對他們說謊行動 |
+| Operation Fake Goal (Foxy ploy) | 假終點行動 |
+| Wotan (half-fishman half-giant race) | 沃坦 |
+| Fishman Karate | 魚人空手道 |
+| Sling Tackle (Pickles attack) | 彈弓擒抱 |
+| Spinning Tackle (Pickles attack) | 旋轉擒抱 |
+| Sweeping Tackle (Pickles attack) | 掃蕩擒抱 |
+| Punk Pass (Big Pan attack) | 龐克傳球 |
+| Punk Receive (Big Pan maneuver) | 龐克接球 |
+| Punk Attack (Big Pan+Hamburg combo) | 龐克突擊 |
+| Gorilla Throw (Hamburg attack) | 猩猩投擲 |
+| Hamburger Dunk (Hamburg finishing move) | 漢堡灌籃 |
+| Hamburger Hammer (Hamburg iron knuckle attack) | 漢堡鐵錘 |
+| Too Bad Dance (Big Pan blade dance) | 殘念之舞 |
+| Loach Scooping Slide (Big Pan move) | 泥鰍撈滑 |
+| Loach Racing Circus (Big Pan acrobatics) | 泥鰍競速馬戲團 |
+| Loach Coaster (Big Pan spin move) | 泥鰍過山車 |
+| Size Attack S/M/L (Groggy Monsters combo) | 尺寸攻擊 S/M/L |
+| Human Cannon (Groggy Monsters combo) | 人體大砲 |
+| Monster Burger (Groggy Monsters triple weapon attack) | 怪獸漢堡 |
+| Troisième Haché (Sanji attack - third-rate mincemeat) | 三等肉末 |
+| Bouquetiere Shot (Sanji attack - mixed vegetables) | 雜錦蔬菜射擊 |
+| No-Sword Style: Dragon Twister (Zoro) | 無刀流·龍捲風 |
+| Bad Manner Kick Course (Sanji attack) | 反禮儀踢擊路線 |
+| Armée de l'Air Power Shoot (Zoro+Sanji combo) | 空軍力量射擊 |
+| Ball man (Groggy Ring position) | 球員 |
+| Nine-Tails Rush (Foxy attack) | 九尾連環拳 |
+| Megaton Nine-Tails Rush (Foxy attack) | 百萬噸九尾連環拳 |
+| Slow-Slow Beam Sword (Foxy technique) | 遲緩光線劍 |
+| Foxy Face Bombs (Foxy weapon) | 狐狸臉炸彈 |
+| Counter Fox Blow (Foxy attack) | 反擊狐狸重拳 |
+| Foxy Face Transformation (Foxy disguise) | Foxy臉變身 |
+| Mirror Racket (Foxy technique) | 鏡面球拍 |
+| Gorilla Puncher 13 (Foxy machine) | 猩猩衝拳13號 |
+| Gorilla Punch Golden Hits (Foxy attack) | 猩猩衝拳黃金連擊 |
+| Slowpoke Ball Demon Coach (Foxy combo technique) | 慢球魔鬼教練 |
+| Pilot Foxy (Foxy persona) | 飛行員Foxy |
+| Sexy Foxy (Foxy Pirates ship) | 性感狐狸號 |
+| Flower Cheerleaders (Foxy Pirates squad) | 花朵啦啦隊 |
+| Peanut Strategy (DBF tactic) | 落花生戰術 |
+
+## Characters (Long Ring Long Land Arc - Aokiji Introduction)
+| English | 繁體中文 |
+|---|---|
+| Aokiji (Navy HQ Admiral) | 青雉（海軍本部大將）|
+| Akainu (Navy HQ Admiral) | 赤犬（海軍本部大將）|
+| Kizaru (Navy HQ Admiral) | 黃猿（海軍本部大將）|
+
+## Attacks (Long Ring Long Land Arc - Aokiji)
+| English | 繁體中文 |
+|---|---|
+| Ice Age (Aokiji attack) | 冰河時期 |
+| Ice Saber (Aokiji attack) | 冰刀 |
+| Ice Time (Aokiji attack) | 冰之時間 |
+| Gum-Gum Storm (Luffy attack) | 橡膠暴風雨 |
+
+## Terms (Long Ring Long Land Arc - Aokiji)
+| English | 繁體中文 |
+|---|---|
+| Lazy Justice (Aokiji's motto) | 怠惰的正義 |
+| Suspended animation | 假死狀態 |
+| Frostbite / gangrene | 凍傷 / 壞疽 |
+| Water Seven (City of Water) | 水之七島（水之都）|
+| Duel (one-on-one fight) | 單挑 |
+
+## Characters (Water Seven Arc)
+| English | 繁體中文 |
+|---|---|
+| Kokoro (Stationmaster) | 可可羅（站長）|
+| Chimney (Kokoro's grandchild) | 乂米妮（可可羅的孫女）|
+| Gonbe (cat, actually a rabbit) | 乂貝（貓，實際上是兔子）|
+| Iceburg | 冰山 |
+| Kalifa | 卡莉法 |
+| Yokozuna (front-crawl frog) | 橫綱（自由式青蛙）|
+| Captain Mikazuki (Big Helmet Pirates) | 三日月船長（大頭盔海賊團）|
+
+## Locations (Water Seven Arc)
+| English | 繁體中文 |
+|---|---|
+| Water Seven / City of Water | 水之七島 / 水之都 |
+| Blue Station | 藍色車站 |
+| Shift Station | 中繼車站 |
+| Dock One | 一號船塢 |
+| Shipyard Island | 造船島 |
+| Backstreets (pirate docking area) | 後街 |
+| St. Poplar (Town of the Spring Queen) | 聖波普拉（春之女王之城）|
+| Pucci (Gourmet Town) | 普奇（美食之城）|
+| San Faldo (Carnival Town) | 聖法爾多（嘉年華之城）|
+
+## Terms (Water Seven Arc)
+| English | 繁體中文 |
+|---|---|
+| Puffing Tom (sea train) | 冒煙湯姆（海上列車）|
+| Sea train | 海上列車 |
+| Sea railway | 海上鐵路 |
+| Yagara bull | 亞卡拉牛 |
+| Rabuka (bull class) | 拉布卡 |
+| King (bull class) | 特級 |
+| Rental bull shop | 牛的租借店 |
+| Galley-La Company | 卡雷拉公司 |
+| Pomme paille (potato dish) | 炸薯絲 |
+| Water gate elevator | 水閘升降梯 |
+| Hydro (water-infused food prefix) | 水 |
+| Hydro takoyaki | 水章魚燒 |
+| Hydro croquettes | 水可樂餅 |
+| Hydro meat | 水肉 |
+| Hydro buns | 水包子 |
+| Hydro cabbage | 水高麗菜 |
+| Costume festival (San Faldo) | 化裝節 |
+| Mountain Wind (Kaku's epithet) | 山風 |
+| Foreman (Galley-La rank) | 工頭 |
+| Franky Family | 佛朗基家族 |
+| Rocky Cape | 岩岬 |
+| Chiza (hotel location) | 奇扎 |
+| Liguria Plaza | 利古利亞廣場 |
+| Bimine (Mayor of Pucci) | 比米內（普奇市長）|
+| CP9 | CP9 |
+
+## Characters (Water Seven Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Kaku (Galley-La foreman, Dock One) | 卡乂（卡雷拉公司一號船塢工頭）|
+| Lucci (Galley-La shipwright) | 路奇（卡雷拉公司船匠）|
+| Paulie (Galley-La shipwright) | 乂利（卡雷拉公司船匠）|
+| Lulu (Galley-La shipwright) | 路路（卡雷拉公司船匠）|
+| Tilestone (Galley-La shipwright) | 泰斯通（卡雷拉公司船匠）|
+| Tyrannosaurus (Iceburg's mouse) | 暴龍（冰山的老鼠）|
+| Rob Lucci (full name) | 路布·路奇 |
+| Hattori (Lucci's pigeon) | 哈乂利（路奇的鴿子）|
+| Peepley Lulu (Galley-La foreman) | 乂普利·路路（卡雷拉公司工頭）|
+| Corgi (World Government official) | 乂基（世界政府官員）|
+| Franky (Franky Family boss) | 佛朗基（佛朗基家族老大）|
+| Franky House | 佛朗基之家 |
+| Zambai (Franky Family member) | 乂白（佛朗基家族成員）|
+
+## Attacks (Water Seven Arc)
+| English | 繁體中文 |
+|---|---|
+| Two-Sword Style: Rhino Cycle (Zoro) | 二刀流：犀牛旋風 |
+| Rope Action (Paulie) | 繩索技 |
+| Round Turn (Paulie) | 雙套結 |
+| Bowline Knot (Paulie) | 稱人結 |
+| Fly Fishing (Paulie/Lucci discipline) | 飛蠅釣 |
+| Three-Sword Style: Dire Raven Hunt (Zoro) | 三刀流：鴉魔狩獵 |
+| Party Table Kick Course (Sanji) | 派對餐桌踢擊路線 |
+| Roseo Colonnade (Chopper, Horn Point) | 薔薇柱列 |
+| Anything Goes Cannon (Franky Family) | 隨機發射炮 |
+
+## Terms (Water Seven Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Keel | 龍骨 |
+| Stem (ship part) | 船首材 |
+| Stern (ship part) | 船尾材 |
+| Frame structure | 肋骨結構 |
+| Floors (ship frame) | 底板 |
+| Futtocks (ship frame) | 肋材 |
+| Deck beams | 甲板橫樑 |
+| Caravel | 卡拉維爾帆船 |
+| Demi-culverin (cannon type) | 半加農砲 |
+| Ventriloquism | 腹語術 |
+| Dismantlers | 拆船工人 |
+| Elbaf (village of warriors) | 艾爾巴夫（戰士之村）|
+
+## Attacks (Water Seven Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Lethal Egg Star (Usopp attack) | 必殺臭蛋星 |
+| Lethal Tabasco Star (Usopp attack) | 必殺辣醬星 |
+| Lethal Pepper Star (Usopp attack) | 必殺胡椒星 |
+| Lethal Shuriken Meteor Shower (Usopp attack) | 必殺手裏劍流星雨 |
+| Lethal Bursting Cactus Star (Usopp attack) | 必殺爆裂仙人掌星 |
+| Triple Exploding Stars (Usopp attack) | 三連火藥星 |
+| Caltrop Hell (Usopp trap) | 蒺藜地獄 |
+| Gum-Gum Bullet (Luffy attack) | 橡膠子彈 |
+| Flash Dial (battle item) | 閃光貝 |
+| Strong Right (Franky attack) | 強力右拳 |
+| Weapons Left (Franky attack) | 武器左手 |
+| Air Drive (Franky attack) | 空氣驅動 |
+| Rope Action Half-Knot (Paulie attack) | 繩索技·半結 |
+| Connector Set (Franky setup) | 連接器設置 |
+| Coup de Vent (Franky attack) | 風來噴射 |
+
+## Characters (Water Seven Arc - continued 2)
+| English | 繁體中文 |
+|---|---|
+| Kiwi (Franky Family, Square Sister) | 奇薇（佛朗基家族，方塊姊妹）|
+| Mozu (Franky Family, Square Sister) | 摩茲（佛朗基家族，方塊姊妹）|
+| Blueno (bar owner, Water Seven) | 布魯諾（酒吧老闆，水之七島）|
+| Tom (legendary shipwright) | 湯姆（傳奇船匠）|
+
+## Terms (Water Seven Arc - continued 2)
+| English | 繁體中文 |
+|---|---|
+| Aqua Laguna (annual storm surge) | Aqua Laguna（年度風暴潮）|
+| Caloque (southern wind) | 卡洛克風（南風）|
+| Hydro City Sentinel (newspaper) | 水之都哨兵報 |
+| Cyborg (modified human) | 半機械人（改造人）|
+| Enies Lobby (Judicial Island) | 司法之島 |
+| Main office (Galley-La headquarters) | 總部 |
+| Door-Door Fruit (Doa Doa no Mi) | 門門果實 |
+| Moon Walk (CP9 technique, Geppo) | 月步 |
+| Tempest Kick (CP9 technique, Rankyaku) | 嵐腳 |
+| Iron Body (CP9 technique, Tekkai) | 鐵塊 |
+| Shave (CP9 technique, Soru) | 剃 |
+| Briar Road (CP9 technique, Kalifa) | 棘之路 |
+| Cipher Pol No. 9 (CP9 full title) | Cipher Pol No. 9 |
+| Covert Intelligence Service (CP org type) | 秘密情報機關 |
+| Ohara (island of scholars, destroyed) | 歐哈拉 |
+| Ohara incident | 歐哈拉事件 |
+| Blueprints (of Pluton) | 設計圖（冥王的）|
+| Six Powers (Rokushiki, CP9 martial arts) | 六式 |
+| Paper Art (CP9 technique, Kami-e) | 紙繪 |
+| Finger Pistol (CP9 technique, Shigan) | 指槍 |
+| Cutty Flam (Franky's birth name) | 卡迪·佛朗姆 |
+| Tom's Workers (Tom's shipbuilding company) | 湯姆的工人 |
+| Pipe Hitch Knives (Paulie attack) | 管索結刀 |
+| Cat-Cat Fruit: Leopard (Lucci's devil fruit) | 貓貓果實：豹型態 |
+| Iceboss (Paulie's nickname for Iceburg) | 冰老大 |
+
+## Terms (Water Seven Arc - continued 3)
+| English | 繁體中文 |
+|---|---|
+| Klabautermann (ship spirit legend) | 船靈 |
+| Keel (broken = ship condemned) | 龍骨 |
+| Outer panels (ship hull) | 外板 |
+| Dismantler (ship scrap profession) | 拆船工人 |
+| Drafting room | 設計室 |
+| Nameplates (Tom's Workers) | 名牌 |
+| Battle Franky (Franky's battleship series) | 戰鬥佛朗基 |
+| Scrap Island (Tom's Workers dockyard) | 廢料島 |
+| Oro Jackson (Roger's ship) | 奧洛·傑克森號 |
+| Judicial ship (mobile courthouse) | 司法船 |
+| Dumburg (Franky's insult for Iceburg) | 蠢山 |
+| Flunky (Iceburg's insult for Franky) | 廢朗基 |
+| Jerkburg (Franky's insult for Iceburg, adult) | 蠢山 |
+| Spandam (CP5 Director-General) | 斯帕乂姆 |
+| Director-General (CP rank) | 局長 |
+| Cipher Pol No. 5 (CP5) | Cipher Pol No.5 |
+| Great Pirate Era | 大海賊時代 |
+| Paddle steamer / Sea train | 海上列車 |
+| Ten-year reprieve (Tom's sentence deferral) | 十年緩刑 |
+| Buster call | 非常召集 |
+| Bingo (episode title, Water Seven 14) | 正中下懷 |
+| Chief (CP9 rank, Spandam) | 局長 |
+| Jerry (CP6 intelligence agent) | 傑利（CP6情報特務）|
+| Aurora Flicker Jab (Jerry attack) | 極光閃爍連擊 |
+| Karate Island (Jerry's homeland, South Blue) | 空手道島（南海）|
+| T-Bone (Marine HQ Captain) | T-Bone（海軍本部上尉）|
+| Wanze (CP7 martial artist / head steward) | 旺澤（Cipher Pol No.7武術家／伙食長）|
+| Nero (CP9 newest member) | 乂洛（CP9最新成員）|
+| Cipher Pol No. 7 (CP7) | Cipher Pol No.7 |
+| Cipher Pol No. 6 (CP6) | Cipher Pol No.6 |
+| Departing Shortly (episode title, Water Seven 15) | 即將出發 |
+| Baby transponder snail | 幼年電話蟲 |
+| Transponder snail | 電話蟲 |
+| Brochette (Sanji attack) | 肉串 |
+| Screw Drop Kick (Jerry attack) | 旋轉下墜踢 |
+| Rocketman (prototype sea train) | 火箭人 |
+| Funkfreed (Spandam's elephant sword) | 方克乂利德 |
+| Gates of Justice (Enies Lobby) | 正義之門 |
+| Impel Down (undersea prison) | 推進城 |
+| Marine Headquarters | 海軍本部 |
+| Collier Frite (Sanji attack) | 頸肉油炸 |
+| Operation Play Innocent (Sanji's plan) | 裝無辜行動 |
+| Aqua Laguna (episode title, Water Seven 16) | Aqua Laguna |
+| Red Brick Warehouse (Rocketman location) | 紅磚倉庫 |
+| King bull (yagara bull class) | 特級牛 |
+| Sodom and Gomorrah (Franky Family king bulls) | 索多姆和歌摩拉 |
+| Sogeking (Usopp alias) | 狙擊王 |
+| Metallic Star (Sogeking/Usopp attack) | 鐵星 |
+| Super Scrap Cannon (Franky Family cannon) | 超級廢料大砲 |
+| Three-Hundred-Pound Cannon (Luffy+Zoro combo) | 三百煩惱大砲 |
+| Demi-Cannon (Galley-La cannon type) | 半加農砲 |
+| Connection cannon (Franky Family device) | 連接大砲 |
+| Moss Head (Sanji's nickname for Zoro) | 綠藻頭 |
+| Long Nose (Sanji's nickname for Usopp) | 長鼻子 |
+| Eyebrow bro (Franky's nickname for Sanji) | 捲眉毛兄弟 |
+| Right-Angle Flash: Bone Soir (T-Bone attack) | 直角閃光·骨晚安 |
+| Frites Assorties (Sanji attack) | 油炸什錦 |
+| Flanchet Shoot (Sanji attack) | 側腹肉射擊 |
+| Ramen Kenpo (Wanze fighting style) | 拉麵拳法 |
+| Ramen Beam (Wanze attack) | 拉麵光束 |
+| Ramen Kenpo: Noodle Slicer (Wanze attack) | 拉麵拳法：麵條切割 |
+| Ra-Men's Formal Suit (Wanze technique) | 拉麵正裝 |
+| Fire Skate (Sanji attack) | 火焰溜冰 |
+| Four Powers (Nero's CP9 mastery level) | 四式 |
+| Nero "the Sea Weasel" (epithet) | 「海鼬」乂洛 |
+| Perfect Climate Baton (Nami's upgraded weapon) | 完美天候棒 |
+| Ramen Kenpo (episode title, Water Seven 18) | 拉麵拳法 |
+| Operation Rescue Robin | 拯救羅賓行動 |
+| Octoshoes (Nero's footwear weapon) | 八爪鞋 |
+| Gunpowder Star (Sogeking attack) | 火藥星 |
+| Pork Bone Spank (Wanze attack) | 豚骨鞭笞 |
+| Noodle Soul Press (Wanze attack) | 麵魂壓制 |
+| Ramen-Gyoza Combo: Clapping (Wanze attack) | 拉麵煎餃組合：拍擊 |
+| Éscalope (Sanji attack) | 炸豬排 |
+| Thousand-Noodle Whip (Wanze attack) | 千條麵鞭 |
+| Multi-Noodle Spank (Wanze attack) | 多重麵條鞭笞 |
+| Fedelini (thin pasta, 1.4mm) | 天使細麵 |
+| Fresh Fire (Nero attack) | 鮮火 |
+| Strong Hammer (Nero attack) | 強力鐵鎚 |
+| Rashomon (Zoro two-sword draw) | 羅生門 |
+| Two-Sword Style Draw: Rashomon (Zoro) | 二刀流·拔刀：羅生門 |
+| Right-Angle Flying Bird: Bone Soir (T-Bone attack) | 直角飛鳥：骨晚安 |
+| Bull Demon Courageous Talons (Zoro) | 牛鬼勇敢爪 |
+| Three-Sword Style: Bull Demon Phoenix (Zoro) | 三刀流：牛鬼勇敢鳥 |
+| Ship Slasher (T-Bone epithet) | 斬船者 |
+| The Honorable Captain T-Bone (episode title, Water Seven 19) | 正直的T-Bone上尉 |
+| Star Shield (Franky defense) | 星盾牌 |
+| Beans Left (Franky attack) | 豆子左手 |
+| Ouchie Finger (Franky attack) | 唉唷手指 |
+| Franky Invincible (Franky pose) | 佛朗基無敵 |
+| Franky Centaur (Franky transformation) | 佛朗基人馬 |
+| Convert (Franky transformation call) | 變形 |
+| Ramen Kenpo: Noodle Nail Knocker (Wanze attack) | 拉麵拳法：麵釘敲打 |
+| Épluchage (Sanji knife technique) | 削皮 |
+| Kitchen Knife Throw (Sanji attack) | 飛刀 |
+| Œil (Sanji Parage attack - eye) | 眼 |
+| Nez (Sanji Parage attack - nose) | 鼻 |
+| Joue (Sanji Parage attack - cheek) | 頰 |
+| Bouche (Sanji Parage attack - mouth) | 嘴 |
+| Dents (Sanji Parage attack - teeth) | 齒 |
+| Menton (Sanji Parage attack - chin) | 顎 |
+| Parage Shot (Sanji finishing technique) | 整形射擊 |
+| Backstreet Ramen Kenpo: Poison Noodle Cleaver (Wanze) | 後街拉麵拳法：毒麵條斬刀 |
+| Three-Point Découpage (Sanji attack) | 三點分切 |
+| Ultimate Hammer (Franky attack) | 終極鐵鎚 |
+| Concassé (Sanji attack) | 碎擊 |
+| Air Door (Blueno ability) | 空氣之門 |
+| Necessary Evil (episode title, Water Seven 20) | 必要之惡 |
+| Nightless island (Enies Lobby epithet) | 不夜島 |

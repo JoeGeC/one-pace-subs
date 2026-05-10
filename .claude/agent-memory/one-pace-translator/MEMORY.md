@@ -1,0 +1,1 @@
+- [Translation Glossary](glossary.md) — Complete EN→zh-TW glossary: characters, attacks, locations, devil fruits, terms
