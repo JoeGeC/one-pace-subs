@@ -1071,3 +1071,37 @@ type: reference
 | Air Door (Blueno ability) | 空氣之門 |
 | Necessary Evil (episode title, Water Seven 20) | 必要之惡 |
 | Nightless island (Enies Lobby epithet) | 不夜島 |
+
+## Characters (Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Oimo (giant gatekeeper) | 奧伊莫 |
+| Kashi (giant gatekeeper) | 卡西 |
+| Spandam (CP9 Chief) | 斯帕乂姆 |
+
+## Locations (Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Enies Lobby (Judicial Island) | 司法之島 |
+| Main island (inner area) | 本島 |
+| Island gate | 島門 |
+| Main gate (outer gate) | 正門 |
+| Tower of Justice | 司法之塔 |
+
+## Terms (Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Mighty Destroyers (Franky Family heavy units) | 巨力破壞者 |
+| Land mode (Sodom/Gomorrah) | 陸地模式 |
+| Bro / Big Bro (Franky Family term for Franky) | 大哥 |
+
+## Attacks (Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Figure-of-Eight Knot (Paulie attack) | 八字結 |
+| Bazooka Bat (Franky Family attack) | 火箭炮棒 |
+| Keel Breaker (Franky Family attack) | 龍骨破碎 |
+| Hull Dismantler Slash (Franky Family attack) | 船殼拆解斬 |
+| Timber Hitch Tug (Paulie attack) | 圓材結拉 |
+| Trunnel Lock (Tilestone attack) | 栓釘鎖 |
+| Ally Robot (Luffy technique) | 夥伴機器人 |
