@@ -1134,6 +1134,7 @@ type: reference
 ## Attacks (Enies Lobby Arc)
 | English | 繁體中文 |
 |---|---|
+| Demolition Chop (Baskerville attack) | 破壞手刀 |
 | Figure-of-Eight Knot (Paulie attack) | 八字結 |
 | Bazooka Bat (Franky Family attack) | 火箭炮棒 |
 | Keel Breaker (Franky Family attack) | 龍骨破碎 |
@@ -1154,3 +1155,50 @@ type: reference
 | Main Island Front Gate | 本島正門 |
 | Yokozuna (front-crawl frog, Enies Lobby) | 橫綱 |
 | Gear Second (episode title) | 二檔 |
+| Tempest Kick: Tumult (Kaku attack) | 嵐腳·亂 |
+| Tempest Kick: Sky Slicer (Kaku attack) | 嵐腳·天斬 |
+| Tempest Kick: White Thunder (Kaku attack) | 嵐腳·白雷 |
+| Ox Ox Fruit, Model: Giraffe (Kaku's devil fruit) | 牛牛果實·長頸鹿形態 |
+| Dog Dog Fruit, Model: Wolf (Jabra's devil fruit) | 犬犬果實·狼形態 |
+| Hybrid Form (Zoan transformation) | 混合形態 |
+| Iron Body: Boxing (Fukuro technique) | 鐵塊·拳擊 |
+| Isolated Corridor (Tower of Justice, Level 0) | 隔離走廊（司法之塔·0層）|
+| Hallway in Front of the Pantry (Enies Lobby location) | 食品儲藏室前走廊 |
+| Kalifa's Room (Enies Lobby location) | 卡莉法的房間 |
+| Tower of Justice Inner Chamber | 司法之塔內部 |
+| First Floor Receiving Area (Enies Lobby location) | 一樓 接待處 |
+| Gear Third (Luffy technique) | 三檔 |
+| Life Return (CP9 technique) | 生命歸還 |
+| Song of Spring Spirit (Kumadori attack) | 春之歌 |
+| Cloven Roseo (Chopper attack) | 刻蹄櫻花 |
+| Cloven Cross (Chopper attack) | 刻蹄十字架 |
+| Franky Triangle Jacker (Franky attack) | 佛朗基三角衝鋒 |
+| Tough Dugong (Fukuro attack) | 硬功夫海牛 |
+| Tough Dugong Esoterica: Owl Thrashing (Fukuro attack) | 硬功夫海牛奧義：貓頭鷹痛毆 |
+| Mr. Chivalry (episode title) | 騎士道先生 |
+| Vital Response (episode title) | 生命歸還 |
+| Destroyer Cannon (Franky attack) | 破壞砲 |
+| Franky Destroyer Cannon (Franky attack) | 佛朗基破壞砲 |
+| Iron Ball (Fukuro attack) | 鐵塊球 |
+| Slime (Fukuro attack) | 史萊姆 |
+| Franky Butterfly (Franky technique) | 佛朗基蝶泳 |
+| Super Cartwheel Iron Ball (Fukuro attack) | 超級風車鐵塊球 |
+| Franky Centaur (Franky transformation) | 佛朗基人馬 |
+| Hair Bind (Kumadori attack) | 髮縛 |
+| Finger Pistol: Cue (Kumadori attack) | 指槍：球桿 |
+| Heavy Gong (Chopper attack) | 重鉗 |
+| Shishi Kebab (Kumadori attack) | 獅子串燒 |
+| Shishi Finger Pistol (Kumadori attack) | 獅子指槍 |
+| Iron Body: Adamantine (Kumadori technique) | 鐵塊：金剛 |
+| Roseo Blizzard (Chopper attack) | 櫻花暴風雪 |
+| Tempest Kick: Lotus (Kumadori attack) | 嵐腳·蓮 |
+| Crimson Song of the Willow (Kumadori attack) | 深紅·柳之歌 |
+| Bubble Bubble Fruit (Awa Awa no Mi, Kalifa) | 泡泡果實 |
+| Bubble Master: Soap Sheep (Kalifa attack) | 泡沫師：肥皂羊 |
+| Sheep Cloud: Relaxing Bubbles (Kalifa attack) | 綿羊雲：放鬆泡泡 |
+| Golden Bubbles (Kalifa attack) | 黃金泡泡 |
+| Thunder Charge (Nami technique) | 蓄電 |
+| Swing Arm (Nami technique) | 迴轉臂 |
+| Thunderbolt Tempo (Nami attack) | 雷電節拍 |
+| Bridge of Hesitation (Enies Lobby location) | 猶豫之橋 |
+| Doctorine (Kureha's nickname) | 朵麗妮 |
