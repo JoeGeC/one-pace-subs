@@ -1071,6 +1071,11 @@ type: reference
 | Air Door (Blueno ability) | 空氣之門 |
 | Necessary Evil (episode title, Water Seven 20) | 必要之惡 |
 | Nightless island (Enies Lobby epithet) | 不夜島 |
+| Kabuto (Sogeking's slingshot weapon) | 獨角仙 |
+| Lethal Firebird Star (Sogeking attack) | 必殺火鳥星 |
+| Ice Block: Partisan (Kuzan attack) | 冰塊：兩刺槍 |
+| Ice Time Capsule (Kuzan attack) | 冰之時間膠囊 |
+| Sakazuki (Vice Admiral, later Admiral Akainu) | 薩卡斯基 |
 
 ## Characters (Enies Lobby Arc)
 | English | 繁體中文 |
@@ -1078,6 +1083,25 @@ type: reference
 | Oimo (giant gatekeeper) | 奧伊莫 |
 | Kashi (giant gatekeeper) | 卡西 |
 | Spandam (CP9 Chief) | 斯帕乂姆 |
+| Spandine (CP9 Chief, 20 years earlier, Spandam's father) | 斯帕乂因 |
+| Baskerville (Chief Justice, three-headed) | 巴斯卡維爾（首席法官，三頭）|
+| Left Baskerville | 左巴斯卡維爾 |
+| Right Baskerville | 右巴斯卡維爾 |
+
+## Characters (Ohara Flashback)
+| English | 繁體中文 |
+|---|---|
+| Nico Olvia (Robin's mother) | 妮可·歐爾維亞 |
+| Professor Clover (Ohara Head Librarian) | 乂洛佛教授 |
+| Jaguar D. Saul (Giant, castaway) | 加加·D·乂爾 |
+| Aunt Roji (Robin's aunt) | 蘿姬阿姨 |
+| Kuzan (Vice Admiral, later Admiral Aokiji) | 乂贊 |
+
+## Locations (Ohara Flashback)
+| English | 繁體中文 |
+|---|---|
+| Ohara (island, West Blue) | 歐哈拉 |
+| Tree of Knowledge (Ohara Library) | 全知之樹（歐哈拉圖書館）|
 
 ## Locations (Enies Lobby Arc)
 | English | 繁體中文 |
@@ -1087,6 +1111,9 @@ type: reference
 | Island gate | 島門 |
 | Main gate (outer gate) | 正門 |
 | Tower of Justice | 司法之塔 |
+| Courthouse | 法院 |
+| Courthouse plaza | 法院廣場 |
+| Block D (encirclement area) | D區 |
 
 ## Terms (Enies Lobby Arc)
 | English | 繁體中文 |
@@ -1094,6 +1121,15 @@ type: reference
 | Mighty Destroyers (Franky Family heavy units) | 巨力破壞者 |
 | Land mode (Sodom/Gomorrah) | 陸地模式 |
 | Bro / Big Bro (Franky Family term for Franky) | 大哥 |
+| Golden Transponder Snail | 黃金電話蟲 |
+| Gear Second (Luffy technique) | 二檔 |
+| Revolving Door (Blueno technique) | 旋轉門 |
+| Charming Demon Sleepless Night (Zoro technique) | 妖氣 不眠夜 |
+| Watchdogs (Enies Lobby special unit) | 看門狗 |
+| Drawbridge (courthouse access) | 吊橋 |
+| Chief Justice (courthouse rank) | 首席法官 |
+| Cerberus (three-headed judge nickname) | 刻耳柏洛斯 |
+| Iron Body Smash (Blueno technique) | 鐵塊粉碎 |
 
 ## Attacks (Enies Lobby Arc)
 | English | 繁體中文 |
@@ -1105,3 +1141,16 @@ type: reference
 | Timber Hitch Tug (Paulie attack) | 圓材結拉 |
 | Trunnel Lock (Tilestone attack) | 栓釘鎖 |
 | Ally Robot (Luffy technique) | 夥伴機器人 |
+| Jet Pistol (Luffy Gear Second attack) | 噴射手槍 |
+| Jet Bazooka (Luffy Gear Second attack) | 噴射火箭炮 |
+| Iron Body: Strength (Blueno technique) | 鐵塊：剛 |
+| Coup de Boo (Franky attack) | 風來屁射 |
+| Boar Stew Shoot (Sanji attack) | 野豬鍋射擊 |
+| Guilty Jurors (Enies Lobby death-row jury) | 有罪陪審團 |
+| Power Level / Doriki (CP9 strength measure) | 道力值 |
+| Courthouse Right Tower | 法院右塔 |
+| Courthouse Left Tower | 法院左塔 |
+| Upper Floors of the Courtroom | 法庭上層 |
+| Main Island Front Gate | 本島正門 |
+| Yokozuna (front-crawl frog, Enies Lobby) | 橫綱 |
+| Gear Second (episode title) | 二檔 |
