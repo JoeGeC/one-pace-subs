@@ -343,11 +343,11 @@ Dialogue: 0,0:12:25.00,0:12:28.68,Main-207+,,0,0,100,,{\an8}♪ 我出生⋯⋯ 
 Dialogue: 0,0:12:29.04,0:12:31.23,Main-207+,,0,0,100,,{\an8}♪ 在狙擊手之島。 ♪
 Dialogue: 0,0:12:38.02,0:12:40.98,Main-207+,,0,0,100,,{\an8}♪ 甚至你的心⋯⋯ ♪
 Dialogue: 0,0:12:41.65,0:12:45.20,Main-207+,,0,0,100,,{\an8}♪ Lock on!! ♪
-Dialogue: 0,0:17:44.33,0:17:57.80,Captions,,0,0,100,,{\an8\pos(720,100)}{}「正義」
-Dialogue: 0,0:18:31.42,0:18:43.39,Captions,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(652,113)\p1}m -101 -60 l 95 -60 95 15 -101 15
-Dialogue: 1,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\pos(649,100)\bord0\c&H000000&\blur0.8}海流
-Dialogue: 0,0:18:31.42,0:18:43.39,Captions,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(668,567)\p1}m -171 16 l 109 16 109 104 -171 104
-Dialogue: 1,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\pos(639,100)\bord0\c&H000000&\blur0.8}司法之塔
+Dialogue: 0,0:17:44.33,0:17:57.80,Captions,,0,0,100,,{\an8}{}{}「正義」
+Dialogue: 0,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\blur1\bord0\shad0\fscx100\fscy100\p1}m -101 -60 l 95 -60 95 15 -101 15
+Dialogue: 1,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\bord0\c&H000000&\blur0.8}海流
+Dialogue: 0,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\blur1\bord0\shad0\fscx100\fscy100\p1}m -171 16 l 109 16 109 104 -171 104
+Dialogue: 1,0:18:31.42,0:18:43.39,Captions,,0,0,100,,{\an8\bord0\c&H000000&\blur0.8}司法之塔
 Dialogue: 0,0:26:22.35,0:26:25.31,Credits,,0,0,0,,Editing:\N Galaxy 9000\N\NTiming:\NPhosCity\N\NQuality Control:\Ndanpmss,\NGalaxy 9000,\NGrug,\NItsKipz,\NPepperjack\N\NSoundtracking:\N Halee\N\NGraphics:\N Datenshi\N\NKaraoke:\NKaitouYahiko\N\NTranslation:\NCrunchyroll,\NGaijin
 Dialogue: 0,0:00:00.71,0:00:03.37,Lyrics,,0,0,0,,{\fad(0,0)}Get running, get running
 Dialogue: 0,0:00:03.59,0:00:06.46,Lyrics,,0,0,0,,holding our flag high in the sky
