@@ -1261,3 +1261,13 @@ type: reference
 | Jet Whip (Luffy Gear Second attack) | 噴射鞭腿 |
 | Cuisseau Shoot (Sanji attack) | 後腿肉射擊 |
 | Party Table (Sanji kick course prefix) | 派對餐桌 |
+| Tempest Kick: Leopard Tail (Lucci attack) | 嵐腳·豹尾 |
+| Iron Body: Fruitless Shrub (Lucci technique) | 鐵塊·無花果 |
+| Flying Finger Pistol: Sting (Lucci attack) | 飛指槍：刺針 |
+| Flying Finger Pistol: Triple Sting (Lucci attack) | 飛指槍：三連刺針 |
+| Flying Finger Pistol: Fire Sting (Lucci attack) | 飛指槍：火焰刺針 |
+| Bone Balloon (Luffy Gear Third technique) | 骨氣球 |
+| Gigant Pistol (Luffy Gear Third attack) | 巨人手槍 |
+| Gigant Axe (Luffy Gear Third attack) | 巨人戰斧 |
+| Gigant Whip (Luffy Gear Third attack) | 巨人鞭腿 |
+| Tempest Kick: Victory Bird (Lucci attack) | 嵐腳·勝利之鳥 |
