@@ -1233,5 +1233,31 @@ type: reference
 | Deuxième Haché (Sanji attack) | 二等肉末 |
 | Troisième Haché (Sanji attack) | 三等肉末 |
 | Flambage Shot (Sanji Diable Jambe finishing move) | 燒烤射擊 |
+| Two-Sword Style: Nigiri (Zoro) | 二刀流：弐斬 |
+| Toro (Zoro Nigiri attack) | 登樓 |
+| Otoro (Zoro Nigiri attack) | 應登樓 |
+| Hirameki (Zoro Nigiri attack) | 閃 |
+| Samon (Zoro Nigiri attack) | 砂紋 |
+| One Gorilla / Two Gorilla (Zoro power stance) | 一猩猩 / 二猩猩 |
+| Nigori Zake (Zoro three-sword attack) | 二剛力斬 |
+| Dragon Twister (Zoro three-sword style) | 龍捲風 |
+| Dragon Cleave (Kaku Tempest Kick variant) | 龍裂斬 |
+| Giraffe Scythe (Kaku attack) | 長頸鹿鐮刀 |
+| Iron Body: Safe (Kaku technique) | 鐵塊：保險箱 |
+| Giraffe Cloudburst (Kaku attack) | 長頸鹿暴雨 |
+| Giraffe Gun Battery (Kaku attack) | 長頸鹿砲台 |
+| Ultimate Nose Pistol: Giraffe Turret Strike (Kaku attack) | 究極鼻槍：長頸鹿砲塔衝擊 |
+| Tempest Kick: White Drill (Kaku attack) | 嵐腳：白刃取 |
+| Pasta Machine (Kaku technique) | 製麵機 |
+| Four-Sword Style (Kaku fighting style) | 四刀流 |
+| Tempest Kick: Shuriken (Kaku attack) | 嵐腳：手裏劍 |
+| Giraffe Whip (Kaku attack) | 長頸鹿鞭 |
+| Fierce Giraffe (Kaku attack) | 猛烈長頸鹿 |
+| Giraffe Fury (Kaku attack) | 長頸鹿怒濤 |
+| Spinning Leopard Balls (Zoro three-sword style) | 旋·豹·碎 |
+| Demonic Nine-Sword Style: Asura (Zoro technique) | 鬼氣九刀流：阿修羅 |
+| Asura: Silver Mist (Zoro finishing move) | 阿修羅：銀霧 |
+| Finger Pistol: Yellow Lotus (Lucci attack) | 指槍：黃蓮 |
+| Jet Whip (Luffy Gear Second attack) | 噴射鞭腿 |
 | Cuisseau Shoot (Sanji attack) | 後腿肉射擊 |
 | Party Table (Sanji kick course prefix) | 派對餐桌 |
