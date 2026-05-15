@@ -1200,5 +1200,9 @@ type: reference
 | Thunder Charge (Nami technique) | 蓄電 |
 | Swing Arm (Nami technique) | 迴轉臂 |
 | Thunderbolt Tempo (Nami attack) | 雷電節拍 |
+| Mirage Tempo (Nami attack) | 蜃氣樓節拍 |
+| Mirage Tempo: Fata Morgana (Nami attack) | 蜃氣樓節拍：絕景幻影 |
+| Cool Charge (Nami technique) | 冷氣蓄電 |
+| Elastic Finger Pistol (Kalifa attack) | 彈力指槍 |
 | Bridge of Hesitation (Enies Lobby location) | 猶豫之橋 |
 | Doctorine (Kureha's nickname) | 朵麗妮 |
