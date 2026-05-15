@@ -1077,6 +1077,12 @@ type: reference
 | Ice Time Capsule (Kuzan attack) | 冰之時間膠囊 |
 | Sakazuki (Vice Admiral, later Admiral Akainu) | 薩卡斯基 |
 
+## Characters (Little Garden Arc)
+| English | 繁體中文 |
+|---|---|
+| Dorry (Elbaf giant warrior) | 乂利 |
+| Broggy (Elbaf giant warrior) | 布洛基 |
+
 ## Characters (Enies Lobby Arc)
 | English | 繁體中文 |
 |---|---|
@@ -1142,6 +1148,8 @@ type: reference
 | Keel Breaker (Franky Family attack) | 龍骨破碎 |
 | Hull Dismantler Slash (Franky Family attack) | 船殼拆解斬 |
 | Timber Hitch Tug (Paulie attack) | 圓材結拉 |
+| Shrouds and Ratline Knot (Paulie attack) | 護索繩結 |
+| Battleship Cannon (Tilestone attack) | 戰艦大砲 |
 | Trunnel Lock (Tilestone attack) | 栓釘鎖 |
 | Ally Robot (Luffy technique) | 夥伴機器人 |
 | Jet Pistol (Luffy Gear Second attack) | 噴射手槍 |
