@@ -1219,3 +1219,19 @@ type: reference
 | Fukuro (CP9 member) | 福乂洛（CP9成員）|
 | Kumadori (CP9 member) | 熊多利（CP9成員）|
 | Noseking / Sogeking (Usopp alias, alternate) | 鼻擊王 / 狙擊王 |
+| Wolf Shot (Jabra attack) | 狼彈 |
+| Iron Body Kenpo (Jabra fighting style) | 鐵塊拳法 |
+| Iron Body Kenpo: Wolf Fang Stance (Jabra) | 鐵塊拳法·狼牙之構 |
+| Iron Body Kenpo: Wolf Plantain Stance (Jabra) | 鐵塊拳法·狼大蕉之構 |
+| Iron Body Kenpo: Infernal Celestial Wolf (Jabra) | 鐵塊拳法·地獄天狼 |
+| Tempest Kick: Lone Wolf (Jabra attack) | 嵐腳·孤狼 |
+| Tempest Kick: Lupus Fall (Jabra attack) | 嵐腳·群狼墜 |
+| Wolf Hunting LAN (Jabra attack) | 獵狼區域網 |
+| Heavy Treading Wolf (Jabra attack) | 重踏狼 |
+| Moonlight Ten Finger Pistol (Jabra attack) | 月光十指槍 |
+| Première Haché (Sanji Diable Jambe attack) | 一等肉末 |
+| Deuxième Haché (Sanji attack) | 二等肉末 |
+| Troisième Haché (Sanji attack) | 三等肉末 |
+| Flambage Shot (Sanji Diable Jambe finishing move) | 燒烤射擊 |
+| Cuisseau Shoot (Sanji attack) | 後腿肉射擊 |
+| Party Table (Sanji kick course prefix) | 派對餐桌 |
