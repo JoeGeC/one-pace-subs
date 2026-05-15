@@ -28,14 +28,14 @@ Style: Luffy Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H780
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.72,0:02:00.72,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 50,0:01:52.43,0:01:57.26,Narrator-207-,,0,0,0,,目前為止，Upper Yard生存遊戲\N已有一名參賽者被淘汰，
-Dialogue: 50,0:01:57.26,0:01:59.35,Narrator-207-,,0,0,0,,剩餘八十人。
+Dialogue: 50,0:01:52.43,0:01:57.26,Narrator-207-,,0,0,200,,目前為止，Upper Yard生存遊戲\N已有一名參賽者被淘汰，
+Dialogue: 50,0:01:57.26,0:01:59.35,Narrator-207-,,0,0,100,,剩餘八十人。
 Dialogue: 50,0:02:00.56,0:02:04.06,Main-207-,,0,0,0,,他們一定是缺少了\N神的神聖庇佑⋯⋯
-Dialogue: 50,0:02:07.07,0:02:11.03,Narrator-207-,,0,0,0,,另一方面，四名草帽海賊團成員\N出發搜尋黃金。
-Dialogue: 50,0:02:11.53,0:02:16.53,Narrator-207-,,0,0,0,,他們的目標：沉睡在\N古代都市遺跡中的寶藏。
-Dialogue: 50,0:02:17.53,0:02:21.16,Narrator-207-,,0,0,0,,他們從祭壇出發\N直接往南前進。
-Dialogue: 50,0:02:22.62,0:02:24.71,Narrator-207-,,0,0,0,,直接⋯⋯
-Dialogue: 50,0:02:25.33,0:02:27.13,Narrator-207-,,0,0,0,,往南⋯⋯
+Dialogue: 50,0:02:07.07,0:02:11.03,Narrator-207-,,0,0,200,,另一方面，四名草帽海賊團成員\N出發搜尋黃金。
+Dialogue: 50,0:02:11.53,0:02:16.53,Narrator-207-,,0,0,200,,他們的目標：沉睡在\N古代都市遺跡中的寶藏。
+Dialogue: 50,0:02:17.53,0:02:21.16,Narrator-207-,,0,0,200,,他們從祭壇出發\N直接往南前進。
+Dialogue: 50,0:02:22.62,0:02:24.71,Narrator-207-,,0,0,100,,直接⋯⋯
+Dialogue: 50,0:02:25.33,0:02:27.13,Narrator-207-,,0,0,100,,往南⋯⋯
 Dialogue: 50,0:02:34.76,0:02:37.76,Main-207-,,0,0,0,,這座森林變得真熱鬧啊。
 Dialogue: 50,0:02:38.26,0:02:40.81,Main-207-,,0,0,0,,這棟房子離都市很遠，
 Dialogue: 50,0:02:41.43,0:02:43.73,Main-207-,,0,0,0,,所以自然就被森林吞噬了。

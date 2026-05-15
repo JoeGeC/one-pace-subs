@@ -120,7 +120,7 @@ Dialogue: 50,0:07:59.62,0:08:01.21,Main-207-,,0,0,0,,等很久了嗎？
 Dialogue: 50,0:08:01.21,0:08:04.33,Main-207-,,0,0,0,,– 啊啊！王子！\N– 啊啊！王子！
 Dialogue: 50,0:08:04.33,0:08:05.63,Main-207-,,0,0,0,,太好了。
 Dialogue: 50,0:08:05.63,0:08:10.30,Main-207-,,0,0,0,,別鬧了，\N快去找鑰匙啊！
-Dialogue: 50,0:08:08.50,0:08:10.30,Secondary-207-,,0,0,0,,{\an8}娜美！
+Dialogue: 50,0:08:08.50,0:08:10.30,Secondary-207-,,0,0,100,,{\an8}娜美！
 Dialogue: 50,0:08:10.30,0:08:13.63,Main-207-,,0,0,0,,你……你現在愛上我了嗎？！
 Dialogue: 50,0:08:13.63,0:08:17.47,Main-207-,,0,0,0,,是是是，我愛你了，\N現在快打開這個！
 Dialogue: 50,0:08:17.47,0:08:18.97,Main-207-,,0,0,0,,好的！
@@ -349,7 +349,7 @@ Dialogue: 50,0:24:32.99,0:24:37.33,Main-207-,,0,0,0,,魯夫！
 Dialogue: 50,0:24:34.70,0:24:37.34,Secondary-207-,,0,0,0,,……魯夫！
 Dialogue: 50,0:24:37.34,0:24:37.91,Main-207-,,0,0,0,,嗯？
 Dialogue: 50,0:24:37.91,0:24:40.91,Main-207-,,0,0,0,,我們在阿魯巴納\N等你，好嗎？！
-Dialogue: 50,0:24:40.91,0:24:44.48,Secondary-207-,,0,0,0,,{\an8}……好嗎？！ ……好嗎？！
+Dialogue: 50,0:24:40.91,0:24:44.48,Secondary-207-,,0,0,100,,{\an8}……好嗎？！ ……好嗎？！
 Dialogue: 50,0:24:43.21,0:24:45.38,Main-207-,,0,0,0,,好！
 Dialogue: 50,0:24:56.26,0:24:59.06,Main-207-,,0,0,0,,薇薇公主逃掉了啊。
 Dialogue: 50,0:25:00.10,0:25:03.73,Main-207-,,0,0,0,,不管怎樣，我們的幹部\N本來就預定在阿魯巴納集合。
@@ -503,13 +503,13 @@ Dialogue: 50,0:36:07.10,0:36:11.39,Main-207-,,0,0,0,,像你這樣的菜鳥\N多�
 Dialogue: 50,0:36:11.39,0:36:14.36,Main-207-,,0,0,0,,只會說大話……
 Dialogue: 50,0:36:14.36,0:36:16.69,Main-207-,,0,0,0,,草帽魯夫……
 Dialogue: 50,0:36:17.65,0:36:21.28,Main-207-,,0,0,0,,在偉大航道上到處都是。
-Dialogue: 1,0:13:39.40,0:13:42.36,Captions-207-,,0,0,0,,{\an8\blur0.8\bord0\fnPristina\frz336.7\fscx128\fscy153\c&H000000&\frx10\fry356}再會了，\N你這臭鱷魚。
-Dialogue: 2,0:13:39.40,0:13:42.36,Captions-207-,,0,0,0,,{\an8\blur0.8\bord0\fnPristina\c&H000000&\frz336.7\fscx128\fscy153\4a&HFF&\frx10\fry356}再會了，\N你這臭鱷魚。
-Dialogue: 1,0:13:39.40,0:13:42.36,Captions-207-,,0,0,0,,{\an8\blur0.8\bord0\fnPristina\frz334.9\fscx137\fscy219\c&H000000&\frx-1\fry353\fax0.05}~普林斯先生
-Dialogue: 2,0:13:39.40,0:13:42.36,Captions-207-,,0,0,0,,{\an8\blur0.8\bord0\fnPristina\c&H000000&\frz334.9\fscx137\fscy219\4a&HFF&\frx-1\fry353\fax0.05}~普林斯先生
-Dialogue: 0,0:13:39.40,0:13:42.36,Captions-207-,,0,0,0,,{\an8\fscx100\fscy100\p1\c&HEBEBE7&\3c&HE9EBE8&\blur1}m 254 771 l 476 827 528 779 873 894 1121 451 745 296 531 316
-Dialogue: 0,0:34:05.73,0:34:08.65,Captions-207-,,0,0,0,,{\an8\blur0.3\fad(550,0)\fs120\fnChinacat\fsp6\bord3.1\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}雨地
-Dialogue: 1,0:34:05.73,0:34:08.65,Captions-207-,,0,0,0,,{\an8\blur0.3\fad(550,0)\fs120\fnChinacat\fsp6\bord0\c&HE6E6E6&\4a&HFF&}雨地
+Dialogue: 1,0:13:39.40,0:13:42.36,Captions-207-,,0,0,200,,{\an8\blur0.8\bord0\fnPristina\frz336.7\fscx128\fscy153\c&H000000&\frx10\fry356}再會了，\N你這臭鱷魚。
+Dialogue: 2,0:13:39.40,0:13:42.36,Captions-207-,,0,0,200,,{\an8\blur0.8\bord0\fnPristina\c&H000000&\frz336.7\fscx128\fscy153\4a&HFF&\frx10\fry356}再會了，\N你這臭鱷魚。
+Dialogue: 1,0:13:39.40,0:13:42.36,Captions-207-,,0,0,100,,{\an8\blur0.8\bord0\fnPristina\frz334.9\fscx137\fscy219\c&H000000&\frx-1\fry353\fax0.05}~普林斯先生
+Dialogue: 2,0:13:39.40,0:13:42.36,Captions-207-,,0,0,100,,{\an8\blur0.8\bord0\fnPristina\c&H000000&\frz334.9\fscx137\fscy219\4a&HFF&\frx-1\fry353\fax0.05}~普林斯先生
+Dialogue: 0,0:13:39.40,0:13:42.36,Captions-207-,,0,0,100,,{\an8\fscx100\fscy100\p1\c&HEBEBE7&\3c&HE9EBE8&\blur1}m 254 771 l 476 827 528 779 873 894 1121 451 745 296 531 316
+Dialogue: 0,0:34:05.73,0:34:08.65,Captions-207-,,0,0,100,,{\an8\blur0.3\fad(550,0)\fs120\fnChinacat\fsp6\bord3.1\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}雨地
+Dialogue: 1,0:34:05.73,0:34:08.65,Captions-207-,,0,0,100,,{\an8\blur0.3\fad(550,0)\fs120\fnChinacat\fsp6\bord0\c&HE6E6E6&\4a&HFF&}雨地
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot

@@ -95,7 +95,7 @@ def merge(original_path, translations, output_path):
                         else:
                             text = '{' + pos_tag + '}' + text
 
-                    if '\\an8' in text or style.startswith("Narrator"):
+                    if '\\an8' in text or style.startswith(("Narrator", "Note")):
                         parts[7] = '200' if '\\N' in text else '100'
 
                     prefix = ",".join(parts[:9]) + ","
@@ -103,9 +103,9 @@ def merge(original_path, translations, output_path):
                     translated_count += 1
                     continue
 
-            # Adjust Narrator style MarginV to 100 so it clears hardcoded top text
-            if line.startswith("Style: Narrator") and ",8," in line:
-                line = re.sub(r',27,1$', ',100,1', line)
+            # Adjust Narrator/Note style MarginV to 100 so it clears hardcoded top text
+            if (line.startswith("Style: Narrator") or line.startswith("Style: Note")) and ",8," in line:
+                line = re.sub(r',\d+,1$', ',100,1', line)
 
             fout.write(line + "\n")
 

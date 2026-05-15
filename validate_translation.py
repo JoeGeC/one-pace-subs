@@ -182,7 +182,7 @@ def validate(original_path, translated_path, fix=False):
             meta_issues.append(f"style: {o_style} vs {t_style}")
         if o_layer != t_layer:
             meta_issues.append(f"layer: {o_layer} vs {t_layer}")
-        has_an8_margin = ('\\an8' in t_text or t_style.startswith("Narrator")) and t_mv in ('100', '200')
+        has_an8_margin = ('\\an8' in t_text or t_style.startswith(("Narrator", "Note"))) and t_mv in ('100', '200')
         if o_ml != t_ml or o_mr != t_mr or (o_mv != t_mv and not has_an8_margin):
             meta_issues.append(f"margins: {o_ml},{o_mr},{o_mv} vs {t_ml},{t_mr},{t_mv}")
 

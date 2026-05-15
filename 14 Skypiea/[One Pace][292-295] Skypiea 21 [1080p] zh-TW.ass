@@ -28,11 +28,11 @@ Style: Luffy Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H780
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 50,0:01:50.88,0:01:53.51,Narrator-207-,,0,0,0,,在北海的某個地方，
-Dialogue: 50,0:01:53.51,0:01:56.01,Narrator-207-,,0,0,0,,有一個名叫\N蒙布朗·諾蘭德的男人。
-Dialogue: 50,0:01:57.64,0:02:03.56,Narrator-207-,,0,0,0,,諾蘭德是一位探險家，\N總是述說著不可思議的冒險經歷。
-Dialogue: 50,0:02:04.40,0:02:09.90,Narrator-207-,,0,0,0,,但村民們永遠無法分辨\N那些故事是真是假。
-Dialogue: 50,0:02:11.32,0:02:15.87,Narrator-207-,,0,0,0,,有一天，諾蘭德從旅途歸來，\N向國王報告。
+Dialogue: 50,0:01:50.88,0:01:53.51,Narrator-207-,,0,0,100,,在北海的某個地方，
+Dialogue: 50,0:01:53.51,0:01:56.01,Narrator-207-,,0,0,200,,有一個名叫\N蒙布朗·諾蘭德的男人。
+Dialogue: 50,0:01:57.64,0:02:03.56,Narrator-207-,,0,0,200,,諾蘭德是一位探險家，\N總是述說著不可思議的冒險經歷。
+Dialogue: 50,0:02:04.40,0:02:09.90,Narrator-207-,,0,0,200,,但村民們永遠無法分辨\N那些故事是真是假。
+Dialogue: 50,0:02:11.32,0:02:15.87,Narrator-207-,,0,0,200,,有一天，諾蘭德從旅途歸來，\N向國王報告。
 Dialogue: 50,0:02:16.57,0:02:19.54,Flashbacks-207-,,0,0,0,,它在廢墟中更顯得\N雄偉壯麗！
 Dialogue: 50,0:02:20.33,0:02:22.04,Flashbacks-207-,,0,0,0,,那座城市的名字叫香朵拉！
 Dialogue: 50,0:02:22.04,0:02:26.00,Flashbacks-207-,,0,0,0,,它就是「黃金之都」\N的最佳詮釋。

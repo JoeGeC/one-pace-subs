@@ -16,7 +16,7 @@ Style: Title-207+,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,
 Style: Credits-207+,FOT-Greco Std DB Strp,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,105,105,1.5,0,1,3.7,0,7,15,15,15,1
 Style: Thoughts-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
 Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,100,1
-Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,27,1
+Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,100,1
 Style: Captions-207+,FOT-Greco Std DB Strp,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,30,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Lyrics-OP5,FOT-Greco Std DB Strp,57,&H00FFFFFF,&H00FFFFFF,&H00060606,&H00000000,-1,0,0,0,100,100,1,0,1,4,0,2,33,33,27,1
@@ -437,7 +437,7 @@ Dialogue: 0,0:03:59.72,0:04:03.81,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad
 Dialogue: 1,0:03:59.72,0:04:03.81,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(440,0)\blur0.5\bord0\fscx175\fscy175\fnFOT-Greco Std DB Strp\4a&HFF&\c&HFFFFFF&}廢料島\N（湯姆的工人造船廠）
 Dialogue: 0,0:04:38.38,0:04:44.56,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(440,440)\blur0.5\fscx175\fscy175\fnFOT-Greco Std DB Strp\c&H121213&\3c&H121213&\1a&HFF&\bord2.7\t(395,440,\1a&H00&)\t(5740,5785,\1a&HFF&)}可可羅·美麗的秘書\N湯姆的工人造船公司
 Dialogue: 1,0:04:38.38,0:04:44.56,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(440,440)\blur0.5\bord0\fscx175\fscy175\fnFOT-Greco Std DB Strp\4a&HFF&\c&HFFFFFF&}可可羅·美麗的秘書\N湯姆的工人造船公司
-Dialogue: 50,0:05:02.28,0:05:12.92,Note-207+,,0,0,0,,「商人」
+Dialogue: 50,0:05:02.28,0:05:12.92,Note-207+,,0,0,100,,「商人」
 Dialogue: 0,0:18:47.98,0:18:51.44,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fad(522,0)\blur0.8\fscx175\fscy175\fnFOT-Greco Std DB Strp\c&H121213&\3c&H121213&\1a&HFF&\bord3\t(477,522,\1a&H00&)}水之七島·八年前
 Dialogue: 1,0:18:47.98,0:18:51.44,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fad(522,0)\blur0.8\bord0\fscx175\fscy175\fnFOT-Greco Std DB Strp\4a&HFF&\c&HFFFFFF&}水之七島·八年前
 Dialogue: 0,0:20:34.34,0:20:40.68,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(435,0)\blur0.5\fscx175\fscy175\fnFOT-Greco Std DB Strp\c&H121213&\3c&H121213&\1a&HFF&\bord2.7\t(390,435,\1a&H00&)}局長斯帕乂姆\NCipher Pol No.5

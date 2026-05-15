@@ -147,10 +147,10 @@ Dialogue: 50,0:09:05.61,0:09:10.03,Main-207-,,0,0,0,,沒有人能改變過去。
 Dialogue: 50,0:09:13.70,0:09:17.66,Main-207-,,0,0,0,,我們必須跨越這場戰爭，活下去！
 Dialogue: 50,0:09:27.34,0:09:28.63,Main-207-,,0,0,0,,他真的無人能及⋯
 Dialogue: 50,0:09:32.59,0:09:35.81,Main-207-,,0,0,0,,阿拉巴斯坦王國萬歲！
-Dialogue: 50,0:09:38.89,0:09:42.35,Narrator-207-,,0,0,0,,這場將被\N載入歷史的戰鬥⋯⋯
-Dialogue: 50,0:09:55.57,0:09:56.95,Narrator-207-,,0,0,0,,以及⋯⋯
-Dialogue: 50,0:09:57.49,0:10:00.12,Narrator-207-,,0,0,0,,那場永遠不會為人所知的戰鬥⋯⋯
-Dialogue: 50,0:10:02.71,0:10:04.46,Narrator-207-,,0,0,0,,終於落幕了⋯⋯
+Dialogue: 50,0:09:38.89,0:09:42.35,Narrator-207-,,0,0,200,,這場將被\N載入歷史的戰鬥⋯⋯
+Dialogue: 50,0:09:55.57,0:09:56.95,Narrator-207-,,0,0,100,,以及⋯⋯
+Dialogue: 50,0:09:57.49,0:10:00.12,Narrator-207-,,0,0,100,,那場永遠不會為人所知的戰鬥⋯⋯
+Dialogue: 50,0:10:02.71,0:10:04.46,Narrator-207-,,0,0,100,,終於落幕了⋯⋯
 Dialogue: 50,0:10:08.42,0:10:10.05,Main-207-,,0,0,0,,煙薰！
 Dialogue: 50,0:10:10.05,0:10:12.05,Main-207-,,0,0,0,,這場雨是怎麼回事？
 Dialogue: 50,0:10:12.05,0:10:15.64,Main-207-,,0,0,0,,{\q2}難道你用了跳舞粉？
@@ -226,8 +226,8 @@ Dialogue: 50,0:13:32.79,0:13:35.71,Main-207-,,0,0,0,,才三年⋯
 Dialogue: 50,0:13:36.30,0:13:39.21,Main-207-,,0,0,0,,就只要這麼久而已。
 Dialogue: 50,0:13:41.84,0:13:43.26,Main-207-,,0,0,0,,是啊⋯
 Dialogue: 50,0:13:44.76,0:13:46.26,Main-207-,,0,0,0,,下雨⋯了嗎？
-Dialogue: 50,0:13:50.14,0:13:53.60,Narrator-207-,,0,0,0,,雨水不再是被強迫降下的⋯⋯
-Dialogue: 50,0:13:54.73,0:13:57.78,Narrator-207-,,0,0,0,,而是無盡地降落在這個王國之中。
+Dialogue: 50,0:13:50.14,0:13:53.60,Narrator-207-,,0,0,100,,雨水不再是被強迫降下的⋯⋯
+Dialogue: 50,0:13:54.73,0:13:57.78,Narrator-207-,,0,0,100,,而是無盡地降落在這個王國之中。
 Dialogue: 50,0:14:16.50,0:14:18.17,Main-207-,,0,0,0,,殿下⋯
 Dialogue: 50,0:14:18.17,0:14:20.51,Main-207-,,0,0,0,,妳還醒著？
 Dialogue: 50,0:14:20.51,0:14:21.59,Main-207-,,0,0,0,,伊乂拉姆⋯
@@ -367,8 +367,8 @@ Dialogue: 50,0:21:51.92,0:21:54.13,Main-207-,,0,0,0,,如果你撒謊，只會害
 Dialogue: 50,0:21:54.13,0:21:55.88,Main-207-,,0,0,0,,窩藏海賊可是重罪。
 Dialogue: 50,0:21:55.88,0:21:56.88,Main-207-,,0,0,0,,– 嘿。\N– 嘿，怎麼了？
 Dialogue: 50,0:21:56.88,0:21:58.00,Main-207-,,0,0,0,,哦，歡迎回來。
-Dialogue: 50,0:21:58.34,0:22:01.63,Main-207-,,0,0,0,,{\an8}考慮到城市的狀況，\N我想我們買得算夠了⋯
-Dialogue: 50,0:22:01.63,0:22:02.47,Main-207-,,0,0,0,,{\an8}嗯⋯
+Dialogue: 50,0:21:58.34,0:22:01.63,Main-207-,,0,0,200,,{\an8}考慮到城市的狀況，\N我想我們買得算夠了⋯
+Dialogue: 50,0:22:01.63,0:22:02.47,Main-207-,,0,0,100,,{\an8}嗯⋯
 Dialogue: 50,0:21:59.76,0:22:02.47,Main-207-,,0,0,0,,你有什麼證據\N說這裡有海賊？！
 Dialogue: 50,0:22:02.47,0:22:04.43,Main-207-,,0,0,0,,呃、那個⋯
 Dialogue: 50,0:22:04.80,0:22:06.35,Main-207-,,0,0,0,,不知道他醒了沒⋯
@@ -427,7 +427,7 @@ Dialogue: 50,0:23:39.98,0:23:41.98,Main-207-,,0,0,0,,感謝你們幫助了我們
 Dialogue: 50,0:23:41.98,0:23:45.32,Main-207-,,0,0,0,,夫妻相是一回事，\N但這也太像了！
 Dialogue: 50,0:23:45.32,0:23:47.32,Main-207-,,0,0,0,,聽說你們很能吃。
 Dialogue: 50,0:23:47.32,0:23:51.28,Main-207-,,0,0,0,,要不要先吃些水果\N撐到晚餐？
-Dialogue: 50,0:23:50.66,0:23:51.28,Main-207-,,0,0,0,,{\an8}好啊。
+Dialogue: 50,0:23:50.66,0:23:51.28,Main-207-,,0,0,100,,{\an8}好啊。
 Dialogue: 50,0:23:51.87,0:23:53.16,Main-207-,,0,0,0,,– 你是魔術師嗎？！\N– 你是魔術師嗎？！
 Dialogue: 50,0:23:53.54,0:23:55.33,Main-207-,,0,0,0,,大嬸，我要三天份的食物！
 Dialogue: 50,0:23:55.33,0:23:57.92,Main-207-,,0,0,0,,好極了！我奉獻了\N三十年的服務！
@@ -457,7 +457,7 @@ Dialogue: 50,0:25:05.48,0:25:07.44,Main-207-,,0,0,0,,看不下去了。太粗魯
 Dialogue: 50,0:25:11.28,0:25:14.24,Main-207-,,0,0,0,,公主怎麼能\N一直笑個不停⋯？
 Dialogue: 50,0:25:42.94,0:25:45.11,Main-207-,,0,0,0,,這是宮殿引以為傲的\N大浴場。
 Dialogue: 50,0:25:45.11,0:25:47.61,Main-207-,,0,0,0,,通常我們只在\N雨季才使用。
-Dialogue: 50,0:25:46.78,0:25:47.61,Main-207-,,0,0,0,,{\an8}太厲害了！
+Dialogue: 50,0:25:46.78,0:25:47.61,Main-207-,,0,0,100,,{\an8}太厲害了！
 Dialogue: 50,0:25:47.61,0:25:48.99,Main-207-,,0,0,0,,好華麗！好華麗！
 Dialogue: 50,0:25:48.99,0:25:51.11,Main-207-,,0,0,0,,我先進去！
 Dialogue: 50,0:25:49.94,0:25:51.11,Secondary-207-,,0,0,0,,不，我先！
@@ -537,23 +537,23 @@ Dialogue: 50,0:29:07.56,0:29:08.85,Main-207-,,0,0,0,,如此高額的懸賞金，
 Dialogue: 50,0:29:08.85,0:29:12.40,Main-207-,,0,0,0,,海軍本部的高層\N一定會採取行動。
 Dialogue: 50,0:29:12.77,0:29:15.40,Main-207-,,0,0,0,,再也無法回頭了，魯夫。
 Dialogue: 50,0:29:16.03,0:29:19.53,Main-207-,,0,0,0,,你和你的船員打敗了\N七武海之一！
-Dialogue: 0,0:01:49.96,0:01:54.76,Title-207-,,0,0,0,,{\an8\bord2.2\c&H161617&\3c&H161617&\1a&HFF&\blur0.6\fad(729,0)\fsp-2\t(687,729,\1a&H00&)}各自的正義
-Dialogue: 1,0:01:49.96,0:01:54.76,Title-207-,,0,0,0,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.6\fad(729,0)\fsp-2}各自的正義
-Dialogue: 0,0:10:06.96,0:10:12.05,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(480,481)\c&H000000&\1a&HFF&\3a&H00&\t(438,480,\1a&H00&)\t(4609,4651,\1a&HFF&)\3c&H000000&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
-Dialogue: 1,0:10:06.96,0:10:12.05,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(480,481)\4a&HFF&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
-Dialogue: 2,0:10:06.96,0:10:12.05,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(480,481)\4a&HFF&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
-Dialogue: 0,0:10:42.83,0:10:47.88,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(730,483)\c&H000000&\1a&HFF&\3a&H00&\t(688,730,\1a&H00&)\t(4567,4608,\1a&HFF&)\3c&H000000&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
-Dialogue: 1,0:10:42.83,0:10:47.88,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(730,483)\4a&HFF&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
-Dialogue: 2,0:10:42.83,0:10:47.88,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(730,483)\4a&HFF&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
-Dialogue: 0,0:11:15.82,0:11:20.28,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(481,0)\c&H000000&\1a&HFF&\3a&H00&\t(439,481,\1a&H00&)\3c&H000000&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
-Dialogue: 1,0:11:15.82,0:11:20.28,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(481,0)\4a&HFF&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
-Dialogue: 2,0:11:15.82,0:11:20.28,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(481,0)\4a&HFF&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
-Dialogue: 0,0:15:16.98,0:15:21.36,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(979,0)\c&H000000&\1a&HFF&\3a&H00&\t(937,979,\1a&H00&)\3c&H000000&\fscy90\fscx90}隔日
-Dialogue: 1,0:15:16.98,0:15:21.36,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(979,0)\4a&HFF&\fscy90\fscx90}隔日
-Dialogue: 2,0:15:16.98,0:15:21.36,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(979,0)\4a&HFF&\fscy90\fscx90}隔日
-Dialogue: 0,0:15:21.40,0:15:27.32,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(980,0)\c&H000000&\1a&HFF&\3a&H00&\t(938,980,\1a&H00&)\3c&H000000&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
-Dialogue: 1,0:15:21.40,0:15:27.32,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(980,0)\4a&HFF&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
-Dialogue: 2,0:15:21.40,0:15:27.32,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(980,0)\4a&HFF&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
+Dialogue: 0,0:01:49.96,0:01:54.76,Title-207-,,0,0,100,,{\an8\bord2.2\c&H161617&\3c&H161617&\1a&HFF&\blur0.6\fad(729,0)\fsp-2\t(687,729,\1a&H00&)}各自的正義
+Dialogue: 1,0:01:49.96,0:01:54.76,Title-207-,,0,0,100,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.6\fad(729,0)\fsp-2}各自的正義
+Dialogue: 0,0:10:06.96,0:10:12.05,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(480,481)\c&H000000&\1a&HFF&\3a&H00&\t(438,480,\1a&H00&)\t(4609,4651,\1a&HFF&)\3c&H000000&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
+Dialogue: 1,0:10:06.96,0:10:12.05,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(480,481)\4a&HFF&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
+Dialogue: 2,0:10:06.96,0:10:12.05,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(480,481)\4a&HFF&\fscy90\fscx90}北海岸\N阿拉巴斯坦王國
+Dialogue: 0,0:10:42.83,0:10:47.88,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(730,483)\c&H000000&\1a&HFF&\3a&H00&\t(688,730,\1a&H00&)\t(4567,4608,\1a&HFF&)\3c&H000000&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
+Dialogue: 1,0:10:42.83,0:10:47.88,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(730,483)\4a&HFF&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
+Dialogue: 2,0:10:42.83,0:10:47.88,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(730,483)\4a&HFF&\fscy90\fscx90}「黑檻」希娜上尉\N海軍本部
+Dialogue: 0,0:11:15.82,0:11:20.28,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(481,0)\c&H000000&\1a&HFF&\3a&H00&\t(439,481,\1a&H00&)\3c&H000000&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
+Dialogue: 1,0:11:15.82,0:11:20.28,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(481,0)\4a&HFF&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
+Dialogue: 2,0:11:15.82,0:11:20.28,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(481,0)\4a&HFF&\fscy90\fscx90}暴雨號\N造雨船\N巴洛克工作社
+Dialogue: 0,0:15:16.98,0:15:21.36,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(979,0)\c&H000000&\1a&HFF&\3a&H00&\t(937,979,\1a&H00&)\3c&H000000&\fscy90\fscx90}隔日
+Dialogue: 1,0:15:16.98,0:15:21.36,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(979,0)\4a&HFF&\fscy90\fscx90}隔日
+Dialogue: 2,0:15:16.98,0:15:21.36,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(979,0)\4a&HFF&\fscy90\fscx90}隔日
+Dialogue: 0,0:15:21.40,0:15:27.32,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(980,0)\c&H000000&\1a&HFF&\3a&H00&\t(938,980,\1a&H00&)\3c&H000000&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
+Dialogue: 1,0:15:21.40,0:15:27.32,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(980,0)\4a&HFF&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
+Dialogue: 2,0:15:21.40,0:15:27.32,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(980,0)\4a&HFF&\fscy90\fscx90}泰瑪利斯克\N阿拉巴斯坦東港
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}fedew\NGigglebot

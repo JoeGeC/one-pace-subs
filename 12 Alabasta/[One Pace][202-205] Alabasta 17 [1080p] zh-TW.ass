@@ -456,21 +456,21 @@ Dialogue: 50,0:32:00.02,0:32:03.23,Main-207-,,0,0,0,,呱……呱呱呱……
 Dialogue: 50,0:32:10.66,0:32:12.54,Main-207-,,0,0,0,,喂，聽好了，7號先生。
 Dialogue: 50,0:32:12.54,0:32:16.50,Main-207-,,0,0,0,,這將是我們最後的任務了。
 Dialogue: 50,0:32:16.50,0:32:19.00,Main-207-,,0,0,0,,{\fad(0,983)}呱呱呱……
-Dialogue: 50,0:32:20.25,0:32:22.17,Main-207-,,0,0,0,,{\an8}計劃就是這樣。
-Dialogue: 50,0:32:24.17,0:32:27.47,Main-207-,,0,0,0,,{\an8}按照計劃，\N還剩三十秒。
+Dialogue: 50,0:32:20.25,0:32:22.17,Main-207-,,0,0,100,,{\an8}計劃就是這樣。
+Dialogue: 50,0:32:24.17,0:32:27.47,Main-207-,,0,0,200,,{\an8}按照計劃，\N還剩三十秒。
 Dialogue: 50,0:32:30.14,0:32:31.30,Main-207-,,0,0,0,,{\i1}他們{\i0}是誰？！
 Dialogue: 50,0:32:31.30,0:32:34.72,Main-207-,,0,0,0,,7號先生和父親節小姐！{Z}
-Dialogue: 0,0:01:54.97,0:01:57.39,Title-207-,,0,0,0,,{\an8\bord2.1\c&H161617&\3c&H161617&\1a&HFF&\blur0.5\fad(729,0)\fsp-2\t(687,729,\1a&H00&)}鱷魚來襲
-Dialogue: 1,0:01:54.97,0:01:57.39,Title-207-,,0,0,0,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.5\fad(729,0)\fsp-2}鱷魚來襲
-Dialogue: 0,0:03:00.83,0:03:05.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur1.8\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord4.2\c&H000000&\1a&HFF&\3a&H25&}靈廟\N（皇家陵寢）\N王宮西方
-Dialogue: 1,0:03:00.83,0:03:05.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur1\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord0\c&HFBFAF9&\4a&HFF&}靈廟\N（皇家陵寢）\N王宮西方
-Dialogue: 2,0:03:00.83,0:03:05.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur1\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord0\c&HFBFAF9&\4a&HFF&}靈廟\N（皇家陵寢）\N王宮西方
-Dialogue: 0,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord2.5\fad(938,436)\c&H000000&\1a&HFF&\3a&H00&\t(896,938,\1a&H00&)\t(5734,5776,\1a&HFF&)\3c&H000000&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
-Dialogue: 1,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
-Dialogue: 2,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
-Dialogue: 0,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord2.5\fad(938,436)\c&H000000&\1a&HFF&\3a&H00&\t(896,938,\1a&H00&)\t(5734,5776,\1a&HFF&)\3c&H000000&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
-Dialogue: 1,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
-Dialogue: 2,0:32:18.08,0:32:24.26,Captions-207-,,0,0,0,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
+Dialogue: 0,0:01:54.97,0:01:57.39,Title-207-,,0,0,100,,{\an8\bord2.1\c&H161617&\3c&H161617&\1a&HFF&\blur0.5\fad(729,0)\fsp-2\t(687,729,\1a&H00&)}鱷魚來襲
+Dialogue: 1,0:01:54.97,0:01:57.39,Title-207-,,0,0,100,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.5\fad(729,0)\fsp-2}鱷魚來襲
+Dialogue: 0,0:03:00.83,0:03:05.08,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur1.8\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord4.2\c&H000000&\1a&HFF&\3a&H25&}靈廟\N（皇家陵寢）\N王宮西方
+Dialogue: 1,0:03:00.83,0:03:05.08,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur1\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord0\c&HFBFAF9&\4a&HFF&}靈廟\N（皇家陵寢）\N王宮西方
+Dialogue: 2,0:03:00.83,0:03:05.08,Captions-207-,,0,0,200,,{\an8\pos(720,100)\blur1\fscx80\fscy80\fnDFPGiHi-W7-Strp\b0\bord0\c&HFBFAF9&\4a&HFF&}靈廟\N（皇家陵寢）\N王宮西方
+Dialogue: 0,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord2.5\fad(938,436)\c&H000000&\1a&HFF&\3a&H00&\t(896,938,\1a&H00&)\t(5734,5776,\1a&HFF&)\3c&H000000&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
+Dialogue: 1,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
+Dialogue: 2,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(360,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}7號先生\N\N前線特工\N巴洛克工作社
+Dialogue: 0,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord2.5\fad(938,436)\c&H000000&\1a&HFF&\3a&H00&\t(896,938,\1a&H00&)\t(5734,5776,\1a&HFF&)\3c&H000000&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
+Dialogue: 1,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
+Dialogue: 2,0:32:18.08,0:32:24.26,Captions-207-,,0,0,200,,{\an8\pos(1080,100)\blur0.5\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(938,436)\4a&HFF&\fscy48\fscx48}父親節小姐\N\N前線特工\N巴洛克工作社
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\Nfedew

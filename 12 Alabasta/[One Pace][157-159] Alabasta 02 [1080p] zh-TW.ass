@@ -18,7 +18,7 @@ Style: Secondary-207-,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H7800
 Style: Credits-207-,FOT-Greco Std B Strp,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,95,100,1.6,0,1,3,0,7,16,16,16,1
 Style: Main-207-,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
 Style: Title-207-,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,383,1
-Style: Note-207-,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,8,180,180,27,1
+Style: Note-207-,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,8,180,180,100,1
 Style: RogerMonologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
 Style: Karaoke,Duality,68,&H00292CC7,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,4,0,1,6.8,0,8,23,23,23,1
 Style: Translation,Duality,68,&H00292CC7,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,4,0,1,6.8,0,2,23,23,34,1
@@ -466,14 +466,14 @@ Dialogue: 50,0:26:48.80,0:26:49.50,Main-207-,,0,0,0,,唷！
 Dialogue: 50,0:26:49.50,0:26:52.76,Main-207-,,0,0,0,,艾斯也是我們的人了！
 Dialogue: 50,0:26:52.76,0:26:53.97,Main-207-,,0,0,0,,乾杯！
 Dialogue: 50,0:26:53.97,0:26:56.64,Main-207-,,0,0,0,,什麼叫做我是你們的人？
-Dialogue: 50,0:26:58.85,0:27:00.31,Main-207-,,0,0,0,,{\an8}為好喝的飲料乾杯！
+Dialogue: 50,0:26:58.85,0:27:00.31,Main-207-,,0,0,100,,{\an8}為好喝的飲料乾杯！
 Dialogue: 50,0:27:00.31,0:27:01.06,Main-207-,,0,0,0,,乾杯！
 Dialogue: 50,0:27:01.06,0:27:02.18,Secondary-207-,,0,0,0,,乾杯！
 Dialogue: 50,0:27:02.18,0:27:03.89,Secondary-207-,,0,0,0,,為好喝的飲料乾杯！
-Dialogue: 50,0:27:03.89,0:27:05.15,Secondary-207-,,0,0,0,,{\an8}乾杯！
-Dialogue: 50,0:27:05.15,0:27:06.81,Secondary-207-,,0,0,0,,{\an8}為好喝的飲料乾杯！
-Dialogue: 50,0:27:06.81,0:27:07.44,Secondary-207-,,0,0,0,,{\an8}藥好難喝！
-Dialogue: 50,0:27:07.44,0:27:09.25,Main-207-,,0,0,0,,{\an8}藥好難喝！
+Dialogue: 50,0:27:03.89,0:27:05.15,Secondary-207-,,0,0,100,,{\an8}乾杯！
+Dialogue: 50,0:27:05.15,0:27:06.81,Secondary-207-,,0,0,100,,{\an8}為好喝的飲料乾杯！
+Dialogue: 50,0:27:06.81,0:27:07.44,Secondary-207-,,0,0,100,,{\an8}藥好難喝！
+Dialogue: 50,0:27:07.44,0:27:09.25,Main-207-,,0,0,100,,{\an8}藥好難喝！
 Dialogue: 50,0:27:01.06,0:27:02.81,Main-207-,,0,0,0,,不用在意！
 Dialogue: 50,0:27:02.81,0:27:06.81,Main-207-,,0,0,0,,他們隨便找個藉口\N就要喝酒！
 Dialogue: 50,0:27:12.07,0:27:15.07,Main-207-,,0,0,0,,艾斯！你真的不加入我們嗎？
@@ -526,17 +526,17 @@ Dialogue: 0,0:19:55.79,0:19:55.92,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\
 Dialogue: 0,0:19:55.92,0:19:56.04,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H464C8C&}m 904 624 l 1030 595 1189 589 1189 1017 944 1049
 Dialogue: 0,0:19:56.04,0:19:56.13,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H464C8C&}m 1034 507 l 1169 505 1177 967 942 993 925 583
 Dialogue: 0,0:19:56.13,0:20:00.26,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H464C8C&}m 1032 479 l 1185 477 1174 963 963 957 934 937 924 546
-Dialogue: 1,0:19:51.25,0:19:53.13,Captions-207-,,0,0,0,,{\bord3.4\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz15.37\frx4.7154\fry-7.4084\xbord0\ybord0\org(1021.61,668.94)\blur1\pos(1062.35,537.42)\fscx173\fscy105}正式\N成員
-Dialogue: 1,0:19:53.13,0:19:53.29,Captions-207-,,0,0,0,,{\bord3.22\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-341.31\frx4.7154\fry-7.4084\xbord0\ybord0\org(1029.84,723.6)\blur0.95\pos(1061.13,597.11)\fscx163.71\fscy99.36}正式\N成員
-Dialogue: 1,0:19:53.29,0:19:53.38,Captions-207-,,0,0,0,,{\bord3.03\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.3,845.5)\blur0.89\pos(1068.04,724.38)\fscx154.2\fscy93.59\frz13.99}正式\N成員
-Dialogue: 1,0:19:53.38,0:19:53.42,Captions-207-,,0,0,0,,{\bord3.03\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz13.99\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.31,845.49)\blur0.89\pos(1068.02,724.39)\fscx154.16\fscy93.57}正式\N成員
-Dialogue: 1,0:19:53.42,0:19:53.54,Captions-207-,,0,0,0,,{\bord2.82\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.25,986.55)\blur0.83\fscx143.25\fscy86.94\pos(1093.95,848.58)\frz9.271}正式\N成員
-Dialogue: 1,0:19:53.54,0:19:53.63,Captions-207-,,0,0,0,,{\bord2.8\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1049.94,1011.07)\blur0.82\fscx142.71\fscy86.62\pos(1089.78,868.16)\frz9.416}正式\N成員
-Dialogue: 1,0:19:53.63,0:19:55.79,Captions-207-,,0,0,0,,{\bord2.79\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1057.1,1034.18)\blur0.82\fscx142.21\fscy86.31\pos(1087.35,875.69)\frz7.802}正式\N成員
-Dialogue: 1,0:19:55.79,0:19:55.92,Captions-207-,,0,0,0,,{\bord2.9\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1051.87,936.62)\blur0.85\pos(1060.92,819.35)\fscx147.79\fscy89.7\frz9.584}正式\N成員
-Dialogue: 1,0:19:55.92,0:19:56.04,Captions-207-,,0,0,0,,{\bord3.07\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1038.24,781.92)\blur0.9\pos(1063.1,660.24)\fscx156.05\fscy94.71\frz16.35}正式\N成員
-Dialogue: 1,0:19:56.04,0:19:56.13,Captions-207-,,0,0,0,,{\bord3.2\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-343.38\frx4.7154\fry-7.4084\xbord0\ybord0\org(1026.21,693.39)\blur0.94\pos(1061.88,568.64)\fscx163.03\fscy98.95}正式\N成員
-Dialogue: 1,0:19:56.13,0:20:00.26,Captions-207-,,0,0,0,,{\bord3.34\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-344.65\frx4.7154\fry-7.4084\xbord0\ybord0\org(1021.61,667.96)\blur0.98\pos(1061.72,538.62)\fscx170.15\fscy103.27}正式\N成員
+Dialogue: 1,0:19:51.25,0:19:53.13,Captions-207-,,0,0,200,,{\bord3.4\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz15.37\frx4.7154\fry-7.4084\xbord0\ybord0\org(1021.61,668.94)\blur1\pos(1062.35,537.42)\fscx173\fscy105}正式\N成員
+Dialogue: 1,0:19:53.13,0:19:53.29,Captions-207-,,0,0,200,,{\bord3.22\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-341.31\frx4.7154\fry-7.4084\xbord0\ybord0\org(1029.84,723.6)\blur0.95\pos(1061.13,597.11)\fscx163.71\fscy99.36}正式\N成員
+Dialogue: 1,0:19:53.29,0:19:53.38,Captions-207-,,0,0,200,,{\bord3.03\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.3,845.5)\blur0.89\pos(1068.04,724.38)\fscx154.2\fscy93.59\frz13.99}正式\N成員
+Dialogue: 1,0:19:53.38,0:19:53.42,Captions-207-,,0,0,200,,{\bord3.03\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz13.99\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.31,845.49)\blur0.89\pos(1068.02,724.39)\fscx154.16\fscy93.57}正式\N成員
+Dialogue: 1,0:19:53.42,0:19:53.54,Captions-207-,,0,0,200,,{\bord2.82\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1048.25,986.55)\blur0.83\fscx143.25\fscy86.94\pos(1093.95,848.58)\frz9.271}正式\N成員
+Dialogue: 1,0:19:53.54,0:19:53.63,Captions-207-,,0,0,200,,{\bord2.8\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1049.94,1011.07)\blur0.82\fscx142.71\fscy86.62\pos(1089.78,868.16)\frz9.416}正式\N成員
+Dialogue: 1,0:19:53.63,0:19:55.79,Captions-207-,,0,0,200,,{\bord2.79\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1057.1,1034.18)\blur0.82\fscx142.21\fscy86.31\pos(1087.35,875.69)\frz7.802}正式\N成員
+Dialogue: 1,0:19:55.79,0:19:55.92,Captions-207-,,0,0,200,,{\bord2.9\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1051.87,936.62)\blur0.85\pos(1060.92,819.35)\fscx147.79\fscy89.7\frz9.584}正式\N成員
+Dialogue: 1,0:19:55.92,0:19:56.04,Captions-207-,,0,0,200,,{\bord3.07\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frx4.7154\fry-7.4084\xbord0\ybord0\org(1038.24,781.92)\blur0.9\pos(1063.1,660.24)\fscx156.05\fscy94.71\frz16.35}正式\N成員
+Dialogue: 1,0:19:56.04,0:19:56.13,Captions-207-,,0,0,200,,{\bord3.2\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-343.38\frx4.7154\fry-7.4084\xbord0\ybord0\org(1026.21,693.39)\blur0.94\pos(1061.88,568.64)\fscx163.03\fscy98.95}正式\N成員
+Dialogue: 1,0:19:56.13,0:20:00.26,Captions-207-,,0,0,200,,{\bord3.34\alpha&H00&\an8\fnYozakura JP\b0\c&H000000&\fax-0.35254\frz-344.65\frx4.7154\fry-7.4084\xbord0\ybord0\org(1021.61,667.96)\blur0.98\pos(1061.72,538.62)\fscx170.15\fscy103.27}正式\N成員
 Dialogue: 1,0:20:00.26,0:20:08.23,Captions-207-,,0,0,0,,{\an5\fnYozakura JP\b0\fax-0.2\c&H000000&\bord0\blur1\frx354\fry344\fscx30\fscy18\pos(586.13,203.78)}正式\N成員
 Dialogue: 0,0:20:00.26,0:20:08.23,Captions-207-,,0,0,0,,{\an7\pos(0,0)\bord0\shad0\c&H464C8C&\p1}m 552 256 b 552 256 558.1 219 558.1 219 b 558.1 219 558.1 208 558.1 208 b 557.5 201.4 555 194.8 555.5 188 b 555.8 184.8 557.8 173.8 560.5 172.1 b 562.7 170.7 565.9 172.3 568 173.2 b 572.7 175.1 577.9 178.1 583 177.7 b 593.2 176.9 597 176 606 170.7 b 611.7 167.2 612.3 164.3 618.9 162 b 618.9 162 618.9 175 618.9 175 b 618.9 175 626 184 626 184 b 626 184 621 185 621 185 b 621 185 628 189 628 189 b 628 189 625.1 198 625.1 198 b 621.4 206.3 617.8 209.8 616.1 220 b 615.2 226 615.4 240.3 611.7 244.1 b 609.5 246.3 603.7 252.1 601 252.7 b 593 254.5 578.4 246.1 573 259 b 573 259 570 259 570 259 b 564.8 252.9 559.3 256 552 256
 Dialogue: 1,0:20:15.86,0:20:15.90,Captions-207-,,0,0,0,,{\pos(595.66,1569.24)\blur1\bord0\fscx228\fscy228\frx358\fry350\fax-0.4\fnYozakura JP\c&H111111&\alpha&HFF&}as{\alpha&H00&}F{\c&H0F0F0F&}u{\c&H0D0D0D&}l{\c&H0B0B0B&}l{\c&H0A0A0A&}\N{\c&H191919&}F{\c&H151515&}l{\c&H111111&}e{\c&H0E0E0E&}d{\c&H0A0A0A&}g{\c&H070707&}e{\c&H030303&}d{\c&H000000&}

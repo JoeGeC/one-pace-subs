@@ -200,7 +200,7 @@ Dialogue: 50,0:11:54.69,0:11:56.24,Main-207-,,0,0,0,,她阻止了嗎⋯⋯？
 Dialogue: 50,0:12:22.22,0:12:24.18,Main-207-,,0,0,0,,哦⋯⋯？你居然還活著。
 Dialogue: 50,0:12:25.06,0:12:27.64,Main-207-,,0,0,0,,攻⋯⋯攻擊呢？
 Dialogue: 50,0:12:29.10,0:12:30.69,Main-207-,,0,0,0,,掉在我身上的是什麼？
-Dialogue: 50,0:12:29.60,0:12:32.61,Main-207-,,0,0,0,,{\an8}好痛！
+Dialogue: 50,0:12:29.60,0:12:32.61,Main-207-,,0,0,100,,{\an8}好痛！
 Dialogue: 50,0:12:36.61,0:12:38.11,Main-207-,,0,0,0,,怎麼了嗎？
 Dialogue: 50,0:12:38.11,0:12:40.11,Main-207-,,0,0,0,,好像出了問題。
 Dialogue: 50,0:12:40.11,0:12:42.07,Main-207-,,0,0,0,,薇薇在做什麼？
@@ -258,8 +258,8 @@ Dialogue: 50,0:17:05.84,0:17:07.51,Main-207-,,0,0,0,,那個鳥人⋯⋯
 Dialogue: 50,0:17:12.64,0:17:13.43,Main-207-,,0,0,0,,佩魯！
 Dialogue: 50,0:17:14.97,0:17:17.18,Main-207-,,0,0,0,,這裡真讓人懷念⋯⋯
 Dialogue: 50,0:17:17.18,0:17:19.81,Main-207-,,0,0,0,,沙沙團的秘密基地⋯⋯
-Dialogue: 50,0:17:19.81,0:17:21.19,Secondary-207-,,0,0,0,,{\an8}佩魯，聽我說！
-Dialogue: 50,0:17:21.19,0:17:25.23,Secondary-207-,,0,0,0,,{\q2}{\an8}砲彈有定時裝置！\N隨時會爆炸！
+Dialogue: 50,0:17:19.81,0:17:21.19,Secondary-207-,,0,0,100,,{\an8}佩魯，聽我說！
+Dialogue: 50,0:17:21.19,0:17:25.23,Secondary-207-,,0,0,200,,{\q2}{\an8}砲彈有定時裝置！\N隨時會爆炸！
 Dialogue: 50,0:17:21.19,0:17:27.90,Main-207-,,0,0,0,,那時候，你總是能找到\N新方法給我們惹麻煩。
 Dialogue: 50,0:17:29.11,0:17:31.91,Flashbacks-207-,,0,0,0,,薇薇公主怎麼會\N在彈藥庫裡？！
 Dialogue: 50,0:17:34.16,0:17:35.66,Flashbacks-207-,,0,0,0,,喂，怎麼了？！
@@ -320,14 +320,14 @@ Dialogue: 50,0:22:32.66,0:22:37.13,Flashbacks-207-,,0,0,0,,這些事件將預示
 Dialogue: 50,0:22:54.77,0:22:56.06,Main-207-,,0,0,0,,瘋狂⋯⋯
 Dialogue: 50,0:22:57.27,0:22:58.57,Main-207-,,0,0,0,,為什麼⋯⋯
 Dialogue: 50,0:22:58.57,0:22:59.86,Main-207-,,0,0,0,,他們不停下來⋯⋯？
-Dialogue: 50,0:23:01.11,0:23:02.57,Main-207-,,0,0,0,,{\an8\fscx50\fscy50\bord1.9\shad1.9}拜託⋯⋯
-Dialogue: 50,0:23:02.57,0:23:04.40,Main-207-,,0,0,0,,{\an8\fscx50\fscy50\bord1.9\shad1.9}不要再打了！
-Dialogue: 50,0:23:05.07,0:23:07.07,Main-207-,,0,0,0,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯
-Dialogue: 50,0:23:07.07,0:23:09.28,Main-207-,,0,0,0,,{\an8\fscx60\fscy60\bord2.28\shad2.28}不要再打了！
-Dialogue: 50,0:23:09.28,0:23:10.54,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
-Dialogue: 50,0:23:11.08,0:23:13.37,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
-Dialogue: 50,0:23:13.37,0:23:15.08,Main-207-,,0,0,0,,{\an8\fscx80\fscy80\bord3.04\shad3.04}拜託⋯⋯
-Dialogue: 50,0:23:15.08,0:23:17.17,Main-207-,,0,0,0,,{\an8\fscx80\fscy80\bord3.04\shad3.04}不要再打了！
+Dialogue: 50,0:23:01.11,0:23:02.57,Main-207-,,0,0,100,,{\an8\fscx50\fscy50\bord1.9\shad1.9}拜託⋯⋯
+Dialogue: 50,0:23:02.57,0:23:04.40,Main-207-,,0,0,100,,{\an8\fscx50\fscy50\bord1.9\shad1.9}不要再打了！
+Dialogue: 50,0:23:05.07,0:23:07.07,Main-207-,,0,0,100,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯
+Dialogue: 50,0:23:07.07,0:23:09.28,Main-207-,,0,0,100,,{\an8\fscx60\fscy60\bord2.28\shad2.28}不要再打了！
+Dialogue: 50,0:23:09.28,0:23:10.54,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
+Dialogue: 50,0:23:11.08,0:23:13.37,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
+Dialogue: 50,0:23:13.37,0:23:15.08,Main-207-,,0,0,100,,{\an8\fscx80\fscy80\bord3.04\shad3.04}拜託⋯⋯
+Dialogue: 50,0:23:15.08,0:23:17.17,Main-207-,,0,0,100,,{\an8\fscx80\fscy80\bord3.04\shad3.04}不要再打了！
 Dialogue: 50,0:23:17.17,0:23:19.04,Main-207-,,0,0,0,,拜託⋯⋯
 Dialogue: 50,0:23:19.04,0:23:21.17,Main-207-,,0,0,0,,不要再打了！
 Dialogue: 50,0:23:21.80,0:23:23.67,Main-207-,,0,0,0,,拜託⋯⋯
@@ -335,25 +335,25 @@ Dialogue: 50,0:23:23.67,0:23:25.80,Main-207-,,0,0,0,,不要再打了！
 Dialogue: 50,0:23:26.30,0:23:28.14,Main-207-,,0,0,0,,拜託⋯⋯
 Dialogue: 50,0:23:28.14,0:23:30.35,Main-207-,,0,0,0,,不要再打了！
 Dialogue: 50,0:23:31.14,0:23:31.93,Main-207-,,0,0,0,,薇薇⋯⋯
-Dialogue: 50,0:23:31.14,0:23:32.60,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
-Dialogue: 50,0:23:33.14,0:23:35.56,Main-207-,,0,0,0,,{\an8\fscx40\fscy40\bord1.52\shad1.52}不要再打了！
+Dialogue: 50,0:23:31.14,0:23:32.60,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
+Dialogue: 50,0:23:33.14,0:23:35.56,Main-207-,,0,0,100,,{\an8\fscx40\fscy40\bord1.52\shad1.52}不要再打了！
 Dialogue: 50,0:23:35.56,0:23:39.40,Main-207-,,0,0,0,,拜託⋯⋯不要再打了！
 Dialogue: 50,0:23:40.32,0:23:44.15,Main-207-,,0,0,0,,拜託⋯⋯不要再打了！
 Dialogue: 50,0:23:44.90,0:23:46.53,Main-207-,,0,0,0,,拜託⋯⋯
-Dialogue: 50,0:23:46.91,0:23:48.82,Main-207-,,0,0,0,,{\an8\fscx50\fscy50\bord1.9\shad1.9}住手！
-Dialogue: 50,0:23:49.53,0:23:52.91,Main-207-,,0,0,0,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯不要再打了！
-Dialogue: 50,0:23:52.91,0:23:55.00,Main-207-,,0,0,0,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯
-Dialogue: 50,0:23:55.00,0:23:56.46,Main-207-,,0,0,0,,{\an8\fscx60\fscy60\bord2.28\shad2.28}不要再打了！
+Dialogue: 50,0:23:46.91,0:23:48.82,Main-207-,,0,0,100,,{\an8\fscx50\fscy50\bord1.9\shad1.9}住手！
+Dialogue: 50,0:23:49.53,0:23:52.91,Main-207-,,0,0,100,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯不要再打了！
+Dialogue: 50,0:23:52.91,0:23:55.00,Main-207-,,0,0,100,,{\an8\fscx60\fscy60\bord2.28\shad2.28}拜託⋯⋯
+Dialogue: 50,0:23:55.00,0:23:56.46,Main-207-,,0,0,100,,{\an8\fscx60\fscy60\bord2.28\shad2.28}不要再打了！
 Dialogue: 50,0:23:55.00,0:23:56.46,Main-207-,,0,0,0,,傻瓜⋯⋯
 Dialogue: 50,0:23:57.04,0:23:59.79,Main-207-,,0,0,0,,別站在那裡發呆了！
 Dialogue: 50,0:23:59.79,0:24:02.46,Main-207-,,0,0,0,,我不管你們用什麼方法，\N總之阻止反抗軍！
 Dialogue: 50,0:24:02.46,0:24:03.84,Main-207-,,0,0,0,,快！走！
 Dialogue: 50,0:24:03.84,0:24:05.09,Main-207-,,0,0,0,,好痛！
 Dialogue: 50,0:24:05.47,0:24:08.59,Main-207-,,0,0,0,,我們必須盡量\N把傷亡降到最低！
-Dialogue: 50,0:24:08.59,0:24:10.47,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
-Dialogue: 50,0:24:10.47,0:24:13.06,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
-Dialogue: 50,0:24:13.06,0:24:14.85,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
-Dialogue: 50,0:24:14.85,0:24:16.35,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
+Dialogue: 50,0:24:08.59,0:24:10.47,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
+Dialogue: 50,0:24:10.47,0:24:13.06,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
+Dialogue: 50,0:24:13.06,0:24:14.85,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}拜託⋯⋯
+Dialogue: 50,0:24:14.85,0:24:16.35,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
 Dialogue: 50,0:24:16.73,0:24:18.23,Main-207-,,0,0,0,,拜託⋯⋯
 Dialogue: 50,0:24:18.23,0:24:19.81,Main-207-,,0,0,0,,不要再打了！
 Dialogue: 50,0:24:20.19,0:24:21.62,Main-207-,,0,0,0,,拜託⋯⋯
@@ -382,7 +382,7 @@ Dialogue: 50,0:26:43.25,0:26:44.71,Main-207-,,0,0,0,,{\fad(150,0)\t(1395,0,1,\3c
 Dialogue: 50,0:27:06.44,0:27:09.82,Main-207-,,0,0,0,,{\fad(150,150)}橡膠⋯⋯
 Dialogue: 50,0:27:10.69,0:27:12.40,Main-207-,,0,0,0,,{\fad(150,150)}沙漠⋯⋯
 Dialogue: 50,0:27:13.53,0:27:15.95,Main-207-,,0,0,0,,{\fad(150,150)}⋯⋯暴風雨！
-Dialogue: 50,0:27:14.95,0:27:17.53,Main-207-,,0,0,0,,{\an8\fad(150,150)}⋯⋯長刀！
+Dialogue: 50,0:27:14.95,0:27:17.53,Main-207-,,0,0,100,,{\an8\fad(150,150)}⋯⋯長刀！
 Dialogue: 50,0:28:28.10,0:28:29.60,Main-207-,,0,0,0,,難以置信⋯⋯
 Dialogue: 50,0:28:29.60,0:28:33.19,Main-207-,,0,0,0,,這裡和地面之間\N有好幾層岩盤⋯⋯
 Dialogue: 50,0:28:43.95,0:28:45.91,Main-207-,,0,0,0,,喂，看那邊！
@@ -406,7 +406,7 @@ Dialogue: 50,0:30:23.89,0:30:27.47,Main-207-,,0,0,0,,當敵人已經倒下了⋯
 Dialogue: 50,0:30:34.10,0:30:35.94,Main-207-,,0,0,0,,不要再⋯⋯
 Dialogue: 50,0:30:35.94,0:30:38.69,Main-207-,,0,0,0,,流更多的血了⋯⋯
 Dialogue: 50,0:30:41.74,0:30:42.82,Main-207-,,0,0,0,,拜託⋯⋯
-Dialogue: 50,0:30:43.57,0:30:46.74,Main-207-,,0,0,0,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
+Dialogue: 50,0:30:43.57,0:30:46.74,Main-207-,,0,0,100,,{\an8\fscx70\fscy70\bord2.66\shad2.66}不要再打了！
 Dialogue: 50,0:31:07.47,0:31:08.14,Main-207-,,0,0,0,,乂薩！
 Dialogue: 50,0:31:08.64,0:31:10.14,Main-207-,,0,0,0,,你沒事吧，乂薩？！
 Dialogue: 50,0:31:13.98,0:31:15.40,Main-207-,,0,0,0,,你明白了嗎⋯⋯？
@@ -438,23 +438,23 @@ Dialogue: 50,0:33:44.00,0:33:46.13,Main-207-,,0,0,0,,因為我們的噩夢⋯⋯
 Dialogue: 50,0:33:46.13,0:33:47.76,Main-207-,,0,0,0,,終於結束了⋯⋯！
 Dialogue: 50,0:34:09.40,0:34:10.90,Main-207-,,0,0,0,,謝謝你們。
 Dialogue: 50,0:34:19.83,0:34:21.54,Main-207-,,0,0,0,,小意思。
-Dialogue: 0,0:01:49.96,0:01:52.88,Title-207-,,0,0,0,,{\an8\bord2.2\c&H161617&\3c&H161617&\fad(984,0)\fsp-2\1a&HFF&\blur0.5\t(939,984,\1a&H00&)}我會超越你
-Dialogue: 1,0:01:49.96,0:01:52.88,Title-207-,,0,0,0,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.6\fad(984,0)\fsp-2}我會超越你
-Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
-Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
-Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
-Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
-Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
-Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
-Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
-Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
-Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
-Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
-Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
-Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
-Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
-Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
-Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
+Dialogue: 0,0:01:49.96,0:01:52.88,Title-207-,,0,0,100,,{\an8\bord2.2\c&H161617&\3c&H161617&\fad(984,0)\fsp-2\1a&HFF&\blur0.5\t(939,984,\1a&H00&)}我會超越你
+Dialogue: 1,0:01:49.96,0:01:52.88,Title-207-,,0,0,100,,{\an8\bord0\c&HE7E7E7&\4a&HFF&\blur0.6\fad(984,0)\fsp-2}我會超越你
+Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
+Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
+Dialogue: 0,0:09:08.40,0:09:10.95,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 5 秒
+Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
+Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
+Dialogue: 0,0:09:19.71,0:09:22.33,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 4 秒
+Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
+Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
+Dialogue: 0,0:09:36.72,0:09:39.39,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 3 秒
+Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
+Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
+Dialogue: 0,0:10:15.34,0:10:17.43,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 2 秒
+Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
+Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
+Dialogue: 0,0:10:31.11,0:10:33.53,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\fnDFPGiHi-W7-Strp\fscx80\fscy80\c&HF8F4FC&\blur0.8}引爆倒數 1 秒
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\Nfedew

@@ -448,76 +448,76 @@ Dialogue: 0,0:00:15.73,0:00:18.73,Credits-480p,,68,0,23,,{\alpha&H10&\an7\fad(60
 Dialogue: 0,0:00:18.73,0:00:21.73,Credits-480p,,68,0,23,,{\alpha&H10&\an7\fad(600,600)\fs78.75}Karaoke{\r}\NKaitouYahiko
 Dialogue: 0,0:00:21.73,0:00:24.73,Credits-480p,,68,0,23,,{\alpha&H10&\an7\fad(600,600)\fs78.75}Subtitle Editing{\r}\NZenef
 Dialogue: 0,0:00:24.73,0:00:27.73,Credits-480p,,68,0,23,,{\alpha&H10&\an7\fad(600,600)\fs78.75}Translation{\r}\NDemonRin\NFUNimation
-Dialogue: 0,0:01:50.26,0:01:54.09,Title-480p,,0,0,0,,{\an8\blur0.6\fad(700,750)\3c&H100000&\c&H100000&\1a&HFF&\t(655,700,\1a&H00&)\t(3080,3125,\1a&HFF&)}我愛我的國家
-Dialogue: 1,0:01:50.26,0:01:54.09,Title-480p,,0,0,0,,{\an8\bord0\blur0.6\fad(700,750)\4a&HFF&}我愛我的國家
-Dialogue: 0,0:02:50.76,0:02:56.78,Captions_v2-480p,,0,0,0,,{\an8\blur0.7\3c&H1E1716&\c&H1E1716&\bord4.5\fsp8}卡特蕾亞
-Dialogue: 1,0:02:50.76,0:02:56.78,Captions_v2-480p,,0,0,0,,{\an8\blur0.7\bord0\4a&HFF&\fsp8}卡特蕾亞
-Dialogue: 0,0:11:33.88,0:11:35.30,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yuba
-Dialogue: 1,0:11:33.88,0:11:35.30,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:35.30,0:11:35.34,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1\iclip(m 608 798 b 646 772 724 711 857 778 l 902 814)}Yuba
-Dialogue: 1,0:11:35.30,0:11:35.34,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1\iclip(m 608 798 b 646 772 724 711 857 778 l 902 814)}Yuba
-Dialogue: 0,0:11:42.22,0:11:42.93,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\alpha&HEF&\blur1\t(0,691,\alpha&H00&)}Yuba
-Dialogue: 1,0:11:42.22,0:11:42.93,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HEF&\4a&HFF&\blur1\t(0,691,\2a&H00&\1a&H00&\3a&H00&)}Yuba
-Dialogue: 0,0:11:42.93,0:11:43.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yub{\c&H97979B&\3c&H000000&\alpha&HD0&}a
-Dialogue: 1,0:11:42.93,0:11:43.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yub{\alpha&HD0&}a
-Dialogue: 0,0:11:43.06,0:11:43.18,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Y{\c&H97979B&\3c&H000000&\alpha&HD0&}uba
-Dialogue: 1,0:11:43.06,0:11:43.18,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
-Dialogue: 0,0:11:43.18,0:11:43.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
-Dialogue: 1,0:11:43.18,0:11:43.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
-Dialogue: 0,0:11:43.31,0:11:43.39,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
-Dialogue: 1,0:11:43.31,0:11:43.39,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
-Dialogue: 0,0:11:43.39,0:11:44.27,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
-Dialogue: 1,0:11:43.39,0:11:44.27,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:44.27,0:11:44.43,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
-Dialogue: 1,0:11:44.27,0:11:44.43,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
-Dialogue: 0,0:11:44.43,0:11:44.93,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yuba
-Dialogue: 1,0:11:44.43,0:11:44.93,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:44.93,0:11:45.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
-Dialogue: 1,0:11:44.93,0:11:45.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
-Dialogue: 0,0:11:45.06,0:11:45.18,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
-Dialogue: 1,0:11:45.06,0:11:45.18,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
-Dialogue: 0,0:11:45.18,0:11:45.89,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
-Dialogue: 1,0:11:45.18,0:11:45.89,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:45.89,0:11:46.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Y{\c&H97979B&\3c&H000000&\alpha&HD0&}uba
-Dialogue: 1,0:11:45.89,0:11:46.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
-Dialogue: 0,0:11:46.06,0:11:46.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yub{\c&H97979B&\3c&H000000&\alpha&HD0&}a
-Dialogue: 1,0:11:46.06,0:11:46.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yub{\alpha&HD0&}a
-Dialogue: 0,0:11:46.19,0:11:46.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
-Dialogue: 1,0:11:46.19,0:11:46.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
-Dialogue: 0,0:11:46.31,0:11:46.39,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
-Dialogue: 1,0:11:46.31,0:11:46.39,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
-Dialogue: 0,0:11:46.39,0:11:47.94,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
-Dialogue: 1,0:11:46.39,0:11:47.94,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:47.94,0:11:48.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\alpha&HF0&}a
-Dialogue: 1,0:11:47.94,0:11:48.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&HF0&}a
-Dialogue: 0,0:11:48.06,0:11:48.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\alpha&HF0&}uba
-Dialogue: 1,0:11:48.06,0:11:48.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&HF0&}uba
-Dialogue: 0,0:11:48.19,0:11:49.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Yuba
-Dialogue: 1,0:11:48.19,0:11:49.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:49.06,0:11:49.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Yu{\alpha&HD0&}ba
-Dialogue: 1,0:11:49.06,0:11:49.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
-Dialogue: 0,0:11:49.19,0:11:49.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Y{\alpha&HD0&}uba
-Dialogue: 1,0:11:49.19,0:11:49.31,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
-Dialogue: 0,0:11:49.31,0:11:49.44,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
-Dialogue: 1,0:11:49.31,0:11:49.44,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
-Dialogue: 0,0:11:49.44,0:11:49.56,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
-Dialogue: 1,0:11:49.44,0:11:49.56,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
-Dialogue: 0,0:11:49.56,0:11:49.69,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
-Dialogue: 1,0:11:49.56,0:11:49.69,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
-Dialogue: 0,0:11:49.69,0:11:49.90,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
-Dialogue: 1,0:11:49.69,0:11:49.90,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:49.90,0:11:50.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}u{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
-Dialogue: 1,0:11:49.90,0:11:50.06,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}u{\alpha&HD0&}ba
-Dialogue: 0,0:11:50.06,0:11:50.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
-Dialogue: 1,0:11:50.06,0:11:50.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
-Dialogue: 0,0:11:50.19,0:11:51.07,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
-Dialogue: 1,0:11:50.19,0:11:51.07,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
-Dialogue: 0,0:11:51.07,0:11:51.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
-Dialogue: 1,0:11:51.07,0:11:51.19,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
-Dialogue: 0,0:11:51.19,0:11:52.44,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1\fad(0,520)\t(730,775,\1a&HFF&)}Yuba
-Dialogue: 1,0:11:51.19,0:11:52.44,Captions_v2-480p,,0,0,0,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1\fad(0,520)}Yuba
-Dialogue: 0,0:15:48.93,0:15:54.64,Captions_v2-480p,,0,0,0,,{\an8\blur0.5\fad(750,0)\bord3\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}賭場\N雨地丁納斯
-Dialogue: 1,0:15:48.93,0:15:54.64,Captions_v2-480p,,0,0,0,,{\an8\blur0.5\fad(750,0)\bord0\4a&HFF&}賭場\N雨地丁納斯
+Dialogue: 0,0:01:50.26,0:01:54.09,Title-480p,,0,0,100,,{\an8\blur0.6\fad(700,750)\3c&H100000&\c&H100000&\1a&HFF&\t(655,700,\1a&H00&)\t(3080,3125,\1a&HFF&)}我愛我的國家
+Dialogue: 1,0:01:50.26,0:01:54.09,Title-480p,,0,0,100,,{\an8\bord0\blur0.6\fad(700,750)\4a&HFF&}我愛我的國家
+Dialogue: 0,0:02:50.76,0:02:56.78,Captions_v2-480p,,0,0,100,,{\an8\blur0.7\3c&H1E1716&\c&H1E1716&\bord4.5\fsp8}卡特蕾亞
+Dialogue: 1,0:02:50.76,0:02:56.78,Captions_v2-480p,,0,0,100,,{\an8\blur0.7\bord0\4a&HFF&\fsp8}卡特蕾亞
+Dialogue: 0,0:11:33.88,0:11:35.30,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yuba
+Dialogue: 1,0:11:33.88,0:11:35.30,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:35.30,0:11:35.34,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1\iclip(m 608 798 b 646 772 724 711 857 778 l 902 814)}Yuba
+Dialogue: 1,0:11:35.30,0:11:35.34,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1\iclip(m 608 798 b 646 772 724 711 857 778 l 902 814)}Yuba
+Dialogue: 0,0:11:42.22,0:11:42.93,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\alpha&HEF&\blur1\t(0,691,\alpha&H00&)}Yuba
+Dialogue: 1,0:11:42.22,0:11:42.93,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HEF&\4a&HFF&\blur1\t(0,691,\2a&H00&\1a&H00&\3a&H00&)}Yuba
+Dialogue: 0,0:11:42.93,0:11:43.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yub{\c&H97979B&\3c&H000000&\alpha&HD0&}a
+Dialogue: 1,0:11:42.93,0:11:43.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yub{\alpha&HD0&}a
+Dialogue: 0,0:11:43.06,0:11:43.18,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Y{\c&H97979B&\3c&H000000&\alpha&HD0&}uba
+Dialogue: 1,0:11:43.06,0:11:43.18,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
+Dialogue: 0,0:11:43.18,0:11:43.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
+Dialogue: 1,0:11:43.18,0:11:43.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
+Dialogue: 0,0:11:43.31,0:11:43.39,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
+Dialogue: 1,0:11:43.31,0:11:43.39,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
+Dialogue: 0,0:11:43.39,0:11:44.27,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
+Dialogue: 1,0:11:43.39,0:11:44.27,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:44.27,0:11:44.43,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
+Dialogue: 1,0:11:44.27,0:11:44.43,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
+Dialogue: 0,0:11:44.43,0:11:44.93,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yuba
+Dialogue: 1,0:11:44.43,0:11:44.93,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:44.93,0:11:45.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
+Dialogue: 1,0:11:44.93,0:11:45.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
+Dialogue: 0,0:11:45.06,0:11:45.18,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yu{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}ba
+Dialogue: 1,0:11:45.06,0:11:45.18,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yu{\alpha&H00&}ba
+Dialogue: 0,0:11:45.18,0:11:45.89,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
+Dialogue: 1,0:11:45.18,0:11:45.89,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:45.89,0:11:46.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Y{\c&H97979B&\3c&H000000&\alpha&HD0&}uba
+Dialogue: 1,0:11:45.89,0:11:46.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
+Dialogue: 0,0:11:46.06,0:11:46.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yub{\c&H97979B&\3c&H000000&\alpha&HD0&}a
+Dialogue: 1,0:11:46.06,0:11:46.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yub{\alpha&HD0&}a
+Dialogue: 0,0:11:46.19,0:11:46.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
+Dialogue: 1,0:11:46.19,0:11:46.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
+Dialogue: 0,0:11:46.31,0:11:46.39,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
+Dialogue: 1,0:11:46.31,0:11:46.39,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
+Dialogue: 0,0:11:46.39,0:11:47.94,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
+Dialogue: 1,0:11:46.39,0:11:47.94,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:47.94,0:11:48.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\alpha&HF0&}a
+Dialogue: 1,0:11:47.94,0:11:48.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&HF0&}a
+Dialogue: 0,0:11:48.06,0:11:48.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\alpha&HF0&}uba
+Dialogue: 1,0:11:48.06,0:11:48.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&HF0&}uba
+Dialogue: 0,0:11:48.19,0:11:49.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Yuba
+Dialogue: 1,0:11:48.19,0:11:49.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:49.06,0:11:49.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Yu{\alpha&HD0&}ba
+Dialogue: 1,0:11:49.06,0:11:49.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
+Dialogue: 0,0:11:49.19,0:11:49.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HF0&\blur1}Y{\alpha&HD0&}uba
+Dialogue: 1,0:11:49.19,0:11:49.31,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HF0&\4a&HFF&\blur1}Y{\alpha&HD0&}uba
+Dialogue: 0,0:11:49.31,0:11:49.44,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
+Dialogue: 1,0:11:49.31,0:11:49.44,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
+Dialogue: 0,0:11:49.44,0:11:49.56,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}uba
+Dialogue: 1,0:11:49.44,0:11:49.56,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}uba
+Dialogue: 0,0:11:49.56,0:11:49.69,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
+Dialogue: 1,0:11:49.56,0:11:49.69,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
+Dialogue: 0,0:11:49.69,0:11:49.90,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
+Dialogue: 1,0:11:49.69,0:11:49.90,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:49.90,0:11:50.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Y{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}u{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
+Dialogue: 1,0:11:49.90,0:11:50.06,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Y{\alpha&H00&}u{\alpha&HD0&}ba
+Dialogue: 0,0:11:50.06,0:11:50.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yub{\c&H3D3D40&\3c&H3D3D40&\alpha&H00&}a
+Dialogue: 1,0:11:50.06,0:11:50.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yub{\alpha&H00&}a
+Dialogue: 0,0:11:50.19,0:11:51.07,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H97979B&\alpha&HD0&\blur1}Yuba
+Dialogue: 1,0:11:50.19,0:11:51.07,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\alpha&HD0&\4a&HFF&\blur1}Yuba
+Dialogue: 0,0:11:51.07,0:11:51.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1}Yu{\c&H97979B&\3c&H000000&\alpha&HD0&}ba
+Dialogue: 1,0:11:51.07,0:11:51.19,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1}Yu{\alpha&HD0&}ba
+Dialogue: 0,0:11:51.19,0:11:52.44,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord1.7\c&H3D3D40&\3c&H3D3D40&\blur1\fad(0,520)\t(730,775,\1a&HFF&)}Yuba
+Dialogue: 1,0:11:51.19,0:11:52.44,Captions_v2-480p,,0,0,100,,{\an8\fscx65\fscy65\fnBD Cartoon Shout\fsp15\b0\bord0\c&HFCFCFB&\4a&HFF&\blur1\fad(0,520)}Yuba
+Dialogue: 0,0:15:48.93,0:15:54.64,Captions_v2-480p,,0,0,200,,{\an8\blur0.5\fad(750,0)\bord3\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}賭場\N雨地丁納斯
+Dialogue: 1,0:15:48.93,0:15:54.64,Captions_v2-480p,,0,0,200,,{\an8\blur0.5\fad(750,0)\bord0\4a&HFF&}賭場\N雨地丁納斯
 Dialogue: 0,0:00:12.90,0:00:14.63,RogerMonologue,,0,0,0,,繼承的意志……
 Dialogue: 0,0:00:14.63,0:00:17.54,RogerMonologue,,0,0,0,,時代的潮流，\N與人類的夢想……
 Dialogue: 0,0:00:17.54,0:00:20.37,RogerMonologue,,0,0,0,,這些都無法被阻止。

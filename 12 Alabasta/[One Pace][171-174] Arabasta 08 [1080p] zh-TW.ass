@@ -556,16 +556,16 @@ Dialogue: 50,0:35:12.93,0:35:17.06,Main-207-,,0,0,0,,喬巴正在城裡\N當誘�
 Dialogue: 50,0:35:17.06,0:35:20.91,Main-207-,,0,0,0,,我們得快點。\N叛亂也已經開始了。
 Dialogue: 50,0:35:20.91,0:35:23.35,Main-207-,,0,0,0,,香吉士！
 Dialogue: 50,0:35:25.43,0:35:30.56,Main-207-,,0,0,0,,能告訴我\N他們在哪裡嗎，公主？
-Dialogue: 0,0:01:49.92,0:01:53.92,Captions-207-,,0,0,0,,{\an8\blur0.7\bord1.4\c&H4C4C4C&\3c&H4C4C4C&}阿魯巴納王宮
-Dialogue: 1,0:01:49.92,0:01:53.92,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\c&HFAFAFA&\4a&HFF&}阿魯巴納王宮
-Dialogue: 0,0:01:58.77,0:02:04.90,Title-207-,,0,0,0,,{\an8\fad(800,700)\blur0.6\bord1.9\fsp-2\c&H242422&\3c&H242422&\1a&HFF&\4a&HFF&\t(755,800,\1a&H00&)\t(5430,5475,\1a&HFF&)}叛亂
-Dialogue: 1,0:01:58.77,0:02:04.90,Title-207-,,0,0,0,,{\an8\fad(800,700)\blur0.6\bord0\fsp-2\c&HF9F9F9&\4a&HFF&}叛亂
-Dialogue: 0,0:05:33.94,0:05:38.44,Captions-207-,,0,0,0,,{\an8\blur0.7\bord1.3\c&H4C4C4C&\3c&H4C4C4C&}納諾哈那
-Dialogue: 1,0:05:33.94,0:05:38.44,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\4a&HFF&}納諾哈那
-Dialogue: 0,0:14:30.05,0:14:32.30,Captions-207-,,0,0,0,,{\an8\blur0.7\bord1.3\fscx90\fscy90\c&H4C4C4C&\3c&H4C4C4C&}此時，在阿魯巴納王宮
-Dialogue: 1,0:14:30.05,0:14:32.30,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx90\fscy90\c&HFDFDFB&\4a&HFF&}此時，在阿魯巴納王宮
-Dialogue: 0,0:15:46.98,0:15:51.72,Captions-207-,,0,0,0,,{\an8\blur0.7\bord1.3\c&H4C4C4C&\3c&H4C4C4C&}雨地丁納斯
-Dialogue: 1,0:15:46.98,0:15:51.72,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\c&HFDFDFB&\4a&HFF&}雨地丁納斯
+Dialogue: 0,0:01:49.92,0:01:53.92,Captions-207-,,0,0,100,,{\an8\blur0.7\bord1.4\c&H4C4C4C&\3c&H4C4C4C&}阿魯巴納王宮
+Dialogue: 1,0:01:49.92,0:01:53.92,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\c&HFAFAFA&\4a&HFF&}阿魯巴納王宮
+Dialogue: 0,0:01:58.77,0:02:04.90,Title-207-,,0,0,100,,{\an8\fad(800,700)\blur0.6\bord1.9\fsp-2\c&H242422&\3c&H242422&\1a&HFF&\4a&HFF&\t(755,800,\1a&H00&)\t(5430,5475,\1a&HFF&)}叛亂
+Dialogue: 1,0:01:58.77,0:02:04.90,Title-207-,,0,0,100,,{\an8\fad(800,700)\blur0.6\bord0\fsp-2\c&HF9F9F9&\4a&HFF&}叛亂
+Dialogue: 0,0:05:33.94,0:05:38.44,Captions-207-,,0,0,100,,{\an8\blur0.7\bord1.3\c&H4C4C4C&\3c&H4C4C4C&}納諾哈那
+Dialogue: 1,0:05:33.94,0:05:38.44,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\4a&HFF&}納諾哈那
+Dialogue: 0,0:14:30.05,0:14:32.30,Captions-207-,,0,0,100,,{\an8\blur0.7\bord1.3\fscx90\fscy90\c&H4C4C4C&\3c&H4C4C4C&}此時，在阿魯巴納王宮
+Dialogue: 1,0:14:30.05,0:14:32.30,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx90\fscy90\c&HFDFDFB&\4a&HFF&}此時，在阿魯巴納王宮
+Dialogue: 0,0:15:46.98,0:15:51.72,Captions-207-,,0,0,100,,{\an8\blur0.7\bord1.3\c&H4C4C4C&\3c&H4C4C4C&}雨地丁納斯
+Dialogue: 1,0:15:46.98,0:15:51.72,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\c&HFDFDFB&\4a&HFF&}雨地丁納斯
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot

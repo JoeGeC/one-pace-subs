@@ -20,7 +20,7 @@ Style: Credits-207+,FOT-Greco Std DB Strp,55,&H00FFFFFF,&H000000FF,&H00000000,&H
 Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,100,1
 Style: Main-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,300,300,27,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3.75,3.75,8,300,300,27,1
+Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3.75,3.75,8,300,300,100,1
 Style: Lyrics-OP5,FOT-Greco Std DB Strp,57,&H00FFFFFF,&H00FFFFFF,&H00060606,&H00000000,-1,0,0,0,100,100,1,0,1,4,0,2,33,33,27,1
 Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,15,15,15,1
 
@@ -420,7 +420,7 @@ Dialogue: 0,0:10:51.30,0:10:56.34,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fsc
 Dialogue: 1,0:10:51.30,0:10:56.34,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fscx110\fscy110\fs90\b600\bord0\blur0.8\fad(476,476)\4a&HFF&}冒煙湯姆
 Dialogue: 0,0:11:07.44,0:11:11.23,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fad(477,0)\fs90\1a&HFF&\blur0.8\bord3\3c&H0E0E11&\b600\t(436,477,\1a&H00&)}第五節車廂
 Dialogue: 1,0:11:07.44,0:11:11.23,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fad(477,0)\fs90\bord0\blur0.8\b600\t(436,477,\1a&H00&)}第五節車廂
-Dialogue: 50,0:11:29.46,0:11:39.05,Note-207+,,0,0,0,,{\fad(396,0)\t(436,477,\1a&H00&)}「正義」
+Dialogue: 50,0:11:29.46,0:11:39.05,Note-207+,,0,0,100,,{\fad(396,0)\t(436,477,\1a&H00&)}「正義」
 Dialogue: 0,0:11:40.43,0:11:46.89,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(479,0)\fs90\1a&HFF&\blur0.8\bord3\3c&H0E0E11&\b600\t(437,479,\1a&H00&)}T-Bone上尉\N海軍本部\N{\fscx80\fscy80}嗜好：拯救他人   座右銘：一天一百件善事
 Dialogue: 1,0:11:40.43,0:11:46.89,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(479,0)\fs90\bord0\blur0.8\b600\t(437,479,\1a&H00&)}T-Bone上尉\N海軍本部\N{\fscx80\fscy80}嗜好：拯救他人   座右銘：一天一百件善事
 Dialogue: 0,0:21:16.13,0:21:19.42,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fad(479,0)\fs90\fscx110\fscy110\1a&HFF&\blur0.8\bord3\3c&H0E0E11&\b600\t(437,479,\1a&H00&)}冒煙湯姆

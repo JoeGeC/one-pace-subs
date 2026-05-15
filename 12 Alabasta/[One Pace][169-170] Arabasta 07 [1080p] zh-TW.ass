@@ -214,9 +214,9 @@ Dialogue: 50,0:14:18.68,0:14:21.47,Main-270-,,0,0,0,,老闆和你的\N朋友們�
 Dialogue: 50,0:14:24.52,0:14:27.96,Main-270-,,0,0,0,,在雨地丁納斯\N深處的牢房裡。
 Dialogue: 50,0:14:31.29,0:14:33.19,Main-270-,,0,0,0,,看我，我是香吉士。
 Dialogue: 50,0:14:34.40,0:14:36.80,Main-270-,,0,0,0,,肉是你吃的嗎？
-Dialogue: 50,0:14:38.19,0:14:39.47,Secondary-207-,,0,0,0,,{\an8}Collier！
+Dialogue: 50,0:14:38.19,0:14:39.47,Secondary-207-,,0,0,100,,{\an8}Collier！
 Dialogue: 50,0:14:38.19,0:14:40.49,Main-270-,,0,0,0,,你們能不能……
-Dialogue: 50,0:14:39.47,0:14:41.15,Secondary-207-,,0,0,0,,{\an8}接下來是索隆！「鬼！」
+Dialogue: 50,0:14:39.47,0:14:41.15,Secondary-207-,,0,0,100,,{\an8}接下來是索隆！「鬼！」
 Dialogue: 50,0:14:42.01,0:14:43.48,Main-270-,,0,0,0,,像樣點的囚犯一樣！
 Dialogue: 50,0:14:45.80,0:14:48.75,Main-270-,,0,0,0,,我們都陷入困境了，\N你們怎麼還能這樣？！
 Dialogue: 50,0:14:48.75,0:14:51.92,Main-270-,,0,0,0,,反正出不去，\N還能做什麼？！
@@ -267,31 +267,31 @@ Dialogue: 50,0:17:45.28,0:17:48.71,Main-270-,,0,0,0,,所有人，不分大小，
 Dialogue: 50,0:17:48.71,0:17:50.97,Main-270-,,0,0,0,,在痛苦中掙扎。
 Dialogue: 50,0:17:53.58,0:17:57.01,Main-270-,,0,0,0,,烏托邦行動……
 Dialogue: 50,0:17:57.01,0:17:59.38,Main-270-,,0,0,0,,開始！
-Dialogue: 0,0:01:50.30,0:01:55.22,Title-207-,,0,0,0,,{\an8\fad(800,0)\blur0.8\bord1.9\fsp-1\c&H000000&\1a&HFF&\4a&HFF&\t(755,800,\1a&H00&)}一切的開端
-Dialogue: 1,0:01:50.30,0:01:55.22,Title-207-,,0,0,0,,{\an8\fad(800,0)\blur0.8\bord0\fsp-1\c&HFAFAF9&\4a&HFF&}一切的開端
-Dialogue: 0,0:04:51.15,0:04:51.40,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:51.40,0:04:51.48,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 560 l 585 558 b 602 601 604 673 721 561 l 865 560 865 628 825 719 526 717)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:52.90,0:04:52.98,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 644 l 589 602 b 600 665 616 679 625 688 678 675 764 619 832 559 l 679 715 526 717)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:52.98,0:04:53.11,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 560 l 705 540 b 698 572 680 650 682 669 l 731 652 749 740 526 717)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:53.11,0:04:53.27,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 866 606 l 869 728 685 745 b 675 701 659 637 654 577 l 827 629)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:53.27,0:04:53.36,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 865 560 l 867 736 773 741 708 589)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.40,0:04:54.48,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 589 656 l 626 652 595 686 570 657)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.48,0:04:54.61,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 593 610 l 660 613 658 637 610 704)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.61,0:04:54.77,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 614 598 l 660 600 630 672 638 730 700 744 744 648 794 768 632 764 610 676)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.77,0:04:54.90,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 864 694 l 675 705 b 673 682 659 639 667 606 l 865 601)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.90,0:04:54.98,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 865 694 l 774 704 b 766 678 752 636 748 603 l 873 606)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 0,0:04:54.98,0:04:55.11,Captions-207-,,0,0,0,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 866 708 l 838 708 b 826 686 815 630 808 604 l 866 606)\p1}m 576 615 l 849 615 848 696 575 690
-Dialogue: 1,0:04:51.15,0:04:51.48,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&}V.I.P   Pirate
-Dialogue: 1,0:04:52.90,0:04:52.98,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 526 644 l 589 602 b 600 665 616 679 625 688 678 675 764 619 832 559 l 679 715 526 717)}V.I.P   Pirate
-Dialogue: 1,0:04:52.98,0:04:53.11,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 526 560 l 705 540 b 698 572 680 650 682 669 l 731 652 749 740 526 717)}V.I.P   Pirate
-Dialogue: 1,0:04:53.11,0:04:53.27,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 874 576 l 869 728 685 745 b 675 701 659 637 654 577)}V.I.P   Pirate
-Dialogue: 1,0:04:53.27,0:04:53.36,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 865 560 l 867 736 773 741 708 589)}V.I.P   Pirate
-Dialogue: 1,0:04:54.40,0:04:54.48,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 589 656 l 626 652 595 686 570 657)}V.I.P   Pirate
-Dialogue: 1,0:04:54.48,0:04:54.61,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 593 610 l 660 613 658 637 610 704)}V.I.P   Pirate
-Dialogue: 1,0:04:54.61,0:04:54.77,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 614 598 l 666 602 630 668 638 730 700 744 744 648 794 768 632 764 610 676)}V.I.P   Pirate
-Dialogue: 1,0:04:54.77,0:04:54.90,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 864 694 l 675 705 b 673 682 659 639 667 606 l 865 601)}V.I.P   Pirate
-Dialogue: 1,0:04:54.90,0:04:54.98,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 865 694 l 774 704 b 766 678 752 636 748 603 l 873 606)}V.I.P   Pirate
-Dialogue: 1,0:04:54.98,0:04:55.11,Captions-207-,,0,0,0,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 866 708 l 838 708 b 826 686 815 630 808 604 l 866 606)}V.I.P   Pirate
+Dialogue: 0,0:01:50.30,0:01:55.22,Title-207-,,0,0,100,,{\an8\fad(800,0)\blur0.8\bord1.9\fsp-1\c&H000000&\1a&HFF&\4a&HFF&\t(755,800,\1a&H00&)}一切的開端
+Dialogue: 1,0:01:50.30,0:01:55.22,Title-207-,,0,0,100,,{\an8\fad(800,0)\blur0.8\bord0\fsp-1\c&HFAFAF9&\4a&HFF&}一切的開端
+Dialogue: 0,0:04:51.15,0:04:51.40,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:51.40,0:04:51.48,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 560 l 585 558 b 602 601 604 673 721 561 l 865 560 865 628 825 719 526 717)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:52.90,0:04:52.98,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 644 l 589 602 b 600 665 616 679 625 688 678 675 764 619 832 559 l 679 715 526 717)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:52.98,0:04:53.11,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 526 560 l 705 540 b 698 572 680 650 682 669 l 731 652 749 740 526 717)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:53.11,0:04:53.27,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 866 606 l 869 728 685 745 b 675 701 659 637 654 577 l 827 629)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:53.27,0:04:53.36,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 865 560 l 867 736 773 741 708 589)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.40,0:04:54.48,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 589 656 l 626 652 595 686 570 657)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.48,0:04:54.61,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 593 610 l 660 613 658 637 610 704)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.61,0:04:54.77,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 614 598 l 660 600 630 672 638 730 700 744 744 648 794 768 632 764 610 676)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.77,0:04:54.90,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 864 694 l 675 705 b 673 682 659 639 667 606 l 865 601)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.90,0:04:54.98,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 865 694 l 774 704 b 766 678 752 636 748 603 l 873 606)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 0,0:04:54.98,0:04:55.11,Captions-207-,,0,0,100,,{\an8\blur1\bord0\c&HFEFBFC&\clip(m 866 708 l 838 708 b 826 686 815 630 808 604 l 866 606)\p1}m 576 615 l 849 615 848 696 575 690
+Dialogue: 1,0:04:51.15,0:04:51.48,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&}V.I.P   Pirate
+Dialogue: 1,0:04:52.90,0:04:52.98,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 526 644 l 589 602 b 600 665 616 679 625 688 678 675 764 619 832 559 l 679 715 526 717)}V.I.P   Pirate
+Dialogue: 1,0:04:52.98,0:04:53.11,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 526 560 l 705 540 b 698 572 680 650 682 669 l 731 652 749 740 526 717)}V.I.P   Pirate
+Dialogue: 1,0:04:53.11,0:04:53.27,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 874 576 l 869 728 685 745 b 675 701 659 637 654 577)}V.I.P   Pirate
+Dialogue: 1,0:04:53.27,0:04:53.36,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 865 560 l 867 736 773 741 708 589)}V.I.P   Pirate
+Dialogue: 1,0:04:54.40,0:04:54.48,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 589 656 l 626 652 595 686 570 657)}V.I.P   Pirate
+Dialogue: 1,0:04:54.48,0:04:54.61,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 593 610 l 660 613 658 637 610 704)}V.I.P   Pirate
+Dialogue: 1,0:04:54.61,0:04:54.77,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 614 598 l 666 602 630 668 638 730 700 744 744 648 794 768 632 764 610 676)}V.I.P   Pirate
+Dialogue: 1,0:04:54.77,0:04:54.90,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 864 694 l 675 705 b 673 682 659 639 667 606 l 865 601)}V.I.P   Pirate
+Dialogue: 1,0:04:54.90,0:04:54.98,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 865 694 l 774 704 b 766 678 752 636 748 603 l 873 606)}V.I.P   Pirate
+Dialogue: 1,0:04:54.98,0:04:55.11,Captions-207-,,0,0,100,,{\an8\blur0.7\bord0\fscx56\fscy56\fnCatShop\c&H474346&\clip(m 866 708 l 838 708 b 826 686 815 630 808 604 l 866 606)}V.I.P   Pirate
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot

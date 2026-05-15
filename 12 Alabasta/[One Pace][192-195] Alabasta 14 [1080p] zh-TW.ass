@@ -327,167 +327,167 @@ Dialogue: 50,0:31:46.29,0:31:47.60,Main-207-,,0,0,0,,接下來呢……？{Z}
 Dialogue: 50,0:31:49.66,0:31:52.68,Main-207-,,0,0,0,,你要斬鑽石嗎……？
 Dialogue: 50,0:31:55.00,0:31:56.81,Main-207-,,0,0,0,,那就太浪費了。
 Dialogue: 50,0:31:59.44,0:32:01.25,Main-207-,,0,0,0,,你贏了……
-Dialogue: 0,0:01:49.96,0:01:55.05,Title-207-,,0,0,0,,{\an8\blur0.5\fad(984,936)\3c&H151310&\c&H151310&\bord2\1a&HFF&\t(939,984,\1a&H00&)\t(4154,4199,\1a&HFF&)}斬斷鋼鐵
-Dialogue: 1,0:01:49.96,0:01:55.05,Title-207-,,0,0,0,,{\an8\blur0.5\fad(984,936)\c&HE5E6E6&\bord0\4a&HFF&}斬斷鋼鐵
-Dialogue: 0,0:10:59.51,0:10:59.64,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅{\alpha&HFF&}迪集會廳後方的戰鬥
-Dialogue: 0,0:10:59.64,0:10:59.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
-Dialogue: 0,0:10:59.76,0:10:59.89,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會{\alpha&HFF&}廳後方的戰鬥
-Dialogue: 0,0:10:59.89,0:11:00.01,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後{\alpha&HFF&}方的戰鬥
-Dialogue: 0,0:11:00.01,0:11:00.51,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
-Dialogue: 0,0:11:00.51,0:11:00.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰{\alpha&HFF&}鬥
-Dialogue: 0,0:11:00.76,0:11:00.93,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
-Dialogue: 0,0:11:00.93,0:11:01.06,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥
-Dialogue: 0,0:11:01.06,0:11:01.22,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥
-Dialogue: 0,0:11:01.22,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H20&}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 0,0:11:01.77,0:11:01.93,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H20&}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 0,0:11:01.93,0:11:02.06,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 0,0:11:02.06,0:11:02.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 0,0:11:02.27,0:11:02.52,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 0,0:11:02.52,0:11:02.77,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 0,0:11:02.77,0:11:03.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
-Dialogue: 0,0:11:03.27,0:11:03.43,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
-Dialogue: 0,0:11:03.43,0:11:03.60,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
-Dialogue: 0,0:11:03.60,0:11:03.77,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
-Dialogue: 0,0:11:03.77,0:11:04.02,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
-Dialogue: 0,0:11:04.02,0:11:04.27,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝{\alpha&HFF&}者：娜美
-Dialogue: 0,0:11:04.27,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者： {\alpha&HFF&}娜美
-Dialogue: 0,0:11:05.14,0:11:05.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者：娜{\alpha&HFF&}美
-Dialogue: 0,0:11:05.52,0:11:06.27,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者：娜美
-Dialogue: 0,0:11:06.27,0:11:06.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅{\alpha&HFF&}迪集會廳後方的戰鬥
-Dialogue: 0,0:11:06.52,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
-Dialogue: 1,0:10:59.51,0:10:59.64,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會{\alpha&HFF&}廳後方的戰鬥
-Dialogue: 1,0:10:59.64,0:10:59.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後{\alpha&HFF&}方的戰鬥
-Dialogue: 1,0:10:59.76,0:10:59.89,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
-Dialogue: 1,0:10:59.89,0:11:00.01,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰{\alpha&HFF&}鬥
-Dialogue: 1,0:11:00.01,0:11:00.51,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
-Dialogue: 1,0:11:00.51,0:11:00.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥
-Dialogue: 1,0:11:00.76,0:11:00.93,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥
-Dialogue: 1,0:11:00.93,0:11:01.06,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 1,0:11:01.06,0:11:01.22,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 1,0:11:01.22,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(752,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 1,0:11:01.77,0:11:01.93,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 1,0:11:01.93,0:11:02.06,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 1,0:11:02.06,0:11:02.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 1,0:11:02.27,0:11:02.52,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:11:02.52,0:11:02.77,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:11:02.77,0:11:03.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:11:03.27,0:11:03.43,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:11:03.43,0:11:03.60,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:11:03.60,0:11:03.77,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝{\alpha&HFF&}者：娜美
-Dialogue: 1,0:11:03.77,0:11:04.02,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者： {\alpha&HFF&}娜美
-Dialogue: 1,0:11:04.02,0:11:04.27,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者：娜{\alpha&HFF&}美
-Dialogue: 1,0:11:04.27,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者：娜美
-Dialogue: 1,0:11:05.14,0:11:05.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅{\alpha&HFF&}迪集會廳後方的戰鬥
-Dialogue: 1,0:11:05.52,0:11:06.27,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
-Dialogue: 1,0:11:06.27,0:11:06.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會{\alpha&HFF&}廳後方的戰鬥
-Dialogue: 1,0:11:06.52,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後{\alpha&HFF&}方的戰鬥
-Dialogue: 2,0:10:59.51,0:10:59.64,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
-Dialogue: 2,0:10:59.64,0:10:59.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰{\alpha&HFF&}鬥
-Dialogue: 2,0:10:59.76,0:10:59.89,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
-Dialogue: 2,0:10:59.89,0:11:00.01,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥
-Dialogue: 2,0:11:00.01,0:11:00.51,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥
-Dialogue: 2,0:11:00.51,0:11:00.76,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 2,0:11:00.76,0:11:00.93,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 2,0:11:00.93,0:11:01.06,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 2,0:11:01.06,0:11:01.22,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 2,0:11:01.22,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 2,0:11:01.77,0:11:01.93,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 2,0:11:01.93,0:11:02.06,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:11:02.06,0:11:02.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:11:02.27,0:11:02.52,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:11:02.52,0:11:02.77,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:11:02.77,0:11:03.27,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:11:03.27,0:11:03.43,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝{\alpha&HFF&}者：娜美
-Dialogue: 2,0:11:03.43,0:11:03.60,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者： {\alpha&HFF&}娜美
-Dialogue: 2,0:11:03.60,0:11:03.77,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者：娜{\alpha&HFF&}美
-Dialogue: 2,0:11:03.77,0:11:04.02,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者：娜美
-Dialogue: 2,0:11:04.02,0:11:04.27,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\q2\fad(450,0)\blur0.6\bord4.8\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}梅迪集會廳·大街\N北區
-Dialogue: 2,0:11:04.27,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(580.67,100)\q2\fad(450,0)\blur0.6\bord0.5\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\3c&HFFFFFF&\1a&HFF&\4a&HFF&\t(405,450,\1a&H00&)}梅迪集會廳·大街\N北區
-Dialogue: 2,0:11:05.14,0:11:05.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\q2\fad(450,0)\blur0.6\bord0\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\4a&HFF&}梅迪集會廳·大街\N北區
-Dialogue: 2,0:11:05.52,0:11:06.27,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅{\alpha&HFF&}迪集會廳前方的戰鬥
-Dialogue: 2,0:11:06.27,0:11:06.52,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集{\alpha&HFF&}會廳前方的戰鬥
-Dialogue: 2,0:11:06.52,0:11:08.65,Captions-207-,,0,0,0,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
-Dialogue: 0,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
-Dialogue: 1,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的{\alpha&HFF&}戰鬥
-Dialogue: 2,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
-Dialogue: 0,0:32:11.91,0:32:12.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
-Dialogue: 0,0:32:12.16,0:32:12.54,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
-Dialogue: 0,0:32:12.54,0:32:12.66,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
-Dialogue: 0,0:32:12.66,0:32:13.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 0,0:32:13.08,0:32:13.58,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 0,0:32:13.58,0:32:13.70,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 0,0:32:13.70,0:32:13.91,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 0,0:32:13.91,0:32:14.04,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 0,0:32:14.04,0:32:14.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 0,0:32:14.29,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
-Dialogue: 0,0:32:14.90,0:32:15.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
-Dialogue: 0,0:32:15.08,0:32:15.41,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
-Dialogue: 0,0:32:15.41,0:32:15.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
-Dialogue: 0,0:32:15.66,0:32:16.04,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
-Dialogue: 0,0:32:16.04,0:32:16.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝{\alpha&HFF&}者：索隆
-Dialogue: 0,0:32:16.16,0:32:16.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：{\alpha&HFF&}索隆
-Dialogue: 0,0:32:16.29,0:32:16.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：索{\alpha&HFF&}隆
-Dialogue: 0,0:32:16.66,0:32:16.91,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：索隆
-Dialogue: 0,0:32:16.91,0:32:17.17,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅{\alpha&HFF&}迪集會廳前方的戰鬥
-Dialogue: 0,0:32:17.17,0:32:17.54,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集{\alpha&HFF&}會廳前方的戰鬥
-Dialogue: 0,0:32:17.54,0:32:17.67,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
-Dialogue: 0,0:32:17.67,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
-Dialogue: 0,0:32:18.58,0:32:18.92,Captions-207-,,0,0,0,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的{\alpha&HFF&}戰鬥
-Dialogue: 0,0:32:18.92,0:32:20.13,Captions-207-,,0,0,0,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
-Dialogue: 0,0:32:20.13,0:32:20.38,Captions-207-,,0,0,0,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
-Dialogue: 0,0:32:20.38,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
-Dialogue: 1,0:32:11.91,0:32:12.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
-Dialogue: 1,0:32:12.16,0:32:12.54,Captions-207-,,0,0,0,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
-Dialogue: 1,0:32:12.54,0:32:12.66,Captions-207-,,0,0,0,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 1,0:32:12.66,0:32:13.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 1,0:32:13.08,0:32:13.58,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 1,0:32:13.58,0:32:13.70,Captions-207-,,0,0,0,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 1,0:32:13.70,0:32:13.91,Captions-207-,,0,0,0,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 1,0:32:13.91,0:32:14.04,Captions-207-,,0,0,0,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 1,0:32:14.04,0:32:14.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:32:14.29,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:32:14.90,0:32:15.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:32:15.08,0:32:15.41,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:32:15.41,0:32:15.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
-Dialogue: 1,0:32:15.66,0:32:16.04,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝{\alpha&HFF&}者：索隆
-Dialogue: 1,0:32:16.04,0:32:16.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：{\alpha&HFF&}索隆
-Dialogue: 1,0:32:16.16,0:32:16.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：索{\alpha&HFF&}隆
-Dialogue: 1,0:32:16.29,0:32:16.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：索隆
-Dialogue: 1,0:32:16.66,0:32:16.91,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅{\alpha&HFF&}迪集會廳前方的戰鬥
-Dialogue: 1,0:32:16.91,0:32:17.17,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集{\alpha&HFF&}會廳前方的戰鬥
-Dialogue: 1,0:32:17.17,0:32:17.54,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
-Dialogue: 1,0:32:17.54,0:32:17.67,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
-Dialogue: 1,0:32:17.67,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的{\alpha&HFF&}戰鬥
-Dialogue: 1,0:32:18.58,0:32:18.92,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
-Dialogue: 1,0:32:18.92,0:32:20.13,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
-Dialogue: 1,0:32:20.13,0:32:20.38,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
-Dialogue: 1,0:32:20.38,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
-Dialogue: 2,0:32:11.91,0:32:12.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
-Dialogue: 2,0:32:12.16,0:32:12.54,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿{\alpha&HFF&}魯巴納北區
-Dialogue: 2,0:32:12.54,0:32:12.66,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯{\alpha&HFF&}巴納北區
-Dialogue: 2,0:32:12.66,0:32:13.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴{\alpha&HFF&}納北區
-Dialogue: 2,0:32:13.08,0:32:13.58,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納{\alpha&HFF&}北區
-Dialogue: 2,0:32:13.58,0:32:13.70,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北 {\alpha&HFF&}區
-Dialogue: 2,0:32:13.70,0:32:13.91,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區{\alpha&HFF&}
-Dialogue: 2,0:32:13.91,0:32:14.04,Captions-207-,,0,0,0,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:14.04,0:32:14.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:14.29,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:14.90,0:32:15.08,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:15.08,0:32:15.41,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:15.41,0:32:15.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝{\alpha&HFF&}者：索隆
-Dialogue: 2,0:32:15.66,0:32:16.04,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：{\alpha&HFF&}索隆
-Dialogue: 2,0:32:16.04,0:32:16.16,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索{\alpha&HFF&}隆
-Dialogue: 2,0:32:16.16,0:32:16.29,Captions-207-,,0,0,0,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索隆
-Dialogue: 2,0:32:16.29,0:32:16.66,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:16.66,0:32:16.91,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:16.91,0:32:17.17,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:17.17,0:32:17.54,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:17.54,0:32:17.67,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:17.67,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
-Dialogue: 2,0:32:18.58,0:32:18.92,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝{\alpha&HFF&}者：索隆
-Dialogue: 2,0:32:18.92,0:32:20.13,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：{\alpha&HFF&}索隆
-Dialogue: 2,0:32:20.13,0:32:20.38,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索{\alpha&HFF&}隆
-Dialogue: 2,0:32:20.38,0:32:22.75,Captions-207-,,0,0,0,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索隆
+Dialogue: 0,0:01:49.96,0:01:55.05,Title-207-,,0,0,100,,{\an8\blur0.5\fad(984,936)\3c&H151310&\c&H151310&\bord2\1a&HFF&\t(939,984,\1a&H00&)\t(4154,4199,\1a&HFF&)}斬斷鋼鐵
+Dialogue: 1,0:01:49.96,0:01:55.05,Title-207-,,0,0,100,,{\an8\blur0.5\fad(984,936)\c&HE5E6E6&\bord0\4a&HFF&}斬斷鋼鐵
+Dialogue: 0,0:10:59.51,0:10:59.64,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅{\alpha&HFF&}迪集會廳後方的戰鬥
+Dialogue: 0,0:10:59.64,0:10:59.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
+Dialogue: 0,0:10:59.76,0:10:59.89,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會{\alpha&HFF&}廳後方的戰鬥
+Dialogue: 0,0:10:59.89,0:11:00.01,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後{\alpha&HFF&}方的戰鬥
+Dialogue: 0,0:11:00.01,0:11:00.51,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
+Dialogue: 0,0:11:00.51,0:11:00.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰{\alpha&HFF&}鬥
+Dialogue: 0,0:11:00.76,0:11:00.93,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
+Dialogue: 0,0:11:00.93,0:11:01.06,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥
+Dialogue: 0,0:11:01.06,0:11:01.22,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H25&}梅迪集會廳後方的戰鬥
+Dialogue: 0,0:11:01.22,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H20&}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 0,0:11:01.77,0:11:01.93,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&H000000&\3c&H000000&\alpha&H20&}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 0,0:11:01.93,0:11:02.06,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 0,0:11:02.06,0:11:02.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 0,0:11:02.27,0:11:02.52,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 0,0:11:02.52,0:11:02.77,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 0,0:11:02.77,0:11:03.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
+Dialogue: 0,0:11:03.27,0:11:03.43,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
+Dialogue: 0,0:11:03.43,0:11:03.60,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
+Dialogue: 0,0:11:03.60,0:11:03.77,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
+Dialogue: 0,0:11:03.77,0:11:04.02,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&H000000&\3c&H000000&\alpha&H20&}阿魯巴納北區
+Dialogue: 0,0:11:04.02,0:11:04.27,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝{\alpha&HFF&}者：娜美
+Dialogue: 0,0:11:04.27,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者： {\alpha&HFF&}娜美
+Dialogue: 0,0:11:05.14,0:11:05.52,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者：娜{\alpha&HFF&}美
+Dialogue: 0,0:11:05.52,0:11:06.27,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&H000000&\3c&H000000&\alpha&H20&}勝者：娜美
+Dialogue: 0,0:11:06.27,0:11:06.52,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅{\alpha&HFF&}迪集會廳後方的戰鬥
+Dialogue: 0,0:11:06.52,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
+Dialogue: 1,0:10:59.51,0:10:59.64,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會{\alpha&HFF&}廳後方的戰鬥
+Dialogue: 1,0:10:59.64,0:10:59.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後{\alpha&HFF&}方的戰鬥
+Dialogue: 1,0:10:59.76,0:10:59.89,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
+Dialogue: 1,0:10:59.89,0:11:00.01,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰{\alpha&HFF&}鬥
+Dialogue: 1,0:11:00.01,0:11:00.51,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
+Dialogue: 1,0:11:00.51,0:11:00.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥
+Dialogue: 1,0:11:00.76,0:11:00.93,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}梅迪集會廳後方的戰鬥
+Dialogue: 1,0:11:00.93,0:11:01.06,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 1,0:11:01.06,0:11:01.22,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 1,0:11:01.22,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(752,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 1,0:11:01.77,0:11:01.93,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 1,0:11:01.93,0:11:02.06,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 1,0:11:02.06,0:11:02.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 1,0:11:02.27,0:11:02.52,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:11:02.52,0:11:02.77,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:11:02.77,0:11:03.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:11:03.27,0:11:03.43,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:11:03.43,0:11:03.60,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:11:03.60,0:11:03.77,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝{\alpha&HFF&}者：娜美
+Dialogue: 1,0:11:03.77,0:11:04.02,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者： {\alpha&HFF&}娜美
+Dialogue: 1,0:11:04.02,0:11:04.27,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者：娜{\alpha&HFF&}美
+Dialogue: 1,0:11:04.27,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\3c&HFBFBFC&\c&HFBFBFC&\4a&HFF&\bord0.5}勝者：娜美
+Dialogue: 1,0:11:05.14,0:11:05.52,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅{\alpha&HFF&}迪集會廳後方的戰鬥
+Dialogue: 1,0:11:05.52,0:11:06.27,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集 {\alpha&HFF&}會廳後方的戰鬥
+Dialogue: 1,0:11:06.27,0:11:06.52,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會{\alpha&HFF&}廳後方的戰鬥
+Dialogue: 1,0:11:06.52,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後{\alpha&HFF&}方的戰鬥
+Dialogue: 2,0:10:59.51,0:10:59.64,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的 {\alpha&HFF&}戰鬥
+Dialogue: 2,0:10:59.64,0:10:59.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰{\alpha&HFF&}鬥
+Dialogue: 2,0:10:59.76,0:10:59.89,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥 {\alpha&HFF&}
+Dialogue: 2,0:10:59.89,0:11:00.01,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥
+Dialogue: 2,0:11:00.01,0:11:00.51,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}梅迪集會廳後方的戰鬥
+Dialogue: 2,0:11:00.51,0:11:00.76,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 2,0:11:00.76,0:11:00.93,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\c&HFBFBFC&\4a&HFF&}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 2,0:11:00.93,0:11:01.06,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 2,0:11:01.06,0:11:01.22,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 2,0:11:01.22,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(752,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 2,0:11:01.77,0:11:01.93,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 2,0:11:01.93,0:11:02.06,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:11:02.06,0:11:02.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:11:02.27,0:11:02.52,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:11:02.52,0:11:02.77,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:11:02.77,0:11:03.27,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.6\fscx70\fscy85\fnDFPGiHi-W7-Strp\q2\c&HFBFBFC&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:11:03.27,0:11:03.43,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝{\alpha&HFF&}者：娜美
+Dialogue: 2,0:11:03.43,0:11:03.60,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者： {\alpha&HFF&}娜美
+Dialogue: 2,0:11:03.60,0:11:03.77,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者：娜{\alpha&HFF&}美
+Dialogue: 2,0:11:03.77,0:11:04.02,Captions-207-,,0,0,100,,{\an8\pos(580.67,100)\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\c&HFBFBFC&\4a&HFF&}勝者：娜美
+Dialogue: 2,0:11:04.02,0:11:04.27,Captions-207-,,0,0,200,,{\an8\pos(580.67,100)\q2\fad(450,0)\blur0.6\bord4.8\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}梅迪集會廳·大街\N北區
+Dialogue: 2,0:11:04.27,0:11:08.65,Captions-207-,,0,0,200,,{\an8\pos(580.67,100)\q2\fad(450,0)\blur0.6\bord0.5\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\3c&HFFFFFF&\1a&HFF&\4a&HFF&\t(405,450,\1a&H00&)}梅迪集會廳·大街\N北區
+Dialogue: 2,0:11:05.14,0:11:05.52,Captions-207-,,0,0,200,,{\an8\pos(583.33,100)\q2\fad(450,0)\blur0.6\bord0\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\4a&HFF&}梅迪集會廳·大街\N北區
+Dialogue: 2,0:11:05.52,0:11:06.27,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅{\alpha&HFF&}迪集會廳前方的戰鬥
+Dialogue: 2,0:11:06.27,0:11:06.52,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集{\alpha&HFF&}會廳前方的戰鬥
+Dialogue: 2,0:11:06.52,0:11:08.65,Captions-207-,,0,0,100,,{\an8\pos(583.33,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
+Dialogue: 0,0:15:27.70,0:15:35.04,Captions-207-,,0,0,100,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
+Dialogue: 1,0:15:27.70,0:15:35.04,Captions-207-,,0,0,100,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的{\alpha&HFF&}戰鬥
+Dialogue: 2,0:15:27.70,0:15:35.04,Captions-207-,,0,0,100,,{\an8\pos(744,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
+Dialogue: 0,0:32:11.91,0:32:12.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
+Dialogue: 0,0:32:12.16,0:32:12.54,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
+Dialogue: 0,0:32:12.54,0:32:12.66,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}梅迪集會廳前方的戰鬥
+Dialogue: 0,0:32:12.66,0:32:13.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 0,0:32:13.08,0:32:13.58,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 0,0:32:13.58,0:32:13.70,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 0,0:32:13.70,0:32:13.91,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 0,0:32:13.91,0:32:14.04,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 0,0:32:14.04,0:32:14.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 0,0:32:14.29,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
+Dialogue: 0,0:32:14.90,0:32:15.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
+Dialogue: 0,0:32:15.08,0:32:15.41,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
+Dialogue: 0,0:32:15.41,0:32:15.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
+Dialogue: 0,0:32:15.66,0:32:16.04,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&H000000&\3c&H000000&\alpha&H10&}阿魯巴納北區
+Dialogue: 0,0:32:16.04,0:32:16.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝{\alpha&HFF&}者：索隆
+Dialogue: 0,0:32:16.16,0:32:16.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：{\alpha&HFF&}索隆
+Dialogue: 0,0:32:16.29,0:32:16.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：索{\alpha&HFF&}隆
+Dialogue: 0,0:32:16.66,0:32:16.91,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&H000000&\3c&H000000&\alpha&H10&}勝者：索隆
+Dialogue: 0,0:32:16.91,0:32:17.17,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅{\alpha&HFF&}迪集會廳前方的戰鬥
+Dialogue: 0,0:32:17.17,0:32:17.54,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集{\alpha&HFF&}會廳前方的戰鬥
+Dialogue: 0,0:32:17.54,0:32:17.67,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
+Dialogue: 0,0:32:17.67,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
+Dialogue: 0,0:32:18.58,0:32:18.92,Captions-207-,,0,0,100,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的{\alpha&HFF&}戰鬥
+Dialogue: 0,0:32:18.92,0:32:20.13,Captions-207-,,0,0,100,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
+Dialogue: 0,0:32:20.13,0:32:20.38,Captions-207-,,0,0,100,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
+Dialogue: 0,0:32:20.38,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(566,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
+Dialogue: 1,0:32:11.91,0:32:12.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
+Dialogue: 1,0:32:12.16,0:32:12.54,Captions-207-,,0,0,100,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}梅迪集會廳前方的戰鬥
+Dialogue: 1,0:32:12.54,0:32:12.66,Captions-207-,,0,0,100,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 1,0:32:12.66,0:32:13.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 1,0:32:13.08,0:32:13.58,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 1,0:32:13.58,0:32:13.70,Captions-207-,,0,0,100,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 1,0:32:13.70,0:32:13.91,Captions-207-,,0,0,100,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 1,0:32:13.91,0:32:14.04,Captions-207-,,0,0,100,,{\an8\pos(749,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 1,0:32:14.04,0:32:14.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:32:14.29,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:32:14.90,0:32:15.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:32:15.08,0:32:15.41,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:32:15.41,0:32:15.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}阿魯巴納北區
+Dialogue: 1,0:32:15.66,0:32:16.04,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝{\alpha&HFF&}者：索隆
+Dialogue: 1,0:32:16.04,0:32:16.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：{\alpha&HFF&}索隆
+Dialogue: 1,0:32:16.16,0:32:16.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：索{\alpha&HFF&}隆
+Dialogue: 1,0:32:16.29,0:32:16.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\3c&HFAFBFB&\c&HFAFBFB&\4a&HFF&\bord0.5}勝者：索隆
+Dialogue: 1,0:32:16.66,0:32:16.91,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅{\alpha&HFF&}迪集會廳前方的戰鬥
+Dialogue: 1,0:32:16.91,0:32:17.17,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集{\alpha&HFF&}會廳前方的戰鬥
+Dialogue: 1,0:32:17.17,0:32:17.54,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳 {\alpha&HFF&}前方的戰鬥
+Dialogue: 1,0:32:17.54,0:32:17.67,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方 {\alpha&HFF&}的戰鬥
+Dialogue: 1,0:32:17.67,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的{\alpha&HFF&}戰鬥
+Dialogue: 1,0:32:18.58,0:32:18.92,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥 {\alpha&HFF&}
+Dialogue: 1,0:32:18.92,0:32:20.13,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
+Dialogue: 1,0:32:20.13,0:32:20.38,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
+Dialogue: 1,0:32:20.38,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
+Dialogue: 2,0:32:11.91,0:32:12.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}梅迪集會廳前方的戰鬥
+Dialogue: 2,0:32:12.16,0:32:12.54,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿{\alpha&HFF&}魯巴納北區
+Dialogue: 2,0:32:12.54,0:32:12.66,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯{\alpha&HFF&}巴納北區
+Dialogue: 2,0:32:12.66,0:32:13.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴{\alpha&HFF&}納北區
+Dialogue: 2,0:32:13.08,0:32:13.58,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納{\alpha&HFF&}北區
+Dialogue: 2,0:32:13.58,0:32:13.70,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北 {\alpha&HFF&}區
+Dialogue: 2,0:32:13.70,0:32:13.91,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區{\alpha&HFF&}
+Dialogue: 2,0:32:13.91,0:32:14.04,Captions-207-,,0,0,100,,{\an8\pos(749,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:14.04,0:32:14.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:14.29,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:14.90,0:32:15.08,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:15.08,0:32:15.41,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:15.41,0:32:15.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝{\alpha&HFF&}者：索隆
+Dialogue: 2,0:32:15.66,0:32:16.04,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：{\alpha&HFF&}索隆
+Dialogue: 2,0:32:16.04,0:32:16.16,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索{\alpha&HFF&}隆
+Dialogue: 2,0:32:16.16,0:32:16.29,Captions-207-,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索隆
+Dialogue: 2,0:32:16.29,0:32:16.66,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:16.66,0:32:16.91,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:16.91,0:32:17.17,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:17.17,0:32:17.54,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:17.54,0:32:17.67,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:17.67,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(650,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\c&HFAFBFB&\4a&HFF&}阿魯巴納北區
+Dialogue: 2,0:32:18.58,0:32:18.92,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝{\alpha&HFF&}者：索隆
+Dialogue: 2,0:32:18.92,0:32:20.13,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：{\alpha&HFF&}索隆
+Dialogue: 2,0:32:20.13,0:32:20.38,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索{\alpha&HFF&}隆
+Dialogue: 2,0:32:20.38,0:32:22.75,Captions-207-,,0,0,100,,{\an8\pos(566,100)\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\c&HFAFBFB&\4a&HFF&}勝者：索隆
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\NZenef

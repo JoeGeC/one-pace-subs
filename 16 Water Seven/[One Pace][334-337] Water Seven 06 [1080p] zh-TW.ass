@@ -15,7 +15,7 @@ Style: Thoughts-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000
 Style: Secondary-207+,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,300,300,27,1
 Style: Title-207+,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,360,1
 Style: Credits-207+,FOT-Greco Std DB Strp,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,105,105,1.5,0,1,3.7,0,7,15,15,15,1
-Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,27,1
+Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,100,1
 Style: Captions,FOT-Greco Std DB Strp,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,15,1
 Style: Sign-Reporters,Ink Free,57,&H00040407,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -505,8 +505,8 @@ Dialogue: 1,0:02:29.75,0:02:34.68,Captions,,0,0,100,,{\an8\pos(965,100)\fscx148\
 Dialogue: 2,0:02:29.75,0:02:34.68,Captions,,0,0,100,,{\an8\pos(965,100)\fscx148\fscy148\bord0\4a&HFF&\blur0.6\fad(400,500)}水之七島 後街
 Dialogue: 1,0:02:38.60,0:02:43.18,Captions,,0,0,200,,{\an8\pos(944,100)\fscx150\fscy150\bord2.7\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}旅館屋頂\N後街
 Dialogue: 2,0:02:38.60,0:02:43.18,Captions,,0,0,200,,{\an8\pos(944,100)\fscx150\fscy150\bord0\4a&HFF&\blur0.6\fad(400,0)}旅館屋頂\N後街
-Dialogue: 51,0:07:22.17,0:07:25.63,Note-207+,,0,0,0,,{\fad(0,1000)}「冰山先生遭刺客襲擊」
-Dialogue: 51,0:08:20.06,0:08:21.60,Note-207+,,0,0,0,,{\fad(0,1000)}「冰山先生遭刺客襲擊」
+Dialogue: 51,0:07:22.17,0:07:25.63,Note-207+,,0,0,100,,{\fad(0,1000)}「冰山先生遭刺客襲擊」
+Dialogue: 51,0:08:20.06,0:08:21.60,Note-207+,,0,0,100,,{\fad(0,1000)}「冰山先生遭刺客襲擊」
 Dialogue: 1,0:11:40.43,0:11:45.35,Captions,,0,0,100,,{\an8\pos(960,100)\fscx150\fscy150\fsp2\bord2.7\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}中繼車站
 Dialogue: 2,0:11:40.43,0:11:45.35,Captions,,0,0,100,,{\an8\pos(960,100)\fscx150\fscy150\fsp2\bord0\4a&HFF&\blur0.6\fad(400,0)}中繼車站
 Dialogue: 1,0:11:40.43,0:11:45.35,Captions,,0,0,100,,{\an8\pos(960,100)\fscx150\fscy150\fsp2\bord2.7\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}水之七島 北側
