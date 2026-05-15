@@ -1087,6 +1087,8 @@ type: reference
 | Baskerville (Chief Justice, three-headed) | 巴斯卡維爾（首席法官，三頭）|
 | Left Baskerville | 左巴斯卡維爾 |
 | Right Baskerville | 右巴斯卡維爾 |
+| Central Freeway (Baskerville center head) | 中央高速公路 |
+| Gatherine (waitress, Enies Lobby) | 加薩琳 |
 
 ## Characters (Ohara Flashback)
 | English | 繁體中文 |
