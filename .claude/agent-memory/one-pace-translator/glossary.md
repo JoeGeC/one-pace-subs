@@ -1271,3 +1271,18 @@ type: reference
 | Gigant Axe (Luffy Gear Third attack) | 巨人戰斧 |
 | Gigant Whip (Luffy Gear Third attack) | 巨人鞭腿 |
 | Tempest Kick: Victory Bird (Lucci attack) | 嵐腳·勝利之鳥 |
+| Six Powers Esoterica: Six King Gun (Lucci ultimate) | 六式奧義：六王槍 |
+| Ultimate Whorl: Six King Gun (Lucci variant) | 究極旋渦：六王槍 |
+| Jet Bullet (Luffy Gear Second attack) | 噴射子彈 |
+| Twin Jet Pistol (Luffy Gear Second attack) | 雙重噴射手槍 |
+| Jet Axe (Luffy Gear Second attack) | 噴射戰斧 |
+| Jet Stamp (Luffy Gear Second attack) | 噴射印章 |
+| Jet Gatling (Luffy Gear Second attack) | 噴射機關槍 |
+| Vital Response: Terminate (Lucci technique) | 生命歸還：終結 |
+| Spots (Lucci leopard technique) | 豹之點 |
+| Berry Berry Fruit (marine ability user) | 莓莓果實 |
+| Rust Rust Fruit (Captain Shu) | 鏽鏽果實 |
+| Yubashiri (Zoro's sword) | 雪走 |
+| Cien Fleur: Flip (Robin attack) | 百輪花：翻轉 |
+| Dark Justice (Spandam/CP9 motto) | 闇黑正義 |
+| First column (Bridge of Hesitation section) | 第一柱區 |
