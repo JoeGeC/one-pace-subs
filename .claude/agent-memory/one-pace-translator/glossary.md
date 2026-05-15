@@ -1206,3 +1206,16 @@ type: reference
 | Elastic Finger Pistol (Kalifa attack) | 彈力指槍 |
 | Bridge of Hesitation (Enies Lobby location) | 猶豫之橋 |
 | Doctorine (Kureha's nickname) | 朵麗妮 |
+| Thunder Lance Tempo (Nami attack) | 雷霆槍騎兵節拍 |
+| Dark Cloud Tempo (Nami attack) | 陰天節拍 |
+| Tidal Wave (Kalifa attack) | 大浪 |
+| Ten Finger Pistol (Jabra attack) | 十指槍 |
+| Nose Pistol (Kaku attack) | 鼻槍 |
+| Tempest Kick: Wire (Kaku attack) | 嵐腳：線 |
+| Ivory Dart (Spandam/Funkfreed attack) | 象牙飛鏢 |
+| Lethal Sunflower Star (Sogeking/Usopp attack) | 必殺向日葵星 |
+| Advanced Kabuto (Sogeking's upgraded slingshot) | 進化獨角仙 |
+| Jabra (CP9 member, wolf zoan) | 加布拉（CP9成員，狼動物系）|
+| Fukuro (CP9 member) | 福乂洛（CP9成員）|
+| Kumadori (CP9 member) | 熊多利（CP9成員）|
+| Noseking / Sogeking (Usopp alias, alternate) | 鼻擊王 / 狙擊王 |
