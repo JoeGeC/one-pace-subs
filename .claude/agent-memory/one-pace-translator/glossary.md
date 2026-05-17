@@ -1296,3 +1296,71 @@ type: reference
 | Cien Fleur: Flip (Robin attack) | 百輪花：翻轉 |
 | Dark Justice (Spandam/CP9 motto) | 闇黑正義 |
 | First column (Bridge of Hesitation section) | 第一柱區 |
+
+## Characters (Post-Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Monkey D. Garp (Vice Admiral, "Garp the Fist") | 蒙其·D·卡普（中將，「鐵拳卡普」）|
+| Monkey D. Dragon (Revolutionary) | 蒙其·D·乂拉岡（革命家）|
+| Coby (Marine HQ Sergeant Major) | 乂比（海軍本部軍曹長）|
+| Helmeppo (Marine HQ Sergeant) | 乂爾乂波（海軍本部軍曹）|
+| Captain Morgan | 摩根上尉 |
+| Dadan (mountain bandit) | 達坦（山賊）|
+| Dr. Vegapunk (Marine scientist) | 乂乂乂克博士（海軍科學家）|
+| Thatch (4th Division Commander, Whitebeard Pirates) | 薩奇（四番隊隊長，白鬍子海賊團）|
+| Marco (1st Division Commander, Whitebeard Pirates) | 瑪爾乂（一番隊隊長，白鬍子海賊團）|
+| Kaya (Syrup Village) | 可雅（西羅布村）|
+| Genzo / Gen-san (Cocoyashi Village) | 乂恩先生（可可亞西村）|
+| Nojiko (Nami's sister) | 乂希可（娜美的姐姐）|
+| Dolton (Sakura Kingdom) | 多爾頓（櫻花王國）|
+| Doctor Kureha (Doctorine) | 乂蕾哈醫生（朵麗妮）|
+
+## Locations (Post-Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Foosha Village (Luffy's hometown) | 風車村（魯夫的故鄉）|
+| Syrup Village (Usopp's hometown) | 西羅布村（騙人布的故鄉）|
+| Shimotsuki Village (Zoro's hometown) | 霜月村（索隆的故鄉）|
+| Cocoyashi Village (Nami's hometown) | 可可亞西村（娜美的故鄉）|
+| Sakura Kingdom (Chopper's hometown) | 櫻花王國（喬巴的故鄉）|
+| Baltigo (Revolutionary Army base) | 巴爾迪哥（革命軍基地）|
+| Banaro Island | 巴乂洛島 |
+| Baratie (Floating Restaurant) | 巴拉蒂（海上餐廳）|
+| Loguetown | 羅格鎮 |
+| Fish-man Island | 魚人島 |
+| Florian Triangle | 佛羅利安三角地帶 |
+
+## Terms (Post-Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Thousand Sunny (pirate ship) | 千陽號（海賊船）|
+| Treasure Wood Adam | 寶樹亞當 |
+| Coup de Burst (Franky, Sunny's escape) | 風來爆發 |
+| Fist Meteor (Garp attack) | 拳骨流星 |
+| Fist Meteor Shower (Garp attack) | 拳骨流星雨 |
+| Soldier Dock System (Sunny feature) | 船塢系統 |
+| Reverse Mountain | 顛倒山 |
+| Four Emperors (Yonko) | 四皇 |
+| Commodore (Smoker's rank post-Alabasta) | 准將 |
+| Ensign (Tashigi's rank) | 少尉 |
+| Fist of Love (Garp's punch) | 愛的鐵拳 |
+| Brigantine sail | 雙桅橫帆 |
+| Lawn deck (Sunny feature) | 草坪甲板 |
+| Aquarium observation room (Sunny feature) | 水族觀賞室 |
+| Bellemere (Nami's adoptive mother) | 貝爾梅爾 |
+
+## Attacks (Post-Enies Lobby Arc)
+| English | 繁體中文 |
+|---|---|
+| Fire Gun (Ace attack) | 火槍 |
+| Flame Commandment: Fire Pillar (Ace attack) | 炎戒·火柱 |
+| Fire Fist (Ace attack) | 火拳 |
+| Firefly: Fiery Doll (Ace attack) | 螢火·火焰人偶 |
+| St. Elmo's Fire (Ace attack) | 聖艾爾摩之火 |
+| Cross Fire (Ace attack) | 十字火焰 |
+| Great Flame Commandment: Flame Emperor (Ace attack) | 大炎戒·炎帝 |
+| Black Hole (Blackbeard attack) | 黑洞 |
+| Liberation (Blackbeard attack) | 解放 |
+| Dark Vortex (Blackbeard attack) | 闇水 |
+| Dark-Dark Fruit / Darkness Fruit (Yami Yami no Mi) | 暗暗果實 |
+| Dos Fleur: Grab (Robin attack) | 二輪花·抓住 |
