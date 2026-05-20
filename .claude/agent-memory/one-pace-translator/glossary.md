@@ -1297,6 +1297,30 @@ type: reference
 | Dark Justice (Spandam/CP9 motto) | 闇黑正義 |
 | First column (Bridge of Hesitation section) | 第一柱區 |
 
+## Characters (Thriller Bark Arc)
+| English | 繁體中文 |
+|---|---|
+| Brook / "Just Dead Bones" Brook | 布魯克 / 「只剩白骨」的布魯克 |
+
+## Locations (Thriller Bark Arc)
+| English | 繁體中文 |
+|---|---|
+| Thriller Bark (wandering ghost island) | Thriller Bark（流浪的幽靈島）|
+| Florian Triangle | 佛羅利安三角地帶 |
+
+## Devil Fruits (Thriller Bark Arc)
+| English | 繁體中文 |
+|---|---|
+| Revive-Revive Fruit / Revival Fruit (Yomi Yomi no Mi) | 黃泉果實 |
+
+## Terms (Thriller Bark Arc)
+| English | 繁體中文 |
+|---|---|
+| Tribute to the Sea-God (floating barrel offering) | 奉獻海神 |
+| Paddle Ship Sunny (Soldier Dock Channel 0) | 槳船千陽號 |
+| Ghost ship | 幽靈船 |
+| Skull joke (Brook's catchphrase) | 骷髏笑話 |
+
 ## Characters (Post-Enies Lobby Arc)
 | English | 繁體中文 |
 |---|---|
