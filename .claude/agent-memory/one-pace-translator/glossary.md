@@ -1301,12 +1301,28 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Brook / "Just Dead Bones" Brook | 布魯克 / 「只剩白骨」的布魯克 |
+| Gekko Moriah (Warlord of the Sea) | 乂科·乂利亞（七武海）|
+| Doctor Hogback (genius surgeon) | 乂乂乂克醫生（天才外科醫生）|
+| Cindry / Victoria Cindry | 乂德莉 / 維多利亞·乂德莉 |
+| Hildon (bat-man servant) | 乂爾頓（蝙蝠男僕人）|
+| Absalom / "Absalom of the Graveyard" | 乂布薩羅姆 / 「墓場的乂布薩羅姆」|
+| Perona / "Ghost Princess" | 乂洛娜 / 「幽靈公主」|
+| Kumashi (Perona's bear zombie) | 乂瑪西（乂洛娜的熊殭屍）|
+| Buhichuck (pig wall-zombie) | 布乂乂克（豬牆壁殭屍）|
+| Ryuuma (legendary samurai zombie) | 龍馬（傳說中的武士殭屍）|
+| Lola (warthog zombie) | 蘿拉（野豬殭屍）|
+| Jigoro (zombie using Zoro's techniques) | 吉五郎（使用索隆招式的殭屍）|
+| Captain John (zombie general) | 乂翰船長（將軍殭屍）|
+| Spider Monkey (spider zombie) | 蜘蛛猴（蜘蛛殭屍）|
+| Risky Brothers (squirrel zombies) | 冒險兄弟（松鼠殭屍）|
 
 ## Locations (Thriller Bark Arc)
 | English | 繁體中文 |
 |---|---|
-| Thriller Bark (wandering ghost island) | Thriller Bark（流浪的幽靈島）|
+| Thriller Bark (wandering ghost island / largest pirate ship) | Thriller Bark（流浪的幽靈島 / 世界最大的海賊船）|
 | Florian Triangle | 佛羅利安三角地帶 |
+| Perona's Wonder Garden | 乂洛娜的奇幻花園 |
+| Tower of Justice / Dance Hall (Moriah's lair) | 舞廳（乂利亞的巢穴）|
 
 ## Devil Fruits (Thriller Bark Arc)
 | English | 繁體中文 |
@@ -1320,6 +1336,24 @@ type: reference
 | Paddle Ship Sunny (Soldier Dock Channel 0) | 槳船千陽號 |
 | Ghost ship | 幽靈船 |
 | Skull joke (Brook's catchphrase) | 骷髏笑話 |
+| Mini Merry #2 (Soldier Dock Channel 2) | 迷你梅利二號（船塢系統二號頻道）|
+| White Wooden Horse #1 (Soldier Dock Channel 1) | 白木馬一號（船塢系統一號頻道）|
+| Shark Submerge #3 (Soldier Dock Channel 3) | 鯊魚潛水三號（船塢系統三號頻道）|
+| Soldier Zombies | 士兵殭屍 |
+| General Zombies | 將軍殭屍 |
+| Wild Zombies | 野生殭屍 |
+| Surprise Zombies | 驚喜殭屍 |
+| Night attack (Thriller Bark operation) | 夜襲 |
+| Cerberus (guard dog of hell) | 地獄犬 |
+| Wano Country | 和之國 |
+| Three-Pace Hum: Notch Slash (Ryuuma attack) | 三步必殺：燕口斬 |
+
+## Attacks (Thriller Bark Arc)
+| English | 繁體中文 |
+|---|---|
+| Fresh Fire (Franky attack) | 鮮火 |
+| Once Fleur / Eleven Fleur (Robin attack) | 十一輪花 |
+| Bridal Arts: Oath Kiss (Lola attack) | 新娘術：宣誓之吻 |
 
 ## Characters (Post-Enies Lobby Arc)
 | English | 繁體中文 |
