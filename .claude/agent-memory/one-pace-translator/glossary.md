@@ -1371,6 +1371,59 @@ type: reference
 | Lead Star (Usopp attack) | 鉛彈星 |
 | Requiem la Banderole (Brook attack) | 安魂旗幟斬 |
 | Weapons Left (Franky attack) | 武器左手 |
+| Doppelman (Moriah's shadow clone) | 影法師 |
+| Brick Bat (Moriah attack) | 磚塊蝙蝠 |
+| Hands of the Dead (Absalom attack) | 亡者之手 |
+| Beast Man's Hands (Absalom attack) | 獸人之手 |
+| Beast Man's Legs (Absalom attack) | 獸人之腳 |
+| Extra Haché (Sanji attack) | 特等肉末 |
+| Transparent Fruit / Suke Suke no Mi (Absalom's devil fruit) | 透明果實 |
+| Blazing Ball (Usopp attack) | 火焰球 |
+| Mini Hollow (Perona attack) | 迷你幽靈 |
+| Ghost Rap (Perona attack) | 幽靈饒舌 |
+| Special Hollow (Perona attack) | 特大幽靈 |
+| Kamikaze Rap (Perona attack) | 神風饒舌 |
+| Astral Travel (Perona technique) | 靈體出竅 |
+| Great Explosion Star (Usopp attack) | 大爆炸星 |
+| Swallowtail Meteor (Usopp attack) | 鳳蝶流星 |
+| Mantis Meteor (Usopp attack) | 螳螂流星 |
+| Atlas Meteor (Usopp attack) | 巨人甲蟲流星 |
+| Black Luster Star (Usopp attack) | 黑光星 |
+| Golden Pound (Usopp attack) | 黃金重擊 |
+| Usopp Golden Pound (Usopp finishing move) | 騙人布黃金重擊 |
+| Prelude Au Fer (Brook attack) | 前奏曲·鐵鋼 |
+| Gavotte Bond Avant (Brook attack) | 嘉禾舞·前方跳躍 |
+| Polka Continuation (Brook attack) | 波爾卡連擊 |
+| Two Swords Style: Flash (Zoro attack) | 二刀流：閃 |
+| Demon Bear (Zoro attack) | 鬼熊 |
+| Two Swords Style Sword Draw: Castle Gate (Zoro) | 二刀流·拔刀：城門 |
+| One Sword Style: Flying Dragon Blaze (Zoro attack) | 一刀流：飛龍·火焰 |
+| Seventy-two Pound Cannon (Zoro attack) | 七十二煩惱大砲 |
+| Angular Edge Plate (Cindry attack) | 稜角盤斬 |
+| Doce Fleur (Robin attack, twelve flowers) | 十二輪花 |
+| Pierna Fleur (Robin attack, leg flower) | 腿花 |
+| Robi-Cho Suplex (Robin+Chopper combo) | 羅賓喬巴過肩摔 |
+| Rubber Bell (Luffy attack) | 橡膠鐘擺 |
+| Rubber Scythe (Oars attack) | 橡膠鐮刀 |
+| Rubber Butt Slam (Oars attack) | 橡膠屁股撞擊 |
+| Rubber Volcano (Oars attack) | 橡膠火山 |
+| Nation Snatcher (Oars epithet) | 國家掠奪者 |
+| Pirates Docking 6: Big Emperor (Franky's combo) | 海賊合體六號：大帝王 |
+| Tactics Fifteen (Franky combo code) | 戰術十五號 |
+| Heavy Nunchaku (Franky weapon) | 超重雙截棍 |
+| Armée de l'Air Power Shoot (Zoro+Sanji combo) | 空軍力量射擊 |
+| Great Sword Strike (Zoro attack) | 大劍一擊 |
+| Cien Fleur: Big Tree (Robin attack) | 百輪花·大樹 |
+| Cien Fleur: Spider Net (Robin attack) | 百輪花·蜘蛛網 |
+| Franky Skywalk (Franky technique) | 佛朗基空中漫步 |
+| Super Frapper Gong (Franky+Chopper combo) | 超級重擊鉗 |
+| Two-Gorilla Beheading (Zoro attack) | 二猩猩斬首 |
+| Deadly Special Oil Star (Usopp attack) | 必殺特製油星 |
+| Thunder Charge (Nami technique) | 蓄電 |
+| Swing Arm (Nami technique) | 迴轉臂 |
+| Namizou (Nami's alias on Thriller Bark) | 娜美藏 |
+| Noble-hippo (Perona's zombie vice-commander) | 乂乂河馬 |
+| Graveyard King (Absalom's self-title) | 墓場之王 |
 
 ## Characters (Post-Enies Lobby Arc)
 | English | 繁體中文 |
