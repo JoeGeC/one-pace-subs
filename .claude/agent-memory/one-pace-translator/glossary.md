@@ -1347,6 +1347,15 @@ type: reference
 | Cerberus (guard dog of hell) | 地獄犬 |
 | Wano Country | 和之國 |
 | Three-Pace Hum: Notch Slash (Ryuuma attack) | 三步必殺：燕口斬 |
+| Special Zombie | 特殊殭屍 |
+| Oars (Special Zombie, ancient demon) | 奧茲（特殊殭屍，遠古魔人）|
+| Hollow Fruit / Horo Horo no Mi (Perona's devil fruit) | 虛空果實 |
+| Mast Mansion (Thriller Bark location) | 桅杆大宅 |
+| Twin Capes (Grand Line entrance) | 雙子岬 |
+| Laboon (whale at Twin Capes) | 拉布（雙子岬的鯨魚）|
+| Special Zombie-Purifying Salt Ball (Usopp invention) | 特製殭屍淨化鹽球 |
+| Shusui (Ryuuma's sword, 21 Large Sharp Blades) | 秋水（龍馬的刀，二十一工大快刀）|
+| 21 Large Sharp Blades (sword grade) | 二十一工大快刀 |
 
 ## Attacks (Thriller Bark Arc)
 | English | 繁體中文 |
@@ -1354,6 +1363,14 @@ type: reference
 | Fresh Fire (Franky attack) | 鮮火 |
 | Once Fleur / Eleven Fleur (Robin attack) | 十一輪花 |
 | Bridal Arts: Oath Kiss (Lola attack) | 新娘術：宣誓之吻 |
+| Six Chambered Viper Star (Usopp attack) | 六連蝮蛇星 |
+| Gum-Gum Pistol (Oars/Luffy zombie) | 橡膠手槍 |
+| Gum-Gum Gatling (Oars/Luffy zombie) | 橡膠機關槍 |
+| Negative Hollow (Perona attack) | 消極幽靈 |
+| Riot Shot: Salt Star (Usopp attack) | 暴動射擊：鹽彈星 |
+| Lead Star (Usopp attack) | 鉛彈星 |
+| Requiem la Banderole (Brook attack) | 安魂旗幟斬 |
+| Weapons Left (Franky attack) | 武器左手 |
 
 ## Characters (Post-Enies Lobby Arc)
 | English | 繁體中文 |
