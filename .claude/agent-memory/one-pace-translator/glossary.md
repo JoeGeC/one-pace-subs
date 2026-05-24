@@ -1492,3 +1492,68 @@ type: reference
 | Dark Vortex (Blackbeard attack) | 闇水 |
 | Dark-Dark Fruit / Darkness Fruit (Yami Yami no Mi) | 暗暗果實 |
 | Dos Fleur: Grab (Robin attack) | 二輪花·抓住 |
+
+## Characters (Thriller Bark Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Lola "the Proposer" (Captain of Rolling Pirates) | 求婚蘿拉（滾動海賊團船長）|
+| Rolling Pirates | 滾動海賊團 |
+| Nightmare Luffy (100 shadows form) | 噩夢魯夫（100個影子型態）|
+| Spoil (Victim Association President) | 斯波伊爾（受害者協會會長）|
+| Captain Yorki / "Calico Yorki" (Rumbar Pirates) | 乂奇船長 /「花布乂奇」（倫巴海賊團）|
+| Rumbar Pirates | 倫巴海賊團 |
+| Crocus (Twin Capes lighthouse keeper) | 乂洛乂斯（雙子岬燈塔看守人）|
+| Laboon (whale, Brook's friend) | 拉布（鯨魚，布魯克的夥伴）|
+| Margarita (shadow victim, maid) | 瑪格麗塔（影子受害者，女僕）|
+| Kaido (Four Emperors) | 凱多（四皇）|
+| Pirate Empress Hancock | 海賊女帝漢考克 |
+
+## Terms (Thriller Bark Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Shadow Revolution (Moriah technique) | 影之革命 |
+| Shadows' Asgard (Moriah ultimate) | 影子的阿斯嘉特 |
+| Victim Association / Thriller Bark Victim Association | 受害者協會 / Thriller Bark受害者協會 |
+| Victim Network | 受害者網絡 |
+| Paw-Paw Fruit (Nikyu Nikyu no Mi, Kuma's devil fruit) | 肉球果實 |
+| Pad Cannon (Kuma attack) | 熊掌砲 |
+| Swift Pad Cannon (Kuma attack) | 連環熊掌砲 |
+| Ursus Shock (Kuma attack) | 熊之衝擊 |
+| Pacifista (government human weapon) | 和平主義者（政府人類兵器）|
+| Vivrecard / Card of Life | 生命卡 |
+| Tone Dial (sound recording shell) | 音貝 |
+| Binks' Sake (pirate song) | 賓克斯的美酒 |
+| Calm Belt | 無風帶 |
+| Impel Down (great prison) | 推進城（大監獄）|
+
+## Attacks (Thriller Bark Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Great Buddha Slash (Zoro three-sword style) | 大佛斬 |
+| Jenga Cannon (Oars attack) | 積木大砲 |
+| Kuwagata / New Weapon: Kuwagata (Franky weapon) | 鍬形蟲 / 新武器：鍬形蟲 |
+| Deadly Ironman Meteor (Franky+Usopp combo) | 必殺鐵人流星 |
+| Slalom Vine (Brook attack) | 回轉藤蔓 |
+| Lightning Bone Sword: Gavotte Bon Avant (Brook) | 雷骨劍：嘉禾舞·前方跳躍 |
+| Ochenta Fleur: Cuatro Manos (Robin attack) | 八十輪花：四手 |
+| Oars Ball (Moriah Shadow Revolution) | 奧茲球 |
+| Demon Crow (Zoro three-sword style) | 鴉魔斬 |
+| Frit Assorti (Sanji Diable Jambe) | 油炸什錦 |
+| Carving Hoof (Chopper attack) | 刻蹄 |
+| Roseo Shoot (Chopper attack) | 櫻花射擊 |
+| Armée de l'Air: Carving Hoof: Roseo Shoot (combo) | 空軍：刻蹄：櫻花射擊 |
+| Three Thousand Worlds (Zoro three-sword secret) | 三千世界 |
+| Giant Bazooka (Luffy Gear Third) | 巨人火箭炮 |
+| Jet Rocket (Luffy Gear Second) | 噴射火箭 |
+| Giant Jet Shell (Luffy Gear Second + Third) | 巨人噴射砲彈 |
+| Black Box (Moriah attack) | 黑匣子 |
+| Streaming Wolf Blades (Zoro attack) | 獵犬鈍齒斬 |
+| Super Size Fire Bird Star (Usopp/Franky combo) | 超級大號火鳥星 |
+| Ultra Refrigerator Super Freezing Cannon (Franky) | 超級冰箱急凍砲 |
+
+## Terms (Thriller Bark Arc - Kuma encounter)
+| English | 繁體中文 |
+|---|---|
+| Humming Brook (Brook's epithet) | 鼻歌布魯克 |
+| Dead Bones (Brook's title) | 只剩白骨 |
+| Yubashiri (Zoro's sword, broken) | 雪走 |
