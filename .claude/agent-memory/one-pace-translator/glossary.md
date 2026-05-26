@@ -1557,3 +1557,87 @@ type: reference
 | Humming Brook (Brook's epithet) | 鼻歌布魯克 |
 | Dead Bones (Brook's title) | 只剩白骨 |
 | Yubashiri (Zoro's sword, broken) | 雪走 |
+
+## Characters (Sabaody Archipelago Arc)
+| English | 繁體中文 |
+|---|---|
+| Camie (Kissing Gourami mermaid) | 卡蜜（接吻魚人魚）|
+| Pappag (starfish, Criminal brand designer) | 帕帕乂（海星，Criminal品牌設計師）|
+| Hatchan / Hacchan / Hachi (Octopus Fishman, takoyaki seller) | 八金 / 八吉（章魚魚人，章魚燒師傅）|
+| Duval / "Iron Mask Duval" | 乂巴爾 / 「鐵面具乂巴爾」|
+| Motobaro (Duval's bison) | 毛多巴洛（乂巴爾的愛牛）|
+| Macro (Macro Pirates boss, Makropharynx Fishman) | 瑪克洛（瑪克洛海賊團老大，巨咽壺魚魚人）|
+| Gyaro (Pop-Eyed Goldfish Fishman) | 乂亞洛（凸眼金魚魚人）|
+| Tansui (Arowana Fishman) | 丹水（龍魚魚人）|
+| Shakky / Shakuyaku (bar owner, former pirate) | 夏琪（酒吧老闆娘，前海賊）|
+| Silvers Rayleigh (coating mechanic, former pirate) | 乂爾佛斯·雷利（鍍膜師，前海賊）|
+| Peterman (Hound Pets kidnapping team boss) | 乂特曼（綁架集團「獵犬寵物」老大）|
+| Disco (Human Auction House host) | 迪斯可（人口拍賣場主持人）|
+| Saint Roswald (Celestial Dragon) | 聖·羅茲瓦德（天龍人）|
+| Saint Shalria (Celestial Dragon) | 聖·夏爾莉雅（天龍人）|
+| Saint Charlos (Celestial Dragon) | 聖·查爾羅斯（天龍人）|
+| Eustass "Captain" Kid | 尤斯塔斯「船長」乂德 |
+| Killer "Massacre Soldier" | 「殺戮武人」乂乂 |
+| Trafalgar Law "Surgeon of Death" | 「死亡外科醫」特拉法爾加·羅 |
+| Basil Hawkins "The Magician" | 「魔術師」巴茲爾·霍金斯 |
+| Scratchmen Apoo "Roar of the Sea" | 「海鳴」斯克拉奇曼·乂普 |
+| X-Drake "Red Flag" | 「赤旗」X乂乂雷克 |
+| Urouge "Mad Monk" | 「怪僧」烏魯基 |
+| Capone "Gang" Bege | 卡波涅「乂哥」貝乂 |
+| Jewelry Bonney "The Glutton" | 「大胃女」乂乂莉·乂妮 |
+
+## Locations (Sabaody Archipelago Arc)
+| English | 繁體中文 |
+|---|---|
+| Sabaody Archipelago | 夏波帝諸島 |
+| Grove (numbered mangrove tree-island) | 紅樹林（編號紅樹島）|
+| Yarukiman Mangroves | 活力滿滿紅樹林 |
+| Sabaody Park (amusement park, Groves 32-34) | 夏波帝樂園 |
+| Shakki's Rip-off Bar | 夏琪的黑店酒吧 |
+| Human Shop / Human Auction House | 人口販賣店 / 人口拍賣場 |
+| Lawless zone (Groves 1-29) | 無法地帶（1-29號紅樹林）|
+| Flying Fish Riders' Headquarters | 飛魚騎士團總部 |
+
+## Terms (Sabaody Archipelago Arc)
+| English | 繁體中文 |
+|---|---|
+| Flying Fish Riders | 飛魚騎士團 |
+| Rosy Life Riders (reformed Flying Fish Riders) | 玫瑰色人生騎士團 |
+| Macro Pirates / Macro Crew | 瑪克洛海賊團 / 瑪克洛小隊 |
+| Hound Pets (kidnapping team) | 獵犬寵物（綁架集團）|
+| Coating / Ship coating | 鍍膜 / 船的鍍膜 |
+| Coating mechanic | 鍍膜師 |
+| Bubble Bike | 泡泡自行車 |
+| Bubble bag | 泡泡袋 |
+| Slave / Slavery | 奴隸 / 奴隸制度 |
+| Slave collar / Neck ring (explosive) | 奴隸項圈 / 頸環（爆炸式）|
+| Human trading / Slave trade | 販賣人口 / 奴隸交易 |
+| World Nobles / Celestial Dragons | 世界貴族 / 天龍人 |
+| Serpent currents | 蛇行海流 |
+| Ocean-floor Route (to New World via Fishman Island) | 海底路線（經魚人島前往新世界）|
+| Criminal (fashion brand, Fishman Island) | Criminal（時尚品牌，魚人島）|
+| Mermaid princess | 人魚公主 |
+| Graman / Grand Line Manjuu (souvenir) | 偉饅 / 偉大航道饅頭（伴手禮）|
+| Takoyaki | 章魚燒 |
+
+## Attacks (Sabaody Archipelago Arc)
+| English | 繁體中文 |
+|---|---|
+| Octo-Hachi Black (Hachi technique) | 章魚八吉·黑 |
+| Six-Sword Style: Octopus-Arm Danger (Hachi) | 六刀流：章魚手危機 |
+| Takoyaki Punch (Hachi attack) | 章魚燒拳 |
+| Lullaby Song Flan (Brook attack) | 搖籃曲法蘭 |
+| Split-Hoof Diamond (Chopper attack) | 刻蹄鑽石 |
+| Gaon Cannon (Thousand Sunny weapon) | 咆哮大砲 |
+| Chicken Voyage (Sunny emergency evasion) | 膽小鬼航行 |
+
+## Camie's Speech Quirks
+| English | 繁體中文 |
+|---|---|
+| -chin (Camie's suffix for names) | 阿琴（卡蜜對名字的尾綴）|
+| Luffy-chin | 魯夫阿琴 |
+| Nami-chin | 娜美阿琴 |
+| Sanji-chin | 香吉士阿琴 |
+| Zoro-chin | 索隆阿琴 |
+| Chopper-chin | 喬巴阿琴 |
+| Skeleton-chin | 骷髏阿琴 |
