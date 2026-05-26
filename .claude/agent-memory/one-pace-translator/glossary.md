@@ -1604,6 +1604,20 @@ type: reference
 | White sake | 白酒 |
 | Center sea people (outsiders from Grand Line) | 中央海域的人（從偉大航道來的外人）|
 | Sea Prism Stone (in warship) | 海樓石（軍艦中）|
+| Bacura (executioner panther) | 巴乂拉（處刑黑豹）|
+| Love-Love Beam (Hancock attack) | 甜甜戀風（漢考克攻擊）|
+| Pistol Kiss (Hancock attack) | 手槍之吻（漢考克攻擊）|
+| Snake Pit Dance (Gorgon Sisters fighting style) | 蛇穴之舞（蛇髮三姊妹的戰鬥風格）|
+| Salamander (Marigold's Zoan epithet) | 蠑螈（瑪莉哥德的動物系別稱）|
+| Eight-Headed Serpent (Sandersonia's Zoan epithet) | 八岐大蛇（桑達索尼亞的動物系別稱）|
+| Snake-Snake Fruit Model King Cobra (Marigold) | 蛇蛇果實 眼鏡蛇王形態（瑪莉哥德）|
+| Snake-Snake Fruit Model Anaconda (Sandersonia) | 蛇蛇果實 蟒蛇形態（桑達索尼亞）|
+| Snake Slam (Sandersonia attack) | 蛇摔（桑達索尼亞攻擊）|
+| Snake Dance (Sandersonia technique) | 蛇舞（桑達索尼亞技術）|
+| Snake Stick (Marigold attack) | 蛇棍（瑪莉哥德攻擊）|
+| Sonia (Sandersonia nickname) | 桑妮（桑達索尼亞暱稱）|
+| Mari (Marigold nickname) | 小瑪莉（瑪莉哥德暱稱）|
+| The Arena (episode title) | 鬥技場（集數標題）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
