@@ -1631,6 +1631,75 @@ type: reference
 | Gaon Cannon (Thousand Sunny weapon) | 咆哮大砲 |
 | Chicken Voyage (Sunny emergency evasion) | 膽小鬼航行 |
 
+## Characters (Sabaody Archipelago Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Sentoumaru (Navy HQ, Science Patrol Captain) | 戰桃丸（海軍本部科學部隊隊長）|
+| Borsalino / "Kizaru" (Navy HQ Admiral) | 波爾薩利諾 / 「黃猿」（海軍本部大將）|
+| Jean Bart (pirate captain, Law's recruit) | 乂恩·巴特（海賊船長，羅的招募成員）|
+| Bepo (Heart Pirates, bear mink) | 貝波（紅心海賊團，熊毛皮族）|
+| Coffee Monkeys (kidnapping team) | 咖啡猴子（綁架集團）|
+| Byron (slave #1, musician pirate) | 拜倫（1號奴隸，音樂家海賊）|
+| Pascia (slave #15, dancer) | 帕希亞（15號奴隸，舞者）|
+| Lacuba (slave #16, pirate captain) | 拉庫巴（16號奴隸，海賊船長）|
+| Donquixote Doflamingo (Seven Warlords) | 唐乂柯德·乂佛朗明歌（七武海）|
+
+## Terms (Sabaody Archipelago Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Pacifista (government human weapon) | 和平主義者（政府人類兵器）|
+| PX-1 / PX-4 (Pacifista units) | PX-1 / PX-4（和平主義者個體）|
+| Light-Light Fruit / Glint-Glint Fruit (Pika Pika no Mi) | 閃閃果實 |
+| Logia (natural element type) | 自然系 |
+| Vivrecard / Card of Life | 生命卡 |
+| SMILE (Doflamingo's new business) | SMILE |
+| Execution of Ace (upcoming event) | 艾斯的處刑（即將發生的事件）|
+| Science Patrol (Navy unit) | 科學部隊 |
+| Black transponder snail (wiretapping) | 黑色電話蟲（竊聽用）|
+| Baby transponder snail (communication) | 幼年電話蟲（通訊用）|
+| Coating (ship coating, 3 days) | 鍍膜（船的鍍膜，需三天）|
+| Speed is weight (Kizaru quote) | 速度就是重量 |
+
+## Attacks (Sabaody Archipelago Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Gum-Gum Balloon (Luffy defense) | 橡膠氣球 |
+| Repel (Kid attack) | 彈開 |
+| Room (Law technique) | ROOM |
+| Shambles (Law technique) | Shambles |
+| 36 Pound Cannon (Zoro) | 三十六煩惱砲 |
+| 600 Pound Cannon (Zoro) | 六百煩惱大砲 |
+| Cien Fleurs: Wing (Robin) | 百輪花：翅膀 |
+| Lullaby Parry (Brook attack) | 搖籃曲招架 |
+| Neuf Fleurs: Twist (Robin attack) | 九輪花：扭轉 |
+| Thunderbolt Tempo (Nami attack) | 雷電節拍 |
+| Bone Balloon (Luffy Gear Third) | 骨氣球 |
+| Giant Pistol (Luffy Gear Third) | 巨人手槍 |
+| Mirror of Yata (Kizaru technique) | 八咫鏡 |
+| Sword of the Gathering Clouds of Heaven (Kizaru) | 天叢雲劍 |
+| Karmic Retribution (Urouge technique) | 因果報應 |
+| Phase of Demon Subjugation (Kizaru technique) | 降魔相 |
+| Sure Kill Atlas Comet (Usopp attack) | 必殺巨人甲蟲流星 |
+| Ochenta Fleurs: Cuatro Manos: Shock (Robin) | 八十輪花：四手：衝擊 |
+| Thunder Lance Tempo (Nami attack) | 雷霆槍騎兵節拍 |
+| Diable Jambe: Flambage Shot (Sanji) | 惡魔風腳：燒烤射擊 |
+| Demonic Spirit Nine Sword Style: Asura (Zoro) | 鬼氣九刀流：阿修羅 |
+| Nine Demonic Flashes (Zoro Asura attack) | 九魔閃 |
+| Giant Rifle (Luffy Gear Third) | 巨人來福槍 |
+| Roseo Blizzard (Chopper attack) | 櫻花暴風雪 |
+| Split-Hoof (Chopper attack prefix) | 刻蹄 |
+| Strong Hammer (Franky attack) | 強力鐵鎚 |
+| Franky Boxing (Franky attack) | 佛朗基拳擊 |
+| Cien Fleurs: Spider Net (Robin) | 百輪花：蜘蛛網 |
+| Swallow Bond En Avant (Brook attack) | 燕子前方跳躍 |
+| Sure Kill Super Smoke Star (Usopp) | 必殺超級煙霧星 |
+| Leg Locked Heave-Ho (Sentoumaru attack) | 足鎖·吆嗨嗨 |
+| Gunpowder Star (Usopp/Sogeking attack) | 火藥星 |
+| Coup de Vent (Franky) | 風來噴射 |
+| Jet Pistol (Luffy Gear Second) | 噴射手槍 |
+| Strong Right (Franky) | 強力右拳 |
+| Veinte Fleur (Robin, 20 flowers) | 二十輪花 |
+
 ## Camie's Speech Quirks
 | English | 繁體中文 |
 |---|---|
