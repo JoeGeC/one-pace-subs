@@ -1618,6 +1618,17 @@ type: reference
 | Sonia (Sandersonia nickname) | 桑妮（桑達索尼亞暱稱）|
 | Mari (Marigold nickname) | 小瑪莉（瑪莉哥德暱稱）|
 | The Arena (episode title) | 鬥技場（集數標題）|
+| Fisher Tiger (adventurer, Sun Pirates founder) | 費雪·泰格（冒險家，太陽海賊團創始人）|
+| Sun Pirates (Fisher Tiger's crew) | 太陽海賊團（費雪·泰格的船團）|
+| Hoof of the Dragon Galloping Across the Heavens | 天翔龍之蹄 |
+| Love-Love Fruit / Mero Mero no Mi (Hancock's devil fruit) | 甜甜果實（漢考克的惡魔果實）|
+| Love sickness (former empresses' disease) | 相思病（前任女帝的疾病）|
+| Medusa Hair (Sandersonia attack name) | 梅杜莎之髮（桑達索尼亞攻擊名）|
+| Gorgon Eyes (curse legend cover story) | 蛇髮女妖之眼（詛咒傳說掩護故事）|
+| Princess's Hall (Kuja Castle room) | 蛇姬殿堂（九蛇城房間）|
+| News Coo (newspaper delivery bird) | 新聞鷗（送報鳥）|
+| Hancock's Confession (episode title) | 漢考克的告白（集數標題）|
+| Pit of blades (arena hazard) | 刀刃之坑（鬥技場的危險裝置）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
