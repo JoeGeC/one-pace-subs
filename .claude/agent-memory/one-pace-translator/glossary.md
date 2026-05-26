@@ -1585,6 +1585,25 @@ type: reference
 | Crying Mushroom | 哭菇 |
 | Gol (Amazon Lily currency) | 哥爾 |
 | Family jewels (Luffy's euphemism) | 傳家之寶 |
+| Boa Marigold (youngest Gorgon Sister) | 乂亞·瑪莉哥德（蛇髮三姊妹的三女）|
+| Boa Sandersonia (second Gorgon Sister) | 乂亞·桑達索尼亞（蛇髮三姊妹的二女）|
+| Gorgon Sisters | 蛇髮三姊妹 |
+| Gorgon (monster legend) | 蛇髮女妖 |
+| Yuda (Hancock's pirate ship) | 遊蛇號（漢考克的海賊船）|
+| Vice-Admiral Momonga | 桃兔中將 |
+| Kuja Pirates | 九蛇海賊團 |
+| Kuja Castle | 九蛇城 |
+| Love Mellow (Hancock attack) | 甜甜戀風 |
+| Extreme Looking-Down Pose (Hancock pose) | 極度俯視姿態 |
+| Gloriosa (Granny Nyon's real name) | 葛洛莉歐莎（妞妞婆婆的本名）|
+| Enishida (Kuja castle attendant) | 金雀花（九蛇城侍從）|
+| Ran (Kuja pirate) | 蘭（九蛇海賊）|
+| Daisy (Kuja pirate) | 黛茜（九蛇海賊）|
+| Monkey Carriage | 猿猴車 |
+| Marineford (Navy HQ location) | 瑪林福德（海軍本部所在地）|
+| White sake | 白酒 |
+| Center sea people (outsiders from Grand Line) | 中央海域的人（從偉大航道來的外人）|
+| Sea Prism Stone (in warship) | 海樓石（軍艦中）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
