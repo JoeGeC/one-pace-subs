@@ -1558,6 +1558,34 @@ type: reference
 | Dead Bones (Brook's title) | 只剩白骨 |
 | Yubashiri (Zoro's sword, broken) | 雪走 |
 
+## Characters (Amazon Lily Arc)
+| English | 繁體中文 |
+|---|---|
+| Boa Hancock / Pirate Empress / Snake Princess | 乂亞·漢考克 / 海賊女帝 / 蛇姬 |
+| Marguerite (Kuja warrior) | 瑪格麗特（九蛇戰士）|
+| Sweetpea (Kuja warrior) | 甜豌豆（九蛇戰士）|
+| Aphelandra (Kuja warrior) | 阿芬蘭朵拉（九蛇戰士）|
+| Kikyo (Kuja warrior) | 桔梗（九蛇戰士）|
+| Belladonna (Kuja doctor) | 貝拉乂娜（九蛇醫生）|
+| Granny Nyon / Elder Nyon | 妞妞婆婆 |
+
+## Locations (Amazon Lily Arc)
+| English | 繁體中文 |
+|---|---|
+| Amazon Lily (Maiden Island) | 亞馬遜百合（少女之島）|
+
+## Terms (Amazon Lily Arc)
+| English | 繁體中文 |
+|---|---|
+| Kuja (warrior tribe) | 九蛇（戰士一族）|
+| Woman empire / Female country | 女人國 |
+| Snake Princess (Hancock's title) | 蛇姬大人 |
+| Parasite Mushroom | 寄生蘑菇 |
+| Laughing Mushroom | 笑菇 |
+| Crying Mushroom | 哭菇 |
+| Gol (Amazon Lily currency) | 哥爾 |
+| Family jewels (Luffy's euphemism) | 傳家之寶 |
+
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
 |---|---|
