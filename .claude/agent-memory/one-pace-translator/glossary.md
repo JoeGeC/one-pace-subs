@@ -1629,6 +1629,22 @@ type: reference
 | News Coo (newspaper delivery bird) | 新聞鷗（送報鳥）|
 | Hancock's Confession (episode title) | 漢考克的告白（集數標題）|
 | Pit of blades (arena hazard) | 刀刃之坑（鬥技場的危險裝置）|
+| Weatheria (small Sky Island, weather research) | 威乂席亞（小型空島，天氣研究）|
+| Knots of Wind (Weatheria weather science) | 風之結（威乂席亞氣象科學）|
+| Mechanical Island / Bulgemore (future kingdom) | 機械島 / 巴爾吉摩爾（未來國度）|
+| Peachy Island (second Island of Women) | 桃色島（第二座女人之島）|
+| Kamabakka Kingdom | 卡瑪巴卡王國 |
+| Bowin Islands (flower-like islands) | 波音列島（花朵般的島嶼）|
+| Heracles (Bowin Islands warrior) | 海格力斯（波音列島戰士）|
+| Grinston (highwayman's forest, Bowin Islands) | 格林斯頓（攔路盜匪的森林，波音列島）|
+| Lazy Bones Island (Grand Line) | 懶骨島（偉大航道）|
+| Longarm Tribe | 長手族 |
+| Tequila Wolf (East Blue, bridge country) | 泰基拉狼（東海，造橋之國）|
+| Torino Kingdom (birds reign over humans) | 多利諾王國（鳥兒統治人類）|
+| Gloom Island / Muggy Kingdom | 陰鬱島 / 陰暗王國 |
+| Moby Dick (Whitebeard's flagship) | 莫比迪克號（白鬍子的旗艦）|
+| Lieutenant Stalker (Momonga's ship marine) | 跟蹤中尉（桃兔軍艦的海軍）|
+| No One Can Stop This Now (episode title) | 現在誰也無法阻止了（集數標題）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
