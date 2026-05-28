@@ -1691,6 +1691,23 @@ type: reference
 | Mid-Air Spinning Big-Top (Buggy attack) | 空中旋轉大帳篷 |
 | Surveillance room / Monitoring room | 監控室 |
 | Jinbe / "First Son of the Sea" | 吉貝爾 / 海俠 |
+| Saldeath (Chief Guard, Blugori Commander) | 薩爾迪斯（看守長，藍猩猩指揮官）|
+| Sadie-chan (Security Chief) | 莎迪醬（獄卒長）|
+| Sphinx (Level 2 stairway guardian) | 人面獅身獸（第二層樓梯守衛）|
+| Manticore (human-faced lion, Level 2) | 人面獅（人臉獅子，第二層）|
+| Puzzle scorpion (Level 2 creature) | 拼圖蠍子（第二層生物）|
+| Level 3 - Starvation Hell | 第三層 飢餓地獄 |
+| Burning Heat Hell (Level 4 name) | 焦熱地獄（第四層名稱）|
+| Demon guards (four beast jailers) | 獄卒獸（四隻惡魔守衛）|
+| Candle Lock (Mr. 3 attack) | 蠟燭鎖定（3號先生攻擊）|
+| Bara Bara Cannon (Buggy attack) | 四分五裂大砲（巴乂攻擊）|
+| Golden Lion (Shiki, legendary prisoner) | 金獅子（乂奇，傳說中的囚犯）|
+| Fake Legs Master-Plan (Buggy tactic) | 假腳大作戰（巴乂的戰術）|
+| Escape Alliance (Buggy & Mr. 3 pact) | 逃跑同盟（巴乂和3號先生的約定）|
+| Miss Goldenweek (Baroque Works painter) | 乂金薇克小姐（巴洛克工作社畫家）|
+| Diarrhea Man (prisoners' nickname for Magellan) | 拉肚子男（囚犯對麥哲倫的綽號）|
+| Straw-chan (Bon Kurei's nickname for Luffy) | 草帽醬（蹦可雷對魯夫的暱稱）|
+| Bon-chan (Luffy's nickname for Mr. 2) | 蹦可雷（魯夫對2號先生的暱稱）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
