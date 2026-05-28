@@ -1687,6 +1687,11 @@ type: reference
 | Captain John's Treasure Mark | 約翰船長的藏寶標記 |
 | Doku Doku Fruit (Poison-Poison Fruit, Magellan) | 毒毒果實（麥哲倫的惡魔果實）|
 | Poison man (Magellan's epithet) | 毒人 |
+| Hydra (Magellan attack) | 毒之水螅 |
+| Chloroball (Magellan attack) | 毒氣彈 |
+| Venom Road (Magellan attack) | 毒之路 |
+| Poison Pufferfish (Magellan attack) | 毒河豚 |
+| Poison Cloud (Magellan attack) | 毒雲 |
 | Scattered Evasion (Buggy attack) | 分散閃躲 |
 | Mid-Air Spinning Big-Top (Buggy attack) | 空中旋轉大帳篷 |
 | Surveillance room / Monitoring room | 監控室 |
@@ -1726,6 +1731,11 @@ type: reference
 | Kamabakka Queendom / Momoiro Island | 卡瑪巴卡王國 / 桃色島 |
 | Daz Bones (former BW assassin, Mr. 1) | 達斯·乂恩斯（前巴洛克工作社刺客，1號先生）|
 | Galdino (Mr. 3's real name) | 乂爾迪諾（3號先生的本名）|
+| Army Wolves (Level 5 beasts) | 軍隊狼（第五層猛獸）|
+| Level 5 - Frozen Hell | 第五層 冰凍地獄 |
+| Demon's Tug (prisoner disappearance phenomenon) | 魔鬼的拖拽（囚犯失蹤現象）|
+| Emporio Ivankov (full name) | 恩波里奧·伊萬科夫 |
+| Cauldron of Blood / Pool of Blood (Level 4 hazard) | 血之池（第四層危險區域）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
