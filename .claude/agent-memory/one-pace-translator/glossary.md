@@ -1657,7 +1657,9 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Impel Down (Great Underwater Prison) | 推進城（海底大監獄）|
-| Level 1 - Crimson Floor | 第一層 深紅地獄 |
+| Level 1 - Crimson Hell | 第一層 深紅地獄 |
+| Level 2 - Demonic Beast Floor | 第二層 猛獸地獄 |
+| Level 3 | 第三層 |
 | Level 4 - Inferno | 第四層 焦熱地獄 |
 | Level 5 | 第五層 |
 | Tarai Current (Navy-only current connecting 3 facilities) | 環形迴流（僅海軍使用的連接三大設施海流）|
@@ -1679,6 +1681,16 @@ type: reference
 | Death row | 死刑犯 |
 | Body check | 全身檢查 |
 | Seastone shackles | 海樓石手銬 |
+| Sabertrees (Level 1 hazard) | 軍刀樹 |
+| Needlegrass (Level 1 hazard) | 針草 |
+| Basilisk (Level 2 guard beast) | 蛇雞獸 |
+| Captain John's Treasure Mark | 約翰船長的藏寶標記 |
+| Doku Doku Fruit (Poison-Poison Fruit, Magellan) | 毒毒果實（麥哲倫的惡魔果實）|
+| Poison man (Magellan's epithet) | 毒人 |
+| Scattered Evasion (Buggy attack) | 分散閃躲 |
+| Mid-Air Spinning Big-Top (Buggy attack) | 空中旋轉大帳篷 |
+| Surveillance room / Monitoring room | 監控室 |
+| Jinbe / "First Son of the Sea" | 吉貝爾 / 海俠 |
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
