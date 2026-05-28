@@ -1646,6 +1646,40 @@ type: reference
 | Lieutenant Stalker (Momonga's ship marine) | 跟蹤中尉（桃兔軍艦的海軍）|
 | No One Can Stop This Now (episode title) | 現在誰也無法阻止了（集數標題）|
 
+## Characters (Impel Down Arc)
+| English | 繁體中文 |
+|---|---|
+| Hannyabal (Assistant Warden) | 乂尼巴爾（副典獄長）|
+| Magellan (Prison Warden) | 麥哲倫（典獄長）|
+| Domino (Vice Chief Jailer) | 多米諾（副看守長）|
+
+## Locations (Impel Down Arc)
+| English | 繁體中文 |
+|---|---|
+| Impel Down (Great Underwater Prison) | 推進城（海底大監獄）|
+| Level 1 - Crimson Floor | 第一層 深紅地獄 |
+| Level 4 - Inferno | 第四層 焦熱地獄 |
+| Level 5 | 第五層 |
+| Tarai Current (Navy-only current connecting 3 facilities) | 環形迴流（僅海軍使用的連接三大設施海流）|
+
+## Terms (Impel Down Arc)
+| English | 繁體中文 |
+|---|---|
+| Warden | 典獄長 |
+| Assistant Warden | 副典獄長 |
+| Vice Chief Jailer | 副看守長 |
+| Lukewarm Bath of Hell (baptism process) | 地獄的溫水浴（洗禮過程）|
+| Blugori (jailer beasts) | 藍猩猩（獄卒獸）|
+| Mega-lift | 巨型升降梯 |
+| Monitoring/Surveillance Transponder Snail | 監視電話蟲 |
+| Split-Split Fruit (Bara Bara no Mi, Buggy's devil fruit) | 四分五裂果實（巴基的惡魔果實）|
+| Big Top (Buggy's ship) | 大帳篷號（巴基的船）|
+| Shared Cell | 共用牢房 |
+| Isolation Cell | 隔離牢房 |
+| Death row | 死刑犯 |
+| Body check | 全身檢查 |
+| Seastone shackles | 海樓石手銬 |
+
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
 |---|---|
