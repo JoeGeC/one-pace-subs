@@ -1708,6 +1708,24 @@ type: reference
 | Diarrhea Man (prisoners' nickname for Magellan) | 拉肚子男（囚犯對麥哲倫的綽號）|
 | Straw-chan (Bon Kurei's nickname for Luffy) | 草帽醬（蹦可雷對魯夫的暱稱）|
 | Bon-chan (Luffy's nickname for Mr. 2) | 蹦可雷（魯夫對2號先生的暱稱）|
+| Minotaurus (Demon Guard / Jailer Beast) | 牛頭人（獄卒獸）|
+| Minokoala (Demon Guard, Feasty) | 無尾熊人（好食）|
+| Minorhinoceros (Demon Guard, Quiet) | 犀牛人（安靜）|
+| Minozebra (Demon Guard, Shy) | 斑馬人（害羞）|
+| Tamer's Whip (Minotaurus attack) | 馴獸鞭（牛頭人攻擊）|
+| Pool of Blood (Level 4 hazard) | 血之池（第四層危險區域）|
+| Inferno Hell (Level 4 full name) | 焦熱地獄（第四層正式名稱）|
+| Vent Column (Level 3 structure) | 通氣井（第三層結構）|
+| Well-hole tower (Impel Down structure) | 通氣井塔（推進城結構）|
+| Muggy-Ball (Buggy's mini weapon) | 瑪乂彈（巴乂的迷你武器）|
+| Special Muggy-Ball (Buggy attack) | 特製瑪乂彈（巴乂攻擊）|
+| Buggy-Ball (Buggy's cannonball) | 巴乂彈（巴乂的砲彈）|
+| Hammer Rifle (Luffy attack) | 鐵鎚來福槍（魯夫攻擊）|
+| Iva-san (Ivankov, Miracle Man) | 伊娃先生（奇蹟之人）|
+| Okama Queen (Ivankov's title) | 御宅女王（伊娃先生的稱號）|
+| Kamabakka Queendom / Momoiro Island | 卡瑪巴卡王國 / 桃色島 |
+| Daz Bones (former BW assassin, Mr. 1) | 達斯·乂恩斯（前巴洛克工作社刺客，1號先生）|
+| Galdino (Mr. 3's real name) | 乂爾迪諾（3號先生的本名）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
