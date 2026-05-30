@@ -1735,6 +1735,13 @@ type: reference
 | Level 5 - Frozen Hell | 第五層 冰凍地獄 |
 | Demon's Tug (prisoner disappearance phenomenon) | 魔鬼的拖拽（囚犯失蹤現象）|
 | Emporio Ivankov (full name) | 恩波里奧·伊萬科夫 |
+| Inazuma (Revolutionary, Ivankov's companion) | 伊那茲瑪（革命軍，伊萬科夫的同伴）|
+| Shiryuu / Shiryuu of the Rain (Head Jailer, traitor) | 希留 / 雨之希留（看守長，叛徒）|
+| Candle Wall (Mr. 3 defense) | 蠟燭之壁（3號先生防禦）|
+| Champion Rifle (Luffy attack with wax gloves) | 冠軍來福槍（魯夫用蠟手套的攻擊）|
+| Crab-chan (Luffy's nickname for Inazuma) | 螃蟹醬（魯夫對伊那茲瑪的暱稱）|
+| Fishman Pirates (Jinbei's former crew) | 魚人海賊團（吉貝爾的前船團）|
+| Sea Knight / First Son of the Sea (Jinbei's epithet) | 海俠（吉貝爾的稱號）|
 | Cauldron of Blood / Pool of Blood (Level 4 hazard) | 血之池（第四層危險區域）|
 
 ## Characters (Sabaody Archipelago Arc)
