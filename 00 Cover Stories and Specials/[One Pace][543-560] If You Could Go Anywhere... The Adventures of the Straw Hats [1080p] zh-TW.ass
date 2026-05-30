@@ -274,26 +274,26 @@ Dialogue: 50,0:22:51.79,0:22:55.49,Main-207+,,0,0,0,,波音列島是不可能逃
 Dialogue: 50,0:22:55.49,0:22:57.49,Main-207+,,0,0,0,,不可能逃出去？！
 Dialogue: 50,0:22:57.86,0:23:01.00,Main-207+,,0,0,0,,而且我才是森林的英雄，
 Dialogue: 50,0:23:01.00,0:23:01.43,Main-207+,,0,0,0,,海——
-Dialogue: 0,0:01:45.96,0:01:48.96,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(513,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(418,513,\1a&H00&)}陰暗王國遺跡\N陰鬱島
-Dialogue: 1,0:01:45.96,0:01:48.96,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(513,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}陰暗王國遺跡\N陰鬱島
-Dialogue: 0,0:03:15.65,0:03:20.48,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,0)\fnRoboto Bold\bord2.2\1a&HFF&\blur0.8\t(880,980,\1a&H00&)}貧困之國洪格利亞\N懶骨島
-Dialogue: 1,0:03:15.65,0:03:20.48,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,0)\fnRoboto Bold\bord0\blur0.8}貧困之國洪格利亞\N懶骨島
-Dialogue: 0,0:05:53.10,0:05:57.11,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(954,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(754,954,\1a&H00&)}多利諾王國\N南海
-Dialogue: 1,0:05:53.10,0:05:57.11,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(954,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}多利諾王國\N南海
-Dialogue: 0,0:06:55.67,0:06:59.44,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(813,980,\1a&H00&)}卡瑪巴卡王國\N偉大航道·桃色島
-Dialogue: 1,0:06:55.67,0:06:59.44,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}卡瑪巴卡王國\N偉大航道·桃色島
-Dialogue: 0,0:08:35.93,0:08:38.94,Captions-207+,,0,0,100,,{\an8\pos(1001,100)\fad(486,0)\fnRoboto Bold\fscx125\fscy125\bord2.5\1a&HFF&\blur0.8\t(452,486,\1a&H00&)}威乂席亞
-Dialogue: 1,0:08:35.93,0:08:38.94,Captions-207+,,0,0,100,,{\an8\pos(1001,100)\fad(486,0)\fnRoboto Bold\fscx125\fscy125\bord0\blur1}威乂席亞
-Dialogue: 0,0:12:05.84,0:12:09.25,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(452,486,\1a&H00&)}機械島\N未來國度乂爾提摩
-Dialogue: 1,0:12:05.84,0:12:09.25,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}機械島\N未來國度乂爾提摩
-Dialogue: 0,0:12:36.24,0:12:38.17,Captions-207+,,0,0,200,,{\an8\pos(1090.1,100)\fnAbscissa\alpha&HFF&\c&HFFE7FD&\3c&H13011F&\blur0.3\fax-0.389\fscx65.55\fscy76.17\frz18.18\frx-0.458\fry-3.092\xbord0.7\ybord0.6\org(1076,494)\b700}....{\alpha&H00&}手術\N進行中
-Dialogue: 1,0:12:36.24,0:12:38.17,Captions-207+,,0,0,200,,{\an8\pos(1090.1,100)\fnAbscissa\alpha&HFF&\c&HFFE7FD&\blur0.8\fax-0.389\fscx65.55\fscy76.17\frz18.18\frx-0.458\fry-3.092\xbord0\ybord0\org(1076,494)\b700}....{\alpha&H00&}手術\N進行中
-Dialogue: 0,0:12:55.09,0:12:57.09,Captions-207+,,0,0,200,,{\an8\pos(720,100)\fnAbscissa\alpha&HFF&\c&HFFE7FD&\3c&H13011F&\blur0.3\t(218,652,\c&H534990&\3c&H060716&)\fax-0.38\fscx65.2\fscy73.92\frz18.198\frx-0.459\fry-3.093\xbord0.7\ybord0.6\org(1075,493)\b700\move(1088.326,534.78,1087.53,534.58,218,652)}....{\alpha&H00&}手術\N進行中
-Dialogue: 1,0:12:55.09,0:12:57.09,Captions-207+,,0,0,200,,{\an8\pos(720,100)\fnAbscissa\alpha&HFF&\c&HFFE7FD&\blur0.8\t(218,652,\c&H7167A3&)\fax-0.38\fscx65.2\fscy73.92\frz18.198\frx-0.459\fry-3.093\xbord0\ybord0\org(1075,493)\b700\move(1088.326,534.78,1087.53,534.58,218,652)}....{\alpha&H00&}手術\N進行中
-Dialogue: 0,0:19:23.45,0:19:29.45,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,1016)\fnRoboto Bold\bord2.2\1a&HFF&\blur0.8\t(846,980,\1a&H00&)\t(4984,5151,\1a&HFF&)}泰基拉狼\N東海
-Dialogue: 1,0:19:23.45,0:19:29.45,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(980,1016)\fnRoboto Bold\bord0\blur0.8}泰基拉狼\N東海
-Dialogue: 0,0:21:40.48,0:21:43.39,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(453,486,\1a&H00&)}波音列島\N偉大航道
-Dialogue: 1,0:21:40.48,0:21:43.39,Captions-207+,,0,0,200,,{\an8\pos(956,100)\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}波音列島\N偉大航道
+Dialogue: 0,0:01:45.96,0:01:48.96,Captions-207+,,0,0,200,,{\an8\fad(513,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(418,513,\1a&H00&)}陰暗王國遺跡\N陰鬱島
+Dialogue: 1,0:01:45.96,0:01:48.96,Captions-207+,,0,0,200,,{\an8\fad(513,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}陰暗王國遺跡\N陰鬱島
+Dialogue: 0,0:03:15.65,0:03:20.48,Captions-207+,,0,0,200,,{\an8\fad(980,0)\fnRoboto Bold\bord2.2\1a&HFF&\blur0.8\t(880,980,\1a&H00&)}貧困之國洪格利亞\N懶骨島
+Dialogue: 1,0:03:15.65,0:03:20.48,Captions-207+,,0,0,200,,{\an8\fad(980,0)\fnRoboto Bold\bord0\blur0.8}貧困之國洪格利亞\N懶骨島
+Dialogue: 0,0:05:53.10,0:05:57.11,Captions-207+,,0,0,200,,{\an8\fad(954,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(754,954,\1a&H00&)}多利諾王國\N南海
+Dialogue: 1,0:05:53.10,0:05:57.11,Captions-207+,,0,0,200,,{\an8\fad(954,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}多利諾王國\N南海
+Dialogue: 0,0:06:55.67,0:06:59.44,Captions-207+,,0,0,200,,{\an8\fad(980,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(813,980,\1a&H00&)}卡瑪巴卡王國\N偉大航道·桃色島
+Dialogue: 1,0:06:55.67,0:06:59.44,Captions-207+,,0,0,200,,{\an8\fad(980,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}卡瑪巴卡王國\N偉大航道·桃色島
+Dialogue: 0,0:08:35.93,0:08:38.94,Captions-207+,,0,0,100,,{\an8\fad(486,0)\fnRoboto Bold\fscx125\fscy125\bord2.5\1a&HFF&\blur0.8\t(452,486,\1a&H00&)}威乂席亞
+Dialogue: 1,0:08:35.93,0:08:38.94,Captions-207+,,0,0,100,,{\an8\fad(486,0)\fnRoboto Bold\fscx125\fscy125\bord0\blur1}威乂席亞
+Dialogue: 0,0:12:05.84,0:12:09.25,Captions-207+,,0,0,200,,{\an8\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(452,486,\1a&H00&)}機械島\N未來國度乂爾提摩
+Dialogue: 1,0:12:05.84,0:12:09.25,Captions-207+,,0,0,200,,{\an8\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}機械島\N未來國度乂爾提摩
+Dialogue: 0,0:12:36.24,0:12:38.17,Captions-207+,,0,0,200,,{\an8\fnAbscissa\alpha&HFF&\c&HFFE7FD&\3c&H13011F&\blur0.3\fax-0.389\fscx65.55\fscy76.17\frz18.18\frx-0.458\fry-3.092\xbord0.7\ybord0.6\org(1076,494)\b700}....{\alpha&H00&}手術\N進行中
+Dialogue: 1,0:12:36.24,0:12:38.17,Captions-207+,,0,0,200,,{\an8\fnAbscissa\alpha&HFF&\c&HFFE7FD&\blur0.8\fax-0.389\fscx65.55\fscy76.17\frz18.18\frx-0.458\fry-3.092\xbord0\ybord0\org(1076,494)\b700}....{\alpha&H00&}手術\N進行中
+Dialogue: 0,0:12:55.09,0:12:57.09,Captions-207+,,0,0,200,,{\an8\fnAbscissa\alpha&HFF&\c&HFFE7FD&\3c&H13011F&\blur0.3\t(218,652,\c&H534990&\3c&H060716&)\fax-0.38\fscx65.2\fscy73.92\frz18.198\frx-0.459\fry-3.093\xbord0.7\ybord0.6\org(1075,493)\b700\move(1088.326,534.78,1087.53,534.58,218,652)}....{\alpha&H00&}手術\N進行中
+Dialogue: 1,0:12:55.09,0:12:57.09,Captions-207+,,0,0,200,,{\an8\fnAbscissa\alpha&HFF&\c&HFFE7FD&\blur0.8\t(218,652,\c&H7167A3&)\fax-0.38\fscx65.2\fscy73.92\frz18.198\frx-0.459\fry-3.093\xbord0\ybord0\org(1075,493)\b700\move(1088.326,534.78,1087.53,534.58,218,652)}....{\alpha&H00&}手術\N進行中
+Dialogue: 0,0:19:23.45,0:19:29.45,Captions-207+,,0,0,200,,{\an8\fad(980,1016)\fnRoboto Bold\bord2.2\1a&HFF&\blur0.8\t(846,980,\1a&H00&)\t(4984,5151,\1a&HFF&)}泰基拉狼\N東海
+Dialogue: 1,0:19:23.45,0:19:29.45,Captions-207+,,0,0,200,,{\an8\fad(980,1016)\fnRoboto Bold\bord0\blur0.8}泰基拉狼\N東海
+Dialogue: 0,0:21:40.48,0:21:43.39,Captions-207+,,0,0,200,,{\an8\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord2.5\1a&HFF&\blur0.8\t(453,486,\1a&H00&)}波音列島\N偉大航道
+Dialogue: 1,0:21:40.48,0:21:43.39,Captions-207+,,0,0,200,,{\an8\fad(486,0)\fnRoboto Bold\fscx110\fscy110\bord0\blur0.8}波音列島\N偉大航道
 Dialogue: 0,0:00:00.22,0:00:03.35,Credits-207+,,0,0,0,,{\fscx90\fscy90\pos(65,65)}Video Editing
 Dialogue: 0,0:00:00.22,0:00:03.35,Credits-207+,,0,0,0,,{\fscy110\fscx110\pos(165,115)}fedew\NFeeso\NGalaxy 9000
 Dialogue: 0,0:00:16.33,0:00:21.57,Credits-207+,,0,0,0,,{\fscx90\fscy90\pos(65,65)}Timing
