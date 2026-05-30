@@ -1743,6 +1743,39 @@ type: reference
 | Fishman Pirates (Jinbei's former crew) | 魚人海賊團（吉貝爾的前船團）|
 | Sea Knight / First Son of the Sea (Jinbei's epithet) | 海俠（吉貝爾的稱號）|
 | Cauldron of Blood / Pool of Blood (Level 4 hazard) | 血之池（第四層危險區域）|
+| Venom Demon (Magellan ultimate attack form) | 毒之巨兵（麥哲倫究極攻擊型態）|
+| Hell's Judgement (Magellan attack) | 地獄審判（麥哲倫攻擊）|
+| Hell Wink (Ivankov attack) | 地獄眨眼（伊萬科夫攻擊）|
+| Death Wink (Ivankov attack) | 死亡眨眼（伊萬科夫攻擊）|
+| Great Scissors (Inazuma attack) | 大剪刀（伊那茲瑪攻擊）|
+| Keep Out (Inazuma defense) | 禁止通行（伊那茲瑪防禦）|
+| Choki Choki Fruit (Inazuma's devil fruit) | 剪剪果實（伊那茲瑪的惡魔果實）|
+| Newkama Kenpo (Ivankov fighting style) | 新人妖拳法（伊萬科夫的戰鬥風格）|
+| Champion Stamp (Luffy attack with wax armor) | 冠軍印章（魯夫用蠟盔甲的攻擊）|
+| Gigant Stamp (Luffy Gear Third attack) | 巨人印章（魯夫三檔攻擊）|
+| Doru Doru Cancellation (Mr. 3 technique) | 蠟蠟解除（3號先生技術）|
+| Sea Current Lifter (Jinbei Fishman Jujutsu) | 海流一本背負（吉貝爾魚人柔術）|
+| Bon-boy (prisoners' nickname for Mr. 2) | 蹦可雷小子（囚犯對2號先生的稱呼）|
+| Brother Bon (comrades' address for Mr. 2) | 蹦可雷兄弟（夥伴對2號先生的稱呼）|
+| Satisfaction (Bon Kurei's last word) | 無悔（蹦可雷的最後一句話）|
+| Level 5.5 / Newkama Land | 第五.五層 / 新人妖樂園 |
+| Newkama Kenpo (Ivankov fighting style) | 新人妖拳法（伊萬科夫的戰鬥風格）|
+| Aesthetic Art 44 Hidden Technique: Dream Smash Removal Fist (Ivankov) | 美學秘技四十四·夢幻粉碎卸妝拳（伊萬科夫）|
+| Great Scissors (Inazuma attack) | 大剪刀（伊那茲瑪攻擊）|
+| Keep Out (Inazuma defense) | 禁止通行（伊那茲瑪防禦）|
+| Emporio Healing Hormone (Ivankov technique) | 恩波里奧治癒賀爾蒙（伊萬科夫技術）|
+| Emporio Female Hormone (Ivankov technique) | 恩波里奧女性賀爾蒙（伊萬科夫技術）|
+| Hormone Fruit (Ivankov's devil fruit) | 賀爾蒙果實（伊萬科夫的惡魔果實）|
+| Kama Land (short for Newkama Land) | 人妖樂園（新人妖樂園的簡稱）|
+| Ace-boy (Ivankov's nickname for Ace) | 艾斯小子（伊萬科夫對艾斯的暱稱）|
+| Candy-boy (Ivankov's address to newcomers) | 糖果小子（伊萬科夫對新人的稱呼）|
+| Bon-boy (Ivankov's nickname for Bon Kurei) | 蹦可雷小子（伊萬科夫對蹦可雷的暱稱）|
+| Straw-Hat-boy (Ivankov's nickname for Luffy) | 草帽小子（伊萬科夫對魯夫的暱稱）|
+| Level 6 - Eternal Hell | 第六層 永恆地獄 |
+| Katarina Devon (Level 6 prisoner) | 卡塔麗娜·乂芳（第六層囚犯）|
+| San Juan Wolf (Level 6 prisoner) | 聖乂安·乂爾夫（第六層囚犯）|
+| Basco Shot (Level 6 prisoner) | 巴斯柯·乂特（第六層囚犯）|
+| Saldeath (Chief Guard) | 薩爾迪斯（看守長）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
