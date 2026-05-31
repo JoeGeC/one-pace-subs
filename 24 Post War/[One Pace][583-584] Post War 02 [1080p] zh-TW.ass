@@ -575,28 +575,28 @@ Dialogue: 50,0:39:46.88,0:39:51.40,Narrator-207+,,0,0,200,,他們也跟城裡的
 Dialogue: 50,0:39:51.40,0:39:58.94,Narrator-207+,,0,0,200,,最終，他們的惡名\N甚至傳到了王國的中心！
 Dialogue: 0,0:02:31.46,0:02:36.42,Title-207+,,0,0,100,,{\an8\blur0.5\fad(750,600)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4360,4405,\1a&HFF&)}不確定物的終點站
 Dialogue: 1,0:02:31.46,0:02:36.42,Title-207+,,0,0,100,,{\an8\bord0\blur0.5\fad(750,600)\4a&HFF&}不確定物的終點站
-Dialogue: 0,0:03:16.78,0:03:22.05,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}蒙其·D·卡普\N{\fn}（十年前）
-Dialogue: 1,0:03:16.78,0:03:22.05,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\c&HFCFEFD&\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\4a&HFF&}蒙其·D·卡普\N{\fn}（十年前）
-Dialogue: 0,0:03:22.11,0:03:26.83,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx157\fscy167\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}蒙其·D·魯夫\N{\fn}（十年前）
-Dialogue: 1,0:03:22.11,0:03:26.83,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\c&HFFFFFD&\fscx157\fscy167\4a&HFF&}蒙其·D·魯夫\N{\fn}（十年前）
-Dialogue: 0,0:03:54.81,0:03:58.28,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx182\fscy173\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}卷髮達坦
-Dialogue: 1,0:03:54.81,0:03:58.28,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx182\fscy173\c&HFDFEFC&\4a&HFF&}卷髮達坦
-Dialogue: 0,0:03:58.32,0:04:01.72,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx142\fscy151\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}多古拉\N山賊
-Dialogue: 1,0:03:58.32,0:04:01.72,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx142\fscy151\c&HFEFCFC&\4a&HFF&}多古拉\N山賊
-Dialogue: 0,0:04:01.75,0:04:05.19,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx142\fscy151\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}瑪古拉\N山賊
-Dialogue: 1,0:04:01.75,0:04:05.19,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx142\fscy151\4a&HFF&}瑪古拉\N山賊
-Dialogue: 0,0:05:41.08,0:05:45.32,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(750,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}波特卡斯·D·艾斯\N{\fn}（十年前）
-Dialogue: 1,0:05:41.08,0:05:45.32,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(750,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\c&HFBFCFC&\4a&HFF&}波特卡斯·D·艾斯\N{\fn}（十年前）
-Dialogue: 0,0:10:59.44,0:11:02.45,Captions-PTS,,0,0,100,,{\an8\pos(1476.57,100)\blur0.4\fad(1000,0)\bord2\fscx125\fscy126\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}一週後……
-Dialogue: 1,0:10:59.44,0:11:02.45,Captions-PTS,,0,0,100,,{\an8\pos(1476.57,100)\blur0.4\fad(1000,0)\bord0\fscx125\fscy126\c&HFFFFFD&\4a&HFF&}一週後……
-Dialogue: 0,0:17:46.78,0:17:51.29,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}薩波{\fn}（10歲）\N{\fs40}（住在不確定物的終點站的少年）
-Dialogue: 1,0:17:46.78,0:17:51.29,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\4a&HFF&}薩波{\fn}（10歲）\N{\fs40\c&HFEFEFE&}（住在不確定物的終點站的少年）
-Dialogue: 0,0:21:23.59,0:21:28.34,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx181\fscy181\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}波切米\N{\fn\fs45}布魯堅姆海賊團
-Dialogue: 1,0:21:23.59,0:21:28.34,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx181\fscy181\c&HFAFDFB&\4a&HFF&}波切米\N{\fn\fs45}布魯堅姆海賊團
-Dialogue: 0,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\fscx203\fscy191\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}海賊灣\N{\fs45}不確定物的終點站
-Dialogue: 1,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\bord0\blur0.4\fad(1000,0)\fscx203\fscy191\c&HFFFFFE&\4a&HFF&}海賊灣\N{\fs45}不確定物的終點站
-Dialogue: 0,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx181\fscy181\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}布魯堅姆船長\N{\fn\fs45}布魯堅姆海賊團
-Dialogue: 1,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx181\fscy181\4a&HFF&}布魯堅姆船長\N{\fn\fs45}布魯堅姆海賊團
+Dialogue: 0,0:03:16.78,0:03:22.05,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}蒙其·D·卡普\N{\fn}（十年前）
+Dialogue: 1,0:03:16.78,0:03:22.05,Captions-PTS,,0,0,200,,{\an8\blur0.4\c&HFCFEFD&\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\4a&HFF&}蒙其·D·卡普\N{\fn}（十年前）
+Dialogue: 0,0:03:22.11,0:03:26.83,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx157\fscy167\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}蒙其·D·魯夫\N{\fn}（十年前）
+Dialogue: 1,0:03:22.11,0:03:26.83,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\c&HFFFFFD&\fscx157\fscy167\4a&HFF&}蒙其·D·魯夫\N{\fn}（十年前）
+Dialogue: 0,0:03:54.81,0:03:58.28,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx182\fscy173\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}卷髮達坦
+Dialogue: 1,0:03:54.81,0:03:58.28,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx182\fscy173\c&HFDFEFC&\4a&HFF&}卷髮達坦
+Dialogue: 0,0:03:58.32,0:04:01.72,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx142\fscy151\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}多古拉\N山賊
+Dialogue: 1,0:03:58.32,0:04:01.72,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx142\fscy151\c&HFEFCFC&\4a&HFF&}多古拉\N山賊
+Dialogue: 0,0:04:01.75,0:04:05.19,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx142\fscy151\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}瑪古拉\N山賊
+Dialogue: 1,0:04:01.75,0:04:05.19,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx142\fscy151\4a&HFF&}瑪古拉\N山賊
+Dialogue: 0,0:05:41.08,0:05:45.32,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(750,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}波特卡斯·D·艾斯\N{\fn}（十年前）
+Dialogue: 1,0:05:41.08,0:05:45.32,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(750,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\c&HFBFCFC&\4a&HFF&}波特卡斯·D·艾斯\N{\fn}（十年前）
+Dialogue: 0,0:10:59.44,0:11:02.45,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord2\fscx125\fscy126\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}一週後……
+Dialogue: 1,0:10:59.44,0:11:02.45,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord0\fscx125\fscy126\c&HFFFFFD&\4a&HFF&}一週後……
+Dialogue: 0,0:17:46.78,0:17:51.29,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}薩波{\fn}（10歲）\N{\fs40}（住在不確定物的終點站的少年）
+Dialogue: 1,0:17:46.78,0:17:51.29,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx158\fscy165\4a&HFF&}薩波{\fn}（10歲）\N{\fs40\c&HFEFEFE&}（住在不確定物的終點站的少年）
+Dialogue: 0,0:21:23.59,0:21:28.34,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx181\fscy181\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}波切米\N{\fn\fs45}布魯堅姆海賊團
+Dialogue: 1,0:21:23.59,0:21:28.34,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx181\fscy181\c&HFAFDFB&\4a&HFF&}波切米\N{\fn\fs45}布魯堅姆海賊團
+Dialogue: 0,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fscx203\fscy191\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}海賊灣\N{\fs45}不確定物的終點站
+Dialogue: 1,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.4\fad(1000,0)\fscx203\fscy191\c&HFFFFFE&\4a&HFF&}海賊灣\N{\fs45}不確定物的終點站
+Dialogue: 0,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx181\fscy181\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}布魯堅姆船長\N{\fn\fs45}布魯堅姆海賊團
+Dialogue: 1,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx181\fscy181\4a&HFF&}布魯堅姆船長\N{\fn\fs45}布魯堅姆海賊團
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hBastia\N\h\hPhosCity
