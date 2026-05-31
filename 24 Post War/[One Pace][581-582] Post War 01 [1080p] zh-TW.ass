@@ -401,26 +401,26 @@ Dialogue: 50,0:30:00.98,0:30:05.42,Main-207+,,0,0,0,,艾斯！
 Dialogue: 0,0:02:45.14,0:02:52.83,Title-207+,,0,0,100,,{\an8\blur0.4\fad(1000,1000)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(6690,6735,\1a&HFF&)}逼近的未來
 Dialogue: 1,0:02:45.14,0:02:52.83,Title-207+,,0,0,100,,{\an8\bord0\blur0.4\fad(1000,1000)\c&HFAF9F9&\4a&HFF&}逼近的未來
 Dialogue: 50,0:03:00.99,0:03:07.75,Note-207+,,0,0,100,,「武士道與正義」
-Dialogue: 0,0:07:28.63,0:07:31.63,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}東海
-Dialogue: 1,0:07:28.63,0:07:31.63,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFFFEFE&\4a&HFF&}東海
-Dialogue: 0,0:07:39.24,0:07:41.91,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}西海
-Dialogue: 1,0:07:39.24,0:07:41.91,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFDFDFE&\4a&HFF&}西海
-Dialogue: 0,0:07:46.61,0:07:49.25,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}南海
-Dialogue: 1,0:07:46.61,0:07:49.25,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFEFEFE&\4a&HFF&}南海
-Dialogue: 0,0:07:55.09,0:07:57.79,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,500)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(2200,2245,\1a&HFF&)}北海
-Dialogue: 1,0:07:55.09,0:07:57.79,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,500)\bord0\fscx196\fscy188\c&HFFFEFE&\4a&HFF&}北海
-Dialogue: 0,0:08:04.99,0:08:07.90,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord2.55\fscx248\fscy224\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}偉大航道
-Dialogue: 1,0:08:04.99,0:08:07.90,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(200,0)\bord0\c&HFEFEFF&\fscx248\fscy224\4a&HFF&}偉大航道
-Dialogue: 0,0:09:07.59,0:09:10.60,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\fad(500,0)\bord2.9\fscx193\fscy187\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}富瓦倫汀，新世界
-Dialogue: 1,0:09:07.59,0:09:10.60,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\fad(500,0)\bord0\fscx193\fscy187\c&HFDFDFD&\4a&HFF&}富瓦倫汀，新世界
-Dialogue: 0,0:10:06.72,0:10:10.72,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.55\fsp1\fscx162\fscy162\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}船長 特拉法爾加·羅\N{\fnRoboto\fs55}紅心海賊團
-Dialogue: 1,0:10:06.72,0:10:10.72,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fsp1\c&HFCFCFC&\fscx162\fscy162\4a&HFF&}船長 特拉法爾加·羅\N{\fnRoboto\fs55}紅心海賊團
-Dialogue: 0,0:15:07.69,0:15:11.92,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,725)\fscx162\fscy162\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3505,3550,\1a&HFF&)}推進城，海底大監獄
-Dialogue: 1,0:15:07.69,0:15:11.92,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\bord0\blur0.4\fad(500,725)\fscx162\fscy162\c&HFCFDFB&\4a&HFF&}推進城，海底大監獄
-Dialogue: 0,0:18:03.03,0:18:07.03,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,1000)\bord2.7\fscx196\fscy188\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3000,3045,\1a&HFF&)}西海
-Dialogue: 1,0:18:03.03,0:18:07.03,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,1000)\bord0\fscx196\fscy188\c&HFDFDFF&\4a&HFF&}西海
-Dialogue: 0,0:19:10.63,0:19:16.65,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,1000)\bord2.9\fscx193\fscy187\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(5020,5065,\1a&HFF&)}富瓦倫汀，新世界
-Dialogue: 1,0:19:10.63,0:19:16.65,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(500,1000)\bord0\fscx193\fscy187\c&HFBFEFC&\4a&HFF&}富瓦倫汀，新世界
+Dialogue: 0,0:07:28.63,0:07:31.63,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}東海
+Dialogue: 1,0:07:28.63,0:07:31.63,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFFFEFE&\4a&HFF&}東海
+Dialogue: 0,0:07:39.24,0:07:41.91,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}西海
+Dialogue: 1,0:07:39.24,0:07:41.91,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFDFDFE&\4a&HFF&}西海
+Dialogue: 0,0:07:46.61,0:07:49.25,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}南海
+Dialogue: 1,0:07:46.61,0:07:49.25,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord0\fscx196\fscy188\c&HFEFEFE&\4a&HFF&}南海
+Dialogue: 0,0:07:55.09,0:07:57.79,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,500)\bord2.55\fscx196\fscy188\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(2200,2245,\1a&HFF&)}北海
+Dialogue: 1,0:07:55.09,0:07:57.79,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,500)\bord0\fscx196\fscy188\c&HFFFEFE&\4a&HFF&}北海
+Dialogue: 0,0:08:04.99,0:08:07.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord2.55\fscx248\fscy224\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}偉大航道
+Dialogue: 1,0:08:04.99,0:08:07.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(200,0)\bord0\c&HFEFEFF&\fscx248\fscy224\4a&HFF&}偉大航道
+Dialogue: 0,0:09:07.59,0:09:10.60,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(500,0)\bord2.9\fscx193\fscy187\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}富瓦倫汀，新世界
+Dialogue: 1,0:09:07.59,0:09:10.60,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(500,0)\bord0\fscx193\fscy187\c&HFDFDFD&\4a&HFF&}富瓦倫汀，新世界
+Dialogue: 0,0:10:06.72,0:10:10.72,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.55\fsp1\fscx162\fscy162\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}船長 特拉法爾加·羅\N{\fnRoboto\fs55}紅心海賊團
+Dialogue: 1,0:10:06.72,0:10:10.72,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fsp1\c&HFCFCFC&\fscx162\fscy162\4a&HFF&}船長 特拉法爾加·羅\N{\fnRoboto\fs55}紅心海賊團
+Dialogue: 0,0:15:07.69,0:15:11.92,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,725)\fscx162\fscy162\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3505,3550,\1a&HFF&)}推進城，海底大監獄
+Dialogue: 1,0:15:07.69,0:15:11.92,Captions-PTS,,0,0,100,,{\an8\bord0\blur0.4\fad(500,725)\fscx162\fscy162\c&HFCFDFB&\4a&HFF&}推進城，海底大監獄
+Dialogue: 0,0:18:03.03,0:18:07.03,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,1000)\bord2.7\fscx196\fscy188\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3000,3045,\1a&HFF&)}西海
+Dialogue: 1,0:18:03.03,0:18:07.03,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,1000)\bord0\fscx196\fscy188\c&HFDFDFF&\4a&HFF&}西海
+Dialogue: 0,0:19:10.63,0:19:16.65,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,1000)\bord2.9\fscx193\fscy187\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(5020,5065,\1a&HFF&)}富瓦倫汀，新世界
+Dialogue: 1,0:19:10.63,0:19:16.65,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,1000)\bord0\fscx193\fscy187\c&HFBFEFC&\4a&HFF&}富瓦倫汀，新世界
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hBastia\N\h\hSewil
