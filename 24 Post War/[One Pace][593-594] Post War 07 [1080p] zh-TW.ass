@@ -508,38 +508,38 @@ Dialogue: 55,0:36:23.73,0:36:28.83,Main-207+,,0,0,0,,沒有覺悟\N去拿命來�
 Dialogue: 55,0:36:28.83,0:36:33.57,Main-207+,,0,0,0,,沒有資格......待在這片海上！
 Dialogue: 55,0:36:38.48,0:36:41.65,Main-207+,,0,0,0,,我很快就會搶到領先的位置！
 Dialogue: 55,0:36:41.65,0:36:46.48,Main-207+,,0,0,0,,所以你就看好了等著吧，草帽！
-Dialogue: 1,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(1000,0)\bord2.5\fscx121\fscy137\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}東海 巨大橋樑頂上
-Dialogue: 2,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(1000,0)\bord0\fscx121\fscy137\4a&HFF&}東海 巨大橋樑頂上
-Dialogue: 0,0:05:22.90,0:05:26.61,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(750,0)\bord2.5\fscx152\fscy155\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}卡瑪巴卡王國\N偉大航道 桃色島
-Dialogue: 1,0:05:22.90,0:05:26.61,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(750,0)\bord0\c&HFEFFFE&\fscx152\fscy155\4a&HFF&}卡瑪巴卡王國\N偉大航道 桃色島
-Dialogue: 0,0:08:47.54,0:08:54.28,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(750,1000)\bord2.5\fscx185\fscy178\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(5740,5785,\1a&HFF&)}白土之島 巴爾迪哥\N偉大航道
-Dialogue: 1,0:08:47.54,0:08:54.28,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(750,1000)\bord0\fscx185\fscy178\c&HFEFEFE&\4a&HFF&}白土之島 巴爾迪哥\N偉大航道
-Dialogue: 0,0:09:12.66,0:09:22.21,Captions-PTS,,0,0,200,,{\an8\pos(502.5,100)\blur0.3\fad(1300,1300)\bord2.2\fscx76\fscy84\c&H000000&\1a&HFF&\t(1255,1300,\1a&H00&)\t(8250,8295,\1a&HFF&)}白色電話蟲\N（稀有的加密電話蟲）
-Dialogue: 1,0:09:12.66,0:09:22.21,Captions-PTS,,0,0,200,,{\an8\pos(502.5,100)\blur0.3\fad(1300,1300)\bord0\fscx76\fscy84\4a&HFF&}白色電話蟲\N（稀有的加密電話蟲）
-Dialogue: 0,0:20:12.92,0:20:17.96,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\bord2.2\fscx175\fscy190\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}聖地瑪麗喬亞 紅土大陸
-Dialogue: 1,0:20:12.92,0:20:17.96,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\bord0\fscx175\fscy190\4a&HFF&}聖地瑪麗{\c&HFFFFFC&}喬亞 紅土大陸
-Dialogue: 0,0:20:18.73,0:20:29.57,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(1000,1000)\bord2.5\fscx181\fscy190\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(9840,9885,\1a&HFF&)}孔格大將\N{\fs40}世界政府
-Dialogue: 1,0:20:18.73,0:20:29.57,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.3\fad(1000,1000)\bord0\fscx181\fscy190\4a&HFF&}孔格大將\N{\fs40\c&HFFFFFF&}世界政府
-Dialogue: 0,0:22:31.03,0:22:35.73,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\bord2.8\fad(1000,0)\fscx127\fscy138\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}海軍本部 醫務室
-Dialogue: 1,0:22:31.03,0:22:35.73,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\bord0\fad(1000,0)\fscx127\fscy138\c&HFEFFFF&\4a&HFF&}海軍本部 醫務室
-Dialogue: 0,0:23:21.31,0:23:24.62,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,0)\bord2.8\fscx147\fscy158\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}會議室
-Dialogue: 1,0:23:21.31,0:23:24.62,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,0)\bord0\fscx147\fscy158\c&HFEFFFE&\4a&HFF&}會議室
-Dialogue: 0,0:23:48.51,0:23:51.61,Captions-PTS,,0,0,100,,{\an8\pos(1019.2,100)\blur0.4\fad(875,0)\bord2\fscx130\fscy138\c&H000000&\1a&HFF&\t(830,875,\1a&H00&)}數日前......
-Dialogue: 1,0:23:48.51,0:23:51.61,Captions-PTS,,0,0,100,,{\an8\pos(1019.2,100)\blur0.4\fad(875,0)\bord0\fscx130\fscy138\c&HF9F9F8&\4a&HFF&}數日前......
-Dialogue: 0,0:31:51.42,0:31:54.66,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,0)\bord2.2\fscx187\fscy190\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}新世界
-Dialogue: 1,0:31:51.42,0:31:54.66,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,0)\bord0\fscx187\fscy190\c&HFEFDFD&\4a&HFF&}新世界
-Dialogue: 0,0:31:55.16,0:31:59.66,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(750,500)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4000,4045,\1a&HFF&)}尤斯塔斯「船長」乂德
-Dialogue: 1,0:31:55.16,0:31:59.66,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(750,500)\c&HFFFFFE&\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\4a&HFF&}尤斯塔斯「船長」乂德
-Dialogue: 0,0:32:10.81,0:32:15.78,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(750,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}乂乂 乂德海賊團
-Dialogue: 1,0:32:10.81,0:32:15.78,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(750,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFFFFFF&\4a&HFF&}乂乂 乂德海賊團
-Dialogue: 0,0:33:52.54,0:33:57.05,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,500)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4010,4055,\1a&HFF&)}卡波涅「乂哥」貝乂
-Dialogue: 1,0:33:52.54,0:33:57.05,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.6\fad(500,500)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFEFEFD&\4a&HFF&}卡波涅「乂哥」貝乂
-Dialogue: 0,0:34:26.51,0:34:29.81,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(550,0)\bord2.55\fscx184\fscy177\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}富達瓦魯坦\N新世界
-Dialogue: 1,0:34:26.51,0:34:29.81,Captions-PTS,,0,0,200,,{\an8\pos(720,100)\blur0.4\fad(550,0)\bord0\c&HFEFEFE&\fscx184\fscy177\4a&HFF&}富達瓦魯坦\N新世界
-Dialogue: 0,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}巴茲爾·霍金斯
-Dialogue: 1,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\4a&HFF&}巴茲爾·霍金斯
-Dialogue: 1,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(750,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}烏魯基
-Dialogue: 2,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(750,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFFFFFE&\4a&HFF&}烏魯基
+Dialogue: 1,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(1000,0)\bord2.5\fscx121\fscy137\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}東海 巨大橋樑頂上
+Dialogue: 2,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(1000,0)\bord0\fscx121\fscy137\4a&HFF&}東海 巨大橋樑頂上
+Dialogue: 0,0:05:22.90,0:05:26.61,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(750,0)\bord2.5\fscx152\fscy155\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}卡瑪巴卡王國\N偉大航道 桃色島
+Dialogue: 1,0:05:22.90,0:05:26.61,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(750,0)\bord0\c&HFEFFFE&\fscx152\fscy155\4a&HFF&}卡瑪巴卡王國\N偉大航道 桃色島
+Dialogue: 0,0:08:47.54,0:08:54.28,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(750,1000)\bord2.5\fscx185\fscy178\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(5740,5785,\1a&HFF&)}白土之島 巴爾迪哥\N偉大航道
+Dialogue: 1,0:08:47.54,0:08:54.28,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(750,1000)\bord0\fscx185\fscy178\c&HFEFEFE&\4a&HFF&}白土之島 巴爾迪哥\N偉大航道
+Dialogue: 0,0:09:12.66,0:09:22.21,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(1300,1300)\bord2.2\fscx76\fscy84\c&H000000&\1a&HFF&\t(1255,1300,\1a&H00&)\t(8250,8295,\1a&HFF&)}白色電話蟲\N（稀有的加密電話蟲）
+Dialogue: 1,0:09:12.66,0:09:22.21,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(1300,1300)\bord0\fscx76\fscy84\4a&HFF&}白色電話蟲\N（稀有的加密電話蟲）
+Dialogue: 0,0:20:12.92,0:20:17.96,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord2.2\fscx175\fscy190\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}聖地瑪麗喬亞 紅土大陸
+Dialogue: 1,0:20:12.92,0:20:17.96,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord0\fscx175\fscy190\4a&HFF&}聖地瑪麗{\c&HFFFFFC&}喬亞 紅土大陸
+Dialogue: 0,0:20:18.73,0:20:29.57,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(1000,1000)\bord2.5\fscx181\fscy190\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(9840,9885,\1a&HFF&)}孔格大將\N{\fs40}世界政府
+Dialogue: 1,0:20:18.73,0:20:29.57,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(1000,1000)\bord0\fscx181\fscy190\4a&HFF&}孔格大將\N{\fs40\c&HFFFFFF&}世界政府
+Dialogue: 0,0:22:31.03,0:22:35.73,Captions-PTS,,0,0,100,,{\an8\blur0.5\bord2.8\fad(1000,0)\fscx127\fscy138\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}海軍本部 醫務室
+Dialogue: 1,0:22:31.03,0:22:35.73,Captions-PTS,,0,0,100,,{\an8\blur0.5\bord0\fad(1000,0)\fscx127\fscy138\c&HFEFFFF&\4a&HFF&}海軍本部 醫務室
+Dialogue: 0,0:23:21.31,0:23:24.62,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,0)\bord2.8\fscx147\fscy158\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}會議室
+Dialogue: 1,0:23:21.31,0:23:24.62,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,0)\bord0\fscx147\fscy158\c&HFEFFFE&\4a&HFF&}會議室
+Dialogue: 0,0:23:48.51,0:23:51.61,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(875,0)\bord2\fscx130\fscy138\c&H000000&\1a&HFF&\t(830,875,\1a&H00&)}數日前......
+Dialogue: 1,0:23:48.51,0:23:51.61,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(875,0)\bord0\fscx130\fscy138\c&HF9F9F8&\4a&HFF&}數日前......
+Dialogue: 0,0:31:51.42,0:31:54.66,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,0)\bord2.2\fscx187\fscy190\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}新世界
+Dialogue: 1,0:31:51.42,0:31:54.66,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,0)\bord0\fscx187\fscy190\c&HFEFDFD&\4a&HFF&}新世界
+Dialogue: 0,0:31:55.16,0:31:59.66,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(750,500)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4000,4045,\1a&HFF&)}尤斯塔斯「船長」乂德
+Dialogue: 1,0:31:55.16,0:31:59.66,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(750,500)\c&HFFFFFE&\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\4a&HFF&}尤斯塔斯「船長」乂德
+Dialogue: 0,0:32:10.81,0:32:15.78,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(750,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}乂乂 乂德海賊團
+Dialogue: 1,0:32:10.81,0:32:15.78,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(750,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFFFFFF&\4a&HFF&}乂乂 乂德海賊團
+Dialogue: 0,0:33:52.54,0:33:57.05,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,500)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4010,4055,\1a&HFF&)}卡波涅「乂哥」貝乂
+Dialogue: 1,0:33:52.54,0:33:57.05,Captions-PTS,,0,0,100,,{\an8\blur0.6\fad(500,500)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFEFEFD&\4a&HFF&}卡波涅「乂哥」貝乂
+Dialogue: 0,0:34:26.51,0:34:29.81,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(550,0)\bord2.55\fscx184\fscy177\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}富達瓦魯坦\N新世界
+Dialogue: 1,0:34:26.51,0:34:29.81,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(550,0)\bord0\c&HFEFEFE&\fscx184\fscy177\4a&HFF&}富達瓦魯坦\N新世界
+Dialogue: 0,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}巴茲爾·霍金斯
+Dialogue: 1,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\4a&HFF&}巴茲爾·霍金斯
+Dialogue: 1,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}烏魯基
+Dialogue: 2,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFFFFFE&\4a&HFF&}烏魯基
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hPhosCity
@@ -556,178 +556,178 @@ Dialogue: 0,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60
 Dialogue: 1,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hYibis
 Dialogue: 0,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(880,925,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-Dialogue: 1,0:23:41.67,0:23:41.70,Captions-PTS,,0,0,100,,{\an8\pos(-366.86,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.70,0:23:41.73,Captions-PTS,,0,0,100,,{\an8\pos(-356.01,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.73,0:23:41.77,Captions-PTS,,0,0,100,,{\an8\pos(-345.21,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.77,0:23:41.80,Captions-PTS,,0,0,100,,{\an8\pos(-334.44,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.80,0:23:41.83,Captions-PTS,,0,0,100,,{\an8\pos(-323.7,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.83,0:23:41.87,Captions-PTS,,0,0,100,,{\an8\pos(-312.92,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.87,0:23:41.90,Captions-PTS,,0,0,100,,{\an8\pos(-302.2,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.90,0:23:41.93,Captions-PTS,,0,0,100,,{\an8\pos(-291.54,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.93,0:23:41.97,Captions-PTS,,0,0,100,,{\an8\pos(-280.9,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:41.97,0:23:42.00,Captions-PTS,,0,0,100,,{\an8\pos(-270.21,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.00,0:23:42.03,Captions-PTS,,0,0,100,,{\an8\pos(-259.71,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.03,0:23:42.07,Captions-PTS,,0,0,100,,{\an8\pos(-249.22,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.07,0:23:42.10,Captions-PTS,,0,0,100,,{\an8\pos(-238.69,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.10,0:23:42.13,Captions-PTS,,0,0,100,,{\an8\pos(-228.19,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.13,0:23:42.17,Captions-PTS,,0,0,100,,{\an8\pos(-217.72,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.17,0:23:42.20,Captions-PTS,,0,0,100,,{\an8\pos(-207.33,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.20,0:23:42.23,Captions-PTS,,0,0,100,,{\an8\pos(-196.97,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.23,0:23:42.27,Captions-PTS,,0,0,100,,{\an8\pos(-186.66,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.27,0:23:42.30,Captions-PTS,,0,0,100,,{\an8\pos(-176.4,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.30,0:23:42.33,Captions-PTS,,0,0,100,,{\an8\pos(-166.17,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.33,0:23:42.37,Captions-PTS,,0,0,100,,{\an8\pos(-155.91,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.37,0:23:42.40,Captions-PTS,,0,0,100,,{\an8\pos(-145.74,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.40,0:23:42.43,Captions-PTS,,0,0,100,,{\an8\pos(-135.66,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.43,0:23:42.47,Captions-PTS,,0,0,100,,{\an8\pos(-125.58,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.47,0:23:42.50,Captions-PTS,,0,0,100,,{\an8\pos(-115.56,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.50,0:23:42.53,Captions-PTS,,0,0,100,,{\an8\pos(-105.54,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.53,0:23:42.57,Captions-PTS,,0,0,100,,{\an8\pos(-95.56,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.57,0:23:42.60,Captions-PTS,,0,0,100,,{\an8\pos(-85.8,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.60,0:23:42.63,Captions-PTS,,0,0,100,,{\an8\pos(-75.89,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.63,0:23:42.67,Captions-PTS,,0,0,100,,{\an8\pos(-66.08,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.67,0:23:42.70,Captions-PTS,,0,0,100,,{\an8\pos(-56.35,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.70,0:23:42.73,Captions-PTS,,0,0,100,,{\an8\pos(-46.68,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.73,0:23:42.77,Captions-PTS,,0,0,100,,{\an8\pos(-37.01,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.77,0:23:42.80,Captions-PTS,,0,0,100,,{\an8\pos(-27.43,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.80,0:23:42.83,Captions-PTS,,0,0,100,,{\an8\pos(-17.91,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.83,0:23:42.87,Captions-PTS,,0,0,100,,{\an8\pos(-8.41,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.87,0:23:42.90,Captions-PTS,,0,0,100,,{\an8\pos(1,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.90,0:23:42.93,Captions-PTS,,0,0,100,,{\an8\pos(10.35,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.93,0:23:42.97,Captions-PTS,,0,0,100,,{\an8\pos(19.71,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:42.97,0:23:43.00,Captions-PTS,,0,0,100,,{\an8\pos(28.86,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.00,0:23:43.03,Captions-PTS,,0,0,100,,{\an8\pos(38.07,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.03,0:23:43.07,Captions-PTS,,0,0,100,,{\an8\pos(47.23,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.07,0:23:43.10,Captions-PTS,,0,0,100,,{\an8\pos(56.28,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.10,0:23:43.13,Captions-PTS,,0,0,100,,{\an8\pos(65.31,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.13,0:23:43.17,Captions-PTS,,0,0,100,,{\an8\pos(74.2,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.17,0:23:43.20,Captions-PTS,,0,0,100,,{\an8\pos(83.1,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.20,0:23:43.23,Captions-PTS,,0,0,100,,{\an8\pos(91.88,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.23,0:23:43.27,Captions-PTS,,0,0,100,,{\an8\pos(100.58,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.27,0:23:43.30,Captions-PTS,,0,0,100,,{\an8\pos(109.26,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.30,0:23:43.33,Captions-PTS,,0,0,100,,{\an8\pos(117.9,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.33,0:23:43.37,Captions-PTS,,0,0,100,,{\an8\pos(126.45,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.37,0:23:43.40,Captions-PTS,,0,0,100,,{\an8\pos(134.99,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.40,0:23:43.43,Captions-PTS,,0,0,100,,{\an8\pos(143.28,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.43,0:23:43.47,Captions-PTS,,0,0,100,,{\an8\pos(151.56,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.47,0:23:43.50,Captions-PTS,,0,0,100,,{\an8\pos(159.82,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.50,0:23:43.53,Captions-PTS,,0,0,100,,{\an8\pos(168.06,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.53,0:23:43.57,Captions-PTS,,0,0,100,,{\an8\pos(176.1,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.57,0:23:43.60,Captions-PTS,,0,0,100,,{\an8\pos(184.14,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.60,0:23:43.63,Captions-PTS,,0,0,100,,{\an8\pos(192,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.63,0:23:43.67,Captions-PTS,,0,0,100,,{\an8\pos(199.86,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.67,0:23:43.70,Captions-PTS,,0,0,100,,{\an8\pos(207.63,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.70,0:23:43.73,Captions-PTS,,0,0,100,,{\an8\pos(215.38,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.73,0:23:43.77,Captions-PTS,,0,0,100,,{\an8\pos(222.99,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.77,0:23:43.80,Captions-PTS,,0,0,100,,{\an8\pos(230.56,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.80,0:23:43.83,Captions-PTS,,0,0,100,,{\an8\pos(237.99,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.83,0:23:43.87,Captions-PTS,,0,0,100,,{\an8\pos(245.37,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.87,0:23:43.90,Captions-PTS,,0,0,100,,{\an8\pos(252.65,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.90,0:23:43.94,Captions-PTS,,0,0,100,,{\an8\pos(259.86,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.94,0:23:43.97,Captions-PTS,,0,0,100,,{\an8\pos(266.97,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:43.97,0:23:44.00,Captions-PTS,,0,0,100,,{\an8\pos(273.93,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.00,0:23:44.04,Captions-PTS,,0,0,100,,{\an8\pos(280.85,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.04,0:23:44.07,Captions-PTS,,0,0,100,,{\an8\pos(287.83,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.07,0:23:44.10,Captions-PTS,,0,0,100,,{\an8\pos(294.5,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.10,0:23:44.14,Captions-PTS,,0,0,100,,{\an8\pos(301.2,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.14,0:23:44.17,Captions-PTS,,0,0,100,,{\an8\pos(307.79,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.17,0:23:44.20,Captions-PTS,,0,0,100,,{\an8\pos(314.34,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.20,0:23:44.24,Captions-PTS,,0,0,100,,{\an8\pos(320.65,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.24,0:23:44.27,Captions-PTS,,0,0,100,,{\an8\pos(326.99,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.27,0:23:44.30,Captions-PTS,,0,0,100,,{\an8\pos(333.23,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.30,0:23:44.34,Captions-PTS,,0,0,100,,{\an8\pos(339.24,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.34,0:23:44.37,Captions-PTS,,0,0,100,,{\an8\pos(345.31,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.37,0:23:44.40,Captions-PTS,,0,0,100,,{\an8\pos(351.33,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.40,0:23:44.44,Captions-PTS,,0,0,100,,{\an8\pos(357.06,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.44,0:23:44.47,Captions-PTS,,0,0,100,,{\an8\pos(362.83,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.47,0:23:44.50,Captions-PTS,,0,0,100,,{\an8\pos(368.48,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.50,0:23:44.54,Captions-PTS,,0,0,100,,{\an8\pos(374.06,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.54,0:23:44.57,Captions-PTS,,0,0,100,,{\an8\pos(379.37,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.57,0:23:44.60,Captions-PTS,,0,0,100,,{\an8\pos(384.68,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.60,0:23:44.64,Captions-PTS,,0,0,100,,{\an8\pos(389.94,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.64,0:23:44.67,Captions-PTS,,0,0,100,,{\an8\pos(395.08,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.67,0:23:44.70,Captions-PTS,,0,0,100,,{\an8\pos(400.1,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.70,0:23:44.74,Captions-PTS,,0,0,100,,{\an8\pos(405.07,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.74,0:23:44.77,Captions-PTS,,0,0,100,,{\an8\pos(409.85,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.77,0:23:44.80,Captions-PTS,,0,0,100,,{\an8\pos(414.57,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.80,0:23:44.84,Captions-PTS,,0,0,100,,{\an8\pos(419.16,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.84,0:23:44.87,Captions-PTS,,0,0,100,,{\an8\pos(423.69,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.87,0:23:44.90,Captions-PTS,,0,0,100,,{\an8\pos(427.96,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.90,0:23:44.94,Captions-PTS,,0,0,100,,{\an8\pos(432.27,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.94,0:23:44.97,Captions-PTS,,0,0,100,,{\an8\pos(436.51,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:44.97,0:23:45.00,Captions-PTS,,0,0,100,,{\an8\pos(440.55,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.00,0:23:45.04,Captions-PTS,,0,0,100,,{\an8\pos(444.5,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.04,0:23:45.07,Captions-PTS,,0,0,100,,{\an8\pos(448.35,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.07,0:23:45.10,Captions-PTS,,0,0,100,,{\an8\pos(452.04,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.10,0:23:45.14,Captions-PTS,,0,0,100,,{\an8\pos(455.75,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.14,0:23:45.17,Captions-PTS,,0,0,100,,{\an8\pos(459.24,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.17,0:23:45.20,Captions-PTS,,0,0,100,,{\an8\pos(462.74,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.20,0:23:45.24,Captions-PTS,,0,0,100,,{\an8\pos(465.98,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.24,0:23:45.27,Captions-PTS,,0,0,100,,{\an8\pos(469.17,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.27,0:23:45.30,Captions-PTS,,0,0,100,,{\an8\pos(472.2,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.30,0:23:45.34,Captions-PTS,,0,0,100,,{\an8\pos(475.2,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.34,0:23:45.37,Captions-PTS,,0,0,100,,{\an8\pos(478,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.37,0:23:45.40,Captions-PTS,,0,0,100,,{\an8\pos(480.81,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.40,0:23:45.44,Captions-PTS,,0,0,100,,{\an8\pos(483.36,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.44,0:23:45.47,Captions-PTS,,0,0,100,,{\an8\pos(485.88,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.47,0:23:45.50,Captions-PTS,,0,0,100,,{\an8\pos(488.26,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.50,0:23:45.54,Captions-PTS,,0,0,100,,{\an8\pos(490.53,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.54,0:23:45.57,Captions-PTS,,0,0,100,,{\an8\pos(492.66,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.57,0:23:45.60,Captions-PTS,,0,0,100,,{\an8\pos(494.71,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.60,0:23:45.64,Captions-PTS,,0,0,100,,{\an8\pos(496.67,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.64,0:23:45.67,Captions-PTS,,0,0,100,,{\an8\pos(498.48,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.67,0:23:45.70,Captions-PTS,,0,0,100,,{\an8\pos(500.2,100)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.70,0:23:45.74,Captions-PTS,,0,0,100,,{\an8\pos(501.75,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.74,0:23:45.77,Captions-PTS,,0,0,100,,{\an8\pos(503.19,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.77,0:23:45.80,Captions-PTS,,0,0,100,,{\an8\pos(504.54,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.80,0:23:45.84,Captions-PTS,,0,0,100,,{\an8\pos(505.75,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.84,0:23:45.87,Captions-PTS,,0,0,100,,{\an8\pos(506.83,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.87,0:23:45.90,Captions-PTS,,0,0,100,,{\an8\pos(507.87,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.90,0:23:45.94,Captions-PTS,,0,0,100,,{\an8\pos(508.73,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.94,0:23:45.97,Captions-PTS,,0,0,100,,{\an8\pos(509.46,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:45.97,0:23:46.00,Captions-PTS,,0,0,100,,{\an8\pos(510.13,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.00,0:23:46.04,Captions-PTS,,0,0,100,,{\an8\pos(510.64,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.04,0:23:46.07,Captions-PTS,,0,0,100,,{\an8\pos(510.9,100)\fscx100.01\fscy100.01\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.07,0:23:46.10,Captions-PTS,,0,0,100,,{\an8\pos(511.23,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.10,0:23:46.14,Captions-PTS,,0,0,100,,{\an8\pos(511.47,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.14,0:23:46.24,Captions-PTS,,0,0,100,,{\an8\pos(511.49,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.24,0:23:46.27,Captions-PTS,,0,0,100,,{\an8\pos(511.47,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.27,0:23:46.30,Captions-PTS,,0,0,100,,{\an8\pos(511.49,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.30,0:23:46.40,Captions-PTS,,0,0,100,,{\an8\pos(511.47,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.40,0:23:46.44,Captions-PTS,,0,0,100,,{\an8\pos(511.49,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:46.44,0:23:47.00,Captions-PTS,,0,0,100,,{\an8\pos(511.5,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.00,0:23:47.24,Captions-PTS,,0,0,100,,{\an8\pos(511.49,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.24,0:23:47.64,Captions-PTS,,0,0,100,,{\an8\pos(511.5,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.64,0:23:47.67,Captions-PTS,,0,0,100,,{\an8\pos(511.51,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.67,0:23:47.71,Captions-PTS,,0,0,100,,{\an8\pos(511.5,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.71,0:23:47.81,Captions-PTS,,0,0,100,,{\an8\pos(511.51,100)\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.81,0:23:47.84,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H0A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.84,0:23:47.87,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H12&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.87,0:23:47.91,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H1A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.91,0:23:47.94,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H24&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.94,0:23:47.97,Captions-PTS,,0,0,100,,{\an8\pos(511.55,100)\bord0\c&H070707&\alpha&H2B&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:47.97,0:23:48.01,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H33&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.01,0:23:48.04,Captions-PTS,,0,0,100,,{\an8\pos(511.55,100)\bord0\c&H070707&\alpha&H3D&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.04,0:23:48.07,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H45&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.07,0:23:48.11,Captions-PTS,,0,0,100,,{\an8\pos(511.53,100)\bord0\c&H070707&\alpha&H4D&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.11,0:23:48.14,Captions-PTS,,0,0,100,,{\an8\pos(511.55,100)\bord0\c&H070707&\alpha&H57&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.14,0:23:48.17,Captions-PTS,,0,0,100,,{\an8\pos(511.56,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H5E&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.17,0:23:48.21,Captions-PTS,,0,0,100,,{\an8\pos(511.56,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H66&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.21,0:23:48.24,Captions-PTS,,0,0,100,,{\an8\pos(511.59,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H70&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.24,0:23:48.27,Captions-PTS,,0,0,100,,{\an8\pos(511.56,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H78&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.27,0:23:48.31,Captions-PTS,,0,0,100,,{\an8\pos(511.57,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H80&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.31,0:23:48.34,Captions-PTS,,0,0,100,,{\an8\pos(511.57,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H8A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.34,0:23:48.37,Captions-PTS,,0,0,100,,{\an8\pos(511.56,100)\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H91&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.37,0:23:48.41,Captions-PTS,,0,0,100,,{\an8\pos(511.19,100)\fscx100.01\fscy100.01\bord0\c&H070707&\alpha&H99&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.41,0:23:48.44,Captions-PTS,,0,0,100,,{\an8\pos(510.75,100)\fscx100.04\fscy100.04\bord0\c&H070707&\alpha&HA3&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.44,0:23:48.47,Captions-PTS,,0,0,100,,{\an8\pos(510.33,100)\fscx100.07\fscy100.07\bord0\c&H070707&\alpha&HAB&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.47,0:23:48.51,Captions-PTS,,0,0,100,,{\an8\pos(509.89,100)\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HB3&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.51,0:23:48.54,Captions-PTS,,0,0,100,,{\an8\pos(509.49,100)\fscx100.14\fscy100.14\bord0\c&H070707&\alpha&HBD&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.54,0:23:48.57,Captions-PTS,,0,0,100,,{\an8\pos(509.6,100)\fscx100.13\fscy100.13\bord0\c&H070707&\alpha&HC4&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.57,0:23:48.61,Captions-PTS,,0,0,100,,{\an8\pos(509.67,100)\fscx100.12\fscy100.12\bord0\c&H070707&\alpha&HCC&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.61,0:23:48.64,Captions-PTS,,0,0,100,,{\an8\pos(509.76,100)\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HD6&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.64,0:23:48.67,Captions-PTS,,0,0,100,,{\an8\pos(509.82,100)\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HDE&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.67,0:23:48.71,Captions-PTS,,0,0,100,,{\an8\pos(509.95,100)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HE6&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.71,0:23:48.74,Captions-PTS,,0,0,100,,{\an8\pos(509.95,100)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF0&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
-Dialogue: 1,0:23:48.74,0:23:48.77,Captions-PTS,,0,0,100,,{\an8\pos(509.94,100)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF7&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.67,0:23:41.70,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.70,0:23:41.73,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.73,0:23:41.77,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.77,0:23:41.80,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.80,0:23:41.83,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.83,0:23:41.87,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.87,0:23:41.90,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.90,0:23:41.93,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.93,0:23:41.97,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:41.97,0:23:42.00,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.00,0:23:42.03,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.03,0:23:42.07,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.07,0:23:42.10,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.10,0:23:42.13,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.13,0:23:42.17,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.17,0:23:42.20,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.20,0:23:42.23,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.23,0:23:42.27,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.27,0:23:42.30,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.30,0:23:42.33,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.33,0:23:42.37,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.37,0:23:42.40,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.40,0:23:42.43,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.43,0:23:42.47,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.47,0:23:42.50,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.50,0:23:42.53,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.53,0:23:42.57,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.57,0:23:42.60,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.60,0:23:42.63,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.63,0:23:42.67,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.67,0:23:42.70,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.70,0:23:42.73,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.73,0:23:42.77,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.77,0:23:42.80,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.80,0:23:42.83,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.83,0:23:42.87,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.87,0:23:42.90,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.90,0:23:42.93,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.93,0:23:42.97,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:42.97,0:23:43.00,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.00,0:23:43.03,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.03,0:23:43.07,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.07,0:23:43.10,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.10,0:23:43.13,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.13,0:23:43.17,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.17,0:23:43.20,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.20,0:23:43.23,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.23,0:23:43.27,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.27,0:23:43.30,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.30,0:23:43.33,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.33,0:23:43.37,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.37,0:23:43.40,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.40,0:23:43.43,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.43,0:23:43.47,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.47,0:23:43.50,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.50,0:23:43.53,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.53,0:23:43.57,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.57,0:23:43.60,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.60,0:23:43.63,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.63,0:23:43.67,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.67,0:23:43.70,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.70,0:23:43.73,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.73,0:23:43.77,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.77,0:23:43.80,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.80,0:23:43.83,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.83,0:23:43.87,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.87,0:23:43.90,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.90,0:23:43.94,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.94,0:23:43.97,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:43.97,0:23:44.00,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.00,0:23:44.04,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.04,0:23:44.07,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.07,0:23:44.10,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.10,0:23:44.14,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.14,0:23:44.17,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.17,0:23:44.20,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.20,0:23:44.24,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.24,0:23:44.27,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.27,0:23:44.30,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.30,0:23:44.34,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.34,0:23:44.37,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.37,0:23:44.40,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.40,0:23:44.44,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.44,0:23:44.47,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.47,0:23:44.50,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.50,0:23:44.54,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.54,0:23:44.57,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.57,0:23:44.60,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.60,0:23:44.64,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.64,0:23:44.67,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.67,0:23:44.70,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.70,0:23:44.74,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.74,0:23:44.77,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.77,0:23:44.80,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.80,0:23:44.84,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.84,0:23:44.87,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.87,0:23:44.90,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.90,0:23:44.94,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.94,0:23:44.97,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:44.97,0:23:45.00,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.00,0:23:45.04,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.04,0:23:45.07,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.07,0:23:45.10,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.10,0:23:45.14,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.14,0:23:45.17,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.17,0:23:45.20,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.20,0:23:45.24,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.24,0:23:45.27,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.27,0:23:45.30,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.30,0:23:45.34,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.34,0:23:45.37,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.37,0:23:45.40,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.40,0:23:45.44,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.44,0:23:45.47,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.47,0:23:45.50,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.50,0:23:45.54,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.54,0:23:45.57,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.57,0:23:45.60,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.60,0:23:45.64,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.64,0:23:45.67,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.67,0:23:45.70,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.70,0:23:45.74,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.74,0:23:45.77,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.77,0:23:45.80,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.80,0:23:45.84,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.84,0:23:45.87,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.87,0:23:45.90,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.90,0:23:45.94,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.94,0:23:45.97,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:45.97,0:23:46.00,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.00,0:23:46.04,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.04,0:23:46.07,Captions-PTS,,0,0,100,,{\an8\fscx100.01\fscy100.01\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.07,0:23:46.10,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.10,0:23:46.14,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.14,0:23:46.24,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.24,0:23:46.27,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.27,0:23:46.30,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.30,0:23:46.40,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.40,0:23:46.44,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:46.44,0:23:47.00,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.00,0:23:47.24,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.24,0:23:47.64,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.64,0:23:47.67,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.67,0:23:47.71,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.71,0:23:47.81,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.81,0:23:47.84,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H0A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.84,0:23:47.87,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H12&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.87,0:23:47.91,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H1A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.91,0:23:47.94,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H24&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.94,0:23:47.97,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H2B&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:47.97,0:23:48.01,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H33&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.01,0:23:48.04,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H3D&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.04,0:23:48.07,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H45&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.07,0:23:48.11,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H4D&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.11,0:23:48.14,Captions-PTS,,0,0,100,,{\an8\bord0\c&H070707&\alpha&H57&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.14,0:23:48.17,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H5E&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.17,0:23:48.21,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H66&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.21,0:23:48.24,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H70&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.24,0:23:48.27,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H78&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.27,0:23:48.31,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H80&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.31,0:23:48.34,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H8A&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.34,0:23:48.37,Captions-PTS,,0,0,100,,{\an8\fscx99.99\fscy99.99\bord0\c&H070707&\alpha&H91&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.37,0:23:48.41,Captions-PTS,,0,0,100,,{\an8\fscx100.01\fscy100.01\bord0\c&H070707&\alpha&H99&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.41,0:23:48.44,Captions-PTS,,0,0,100,,{\an8\fscx100.04\fscy100.04\bord0\c&H070707&\alpha&HA3&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.44,0:23:48.47,Captions-PTS,,0,0,100,,{\an8\fscx100.07\fscy100.07\bord0\c&H070707&\alpha&HAB&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.47,0:23:48.51,Captions-PTS,,0,0,100,,{\an8\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HB3&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.51,0:23:48.54,Captions-PTS,,0,0,100,,{\an8\fscx100.14\fscy100.14\bord0\c&H070707&\alpha&HBD&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.54,0:23:48.57,Captions-PTS,,0,0,100,,{\an8\fscx100.13\fscy100.13\bord0\c&H070707&\alpha&HC4&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.57,0:23:48.61,Captions-PTS,,0,0,100,,{\an8\fscx100.12\fscy100.12\bord0\c&H070707&\alpha&HCC&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.61,0:23:48.64,Captions-PTS,,0,0,100,,{\an8\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HD6&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.64,0:23:48.67,Captions-PTS,,0,0,100,,{\an8\fscx100.11\fscy100.11\bord0\c&H070707&\alpha&HDE&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.67,0:23:48.71,Captions-PTS,,0,0,100,,{\an8\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HE6&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.71,0:23:48.74,Captions-PTS,,0,0,100,,{\an8\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF0&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
+Dialogue: 1,0:23:48.74,0:23:48.77,Captions-PTS,,0,0,100,,{\an8\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF7&\4a&HFF&\blur1.2}草帽魯夫現身瑪林福德
 
