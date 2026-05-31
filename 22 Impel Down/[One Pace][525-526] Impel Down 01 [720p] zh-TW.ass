@@ -23,7 +23,7 @@ Style: Main,Impress BT,55,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,10
 Style: Secondary,Impress BT,55,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,120,120,18,1
 Style: Flashbacks,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
-Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
+Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
 Style: Title,Agency FB,63,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,1,0,1,2,0,2,10,10,10,1
 Style: Narrator,Impress BT,55,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,2,2,2,120,120,18,1
 Style: White box,Impress BT,55,&H00FBF6F4,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,0,0,7,120,120,18,1
@@ -66,7 +66,7 @@ Style: Credits-furigana,FOT-Greco Std B,20,&H00FFFFFF,&H000000FF,&H00000000,&H00
 Style: Sign-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
 Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 Style: Lyrics-furigana,FOT-Greco Std B,19.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,10,10,15,1
-Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,100,1
+Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,18,1
 Style: Translation Dark - Copy-furigana,Duality,25,&H00E4A601,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 Style: Translation White-furigana,Duality,25,&H00E4A601,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 Style: Translation Red-furigana,Duality,25,&H00E4A601,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
@@ -106,7 +106,7 @@ Style: Translation Dark - Copy,Duality,50,&H00E4A601,&H000000FF,&H00FFFFFF,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.62,0:00:08.88,Captions,,0,0,200,,{\an8\pos(720,100)\fad(800,900)}偉大航道\N桃色島（卡瑪巴卡王國）
+Dialogue: 0,0:00:03.62,0:00:08.88,Captions,,0,0,230,,{\an8\pos(720,100)\fad(800,900)}偉大航道\N桃色島（卡瑪巴卡王國）
 Dialogue: 0,0:00:11.78,0:00:13.78,Main,,0,0,0,,這是什麼地方？
 Dialogue: 0,0:00:13.78,0:00:15.49,Main,,0,0,0,,而且更重要的是……
 Dialogue: 0,0:00:16.37,0:00:18.62,Main,,0,0,0,,這些傢伙是怎麼回事！？
@@ -115,8 +115,8 @@ Dialogue: 0,0:00:41.56,0:00:45.06,Thoughts,,0,0,0,,親愛的娜美小姐、羅�
 Dialogue: 0,0:00:45.06,0:00:47.09,Thoughts,,0,0,0,,你們好嗎？
 Dialogue: 0,0:00:47.09,0:00:50.36,Thoughts,,0,0,0,,我好期待能再見到你們。
 Dialogue: 0,0:00:52.00,0:00:56.57,Thoughts,,0,0,0,,到時候，我相信我們一定會成為好朋友的。
-Dialogue: 0,0:03:00.88,0:03:15.98,Title,,0,0,100,,{\an8\fad(1200,2000)}海底大監獄
-Dialogue: 0,0:03:00.88,0:03:15.98,Title,,0,0,100,,{\an8\fad(1200,2000)}推進城
+Dialogue: 0,0:03:00.88,0:03:15.98,Title,,0,0,580,,{\an8\fad(1200,2000)}海底大監獄
+Dialogue: 0,0:03:00.88,0:03:15.98,Title,,0,0,150,,{\an8\fad(1200,2000)}推進城
 Dialogue: 0,0:03:20.27,0:03:25.81,Main,,0,0,0,,我本來希望你和魯夫能成為出色的海軍……
 Dialogue: 0,0:03:25.81,0:03:32.10,Main,,0,0,0,,別說海軍了，你們兩兄弟竟然成了惡名昭彰的罪犯。
 Dialogue: 0,0:03:32.10,0:03:35.75,Main,,0,0,0,,你應該也聽說了魯夫的事吧。
@@ -199,19 +199,19 @@ Dialogue: 0,0:08:39.88,0:08:41.23,Main,,0,0,0,,我是桃兔。
 Dialogue: 0,0:08:41.23,0:08:44.13,Main,,0,0,0,,海軍代碼 G-1 00660。
 Dialogue: 0,0:08:44.13,0:08:46.00,Main,,0,0,0,,我即將進入海流。
 Dialogue: 0,0:08:46.00,0:08:47.59,Main,,0,0,0,,準備開門！
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,100,,{\an8\pos(1052,100)\fad(100,0)\fs30}司法之島
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,200,,{\an8\pos(99.2,100)\fad(100,0)\fs22}海軍本部\N（瑪林福德）
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,100,,{\an8\pos(367.6,100)\fad(100,0)\fs30}瑪麗喬亞
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,100,,{\an8\pos(546.6,100)\fad(100,0)\fs26}夏波帝諸島
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,200,,{\an8\pos(778.6,100)\fad(689,0)\fs28}海底大監獄\N推進城
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,200,,{\an8\pos(974,100)\fad(689,0)\fs26}目前\N位置
-Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,100,,{\an8\pos(1066.6,100)\fad(689,0)\fs28}亞馬遜百合
-Dialogue: 0,0:08:48.97,0:08:51.35,Narrator,,0,0,100,,載著魯夫和漢考克的船……
-Dialogue: 0,0:08:51.35,0:08:54.35,Narrator,,0,0,100,,即將進入連接三大設施的海流……
-Dialogue: 0,0:08:54.35,0:08:55.84,Narrator,,0,0,100,,世界政府的……
-Dialogue: 0,0:08:55.84,0:08:58.52,Narrator,,0,0,100,,只有海軍能使用的環形迴流。
-Dialogue: 0,0:08:58.94,0:09:04.90,Captions,,0,0,100,,{\an8\pos(720,100)\fad(600,500)}海底大監獄
-Dialogue: 0,0:08:58.94,0:09:04.90,Captions,,0,0,100,,{\an8\pos(720,100)\fad(600,500)\fs60}推進城
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(1052,100)\fad(100,0)\fs30}司法之島
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(99.2,100)\fad(100,0)\fs22}海軍本部\N（瑪林福德）
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(367.6,100)\fad(100,0)\fs30}瑪麗喬亞
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(546.6,100)\fad(100,0)\fs26}夏波帝諸島
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(778.6,100)\fad(689,0)\fs28}海底大監獄\N推進城
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(974,100)\fad(689,0)\fs26}目前\N位置
+Dialogue: 0,0:08:47.09,0:08:58.52,Captions,,0,0,0,,{\an8\pos(1066.6,100)\fad(689,0)\fs28}亞馬遜百合
+Dialogue: 0,0:08:48.97,0:08:51.35,Narrator,,0,0,0,,載著魯夫和漢考克的船……
+Dialogue: 0,0:08:51.35,0:08:54.35,Narrator,,0,0,0,,即將進入連接三大設施的海流……
+Dialogue: 0,0:08:54.35,0:08:55.84,Narrator,,0,0,0,,世界政府的……
+Dialogue: 0,0:08:55.84,0:08:58.52,Narrator,,0,0,0,,只有海軍能使用的環形迴流。
+Dialogue: 0,0:08:58.94,0:09:04.90,Captions,,0,0,240,,{\an8\pos(720,100)\fad(600,500)}海底大監獄
+Dialogue: 0,0:08:58.94,0:09:04.90,Captions,,0,0,0,,{\an8\pos(720,100)\fad(600,500)\fs60}推進城
 Dialogue: 0,0:09:20.75,0:09:22.71,Main,,0,0,0,,拜託，殺了我吧！
 Dialogue: 0,0:09:25.17,0:09:27.09,Main,,0,0,0,,喂！新來的！
 Dialogue: 0,0:09:28.13,0:09:29.55,Main,,0,0,0,,你在幹嘛啊，
@@ -222,8 +222,8 @@ Dialogue: 0,0:10:14.85,0:10:17.34,Main,,0,0,0,,喂！等等！
 Dialogue: 0,0:10:17.34,0:10:19.38,Main,,0,0,0,,我們只是小打了一架而已！
 Dialogue: 0,0:10:19.38,0:10:21.72,Main,,0,0,0,,我們又不是死刑犯！
 Dialogue: 0,0:10:21.72,0:10:22.60,Main,,0,0,0,,放我們出去！
-Dialogue: 0,0:10:52.10,0:10:55.11,Narrator,,0,0,100,,從女人之島亞馬遜百合出發以來……
-Dialogue: 0,0:10:55.11,0:10:58.47,Narrator,,0,0,100,,已經過了四天半。
+Dialogue: 0,0:10:52.10,0:10:55.11,Narrator,,0,0,0,,從女人之島亞馬遜百合出發以來……
+Dialogue: 0,0:10:55.11,0:10:58.47,Narrator,,0,0,0,,已經過了四天半。
 Dialogue: 0,0:11:02.48,0:11:03.90,Main,,0,0,0,,桃兔中將！
 Dialogue: 0,0:11:03.90,0:11:07.09,Main,,0,0,0,,逆風稍微拖慢了我們的速度，
 Dialogue: 0,0:11:07.09,0:11:09.83,Main,,0,0,0,,但我們終於抵達推進城了！
@@ -270,15 +270,15 @@ Dialogue: 0,0:13:13.78,0:13:18.23,Main,,0,0,0,,桃兔中將和七武海漢考克
 Dialogue: 0,0:13:18.23,0:13:20.11,Main,,0,0,0,,好的。我馬上就到。
 Dialogue: 0,0:13:21.70,0:13:25.36,Main,,0,0,0,,她好可……呃……開門！
 Dialogue: 0,0:13:25.36,0:13:28.41,Main,,0,0,0,,給她最好的服務！
-Dialogue: 0,0:13:31.79,0:13:34.33,Narrator,,0,0,100,,距離艾斯的處刑……
-Dialogue: 0,0:13:34.33,0:13:37.67,Narrator,,0,0,100,,還剩33小時。
+Dialogue: 0,0:13:31.79,0:13:34.33,Narrator,,0,0,0,,距離艾斯的處刑……
+Dialogue: 0,0:13:34.33,0:13:37.67,Narrator,,0,0,0,,還剩33小時。
 Dialogue: 0,0:13:40.66,0:13:42.46,Thoughts,,0,0,0,,開始了，魯夫。
 Dialogue: 0,0:13:46.71,0:13:48.27,Main,,0,0,0,,請多保重！
 Dialogue: 0,0:13:48.27,0:13:52.39,Main,,0,0,0,,漢考克大人！一路平安！
 Dialogue: 0,0:13:52.39,0:13:53.81,Main,,0,0,0,,別嗡嗡叫了，小蒼蠅們！
 Dialogue: 0,0:13:53.81,0:13:57.19,Main,,0,0,0,,別這麼冷酷嘛！保重啊！
-Dialogue: 0,0:14:03.24,0:14:05.62,Secondary,,0,0,100,,{\an8}救救我們！
-Dialogue: 0,0:14:05.62,0:14:07.70,Secondary,,0,0,100,,{\an8}救命！
+Dialogue: 0,0:14:03.24,0:14:05.62,Secondary,,0,0,0,,{\an8}救救我們！
+Dialogue: 0,0:14:05.62,0:14:07.70,Secondary,,0,0,0,,{\an8}救命！
 Dialogue: 0,0:14:07.70,0:14:10.37,Thoughts,,0,0,0,,好壓迫的氣氛。
 Dialogue: 0,0:14:10.37,0:14:12.92,Thoughts,,0,0,0,,地獄就是這種感覺嗎？
 Dialogue: 0,0:14:13.63,0:14:15.30,Thoughts,,0,0,0,,我們終於進到裡面了。
@@ -384,7 +384,7 @@ Dialogue: 0,0:20:15.03,0:20:20.13,Main,,0,0,0,,那裡是焦熱地獄，典獄長
 Dialogue: 0,0:20:20.13,0:20:22.73,Main,,0,0,0,,我得提醒你，那下面相當熱。
 Dialogue: 0,0:20:27.00,0:20:28.63,Thoughts,,0,0,0,,魯夫？！
 Dialogue: 0,0:20:30.55,0:20:32.10,Thoughts,,0,0,0,,我會為你的好運祈禱。
-Dialogue: 0,0:20:33.90,0:20:35.76,Note,,0,0,100,,（謝謝你！）
+Dialogue: 0,0:20:33.90,0:20:35.76,Note,,0,0,0,,（謝謝你！）
 Dialogue: 0,0:20:37.31,0:20:39.47,Thoughts,,0,0,0,,他說了「我愛你」！
 Dialogue: 0,0:20:41.18,0:20:42.14,Main,,0,0,0,,喂！
 Dialogue: 0,0:20:42.14,0:20:44.62,Main,,0,0,0,,漢……漢考克大人！怎麼了？
@@ -424,7 +424,7 @@ Dialogue: 0,0:22:53.19,0:22:54.91,Main,,0,0,0,,我們分頭包圍他！
 Dialogue: 0,0:22:58.69,0:22:59.90,Main,,0,0,0,,好！我去了！
 Dialogue: 0,0:22:59.90,0:23:01.13,Main,,0,0,0,,快！
 Dialogue: 0,0:23:02.81,0:23:04.20,Main,,0,0,0,,那是什麼？
-Dialogue: 0,0:23:04.19,0:23:08.56,Captions,,0,0,100,,{\an8\pos(720,100)\fad(480,680)\fs50}第一層 深紅地獄
+Dialogue: 0,0:23:04.19,0:23:08.56,Captions,,0,0,170,,{\an8\pos(720,100)\fad(480,680)\fs50}第一層 深紅地獄
 Dialogue: 0,0:23:10.42,0:23:12.25,Main,,0,0,0,,這些房間全都是牢房嗎？
 Dialogue: 0,0:23:14.94,0:23:15.97,Main,,0,0,0,,慘叫聲？
 Dialogue: 0,0:23:15.97,0:23:18.25,Main,,0,0,0,,算了，管他的。反正我得繼續前進！
@@ -3242,148 +3242,3 @@ Dialogue: 1,0:02:42.49,0:02:54.02,Translation,,0,0,0,fx,{\pos(1173,685)\org(1173
 Dialogue: 1,0:02:42.49,0:02:54.03,Translation,,0,0,0,fx,{\pos(1193,685)\org(1193,685)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HBBCA68&\t(-5,20,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(20,45,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)\fad(0,200)}m
 Dialogue: 1,0:02:42.50,0:02:54.03,Translation,,0,0,0,fx,{\pos(1216,685)\org(1216,685)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HBBCA68&\t(-5,20,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(20,45,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)\fad(0,200)}e
 Dialogue: 1,0:02:42.51,0:02:54.04,Translation,,0,0,0,fx,{\pos(1230,685)\org(1230,685)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HBBCA68&\t(-5,20,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(20,45,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)\fad(0,200)}!
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-300,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HE4A601&\t(!(dem-1)*10!,!(dem+4)*10!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*10!,!(dem+9)*10!,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke Dark,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-300,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&H644901&\t(!(dem-1)*10!,!(dem+4)*10!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*10!,!(dem+9)*10!,\3c&FFffFF&\1c&H644901&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke Green,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Green,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Green,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Green,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke Yellow,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Yellow,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Yellow,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H24D3CE&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Yellow,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke Red,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Red,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Red,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H1844ED&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Red,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke White,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke White,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke White,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&HDBA081&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke White,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Karaoke Dark - Copy,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark - Copy,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark - Copy,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Karaoke Dark - Copy,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&H644901&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-300,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HE4A601&\t(!(dem-1)*20!,!(dem+4)*20!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*20!,!(dem+9)*20!,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji Dark,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-300,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&H644901&\t(!(dem-1)*20!,!(dem+4)*20!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*20!,!(dem+9)*20!,\3c&FFffFF&\1c&H644901&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji Green,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Green,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Green,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Green,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji Yellow,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Yellow,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Yellow,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H24D3CE&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Yellow,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji Red,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Red,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Red,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H1844ED&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Red,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji White,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji White,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji White,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&HDBA081&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji White,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:33.56,0:01:33.56,Kanji Dark - Copy,,0,0,0,code line all,dem=0
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark - Copy,,0,0,0,code once all,function save(a) dem=dem+1; return ""; end
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark - Copy,,0,0,0,template noblank char,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark - Copy,,0,0,0,template noblank char,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&H644901&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji,,0,0,0,template furi,!save(1)!!retime("start2syl",-600,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HE4A601&\t(!(dem-1)*20!,!(dem+4)*20!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*20!,!(dem+9)*20!,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark,,0,0,0,template furi,!save(1)!!retime("start2syl",-500,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&H644901&\t(!(dem-1)*20!,!(dem+4)*20!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*20!,!(dem+9)*20!,\3c&FFffFF&\1c&H644901&\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Green,,0,0,0,template furi,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Green,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Yellow,,0,0,0,template furi,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H24D3CE&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Yellow,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Red,,0,0,0,template furi,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H1844ED&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Red,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji White,,0,0,0,template furi,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&HDBA081&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji White,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&ffffff&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark - Copy,,0,0,0,template furi,!save(1)!!retime("start2syl",-0,0)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fad(300,0)\1c&H3E6026&\3c&ffffff&\bord2\blur0)\fscx100\fscy100)}
-Comment: 0,0:01:06.23,0:01:06.23,Kanji Dark - Copy,,0,0,0,template furi,!retime("syl",0,300)!{\pos($scenter,$smiddle)\an5\t(0.8,\fscx135\fscy135\1c&H644901&\3c&ffffff&\be3\blur0\fad(0,300))}
-Comment: 0,0:01:06.23,0:01:06.23,Translation,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation,,0,0,0,template char,!retime("line",-(ci[1]-1)*8,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&HBBCA68&\t(!(dem-1)*5!,!(dem+4)*5!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*5!,!(dem+9)*5!,\3c&FFffFF&\1c&HE4A601&\fscx100\fscy100)\fad(0,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation Dark,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation Dark,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation Dark,,0,0,0,template char,!retime("line",-(ci[1]-1)*8,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\org($scenter,$smiddle)\an5\fscx105\fscy105\alpha&ff&\3c&fffffff&\1c&H644901&\t(!(dem-1)*5!,!(dem+4)*5!,\fscx120\fscy120\alpha&0&\1c&ffffff&\3c&ffffff&\bord3\blur0)\t(!(dem+4)*5!,!(dem+9)*5!,\3c&FFffFF&\1c&H644901&\fscx100\fscy100)\fad(0,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation Green,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation Green,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation Green,,0,0,0,template char,!retime("line",-(ci[1]-1)*0,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\an5\bord3\blur0\3c&FFffFF&\1c&H3E6026&\fscx100\fscy100)\fad(300,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation Yellow,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation Yellow,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation Yellow,,0,0,0,template char,!retime("line",-(ci[1]-1)*0,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\an5\bord3\blur0\3c&FFffFF&\1c&H24D3CE&\fscx100\fscy100)\fad(300,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation Red,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation Red,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation Red,,0,0,0,template char,!retime("line",-(ci[1]-1)*0,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\an5\bord3\blur0\3c&FFffFF&\1c&H1844ED&\fscx100\fscy100)\fad(300,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation White,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation White,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation White,,0,0,0,template char,!retime("line",-(ci[1]-1)*0,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\an5\bord3\blur0\3c&FFffFF&\1c&HDBA081&\fscx100\fscy100)\fad(300,200)}
-Comment: 0,0:01:06.23,0:01:06.23,Translation Dark - Copy,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:01:06.23,0:01:06.23,Translation Dark - Copy,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:01:23.02,0:01:28.33,Translation Dark - Copy,,0,0,0,template char,!retime("line",-(ci[1]-1)*0,-300-(ci[1]-1)*5)!!phong(1)!{\pos($scenter,$smiddle)\an5\bord3\blur0\3c&FFffFF&\1c&H644901&\fscx100\fscy100)\fad(300,200)}
-Comment: 0,0:01:09.57,0:01:18.18,Karaoke,,0,0,0,karaoke,{\k7}{\k21}Ho{\k18}ra, {\k19}ma{\k39}e {\k21}ni {\k29}tai{\k23}se{\k20}tsu {\k40}na {\k35}ki{\k21}mi {\k228}ga {\k19}ma{\k37}t{\k22}te{\k262}ru
-Comment: 0,0:01:21.72,0:01:31.13,Karaoke,,0,0,0,karaoke,{\k9}{\k15}Ha{\k22}ji{\k37}ma{\k19}tta {\k18}ba{\k22}ka{\k17}ri {\k40}no {\k16}na{\k44}ga{\k13}i {\k22}ta{\k22}bi{\k298} {\k37}yuu{\k18}ki {\k22}to {\k36}ai {\k15}to {\k28}yu{\k51}u{\k40}jo{\k21}u {\k59}to
-Comment: 0,0:01:32.83,0:01:43.54,Karaoke,,0,0,0,karaoke,{\k8}{\k26}Su{\k8}ko{\k48}shi {\k89}no{\k44} {\k37}a{\k41}so{\k40}bi{\k34}go{\k42}ko{\k74}ro {\k75}da{\k64}ke{\k87} {\k37}mo{\k38}chi {\k40}tsu{\k39}zu{\k38}ke{\k38}te {\k38}i{\k38}yo{\k48}u
-Comment: 0,0:01:45.93,0:01:51.71,Karaoke,,0,0,0,karaoke,{\k15}{\k39}Bo{\k36}u{\k61}ke{\k38}n {\k16}no {\k23}ta{\k35}bi {\k20}da{\k13}re{\k24}ka {\k22}to {\k16}de{\k18}a{\k19}u {\k41}ta{\k23}me {\k119}ni
-Comment: 0,0:01:52.07,0:02:02.68,Karaoke,,0,0,0,karaoke,{\k10}{\k18}Ta{\k19}chi{\k20}do{\k34}ma{\k44}ra{\k36}na{\k12}i {\k123}sa {\k18}ho{\k16}ra, {\k21}ma{\k37}e {\k18}ni {\k35}tai{\k24}se{\k19}tsu {\k40}na {\k39}ki{\k17}mi {\k228}ga {\k19}ma{\k37}t{\k19}te{\k158}ru
-Comment: 0,0:02:04.21,0:02:08.87,Karaoke Dark,,0,0,0,karaoke,{\k13}{\k19}Na{\k15}mi{\k21}da {\k20}wo {\k20}na{\k18}ga{\k21}su {\k19}ta{\k17}bi {\k18}hi{\k17}to {\k18}wa {\k35}tsu{\k26}yo{\k22}ku {\k55}na{\k92}ru {\k0}
-Comment: 0,0:02:10.35,0:02:13.14,Karaoke Dark,,0,0,0,karaoke,{\k6}{\k17}Na{\k19}mi{\k20}da {\k15}wo {\k20}na{\k20}ga{\k20}su {\k18}ta{\k19}bi {\k20}o{\k19}mo{\k15}i{\k22}de {\k29}ga
-Comment: 0,0:02:13.14,0:02:23.83,Karaoke Dark,,0,0,0,karaoke,{\k10}{\k38}Do{\k20}n{\k20}do{\k73}n {\k43}do{\k14}n{\k26}do{\k71}n {\k36}do{\k21}n{\k23}do{\k77}n{\k37} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:14.02,0:02:23.83,Karaoke Green,,0,0,0,karaoke,{\k73}n {\k43}do{\k14}n{\k26}do{\k71}n {\k36}do{\k21}n{\k23}do{\k77}n{\k37} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:15.02,0:02:23.83,Karaoke Yellow,,0,0,0,karaoke,{\k16}do{\k14}n{\k26}do{\k71}n {\k36}do{\k21}n{\k23}do{\k77}n{\k37} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:16.02,0:02:23.83,Karaoke Red,,0,0,0,karaoke,{\k27}{\k36}do{\k21}n{\k23}do{\k77}n{\k37} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:17.03,0:02:23.83,Karaoke White,,0,0,0,karaoke,{\k6}{\k77}n{\k37} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:18.11,0:02:23.83,Karaoke Dark - Copy,,0,0,0,karaoke,{\k12} {\k13}fu{\k22}e{\k17}te {\k20}yu{\k188}ku{\k206} {\k94}(YE~)
-Comment: 0,0:02:23.97,0:02:29.66,Karaoke,,0,0,0,karaoke,{\k7}{\k38}Ka{\k36}ze {\k60}wo {\k38}ka{\k21}n{\k21}ji{\k35}you {\k17}ka{\k20}ze {\k18}wo {\k32}ka{\k24}n{\k23}ji{\k36}ru{\k22}n{\k121}da
-Comment: 0,0:02:30.05,0:02:35.80,Karaoke,,0,0,0,karaoke,{\k10}{\k21}Na{\k15}mi{\k21}da {\k36}ka{\k41}wa{\k29}ka{\k25}shi{\k20}te {\k40}ku{\k18}re{\k20}ru {\k34}ka{\k20}ze {\k12}wo {\k48}sa{\k11}ga{\k26}shi {\k37}ni {\k21}yu{\k70}kou
-Comment: 0,0:02:36.07,0:02:41.73,Karaoke,,0,0,0,karaoke,{\k13}{\k39}Bo{\k36}u{\k61}ke{\k38}n {\k16}no {\k23}ta{\k35}bi {\k20}da{\k13}re{\k24}ka {\k22}to {\k16}de{\k18}a{\k19}u {\k41}ta{\k23}me {\k119}ni
-Comment: 0,0:02:42.21,0:02:54.15,Karaoke,,0,0,0,karaoke,{\k10}{\k18}Ta{\k19}chi{\k20}do{\k34}ma{\k44}ra{\k36}na{\k12}i {\k123}sa {\k18}ho{\k16}ra, {\k21}ma{\k37}e {\k18}ni {\k35}tai{\k24}se{\k19}tsu {\k40}na {\k39}ki{\k17}mi {\k228}ga {\k19}ma{\k37}t{\k19}te{\k158}ru
-Comment: 0,0:01:06.23,0:01:06.23,Default,,0,0,0,,
-Comment: 0,0:01:09.57,0:01:18.18,Kanji,,0,0,0,karaoke,{\k7}{\k21}ほ{\k18}ら、{\k19}前｜ま{\k39}#｜え{\k21}に{\k29}大｜たい{\k23}切｜!せ{\k20}#｜つ{\k40}な{\k35}君｜き{\k21}#｜み{\k228}が{\k0}　{\k19}待｜ま{\k37}っ{\k22}て{\k262}る
-Comment: 0,0:01:21.72,0:01:31.13,Kanji,,0,0,0,karaoke,{\k9}{\k15}始｜は{\k22}#｜じ{\k37}ま{\k19}った{\k18}ば{\k22}か{\k17}り{\k40}の{\k16}長｜な{\k44}#｜が{\k13}い{\k22}旅｜た{\k22}#｜び{\k298}　{\k37}勇｜ゆう{\k18}気｜!き{\k22}と{\k36}愛｜あい{\k15}と{\k28}友｜ゆ{\k51}#｜う{\k40}情｜!じょ{\k21}#｜う{\k59}と
-Comment: 0,0:01:32.83,0:01:43.54,Kanji,,0,0,0,karaoke,{\k8}{\k26}少｜す{\k8}#｜こ{\k48}し{\k89}の{\k44}{\k37}遊｜あ{\k41}#｜そ{\k40}び{\k34}心｜<ご{\k42}#｜こ{\k74}#｜ろ{\k75}だ{\k64}け{\k87}　{\k37}持｜も{\k38}ち{\k40}続｜つ{\k39}#|づ{\k38}け{\k38}て{\k38}い{\k38}よ{\k48}う
-Comment: 0,0:01:45.93,0:01:51.71,Kanji,,0,0,0,karaoke,{\k15}{\k39}冒｜ぼ{\k36}#｜う{\k61}険｜!け{\k38}#｜ん{\k16}の{\k23}旅｜た{\k35}#｜び{\k0}　{\k20}誰｜だ{\k13}#｜れ{\k24}か{\k22}と{\k16}出｜で{\k18}会｜!あ{\k19}う{\k41}た{\k23}め{\k119}に
-Comment: 0,0:01:52.07,0:02:02.68,Kanji,,0,0,0,karaoke,{\k10}{\k18}立｜た{\k19}ち{\k20}止｜ど{\k34}ま{\k44}ら{\k36}な{\k12}い{\k123}さ{\k0}　{\k18}ほ{\k16}ら、{\k21}前｜ま{\k37}#｜え{\k18}に{\k35}大｜たい{\k24}切｜!せ{\k19}#｜つ{\k40}な{\k39}君｜き{\k17}#｜み{\k228}が{\k0}　{\k19}待｜ま{\k37}っ{\k19}て{\k158}る
-Comment: 0,0:02:04.21,0:02:08.87,Kanji Dark,,0,0,0,karaoke,{\k13}{\k19}涙｜<な{\k15}#｜み{\k21}#｜だ{\k20}を{\k20}流｜な{\k18}#｜が{\k21}す{\k19}度｜た{\k17}#｜び{\k0}　{\k18}人｜ひ{\k17}#｜と{\k18}は{\k35}強｜つ{\k26}#｜よ{\k22}く{\k55}な{\k92}る
-Comment: 0,0:02:10.35,0:02:13.14,Kanji Dark,,0,0,0,karaoke,{\k6}{\k17}涙｜<な{\k19}#｜み{\k20}#｜だ{\k15}を{\k20}流｜な{\k20}#｜が{\k20}す{\k18}度｜た{\k19}#｜び{\k0}　{\k20}思｜お{\k19}#｜も{\k15}い{\k22}出｜で{\k29}が
-Comment: 0,0:02:13.14,0:02:23.83,Kanji Dark,,0,0,0,karaoke,{\k10}{\k38}ど{\k20}ん{\k20}ど{\k73}ん{\k0}　{\k43}ど{\k14}ん{\k26}ど{\k71}ん{\k0}　{\k36}ど{\k21}ん{\k23}ど{\k77}ん{\k37}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:14.02,0:02:23.83,Kanji Green,,0,0,0,karaoke,{\k73}ん{\k0}　{\k43}ど{\k14}ん{\k26}ど{\k71}ん{\k0}　{\k36}ど{\k21}ん{\k23}ど{\k77}ん{\k37}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:15.02,0:02:23.83,Kanji Yellow,,0,0,0,karaoke,{\k16}ど{\k14}ん{\k26}ど{\k71}ん{\k0}　{\k36}ど{\k21}ん{\k23}ど{\k77}ん{\k37}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:16.02,0:02:23.83,Kanji Red,,0,0,0,karaoke,{\k27}　{\k36}ど{\k21}ん{\k23}ど{\k77}ん{\k37}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:17.03,0:02:23.83,Kanji White,,0,0,0,karaoke,{\k6}{\k77}ん{\k37}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:18.11,0:02:23.83,Kanji Dark - Copy,,0,0,0,karaoke,{\k12}　{\k13}増｜ふ{\k22}え{\k17}て{\k20}い{\k188}く{\k206}{\k94}（イェ～）
-Comment: 0,0:02:24.02,0:02:29.66,Kanji,,0,0,0,karaoke,{\k7}{\k38}風｜か{\k36}#｜ぜ{\k60}を{\k38}感｜か{\k21}#｜ん{\k21}じ{\k35}よう{\k0}　{\k17}風｜か{\k20}#｜ぜ{\k18}を{\k32}感｜か{\k24}#｜ん{\k23}じ{\k36}る{\k22}ん{\k121}だ
-Comment: 0,0:02:30.05,0:02:35.80,Kanji,,0,0,0,karaoke,{\k10}{\k21}涙｜<な{\k15}#｜み{\k21}#｜だ{\k0}　{\k36}乾｜か{\k41}#｜わ{\k29}か{\k25}し{\k20}て{\k40}く{\k18}れ{\k20}る{\k34}風｜か{\k20}#｜ぜ{\k12}を{\k48}探｜さ{\k11}#｜が{\k26}し{\k37}に{\k21}行｜ゆ{\k70}こう
-Comment: 0,0:02:36.07,0:02:41.73,Kanji,,0,0,0,karaoke,{\k13}{\k39}冒｜ぼ{\k36}#｜う{\k61}険｜!け{\k38}#｜ん{\k16}の{\k23}旅｜た{\k35}#｜び{\k0}　{\k20}誰｜だ{\k13}#｜れ{\k24}か{\k22}と{\k16}出｜で{\k18}会｜!あ{\k19}う{\k41}た{\k23}め{\k109}に
-Comment: 0,0:02:42.21,0:02:54.15,Kanji,,0,0,0,karaoke,{\k10}{\k18}立｜た{\k19}ち{\k20}止｜ど{\k34}ま{\k44}ら{\k36}な{\k12}い{\k123}さ{\k0}　{\k18}ほ{\k16}ら、{\k21}前｜ま{\k37}#｜え{\k18}に{\k35}大｜たい{\k24}切｜!せ{\k19}#｜つ{\k40}な{\k39}君｜き{\k17}#｜み{\k228}が{\k0}　{\k19}待｜ま{\k37}っ{\k19}て{\k291}る
-Comment: 0,0:01:06.23,0:01:06.23,Default,,0,0,0,,
-Comment: 0,0:01:09.57,0:01:18.18,Translation,,0,0,0,karaoke,Look up ahead, my treasure, as you are waiting there for me!
-Comment: 0,0:01:21.72,0:01:31.13,Translation,,0,0,0,karaoke,As we've set off on our long journey, with love courage friendship and
-Comment: 0,0:01:32.83,0:01:43.54,Translation,,0,0,0,karaoke,a bit of playfullness, as these are things that will remain in our hearts forever.
-Comment: 0,0:01:45.93,0:01:51.71,Translation,,0,0,0,karaoke,We're on an adventure to find that someone.
-Comment: 0,0:01:52.07,0:02:02.68,Translation,,0,0,0,karaoke,We'll never stop! Look up ahead, my treasure, as you are waiting there for me!
-Comment: 0,0:02:04.21,0:02:08.87,Translation Dark,,0,0,0,karaoke,With ever tear we shed, we grow stronger;
-Comment: 0,0:02:10.35,0:02:13.14,Translation Dark,,0,0,0,karaoke,and with every tear, our memories...
-Comment: 0,0:02:13.14,0:02:23.83,Translation Dark,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:14.02,0:02:23.83,Translation Green,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:15.02,0:02:23.83,Translation Yellow,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:16.02,0:02:23.83,Translation Red,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:17.03,0:02:23.83,Translation White,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:18.11,0:02:23.83,Translation Dark - Copy,,0,0,0,karaoke,grow, grow and grow much stronger! (Yeah!)
-Comment: 0,0:02:24.02,0:02:29.66,Translation,,0,0,0,karaoke,So when you feel the wind, you gotta feel it blowing!
-Comment: 0,0:02:30.05,0:02:35.80,Translation,,0,0,0,karaoke,Let's go search for the wind that dries up our tears!
-Comment: 0,0:02:36.07,0:02:41.73,Translation,,0,0,0,karaoke,We're on an adventure to find that someone.
-Comment: 0,0:02:42.21,0:02:54.15,Translation,,0,0,0,karaoke,We'll never stop! Look up ahead, my treasure, as you are waiting there for me!
-
