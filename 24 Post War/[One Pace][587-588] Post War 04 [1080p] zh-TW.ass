@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
@@ -461,12 +461,12 @@ Dialogue: 50,0:35:16.93,0:35:20.54,Main-207+,,0,0,0,,{\i1}或許很奇怪，\N�
 Dialogue: 50,0:35:26.04,0:35:30.36,Main-207+,,0,0,0,,{\i1}魯夫現在可能還是個愛哭的弱小鬼，但是……
 Dialogue: 50,0:35:36.55,0:35:38.47,Main-207+,,0,0,0,,{\i1}他是我們的弟弟！
 Dialogue: 50,0:35:39.02,0:35:40.42,Main-207+,,0,0,0,,{\i1}替我照顧好他！
-Dialogue: 0,0:02:50.00,0:02:55.20,Title-207+,,0,0,100,,{\an8\blur0.6\fad(700,1000)\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)\t(4200,4245,\1a&HFF&)}薩波的大海
-Dialogue: 1,0:02:50.00,0:02:55.20,Title-207+,,0,0,100,,{\an8\bord0\blur0.6\fad(700,1000)\4a&HFF&\c&HFFFFFF&}薩波的大海
-Dialogue: 0,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(250,500)\fscx215\fscy205\c&H000000&\1a&HFF&\t(205,250,\1a&H00&)\t(2250,2295,\1a&HFF&)}王宮\N哥亞王國
-Dialogue: 1,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.3\fad(250,500)\fscx215\fscy205\4a&HFF&}王宮\N哥亞王國
-Dialogue: 0,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(500,0)\fscx218\fscy210\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}灰色車站遺跡
-Dialogue: 1,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,100,,{\an8\bord0\blur0.3\fad(500,0)\fscx218\fscy210\4a&HFF&}灰色車站遺跡
+Dialogue: 0,0:02:50.00,0:02:55.20,Title-207+,,0,0,0,,{\an8\blur0.6\fad(700,1000)\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)\t(4200,4245,\1a&HFF&)}薩波的大海
+Dialogue: 1,0:02:50.00,0:02:55.20,Title-207+,,0,0,0,,{\an8\bord0\blur0.6\fad(700,1000)\4a&HFF&\c&HFFFFFF&}薩波的大海
+Dialogue: 0,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,270,,{\an8\blur0.3\fad(250,500)\fscx215\fscy205\c&H000000&\1a&HFF&\t(205,250,\1a&H00&)\t(2250,2295,\1a&HFF&)}王宮\N哥亞王國
+Dialogue: 1,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,270,,{\an8\bord0\blur0.3\fad(250,500)\fscx215\fscy205\4a&HFF&}王宮\N哥亞王國
+Dialogue: 0,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,270,,{\an8\blur0.3\fad(500,0)\fscx218\fscy210\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}灰色車站遺跡
+Dialogue: 1,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,270,,{\an8\bord0\blur0.3\fad(500,0)\fscx218\fscy210\4a&HFF&}灰色車站遺跡
 Dialogue: 50,0:33:56.05,0:34:00.66,Note-207+,,0,0,0,,{\an8\fs51}「致哥爾乂山的兄弟們 — 薩波」
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
@@ -484,4 +484,3 @@ Dialogue: 0,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48
 Dialogue: 1,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hLiisa-Pekka\N\h\hYibis
 Dialogue: 0,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(880,925,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-

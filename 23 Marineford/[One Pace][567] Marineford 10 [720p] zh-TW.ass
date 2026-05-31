@@ -19,7 +19,7 @@ Video Position: 7024
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
+Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
 Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 Style: Main,Impress BT,55,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,120,120,18,1
 Style: Secondary,Impress BT,55,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,120,120,18,1
@@ -28,7 +28,7 @@ Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,
 Style: Captions,Roboto,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,11,1
 Style: Title,Agency FB,63,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.5,0,1,2,0,2,10,10,10,1
 Style: Luffy,Cabold Comic,55,&H003126A0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Narrator,Impress BT,56,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
+Style: Narrator,Impress BT,56,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
 Style: OP13-Kanji-furigana,Duality,30,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,80,1
 Style: OP13-Karaoke,Duality,60,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 Style: OP13-Translation,Duality,60,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
@@ -58,7 +58,7 @@ Dialogue: 0,0:02:19.55,0:02:22.32,Main,,0,0,0,,趁著混亂突破過去就好了
 Dialogue: 0,0:02:22.32,0:02:24.10,Main,,0,0,0,,我不會讓你們過去的！
 Dialogue: 0,0:02:24.10,0:02:27.19,Main,,0,0,0,,你們全都要死在這裡！
 Dialogue: 0,0:02:38.20,0:02:39.71,Main,,0,0,0,,艾……艾斯……
-Dialogue: 0,0:05:26.51,0:05:29.07,Title,,0,0,100,,{\an8\fad(500,0)}奧利斯廣場
+Dialogue: 0,0:05:26.51,0:05:29.07,Title,,0,0,0,,{\an8\fad(500,0)}奧利斯廣場
 Dialogue: 0,0:05:30.61,0:05:32.64,Main,,0,0,0,,草帽魯夫……
 Dialogue: 0,0:05:32.64,0:05:38.45,Main,,0,0,0,,我，桃兔，以海軍中將的自尊為賭注，\N在此攔住你！
 Dialogue: 0,0:05:38.45,0:05:41.85,Main,,0,0,0,,中將……所以你跟爺爺一樣的級別嗎？
@@ -2578,4 +2578,3 @@ Dialogue: 1,0:05:07.05,0:05:12.51,OP13-Translation,,0,0,0,fx,{\an5\move(857,605,
 Dialogue: 1,0:05:07.06,0:05:12.52,OP13-Translation,,0,0,0,fx,{\an5\move(890,602,857,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
 Dialogue: 1,0:05:07.08,0:05:12.53,OP13-Translation,,0,0,0,fx,{\an5\move(895,591,868,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
 Dialogue: 1,0:05:07.09,0:05:12.54,OP13-Translation,,0,0,0,fx,{\an5\move(907,592,878,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
-

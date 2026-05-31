@@ -24,7 +24,7 @@ Style: Secondary,Impress BT,55,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0
 Style: Flashbacks,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Captions,Roboto,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
+Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
 Style: Title,Agency FB,63,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,1,0,1,2,0,2,10,10,230,1
 Style: Infobox,Impress BT,55,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,0,0,7,120,120,18,1
 Style: OP13-Credits-furigana,FOT-Greco Std B,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,1.1,0,1,80,10,100,1
@@ -47,12 +47,12 @@ Dialogue: 0,0:00:52.33,0:00:57.41,OP13-Credits,,0,0,0,,{\fad(600,200)}Graphics\N
 Dialogue: 0,0:00:57.41,0:01:03.05,OP13-Credits,,0,0,0,,{\fad(600,200)}Karaoke\N{\fs34}KaitouYahiko
 Dialogue: 0,0:01:03.05,0:01:06.53,OP13-Credits,,0,0,0,,{\fad(600,200)}Soundtracking\N{\fs34}Halee
 Dialogue: 0,0:01:06.53,0:01:08.65,OP13-Credits,,0,0,0,,{\fad(600,200)}Raws\N{\fs34}df68
-Dialogue: 0,0:02:33.00,0:02:42.42,Title,,0,0,100,,{\an8\fad(1800,1700)}海軍本部
+Dialogue: 0,0:02:33.00,0:02:42.42,Title,,0,0,0,,{\an8\fad(1800,1700)}海軍本部
 Dialogue: 0,0:02:55.09,0:02:58.92,Main,,0,0,0,,看來你們好不容易才保住了小命。
-Dialogue: 0,0:02:59.61,0:03:04.65,Captions,,0,0,100,,{\an8\fad(1000,1000)\fs65}推進城
-Dialogue: 0,0:02:59.02,0:03:02.08,Main,,0,0,100,,{\an8}如果我沒帶解毒劑來的話……
-Dialogue: 0,0:03:02.08,0:03:05.44,Main,,0,0,100,,{\an8}你們現在全都死了。
-Dialogue: 0,0:03:05.44,0:03:07.43,Main,,0,0,100,,{\an8}你們太小看麥哲倫了。
+Dialogue: 0,0:02:59.61,0:03:04.65,Captions,,0,0,0,,{\an8\fad(1000,1000)\fs65}推進城
+Dialogue: 0,0:02:59.02,0:03:02.08,Main,,0,0,0,,{\an8}如果我沒帶解毒劑來的話……
+Dialogue: 0,0:03:02.08,0:03:05.44,Main,,0,0,0,,{\an8}你們現在全都死了。
+Dialogue: 0,0:03:05.44,0:03:07.43,Main,,0,0,0,,{\an8}你們太小看麥哲倫了。
 Dialogue: 0,0:03:09.92,0:03:11.43,Main,,0,0,0,,我們還活著！
 Dialogue: 0,0:03:11.43,0:03:16.45,Main,,0,0,0,,你……命中注定要來到這裡。
 Dialogue: 0,0:03:18.71,0:03:22.10,Main,,0,0,0,,呼，我真的以為我們要死了。
@@ -67,9 +67,9 @@ Dialogue: 0,0:04:01.29,0:04:03.61,Main,,0,0,0,,我再次歡迎你。
 Dialogue: 0,0:04:03.61,0:04:05.66,Main,,0,0,0,,你會成為我們船團的優秀成員！
 Dialogue: 0,0:04:05.66,0:04:09.18,Main,,0,0,0,,我在這裡已經沒有未來了。
 Dialogue: 0,0:04:09.18,0:04:12.76,Main,,0,0,0,,我一直希望能遇見像你這樣的人。
-Dialogue: 0,0:04:21.02,0:04:25.49,Captions,,0,0,100,,{\an8\fad(900,700)\fs45}世界政府的專用航路：
-Dialogue: 0,0:04:21.02,0:04:25.49,Captions,,0,0,100,,{\an8\fad(900,700)\fs45}環形迴流
-Dialogue: 0,0:04:24.72,0:04:27.49,Main,,0,0,100,,{\an8}讓我們把伊那茲瑪放在這裡休息吧。
+Dialogue: 0,0:04:21.02,0:04:25.49,Captions,,0,0,0,,{\an8\fad(900,700)\fs45}世界政府的專用航路：
+Dialogue: 0,0:04:21.02,0:04:25.49,Captions,,0,0,0,,{\an8\fad(900,700)\fs45}環形迴流
+Dialogue: 0,0:04:24.72,0:04:27.49,Main,,0,0,0,,{\an8}讓我們把伊那茲瑪放在這裡休息吧。
 Dialogue: 0,0:04:27.49,0:04:31.06,Main,,0,0,0,,嗯？你是說中毒影響他那麼嚴重？
 Dialogue: 0,0:04:31.06,0:04:34.55,Main,,0,0,0,,我用治癒賀爾蒙和亢奮賀爾蒙治療了他中的毒……
 Dialogue: 0,0:04:35.30,0:04:38.66,Main,,0,0,0,,但那個技術有很嚴重的副作用。\N甚至會縮短壽命。
@@ -134,10 +134,10 @@ Dialogue: 0,0:08:37.53,0:08:38.54,Main,,0,0,0,,海軍本部？
 Dialogue: 0,0:08:38.54,0:08:43.02,Main,,0,0,0,,你在說什麼？\N你們那麼遲鈍可不是我們的錯。
 Dialogue: 0,0:08:43.02,0:08:44.07,Main,,0,0,0,,什麼？！
 Dialogue: 0,0:08:44.07,0:08:50.82,Main,,0,0,0,,既然我們已經通過了正義之門，唯一可能的目的地就是司法之島和海軍本部。
-Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,200,,{\an8\fad(1000,1000)\fs25}海軍本部\N（瑪林福德）
-Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,100,,{\an8\fad(1000,1000)\fs25}司法之島
-Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,200,,{\an8\fad(1000,1000)\fs25}海底大監獄\N推進城
-Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,100,,{\an8\fad(1000,1000)\fs25}瑪麗喬亞
+Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,0,,{\an8\fad(1000,1000)\fs25}海軍本部\N（瑪林福德）
+Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,0,,{\an8\fad(1000,1000)\fs25}司法之島
+Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,0,,{\an8\fad(1000,1000)\fs25}海底大監獄\N推進城
+Dialogue: 0,0:08:49.69,0:08:54.36,Captions,,0,0,0,,{\an8\fad(1000,1000)\fs25}瑪麗喬亞
 Dialogue: 0,0:08:50.82,0:08:54.65,Main,,0,0,0,,我們目前正行駛在政府的專用航路——環形迴流上。
 Dialogue: 0,0:08:54.65,0:08:58.44,Main,,0,0,0,,這是一個連接政府三大設施的巨大旋渦。
 Dialogue: 0,0:08:58.44,0:09:04.07,Main,,0,0,0,,我們當初逃出來，就是為了要加入這場戰鬥。
@@ -259,7 +259,7 @@ Dialogue: 0,0:16:02.31,0:16:06.24,Main,,0,0,0,,我們好不容易才逃出來！
 Dialogue: 0,0:16:06.24,0:16:09.85,Main,,0,0,0,,我們有巴乂船長站在我們這邊！
 Dialogue: 0,0:16:09.85,0:16:11.99,Main,,0,0,0,,拜託了，巴乂船長！
 Dialogue: 0,0:16:13.23,0:16:14.25,Main,,0,0,0,,巴乂！巴乂！
-Dialogue: 0,0:16:14.25,0:16:25.95,Secondary,,0,0,100,,{\an8}巴乂！巴乂！
+Dialogue: 0,0:16:14.25,0:16:25.95,Secondary,,0,0,0,,{\an8}巴乂！巴乂！
 Dialogue: 0,0:16:14.25,0:16:16.19,Main,,0,0,0,,真是麻煩……
 Dialogue: 0,0:16:17.69,0:16:20.09,Main,,0,0,0,,把他們全殺了算了。
 Dialogue: 0,0:16:22.79,0:16:25.95,Main,,0,0,0,,嗯，我開始覺得我做得到了！
@@ -283,26 +283,26 @@ Dialogue: 0,0:17:40.94,0:17:43.62,Main,,0,0,0,,我們會追隨你到天涯海角
 Dialogue: 0,0:17:43.62,0:17:45.86,Main,,0,0,0,,誰還需要平靜的生活啊？！
 Dialogue: 0,0:17:47.89,0:17:51.27,Main,,0,0,0,,沒錯！走吧，弟兄們！
 Dialogue: 0,0:17:51.27,0:17:53.62,Main,,0,0,0,,去海軍本部！
-Dialogue: 0,0:17:56.54,0:18:12.75,Secondary,,0,0,100,,{\an8}巴乂！巴乂！
+Dialogue: 0,0:17:56.54,0:18:12.75,Secondary,,0,0,0,,{\an8}巴乂！巴乂！
 Dialogue: 0,0:17:56.54,0:17:58.56,Main,,0,0,0,,看來他們達成協議了。
 Dialogue: 0,0:17:58.56,0:18:01.29,Main,,0,0,0,,他至少有說服別人的才能。
 Dialogue: 0,0:18:01.29,0:18:04.86,Main,,0,0,0,,巴乂船長，你是世界上真正的開拓者！
 Dialogue: 0,0:18:04.86,0:18:07.47,Main,,0,0,0,,我們會追隨你到任何地方！
 Dialogue: 0,0:18:08.75,0:18:10.87,Main,,0,0,0,,儘管跟著我吧！
 Dialogue: 0,0:18:12.75,0:18:14.92,Main,,0,0,0,,隨你們便吧。
-Dialogue: 0,0:18:21.45,0:18:24.92,Main,,0,0,100,,{\an8}{\i1}在海軍本部所在的同一座島上，瑪林福德，{\i0}
-Dialogue: 0,0:18:24.92,0:18:29.65,Main,,0,0,100,,{\an8}{\i1}有一座主要由海軍家屬居住的大城鎮。{\i0}
-Dialogue: 0,0:18:37.73,0:18:42.92,Main,,0,0,100,,{\an8}{\i1}所有市民都已被下令疏散。{\i0}
-Dialogue: 0,0:18:47.33,0:18:55.05,Main,,0,0,200,,{\an8}{\i1}從夏波帝諸島的避難處，\N人們急切地通過螢幕觀看處刑直播。{\i0}
-Dialogue: 0,0:18:59.62,0:19:02.68,Main,,0,0,200,,{\an8}{\i1}記者和攝影師從世界各地\N趕來{\i0}
-Dialogue: 0,0:19:02.68,0:19:07.66,Main,,0,0,100,,{\an8}{\i1}觀看並向世界其他地方報導。{\i0}
+Dialogue: 0,0:18:21.45,0:18:24.92,Main,,0,0,0,,{\an8}{\i1}在海軍本部所在的同一座島上，瑪林福德，{\i0}
+Dialogue: 0,0:18:24.92,0:18:29.65,Main,,0,0,0,,{\an8}{\i1}有一座主要由海軍家屬居住的大城鎮。{\i0}
+Dialogue: 0,0:18:37.73,0:18:42.92,Main,,0,0,0,,{\an8}{\i1}所有市民都已被下令疏散。{\i0}
+Dialogue: 0,0:18:47.33,0:18:55.05,Main,,0,0,0,,{\an8}{\i1}從夏波帝諸島的避難處，\N人們急切地通過螢幕觀看處刑直播。{\i0}
+Dialogue: 0,0:18:59.62,0:19:02.68,Main,,0,0,0,,{\an8}{\i1}記者和攝影師從世界各地\N趕來{\i0}
+Dialogue: 0,0:19:02.68,0:19:07.66,Main,,0,0,0,,{\an8}{\i1}觀看並向世界其他地方報導。{\i0}
 Dialogue: 0,0:19:08.91,0:19:12.69,Main,,0,0,0,,海軍本部傾盡了全部兵力。
 Dialogue: 0,0:19:12.69,0:19:16.15,Main,,0,0,0,,當然。而且我相信白鬍子也知道。
 Dialogue: 0,0:19:16.80,0:19:19.67,Main,,0,0,0,,那他真的會出現嗎？
-Dialogue: 0,0:19:20.89,0:19:26.15,Main,,0,0,100,,{\an8}{\i1}海軍派出的所有偵察船都已被擊沉。{\i0}
-Dialogue: 0,0:19:26.82,0:19:29.73,Main,,0,0,100,,{\an8}{\i1}沒有人看到白鬍子的任何蹤跡，{\i0}
-Dialogue: 0,0:19:30.48,0:19:34.33,Main,,0,0,100,,{\an8}{\i1}瑪林福德的緊張局勢持續升高。{\i0}
-Dialogue: 0,0:19:37.20,0:19:42.78,Main,,0,0,100,,{\an8}{\i1}距離處刑還有不到三小時。{\i0}
+Dialogue: 0,0:19:20.89,0:19:26.15,Main,,0,0,0,,{\an8}{\i1}海軍派出的所有偵察船都已被擊沉。{\i0}
+Dialogue: 0,0:19:26.82,0:19:29.73,Main,,0,0,0,,{\an8}{\i1}沒有人看到白鬍子的任何蹤跡，{\i0}
+Dialogue: 0,0:19:30.48,0:19:34.33,Main,,0,0,0,,{\an8}{\i1}瑪林福德的緊張局勢持續升高。{\i0}
+Dialogue: 0,0:19:37.20,0:19:42.78,Main,,0,0,0,,{\an8}{\i1}距離處刑還有不到三小時。{\i0}
 Dialogue: 0,0:20:10.05,0:20:11.14,Main,,0,0,0,,上樓去。
 Dialogue: 0,0:20:32.92,0:20:35.21,Flashbacks,,0,0,0,,聽好了，魯夫！
 Dialogue: 0,0:20:35.91,0:20:40.69,Flashbacks,,0,0,0,,我們要活出沒有遺憾的人生！
@@ -310,7 +310,7 @@ Dialogue: 0,0:20:40.69,0:20:42.22,Flashbacks,,0,0,0,,好！
 Dialogue: 0,0:21:05.12,0:21:07.65,Flashbacks,,0,0,0,,總有一天，我們會出海，
 Dialogue: 0,0:21:07.65,0:21:09.85,Flashbacks,,0,0,0,,然後我們就能做任何想做的事！
 Dialogue: 0,0:21:12.91,0:21:14.71,Flashbacks,,0,0,0,,沒有人會比我們更自由！
-Dialogue: 0,0:21:35.38,0:21:39.78,Captions,,0,0,100,,{\an8\fad(900,0)\fs50}南海
+Dialogue: 0,0:21:35.38,0:21:39.78,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}南海
 Dialogue: 0,0:21:40.95,0:21:44.81,Main,,0,0,0,,還有三個小時。不知道\N白鬍子已經現身了沒有？
 Dialogue: 0,0:21:44.81,0:21:48.02,Main,,0,0,0,,誰知道呢。你確定他會來嗎？
 Dialogue: 0,0:21:48.27,0:21:51.32,Main,,0,0,0,,就算是白鬍子，\N他現在也夠老了吧？
@@ -318,12 +318,12 @@ Dialogue: 0,0:21:52.51,0:21:54.29,Main,,0,0,0,,你覺得呢？
 Dialogue: 0,0:21:54.29,0:21:57.63,Main,,0,0,0,,他是大海賊時代之前的遺物了。
 Dialogue: 0,0:21:57.63,0:21:59.92,Main,,0,0,0,,他大概已經老糊塗了。
 Dialogue: 0,0:21:59.92,0:22:03.63,Main,,0,0,0,,他這幾年一直很安靜。
-Dialogue: 0,0:22:04.66,0:22:09.71,Captions,,0,0,100,,{\an8\fad(900,0)\fs50}東海
+Dialogue: 0,0:22:04.66,0:22:09.71,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}東海
 Dialogue: 0,0:22:10.42,0:22:13.13,Main,,0,0,0,,他已經存在很久了。
 Dialogue: 0,0:22:13.85,0:22:17.18,Main,,0,0,0,,海軍高層能被打敗嗎？
 Dialogue: 0,0:22:17.18,0:22:21.81,Main,,0,0,0,,不管誰贏，\N雙方都會有慘重的傷亡。
 Dialogue: 0,0:22:25.29,0:22:31.93,Main,,0,0,0,,最好的情況是他不出現，\N處刑順利進行。
-Dialogue: 0,0:22:32.65,0:22:35.83,Captions,,0,0,100,,{\an8\fad(900,0)\fs50}北海
+Dialogue: 0,0:22:32.65,0:22:35.83,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}北海
 Dialogue: 0,0:22:38.73,0:22:42.14,Main,,0,0,0,,喂！喂！老頭，給我來點酒！
 Dialogue: 0,0:22:42.14,0:22:44.85,Main,,0,0,0,,你覺得我會在這種日子開店嗎？！
 Dialogue: 0,0:22:44.85,0:22:47.79,Main,,0,0,0,,戰爭可能要爆發了啊！
@@ -331,38 +331,38 @@ Dialogue: 0,0:22:47.79,0:22:51.58,Main,,0,0,0,,回家去！如果明天世界還
 Dialogue: 0,0:22:51.58,0:22:53.98,Main,,0,0,0,,那就賣我一些酒吧！
 Dialogue: 0,0:22:53.98,0:22:57.39,Main,,0,0,0,,感覺好像我們才是要被處刑的人一樣！
 Dialogue: 0,0:22:57.39,0:23:00.17,Main,,0,0,0,,我們得喝杯酒才能撐過去！
-Dialogue: 0,0:23:02.84,0:23:06.50,Captions,,0,0,100,,{\an8\fad(900,0)\fs50}西海
-Dialogue: 0,0:23:01.39,0:23:06.50,Main,,0,0,100,,{\an8}別把他當成普通的老頭；他依然很強。
+Dialogue: 0,0:23:02.84,0:23:06.50,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}西海
+Dialogue: 0,0:23:01.39,0:23:06.50,Main,,0,0,0,,{\an8}別把他當成普通的老頭；他依然很強。
 Dialogue: 0,0:23:06.50,0:23:13.87,Main,,0,0,0,,我們一年前見過他，他只是坐在那裡。
 Dialogue: 0,0:23:19.23,0:23:21.11,Main,,0,0,0,,我們完全失去了能活下來的希望。
-Dialogue: 0,0:23:21.86,0:23:25.78,Captions,,0,0,100,,{\an8\fad(900,0)\fs50}偉大航道
-Dialogue: 0,0:23:22.44,0:23:25.78,Main,,0,0,100,,{\an8}白鬍子真的是那麼恐怖的海賊嗎？
+Dialogue: 0,0:23:21.86,0:23:25.78,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}偉大航道
+Dialogue: 0,0:23:22.44,0:23:25.78,Main,,0,0,0,,{\an8}白鬍子真的是那麼恐怖的海賊嗎？
 Dialogue: 0,0:23:26.75,0:23:28.70,Main,,0,0,0,,連小孩都知道。
 Dialogue: 0,0:23:28.70,0:23:30.62,Main,,0,0,0,,他們跳繩的時候都在唱關於他的歌。
 Dialogue: 0,0:23:30.62,0:23:35.49,Main,,0,0,0,,♪ 海賊白鬍子，比惡魔還可怕！♪
 Dialogue: 0,0:23:36.01,0:23:37.85,Main,,0,0,0,,天啊，
 Dialogue: 0,0:23:38.50,0:23:42.87,Main,,0,0,0,,這個世界要走向何方？
-Dialogue: 0,0:23:51.74,0:23:55.45,Captions,,0,0,200,,{\an8\fad(900,0)\fs45}海軍本部\N偉大航道 瑪林福德
+Dialogue: 0,0:23:51.74,0:23:55.45,Captions,,0,0,0,,{\an8\fad(900,0)\fs45}海軍本部\N偉大航道 瑪林福德
 Dialogue: 0,0:24:01.22,0:24:02.81,Main,,0,0,0,,快點準備好！
 Dialogue: 0,0:24:02.81,0:24:04.46,Main,,0,0,0,,你！動起來！
 Dialogue: 0,0:24:13.23,0:24:15.48,Main,,0,0,0,,不要畏懼！
 Dialogue: 0,0:24:15.48,0:24:18.44,Main,,0,0,0,,不管發生什麼，只剩三小時了。
 Dialogue: 0,0:24:19.80,0:24:22.14,Main,,0,0,0,,然後這一切就結束了！
-Dialogue: 0,0:24:27.78,0:24:34.02,Main,,0,0,200,,{\an8}{\i1}總計超過十萬名海軍\N從世界各地集結於此。{\i0}
-Dialogue: 0,0:24:36.16,0:24:41.56,Main,,0,0,100,,{\an8}{\i1}五十艘軍艦環繞著新月形海灣。{\i0}
-Dialogue: 0,0:24:42.04,0:24:45.96,Main,,0,0,100,,{\an8}{\i1}海灣內，無數的大砲已經就位。{\i0}
-Dialogue: 0,0:24:47.12,0:24:51.34,Main,,0,0,200,,{\an8}{\i1}從港口就能看見\N部隊的前排。{\i0}
-Dialogue: 0,0:24:54.06,0:24:57.20,Main,,0,0,100,,{\an8}{\i1}其中有可能左右這場戰爭結局的五個惡棍，{\i0}
-Dialogue: 0,0:24:57.20,0:24:59.78,Main,,0,0,100,,{\an8}{\i1}七武海的成員們。{\i0}
-Dialogue: 0,0:25:00.59,0:25:06.95,Main,,0,0,100,,{\an8}{\i1}處刑台下方，海軍本部最強大的戰鬥力量嚴陣以待：{\i0}
-Dialogue: 0,0:25:07.34,0:25:10.59,Main,,0,0,100,,{\an8}{\i1}三位海軍大將！{\i0}
-Dialogue: 0,0:25:14.48,0:25:17.48,Captions,,0,0,200,,{\an8\fad(900,0)\fs50}海軍大將\N「青雉」乂贊
-Dialogue: 0,0:25:18.95,0:25:21.92,Captions,,0,0,200,,{\an8\fad(900,0)\fs50}海軍大將\N「赤犬」薩卡斯基
-Dialogue: 0,0:25:23.33,0:25:26.30,Captions,,0,0,200,,{\an8\fad(900,0)\fs50}海軍大將\N「黃猿」波爾薩利諾
-Dialogue: 0,0:25:29.96,0:25:31.21,Main,,0,0,100,,{\an8}{\i1}現在，{\i0}
-Dialogue: 0,0:25:31.21,0:25:34.47,Main,,0,0,100,,{\an8}{\i1}世界上所有正義的力量……{\i0}
-Dialogue: 0,0:25:34.47,0:25:37.10,Main,,0,0,100,,{\an8}{\i1}等待著白鬍子海賊團……{\i0}
-Dialogue: 0,0:25:37.10,0:25:40.41,Main,,0,0,100,,{\an8}{\i1}阻止他們營救艾斯。{\i0}
+Dialogue: 0,0:24:27.78,0:24:34.02,Main,,0,0,0,,{\an8}{\i1}總計超過十萬名海軍\N從世界各地集結於此。{\i0}
+Dialogue: 0,0:24:36.16,0:24:41.56,Main,,0,0,0,,{\an8}{\i1}五十艘軍艦環繞著新月形海灣。{\i0}
+Dialogue: 0,0:24:42.04,0:24:45.96,Main,,0,0,0,,{\an8}{\i1}海灣內，無數的大砲已經就位。{\i0}
+Dialogue: 0,0:24:47.12,0:24:51.34,Main,,0,0,0,,{\an8}{\i1}從港口就能看見\N部隊的前排。{\i0}
+Dialogue: 0,0:24:54.06,0:24:57.20,Main,,0,0,0,,{\an8}{\i1}其中有可能左右這場戰爭結局的五個惡棍，{\i0}
+Dialogue: 0,0:24:57.20,0:24:59.78,Main,,0,0,0,,{\an8}{\i1}七武海的成員們。{\i0}
+Dialogue: 0,0:25:00.59,0:25:06.95,Main,,0,0,0,,{\an8}{\i1}處刑台下方，海軍本部最強大的戰鬥力量嚴陣以待：{\i0}
+Dialogue: 0,0:25:07.34,0:25:10.59,Main,,0,0,0,,{\an8}{\i1}三位海軍大將！{\i0}
+Dialogue: 0,0:25:14.48,0:25:17.48,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}海軍大將\N「青雉」乂贊
+Dialogue: 0,0:25:18.95,0:25:21.92,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}海軍大將\N「赤犬」薩卡斯基
+Dialogue: 0,0:25:23.33,0:25:26.30,Captions,,0,0,0,,{\an8\fad(900,0)\fs50}海軍大將\N「黃猿」波爾薩利諾
+Dialogue: 0,0:25:29.96,0:25:31.21,Main,,0,0,0,,{\an8}{\i1}現在，{\i0}
+Dialogue: 0,0:25:31.21,0:25:34.47,Main,,0,0,0,,{\an8}{\i1}世界上所有正義的力量……{\i0}
+Dialogue: 0,0:25:34.47,0:25:37.10,Main,,0,0,0,,{\an8}{\i1}等待著白鬍子海賊團……{\i0}
+Dialogue: 0,0:25:37.10,0:25:40.41,Main,,0,0,0,,{\an8}{\i1}阻止他們營救艾斯。{\i0}
 Dialogue: 0,0:25:58.44,0:26:00.06,Main,,0,0,0,,我看到了！
 Dialogue: 0,0:26:00.06,0:26:02.87,Main,,0,0,0,,喂！吉貝爾！
 Dialogue: 0,0:26:02.87,0:26:06.07,Main,,0,0,0,,我看到正義之門了！
@@ -2821,115 +2821,3 @@ Dialogue: 1,0:02:16.15,0:02:21.61,OP13-Translation,,0,0,0,fx,{\an5\move(860,610,
 Dialogue: 1,0:02:16.16,0:02:21.62,OP13-Translation,,0,0,0,fx,{\an5\move(875,602,857,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
 Dialogue: 1,0:02:16.18,0:02:21.63,OP13-Translation,,0,0,0,fx,{\an5\move(897,610,868,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
 Dialogue: 1,0:02:16.19,0:02:21.64,OP13-Translation,,0,0,0,fx,{\an5\move(896,610,878,680,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}.
-﻿[Script Info]
-; Script generated by Aegisub 3.2.2
-; http://www.aegisub.org/
-Title: Default Aegisub file
-ScriptType: v4.00+
-WrapStyle: 0
-ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
-
-[Aegisub Project Garbage]
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 3013
-
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP13-Credits-furigana,FOT-Greco Std B,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,1.1,0,1,80,10,100,1
-Style: OP13-Translation-furigana,Duality,30,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
-Style: OP13-Karaoke-furigana,Duality,30,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
-Style: OP13-Kanji-furigana,Duality,30,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,80,1
-Style: OP13-Karaoke,Duality,60,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
-Style: OP13-Translation,Duality,60,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: OP13-Kanji,Duality,60,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,110,1
-Style: OP13-Credits,FOT-Greco Std B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,2.2,0,1,80,10,100,1
-
-[Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Karaoke,,0,0,0,template char,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:15.27,0:00:15.27,OP13-Karaoke,hilight,0,0,0,template,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Kanji,,0,0,0,template char,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:15.27,0:00:15.27,OP13-Kanji,hilight,0,0,0,template,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Kanji,,0,0,0,template furi,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:15.27,0:00:15.27,OP13-Kanji,hilight,0,0,0,template furi,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 0,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,template char,!retime("line",-(ci[1]-1)*15,-300-(ci[1]-1)*10)!!phong(1)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:00.00,0:00:00.00,OP13-Karaoke,,0,0,0,,
-Comment: 0,0:00:25.37,0:00:30.62,OP13-Karaoke,,0,0,0,karaoke,{\k10}{\k12}A{\k19}me {\k37}a{\k26}ga{\k35}ri {\k15}no {\k55}so{\k17}ra {\k78}wo{\k101} {\k22}a{\k15}o{\k36}gu {\k22}ta{\k25}bi
-Comment: 0,0:00:30.62,0:00:36.13,OP13-Karaoke,,0,0,0,karaoke,{\k19}{\k19}Na{\k14}ki{\k26}mu{\k29}shi {\k48}da{\k21}tta {\k47}ko{\k22}ro {\k80}no{\k97} {\k20}bo{\k17}ku {\k35}wo {\k21}o{\k21}mo{\k15}u
-Comment: 0,0:00:36.13,0:00:43.87,OP13-Karaoke,,0,0,0,karaoke,{\k26}{\k16}Da{\k34}re{\k15}ka {\k42}no {\k30}se{\k45}na{\k26}ka {\k75}wo{\k103} {\k17}ga{\k11}mu{\k47}sha{\k17}ra {\k41}ni {\k16}o{\k20}i{\k97}ka{\k38}ke{\k58}ta
-Comment: 0,0:00:43.94,0:00:46.85,OP13-Karaoke,,0,0,0,karaoke,{\k27}{\k23}"Tsu{\k19}yo{\k36}ku {\k36}na{\k29}ri{\k34}ta{\k66}i" {\k21}tte
-Comment: 0,0:00:46.85,0:00:52.03,OP13-Karaoke,,0,0,0,karaoke,{\k15}{\k16}I{\k16}ma {\k37}wa {\k16}ka{\k50}ze {\k34}ni {\k33}ki{\k22}e{\k79}ta {\k36}"a{\k31}ri{\k35}ga{\k34}to{\k64}u"
-Comment: 0,0:00:52.20,0:00:57.21,OP13-Karaoke,,0,0,0,karaoke,{\k20}{\k18}Bo{\k14}ku {\k31}wa {\k28}tsu{\k45}yo{\k31}ku {\k36}na{\k21}re{\k47}te{\k32}i{\k33}ru {\k34}no {\k33}ka{\k78}na?
-Comment: 0,0:00:57.41,0:01:02.88,OP13-Karaoke,,0,0,0,karaoke,{\k37}{\k17}Ko{\k18}ta{\k31}e {\k20}wa {\k50}ma{\k32}da {\k26}de{\k31}so{\k45}u {\k34}ni {\k35}na{\k32}i {\k32}ka{\k26}ra {\k81}sa
-Comment: 0,0:01:03.01,0:01:08.40,OP13-Karaoke,,0,0,0,karaoke,{\k18}{\k30}Ya{\k39}ppa{\k29}ri {\k35}ma{\k66}da {\k36}a{\k32}ru{\k32}i{\k99}te{\k8}i{\k21}ku {\k94}yo
-Comment: 0,0:01:08.55,0:01:11.03,OP13-Karaoke,,0,0,0,karaoke,{\k19}{\k113}Saa {\k27}yu{\k89}kou
-Comment: 0,0:01:11.03,0:01:14.24,OP13-Karaoke,,0,0,0,karaoke,{\k25}{\k17}Ta{\k16}chi{\k34}do{\k33}ma{\k35}ru {\k31}ko{\k51}to {\k16}na{\k63}ku
-Comment: 0,0:01:14.24,0:01:19.48,OP13-Karaoke,,0,0,0,karaoke,{\k42}{\k31}Na{\k36}ga{\k31}re{\k34}ru {\k32}to{\k38}ki {\k33}ni {\k32}ma{\k24}ke{\k46}na{\k31}i {\k70}yo{\k21}u{\k23}ni
-Comment: 0,0:01:19.48,0:01:25.09,OP13-Karaoke,,0,0,0,karaoke,{\k22}{\k97}Nan{\k30}do {\k75}mo{\k28} {\k21}ta{\k16}chi{\k37}mu{\k35}ka{\k28}i {\k33}tsu{\k55}zu{\k28}ke{\k56}you
-Comment: 0,0:01:25.10,0:01:30.73,OP13-Karaoke,,0,0,0,karaoke,{\k31}{\k37}Ta{\k21}i{\k41}se{\k42}tsu {\k18}na {\k46}mo{\k16}no {\k10}u{\k42}shi{\k24}na{\k41}i{\k31}ta{\k37}ku{\k26}na{\k24}i {\k22}ka{\k54}ra
-Comment: 0,0:01:30.74,0:01:35.85,OP13-Karaoke,,0,0,0,karaoke,{\k11}{\k30}Bo{\k34}ku {\k66}no {\k33}na{\k35}ka {\k67}ni {\k35}na{\k34}ga{\k32}re{\k35}ru {\k31}ko{\k34}e {\k34}wa
-Comment: 0,0:01:35.86,0:01:41.25,OP13-Karaoke,,0,0,0,karaoke,{\k29}{\k41}Zu{\k32}t{\k65}to {\k36}zu{\k36}t{\k71}to {\k29}bo{\k36}ku {\k20}wo {\k39}sa{\k34}sa{\k22}e{\k32}te{\k17}ru
-Comment: 0,0:01:41.25,0:01:46.38,OP13-Karaoke,,0,0,0,karaoke,{\k38}{\k26}I{\k34}TA{\k30}ZU{\k43}RA {\k24}na {\k37}a{\k30}me {\k39}ga {\k30}ja{\k37}ma {\k37}su{\k35}ru {\k26}ke{\k47}do
-Comment: 0,0:01:46.39,0:01:51.32,OP13-Karaoke,,0,0,0,karaoke,{\k29}{\k33}Ni{\k34}ge{\k21}da{\k73}sa{\k45}na{\k29}i {\k68}ka{\k161}ra
-Comment: 0,0:01:54.42,0:01:56.78,OP13-Karaoke,,0,0,0,karaoke,{\k14}{\k112}Saa {\k28}yu{\k82}kou
-Comment: 0,0:01:56.78,0:02:00.06,OP13-Karaoke,,0,0,0,karaoke,{\k32}{\k22}Ta{\k15}chi{\k31}do{\k38}ma{\k30}ru {\k33}ko{\k52}to {\k16}na{\k59}ku
-Comment: 0,0:02:00.06,0:02:05.35,OP13-Karaoke,,0,0,0,karaoke,{\k42}{\k34}Na{\k35}ga{\k38}re{\k25}ru {\k25}to{\k48}ki {\k30}ni {\k36}ma{\k23}ke{\k43}na{\k31}i {\k70}yo{\k21}u{\k28}ni
-Comment: 0,0:02:05.36,0:02:10.99,OP13-Karaoke,,0,0,0,karaoke,{\k17}{\k99}Nan{\k25}do {\k79}mo{\k34} {\k15}ta{\k18}chi{\k32}mu{\k35}ka{\k29}i {\k32}tsu{\k54}zu{\k25}ke{\k69}you
-Comment: 0,0:02:10.99,0:02:16.35,OP13-Karaoke,,0,0,0,karaoke,{\k33}{\k39}Ta{\k13}i{\k41}se{\k36}tsu {\k23}na {\k47}mo{\k19}no {\k7}u{\k39}shi{\k34}na{\k35}i{\k30}ta{\k36}ku{\k25}na{\k19}i {\k27}ka{\k33}ra
-Comment: 0,0:02:16.36,0:02:22.05,OP13-Karaoke,,0,0,0,karaoke,{\k26}{\k41}Shi{\k31}n{\k25}ji{\k33}ta {\k46}so{\k25}no {\k39}sa{\k31}ki {\k35}he {\k237}to...
-Comment: 0,0:00:25.37,0:00:25.37,OP13-Kanji,,0,0,0,,
-Comment: 0,0:00:25.37,0:00:30.62,OP13-Kanji,,0,0,0,karaoke,{\k10}{\k12}雨｜あ{\k19}#｜め{\k37}上｜!あ{\k26}が{\k35}り{\k15}の{\k55}空｜そ{\k17}#｜ら{\k78}を{\k101}{\k22}仰｜あ{\k15}#｜お{\k36}ぐ{\k22}度｜た{\k25}#｜び
-Comment: 0,0:00:30.62,0:00:36.13,OP13-Kanji,,0,0,0,karaoke,{\k19}{\k19}泣｜な{\k14}き{\k26}虫｜む{\k29}#｜し{\k48}だ{\k21}った{\k47}頃｜こ{\k22}#｜ろ{\k80}の{\k97}{\k20}僕｜ぼ{\k17}#｜く{\k35}を{\k21}思｜お{\k21}#｜も{\k15}う
-Comment: 0,0:00:36.13,0:00:43.87,OP13-Kanji,,0,0,0,karaoke,{\k26}{\k16}誰｜だ{\k34}#｜れ{\k15}か{\k42}の{\k30}背｜せ{\k45}中｜!な{\k26}#｜か{\k75}を{\k103}{\k17}が{\k11}む{\k47}しゃ{\k17}ら{\k41}に{\k16}追｜お{\k20}い{\k97}か{\k38}け{\k58}た
-Comment: 0,0:00:43.94,0:00:46.85,OP13-Kanji,,0,0,0,karaoke,{\k27}{\k23}「強｜つ{\k19}#｜よ{\k36}く{\k36}な{\k29}り{\k34}た{\k66}い」{\k21}って
-Comment: 0,0:00:46.85,0:00:52.03,OP13-Kanji,,0,0,0,karaoke,{\k15}{\k16}今｜い{\k16}#｜ま{\k37}は{\k16}風｜か{\k50}#｜ぜ{\k34}に{\k33}消｜き{\k22}え{\k79}た{\k36}「あ{\k31}り{\k35}が{\k34}と{\k64}う」
-Comment: 0,0:00:52.20,0:00:57.21,OP13-Kanji,,0,0,0,karaoke,{\k20}{\k18}僕｜ぼ{\k14}#｜く{\k31}は{\k28}強｜つ{\k45}#｜よ{\k31}く{\k36}な{\k21}れ{\k47}て{\k32}い{\k33}る{\k34}の{\k33}か{\k78}な?
-Comment: 0,0:00:57.41,0:01:02.88,OP13-Kanji,,0,0,0,karaoke,{\k37}{\k17}答｜こ{\k18}#｜た{\k31}え{\k20}は{\k50}ま{\k32}だ{\k26}出｜で{\k31}そ{\k45}う{\k34}に{\k35}な{\k32}い{\k32}か{\k26}ら{\k81}さ
-Comment: 0,0:01:03.01,0:01:08.40,OP13-Kanji,,0,0,0,karaoke,{\k18}{\k30}や{\k39}っぱ{\k29}り{\k35}ま{\k66}だ{\k36}歩｜あ{\k32}#｜る{\k32}い{\k99}て{\k8}い{\k21}く{\k94}よ
-Comment: 0,0:01:08.55,0:01:11.03,OP13-Kanji,,0,0,0,karaoke,{\k19}{\k113}さぁ{\k27}行｜ゆ{\k89}こう
-Comment: 0,0:01:11.03,0:01:14.24,OP13-Kanji,,0,0,0,karaoke,{\k25}{\k17}立｜た{\k16}ち{\k34}止｜ど{\k33}ま{\k35}る{\k31}こ{\k51}と{\k16}な{\k63}く
-Comment: 0,0:01:14.24,0:01:19.48,OP13-Kanji,,0,0,0,karaoke,{\k42}{\k31}流｜な{\k36}#｜が{\k31}れ{\k34}る{\k32}時｜と{\k38}#｜き{\k33}に{\k32}負｜ま{\k24}け{\k46}な{\k31}い{\k70}よ{\k21}う{\k23}に
-Comment: 0,0:01:19.48,0:01:25.09,OP13-Kanji,,0,0,0,karaoke,{\k22}{\k97}何｜なん{\k30}度｜!ど{\k75}も{\k28}{\k21}立｜た{\k16}ち{\k37}向｜む{\k35}か{\k28}い{\k33}続｜つ{\k55}#｜づ{\k28}け{\k56}よう
-Comment: 0,0:01:25.10,0:01:30.73,OP13-Kanji,,0,0,0,karaoke,{\k31}{\k37}大｜た{\k21}#｜い{\k41}切｜!せ{\k42}#｜つ{\k18}な{\k46}も{\k16}の{\k10}失｜<う{\k42}#｜し{\k24}#｜な{\k41}い{\k31}た{\k37}く{\k26}な{\k24}い{\k22}か{\k54}ら
-Comment: 0,0:01:30.74,0:01:35.85,OP13-Kanji,,0,0,0,karaoke,{\k11}{\k30}僕｜ぼ{\k34}#｜く{\k66}の{\k33}中｜な{\k35}#｜か{\k67}に{\k35}流｜な{\k34}#｜が{\k32}れ{\k35}る{\k31}声｜こ{\k34}#｜え{\k34}は
-Comment: 0,0:01:35.86,0:01:41.25,OP13-Kanji,,0,0,0,karaoke,{\k29}{\k41}ず{\k32}っ{\k65}と{\k36}ず{\k36}っ{\k71}と{\k29}僕｜ぼ{\k36}#｜く{\k20}を{\k39}支｜さ{\k34}#｜さ{\k22}え{\k32}て{\k17}る
-Comment: 0,0:01:41.25,0:01:46.38,OP13-Kanji,,0,0,0,karaoke,{\k38}{\k26}イ{\k34}タ{\k30}ズ{\k43}ラ{\k24}な{\k37}雨｜あ{\k30}#｜め{\k39}が{\k30}邪｜じゃ{\k37}魔｜!ま{\k37}す{\k35}る{\k26}け{\k47}ど
-Comment: 0,0:01:46.39,0:01:51.32,OP13-Kanji,,0,0,0,karaoke,{\k29}{\k33}逃｜に{\k34}げ{\k21}出｜だ{\k73}さ{\k45}な{\k29}い{\k68}か{\k161}ら
-Comment: 0,0:01:54.42,0:01:56.78,OP13-Kanji,,0,0,0,karaoke,{\k14}{\k112}さぁ{\k28}行｜ゆ{\k82}こう
-Comment: 0,0:01:56.78,0:02:00.06,OP13-Kanji,,0,0,0,karaoke,{\k32}{\k22}立｜た{\k15}ち{\k31}止｜ど{\k38}ま{\k30}る{\k33}こ{\k52}と{\k16}な{\k59}く
-Comment: 0,0:02:00.06,0:02:05.35,OP13-Kanji,,0,0,0,karaoke,{\k42}{\k34}流｜な{\k35}#｜が{\k38}れ{\k25}る{\k25}時｜と{\k48}#｜き{\k30}に{\k36}負｜ま{\k23}け{\k43}な{\k31}い{\k70}よ{\k21}う{\k28}に
-Comment: 0,0:02:05.36,0:02:10.99,OP13-Kanji,,0,0,0,karaoke,{\k17}{\k99}何｜なん{\k25}度｜!ど{\k79}も{\k34}{\k15}立｜た{\k18}ち{\k32}向｜む{\k35}か{\k29}い{\k32}続｜つ{\k54}#｜づ{\k25}け{\k69}よう
-Comment: 0,0:02:10.99,0:02:16.35,OP13-Kanji,,0,0,0,karaoke,{\k33}{\k39}大｜た{\k13}#｜い{\k41}切｜!せ{\k36}#｜つ{\k23}な{\k47}も{\k19}の{\k7}失｜<う{\k39}#｜し{\k34}#｜な{\k35}い{\k30}た{\k36}く{\k25}な{\k19}い{\k27}か{\k33}ら
-Comment: 0,0:02:16.36,0:02:22.05,OP13-Kanji,,0,0,0,karaoke,{\k26}{\k41}信｜し{\k31}#｜ん{\k25}じ{\k33}た{\k46}そ{\k25}の{\k39}先｜さ{\k31}#｜き{\k35}へ{\k237}と...
-Comment: 0,0:00:23.37,0:00:25.37,DefaultLow,,0,0,0,,
-Comment: 0,0:00:25.37,0:00:30.62,OP13-Translation,,0,0,0,karaoke,Every time I look up to the sky after the rain
-Comment: 0,0:00:30.62,0:00:36.13,OP13-Translation,,0,0,0,karaoke,I think back to when I was a crybaby
-Comment: 0,0:00:36.13,0:00:43.87,OP13-Translation,,0,0,0,karaoke,I was chasing somebody's back blindly
-Comment: 0,0:00:43.94,0:00:46.85,OP13-Translation,,0,0,0,karaoke,Thinking "I want to be stronger"
-Comment: 0,0:00:46.85,0:00:52.03,OP13-Translation,,0,0,0,karaoke,The word "thank you" has faded into the wind now
-Comment: 0,0:00:52.20,0:00:57.21,OP13-Translation,,0,0,0,karaoke,Am I getting stronger?
-Comment: 0,0:00:57.41,0:01:02.88,OP13-Translation,,0,0,0,karaoke,I don't know the answer yet
-Comment: 0,0:01:03.01,0:01:08.40,OP13-Translation,,0,0,0,karaoke,That's why I'll keep walking ahead
-Comment: 0,0:01:08.55,0:01:11.03,OP13-Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:11.03,0:01:14.24,OP13-Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:01:14.24,0:01:19.48,OP13-Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:01:19.48,0:01:25.09,OP13-Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:01:25.10,0:01:30.73,OP13-Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:01:30.74,0:01:35.85,OP13-Translation,,0,0,0,karaoke,The voice inside of me
-Comment: 0,0:01:35.86,0:01:41.25,OP13-Translation,,0,0,0,karaoke,keeps sustaining me
-Comment: 0,0:01:41.25,0:01:46.38,OP13-Translation,,0,0,0,karaoke,Wicked rain will get in my way
-Comment: 0,0:01:46.39,0:01:51.32,OP13-Translation,,0,0,0,karaoke,But I won't walk away
-Comment: 0,0:01:54.42,0:01:56.78,OP13-Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:56.78,0:02:00.06,OP13-Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:02:00.06,0:02:05.35,OP13-Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:02:05.36,0:02:10.99,OP13-Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:02:10.99,0:02:16.35,OP13-Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:02:16.36,0:02:22.05,OP13-Translation,,0,0,0,karaoke,To the future I believe in...
-

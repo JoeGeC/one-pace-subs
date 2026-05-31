@@ -2461,7 +2461,7 @@ Dialogue: 0,0:03:47.64,0:03:49.79,Main,,0,0,0,,乂妮船長……
 Dialogue: 0,0:03:49.79,0:03:51.91,Main,,0,0,0,,閉嘴！別煩我！
 Dialogue: 0,0:03:51.91,0:03:54.60,Main,,0,0,0,,白鬍子出賣了夥伴？
 Dialogue: 0,0:03:54.60,0:04:00.05,Main,,0,0,0,,怎麼可能。他之所以是傳奇，就是因為他從不做那種事。
-Dialogue: 0,0:04:00.19,0:04:05.42,Title,,0,0,100,,{\an8\fad(1000,0)}突擊{}
+Dialogue: 0,0:04:00.19,0:04:05.42,Title,,0,0,0,,{\an8\fad(1000,0)}突擊{}
 Dialogue: 0,0:04:00.50,0:04:01.88,Main,,0,0,0,,是時候出發了，貝波。
 Dialogue: 0,0:04:01.88,0:04:03.52,Main,,0,0,0,,是，船長！
 Dialogue: 0,0:04:03.52,0:04:05.42,Main,,0,0,0,,跟我來，乂恩·巴特！
@@ -2673,70 +2673,3 @@ Dialogue: 0,0:26:11.87,0:26:18.36,Main,,0,0,0,,救出艾斯，摧毀海軍！
 Dialogue: 0,0:26:24.96,0:26:26.96,Main,,0,0,0,,卡普……
 Dialogue: 0,0:26:26.96,0:26:28.50,Main,,0,0,0,,嗯。
 Dialogue: 0,0:26:32.36,0:26:38.04,Main,,0,0,0,,看來連我們也不得不出手了！
-Comment: 0,0:00:30.65,0:00:36.16,Karaoke,,0,0,0,karaoke,{\k19}{\k19}Na{\k14}ki{\k26}mu{\k29}shi {\k48}da{\k21}tta {\k47}ko{\k22}ro {\k80}no{\k97} {\k20}bo{\k17}ku {\k35}wo {\k21}o{\k21}mo{\k15}u
-Comment: 0,0:00:30.65,0:00:36.16,Kanji,,0,0,0,karaoke,{\k19}{\k19}泣｜な{\k14}き{\k26}虫｜む{\k29}#｜し{\k48}だ{\k21}った{\k47}頃｜こ{\k22}#｜ろ{\k80}の{\k97}{\k20}僕｜ぼ{\k17}#｜く{\k35}を{\k21}思｜お{\k21}#｜も{\k15}う
-Comment: 0,0:00:30.65,0:00:36.16,Translation,,0,0,0,karaoke,I think back to when I was a crybaby
-Comment: 0,0:00:36.16,0:00:43.90,Karaoke,,0,0,0,karaoke,{\k26}{\k16}Da{\k34}re{\k15}ka {\k42}no {\k30}se{\k45}na{\k26}ka {\k75}wo{\k103} {\k17}ga{\k11}mu{\k47}sha{\k17}ra {\k41}ni {\k16}o{\k20}i{\k97}ka{\k38}ke{\k58}ta
-Comment: 0,0:00:36.16,0:00:43.90,Kanji,,0,0,0,karaoke,{\k26}{\k16}誰｜だ{\k34}#｜れ{\k15}か{\k42}の{\k30}背｜せ{\k45}中｜!な{\k26}#｜か{\k75}を{\k103}{\k17}が{\k11}む{\k47}しゃ{\k17}ら{\k41}に{\k16}追｜お{\k20}い{\k97}か{\k38}け{\k58}た
-Comment: 0,0:00:36.16,0:00:43.90,Translation,,0,0,0,karaoke,I was chasing somebody's back blindly
-Comment: 0,0:00:43.97,0:00:46.88,Karaoke,,0,0,0,karaoke,{\k27}{\k23}"Tsu{\k19}yo{\k36}ku {\k36}na{\k29}ri{\k34}ta{\k66}i" {\k21}tte
-Comment: 0,0:00:43.97,0:00:46.88,Kanji,,0,0,0,karaoke,{\k27}{\k23}「強｜つ{\k19}#｜よ{\k36}く{\k36}な{\k29}り{\k34}た{\k66}い」{\k21}って
-Comment: 0,0:00:43.97,0:00:46.88,Translation,,0,0,0,karaoke,Thinking "I want to be stronger"
-Comment: 0,0:00:46.88,0:00:52.06,Karaoke,,0,0,0,karaoke,{\k15}{\k16}I{\k16}ma {\k37}wa {\k16}ka{\k50}ze {\k34}ni {\k33}ki{\k22}e{\k79}ta {\k36}"a{\k31}ri{\k35}ga{\k34}to{\k64}u"
-Comment: 0,0:00:46.88,0:00:52.06,Kanji,,0,0,0,karaoke,{\k15}{\k16}今｜い{\k16}#｜ま{\k37}は{\k16}風｜か{\k50}#｜ぜ{\k34}に{\k33}消｜き{\k22}え{\k79}た{\k36}「あ{\k31}り{\k35}が{\k34}と{\k64}う」
-Comment: 0,0:00:46.88,0:00:52.06,Translation,,0,0,0,karaoke,The word "thank you" has faded into the wind now
-Comment: 0,0:00:52.23,0:00:57.24,Karaoke,,0,0,0,karaoke,{\k20}{\k18}Bo{\k14}ku {\k31}wa {\k28}tsu{\k45}yo{\k31}ku {\k36}na{\k21}re{\k47}te{\k32}i{\k33}ru {\k34}no {\k33}ka{\k78}na?
-Comment: 0,0:00:52.23,0:00:57.24,Kanji,,0,0,0,karaoke,{\k20}{\k18}僕｜ぼ{\k14}#｜く{\k31}は{\k28}強｜つ{\k45}#｜よ{\k31}く{\k36}な{\k21}れ{\k47}て{\k32}い{\k33}る{\k34}の{\k33}か{\k78}な?
-Comment: 0,0:00:52.23,0:00:57.24,Translation,,0,0,0,karaoke,Am I getting stronger?
-Comment: 0,0:00:57.44,0:01:02.91,Karaoke,,0,0,0,karaoke,{\k37}{\k17}Ko{\k18}ta{\k31}e {\k20}wa {\k50}ma{\k32}da {\k26}de{\k31}so{\k45}u {\k34}ni {\k35}na{\k32}i {\k32}ka{\k26}ra {\k81}sa
-Comment: 0,0:00:57.44,0:01:02.91,Kanji,,0,0,0,karaoke,{\k37}{\k17}答｜こ{\k18}#｜た{\k31}え{\k20}は{\k50}ま{\k32}だ{\k26}出｜で{\k31}そ{\k45}う{\k34}に{\k35}な{\k32}い{\k32}か{\k26}ら{\k81}さ
-Comment: 0,0:00:57.44,0:01:02.91,Translation,,0,0,0,karaoke,I don't know the answer yet
-Comment: 0,0:01:03.04,0:01:08.43,Karaoke,,0,0,0,karaoke,{\k18}{\k30}Ya{\k39}ppa{\k29}ri {\k35}ma{\k66}da {\k36}a{\k32}ru{\k32}i{\k99}te{\k8}i{\k21}ku {\k94}yo
-Comment: 0,0:01:03.04,0:01:08.43,Kanji,,0,0,0,karaoke,{\k18}{\k30}や{\k39}っぱ{\k29}り{\k35}ま{\k66}だ{\k36}歩｜あ{\k32}#｜る{\k32}い{\k99}て{\k8}い{\k21}く{\k94}よ
-Comment: 0,0:01:03.04,0:01:08.43,Translation,,0,0,0,karaoke,That's why I'll keep walking ahead
-Comment: 0,0:01:08.58,0:01:11.06,Karaoke,,0,0,0,karaoke,{\k19}{\k113}Saa {\k27}yu{\k89}kou
-Comment: 0,0:01:08.58,0:01:11.06,Kanji,,0,0,0,karaoke,{\k19}{\k113}さぁ{\k27}行｜ゆ{\k89}こう
-Comment: 0,0:01:08.58,0:01:11.06,Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:11.06,0:01:14.27,Karaoke,,0,0,0,karaoke,{\k25}{\k17}Ta{\k16}chi{\k34}do{\k33}ma{\k35}ru {\k31}ko{\k51}to {\k16}na{\k63}ku
-Comment: 0,0:01:11.06,0:01:14.27,Kanji,,0,0,0,karaoke,{\k25}{\k17}立｜た{\k16}ち{\k34}止｜ど{\k33}ま{\k35}る{\k31}こ{\k51}と{\k16}な{\k63}く
-Comment: 0,0:01:11.06,0:01:14.27,Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:01:14.27,0:01:19.51,Karaoke,,0,0,0,karaoke,{\k42}{\k31}Na{\k36}ga{\k31}re{\k34}ru {\k32}to{\k38}ki {\k33}ni {\k32}ma{\k24}ke{\k46}na{\k31}i {\k70}yo{\k21}u{\k23}ni
-Comment: 0,0:01:14.27,0:01:19.51,Kanji,,0,0,0,karaoke,{\k42}{\k31}流｜な{\k36}#｜が{\k31}れ{\k34}る{\k32}時｜と{\k38}#｜き{\k33}に{\k32}負｜ま{\k24}け{\k46}な{\k31}い{\k70}よ{\k21}う{\k23}に
-Comment: 0,0:01:14.27,0:01:19.51,Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:01:19.51,0:01:25.12,Karaoke,,0,0,0,karaoke,{\k22}{\k97}Nan{\k30}do {\k75}mo{\k28} {\k21}ta{\k16}chi{\k37}mu{\k35}ka{\k28}i {\k33}tsu{\k55}zu{\k28}ke{\k56}you
-Comment: 0,0:01:19.51,0:01:25.12,Kanji,,0,0,0,karaoke,{\k22}{\k97}何｜なん{\k30}度｜!ど{\k75}も{\k28}{\k21}立｜た{\k16}ち{\k37}向｜む{\k35}か{\k28}い{\k33}続｜つ{\k55}#｜づ{\k28}け{\k56}よう
-Comment: 0,0:01:19.51,0:01:25.12,Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:01:25.13,0:01:30.76,Karaoke,,0,0,0,karaoke,{\k31}{\k37}Ta{\k21}i{\k41}se{\k42}tsu {\k18}na {\k46}mo{\k16}no {\k10}u{\k42}shi{\k24}na{\k41}i{\k31}ta{\k37}ku{\k26}na{\k24}i {\k22}ka{\k54}ra
-Comment: 0,0:01:25.13,0:01:30.76,Kanji,,0,0,0,karaoke,{\k31}{\k37}大｜た{\k21}#｜い{\k41}切｜!せ{\k42}#｜つ{\k18}な{\k46}も{\k16}の{\k10}失｜<う{\k42}#｜し{\k24}#｜な{\k41}い{\k31}た{\k37}く{\k26}な{\k24}い{\k22}か{\k54}ら
-Comment: 0,0:01:25.13,0:01:30.76,Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:01:30.77,0:01:35.88,Karaoke,,0,0,0,karaoke,{\k11}{\k30}Bo{\k34}ku {\k66}no {\k33}na{\k35}ka {\k67}ni {\k35}na{\k34}ga{\k32}re{\k35}ru {\k31}ko{\k34}e {\k34}wa
-Comment: 0,0:01:30.77,0:01:35.88,Kanji,,0,0,0,karaoke,{\k11}{\k30}僕｜ぼ{\k34}#｜く{\k66}の{\k33}中｜な{\k35}#｜か{\k67}に{\k35}流｜な{\k34}#｜が{\k32}れ{\k35}る{\k31}声｜こ{\k34}#｜え{\k34}は
-Comment: 0,0:01:30.77,0:01:35.88,Translation,,0,0,0,karaoke,The voice inside of me
-Comment: 0,0:01:35.89,0:01:41.28,Karaoke,,0,0,0,karaoke,{\k29}{\k41}Zu{\k32}t{\k65}to {\k36}zu{\k36}t{\k71}to {\k29}bo{\k36}ku {\k20}wo {\k39}sa{\k34}sa{\k22}e{\k32}te{\k17}ru
-Comment: 0,0:01:35.89,0:01:41.28,Kanji,,0,0,0,karaoke,{\k29}{\k41}ず{\k32}っ{\k65}と{\k36}ず{\k36}っ{\k71}と{\k29}僕｜ぼ{\k36}#｜く{\k20}を{\k39}支｜さ{\k34}#｜さ{\k22}え{\k32}て{\k17}る
-Comment: 0,0:01:35.89,0:01:41.28,Translation,,0,0,0,karaoke,keeps sustaining me
-Comment: 0,0:01:41.28,0:01:46.41,Karaoke,,0,0,0,karaoke,{\k38}{\k26}I{\k34}TA{\k30}ZU{\k43}RA {\k24}na {\k37}a{\k30}me {\k39}ga {\k30}ja{\k37}ma {\k37}su{\k35}ru {\k26}ke{\k47}do
-Comment: 0,0:01:41.28,0:01:46.41,Kanji,,0,0,0,karaoke,{\k38}{\k26}イ{\k34}タ{\k30}ズ{\k43}ラ{\k24}な{\k37}雨｜あ{\k30}#｜め{\k39}が{\k30}邪｜じゃ{\k37}魔｜!ま{\k37}す{\k35}る{\k26}け{\k47}ど
-Comment: 0,0:01:41.28,0:01:46.41,Translation,,0,0,0,karaoke,Wicked rain will get in my way
-Comment: 0,0:01:46.42,0:01:51.35,Karaoke,,0,0,0,karaoke,{\k29}{\k33}Ni{\k34}ge{\k21}da{\k73}sa{\k45}na{\k29}i {\k68}ka{\k161}ra
-Comment: 0,0:01:46.42,0:01:51.35,Kanji,,0,0,0,karaoke,{\k29}{\k33}逃｜に{\k34}げ{\k21}出｜だ{\k73}さ{\k45}な{\k29}い{\k68}か{\k161}ら
-Comment: 0,0:01:46.42,0:01:51.35,Translation,,0,0,0,karaoke,But I won't walk away
-Comment: 0,0:01:54.45,0:01:56.81,Karaoke,,0,0,0,karaoke,{\k14}{\k112}Saa {\k28}yu{\k82}kou
-Comment: 0,0:01:54.45,0:01:56.81,Kanji,,0,0,0,karaoke,{\k14}{\k112}さぁ{\k28}行｜ゆ{\k82}こう
-Comment: 0,0:01:54.45,0:01:56.81,Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:56.81,0:02:00.09,Karaoke,,0,0,0,karaoke,{\k32}{\k22}Ta{\k15}chi{\k31}do{\k38}ma{\k30}ru {\k33}ko{\k52}to {\k16}na{\k59}ku
-Comment: 0,0:01:56.81,0:02:00.09,Kanji,,0,0,0,karaoke,{\k32}{\k22}立｜た{\k15}ち{\k31}止｜ど{\k38}ま{\k30}る{\k33}こ{\k52}と{\k16}な{\k59}く
-Comment: 0,0:01:56.81,0:02:00.09,Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:02:00.09,0:02:05.38,Karaoke,,0,0,0,karaoke,{\k42}{\k34}Na{\k35}ga{\k38}re{\k25}ru {\k25}to{\k48}ki {\k30}ni {\k36}ma{\k23}ke{\k43}na{\k31}i {\k70}yo{\k21}u{\k28}ni
-Comment: 0,0:02:00.09,0:02:05.38,Kanji,,0,0,0,karaoke,{\k42}{\k34}流｜な{\k35}#｜が{\k38}れ{\k25}る{\k25}時｜と{\k48}#｜き{\k30}に{\k36}負｜ま{\k23}け{\k43}な{\k31}い{\k70}よ{\k21}う{\k28}に
-Comment: 0,0:02:00.09,0:02:05.38,Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:02:05.39,0:02:11.02,Karaoke,,0,0,0,karaoke,{\k17}{\k99}Nan{\k25}do {\k79}mo{\k34} {\k15}ta{\k18}chi{\k32}mu{\k35}ka{\k29}i {\k32}tsu{\k54}zu{\k25}ke{\k69}you
-Comment: 0,0:02:05.39,0:02:11.02,Kanji,,0,0,0,karaoke,{\k17}{\k99}何｜なん{\k25}度｜!ど{\k79}も{\k34}{\k15}立｜た{\k18}ち{\k32}向｜む{\k35}か{\k29}い{\k32}続｜つ{\k54}#｜づ{\k25}け{\k69}よう
-Comment: 0,0:02:05.39,0:02:11.02,Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:02:11.02,0:02:16.38,Karaoke,,0,0,0,karaoke,{\k33}{\k39}Ta{\k13}i{\k41}se{\k36}tsu {\k23}na {\k47}mo{\k19}no {\k7}u{\k39}shi{\k34}na{\k35}i{\k30}ta{\k36}ku{\k25}na{\k19}i {\k27}ka{\k33}ra
-Comment: 0,0:02:11.02,0:02:16.38,Kanji,,0,0,0,karaoke,{\k33}{\k39}大｜た{\k13}#｜い{\k41}切｜!せ{\k36}#｜つ{\k23}な{\k47}も{\k19}の{\k7}失｜<う{\k39}#｜し{\k34}#｜な{\k35}い{\k30}た{\k36}く{\k25}な{\k19}い{\k27}か{\k33}ら
-Comment: 0,0:02:11.02,0:02:16.38,Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:02:16.39,0:02:22.08,Karaoke,,0,0,0,karaoke,{\k26}{\k41}Shi{\k31}n{\k25}ji{\k33}ta {\k46}so{\k25}no {\k39}sa{\k31}ki {\k35}he {\k237}to...
-Comment: 0,0:02:16.39,0:02:22.08,Kanji,,0,0,0,karaoke,{\k26}{\k41}信｜し{\k31}#｜ん{\k25}じ{\k33}た{\k46}そ{\k25}の{\k39}先｜さ{\k31}#｜き{\k35}へ{\k237}と...
-Comment: 0,0:02:16.39,0:02:22.08,Translation,,0,0,0,karaoke,To the future I believe in...
-

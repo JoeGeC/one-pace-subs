@@ -29,7 +29,7 @@ Style: Narrator-furigana,Impress BT,28,&H00FFFFFF,&H000000FF,&H00000000,&H780000
 Style: Lyrics-furigana,Duality,27.5,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,10,10,15,1
 Style: Credits-furigana,FOT-Greco Std B,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,1.1,0,7,10,10,10,1
 Style: Title-furigana,Agency FB,31.5,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.5,0,1,1,0,2,10,10,10,1
-Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,100,1
+Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,18,1
 Style: Captions-furigana,Roboto,19.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 Style: Thoughts-furigana,Impress BT,27.5,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,0.875,0.75,2,120,120,18,1
 Style: Flashbacks-furigana,Impress BT,27.5,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,0.875,0.75,2,120,120,18,1
@@ -41,7 +41,7 @@ Style: Secondary,Impress BT,55,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0
 Style: Flashbacks,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Captions,Roboto,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
+Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
 Style: Title,Agency FB,63,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.5,0,1,2,0,2,10,10,10,1
 Style: Credits,FOT-Greco Std B,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,2.2,0,7,10,10,10,1
 Style: Lyrics,Duality,55,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,10,10,15,1
@@ -2610,7 +2610,7 @@ Dialogue: 0,0:14:09.90,0:14:12.64,Main,,0,0,0,,讓我們了結這一切吧！
 Dialogue: 0,0:14:12.64,0:14:14.60,Main,,0,0,0,,海軍！
 Dialogue: 0,0:14:19.10,0:14:20.86,Main,,0,0,0,,瑪林福德有危險！
 Dialogue: 0,0:14:20.86,0:14:22.80,Main,,0,0,0,,阻止白鬍子！
-Dialogue: 0,0:14:22.80,0:14:24.04,Captions,,0,0,100,,{\an8}{}絕對正義
+Dialogue: 0,0:14:22.80,0:14:24.04,Captions,,0,0,300,,{\an8}{}絕對正義
 Dialogue: 0,0:14:26.05,0:14:28.45,Main,,0,0,0,,他要毀掉整座島！
 Dialogue: 0,0:14:29.01,0:14:31.00,Main,,0,0,0,,老爹！
 Dialogue: 0,0:14:31.00,0:14:34.56,Main,,0,0,0,,我不想離開你！\N你也一起來啊！
@@ -2762,84 +2762,3 @@ Dialogue: 0,0:25:59.71,0:26:04.81,Main,,0,0,0,,其他人跑了我不在乎，\N�
 Dialogue: 0,0:26:05.10,0:26:06.78,Main,,0,0,0,,看好了。
 Dialogue: 0,0:26:10.01,0:26:11.48,Main,,0,0,0,,等等！
 Dialogue: 0,0:26:13.59,0:26:15.19,Main,,0,0,0,,魯夫！
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Karaoke,,0,0,0,template char,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Kanji,,0,0,0,template char,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Kanji,,0,0,0,template furi,!retime("start2syl",-800+($si-1)*80, 0)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
-Comment: 0,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,code syl,function phong(ref) ci[ref]=ci[ref]-1; return "" end; ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}; cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
-Comment: 1,0:00:00.00,0:00:00.00,OP13-Translation,,0,0,0,template char,!retime("line",-(ci[1]-1)*15,-300-(ci[1]-1)*10)!!phong(1)!{\an5\move(!$scenter-math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)\fad(700,300)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&))\fscx100\fscy100)}
-Comment: 0,0:00:14.87,0:00:14.87,OP13-Karaoke,hilight,0,0,0,template,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 0,0:00:14.87,0:00:14.87,OP13-Kanji,hilight,0,0,0,template,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 0,0:00:14.87,0:00:14.87,OP13-Kanji,hilight,0,0,0,template furi,!retime("postsyl",-$dur,1400-$dur)!{\an5\pos($center,$middle)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,$dur,\bord1\1a&HFF&\blur1)\fad(0,800)}
-Comment: 0,0:00:23.00,0:00:25.00,DefaultLow,,0,0,0,,
-Comment: 0,0:00:25.40,0:00:30.65,OP13-Karaoke,,0,0,0,karaoke,{\k10}{\k12}A{\k19}me {\k37}a{\k26}ga{\k35}ri {\k15}no {\k55}so{\k17}ra {\k78}wo{\k101} {\k22}a{\k15}o{\k36}gu {\k22}ta{\k25}bi
-Comment: 0,0:00:25.40,0:00:25.40,OP13-Kanji,,0,0,0,,
-Comment: 0,0:00:25.40,0:00:30.65,OP13-Kanji,,0,0,0,karaoke,{\k10}{\k12}雨｜あ{\k19}#｜め{\k37}上｜!あ{\k26}が{\k35}り{\k15}の{\k55}空｜そ{\k17}#｜ら{\k78}を{\k101}{\k22}仰｜あ{\k15}#｜お{\k36}ぐ{\k22}度｜た{\k25}#｜び
-Comment: 0,0:00:25.40,0:00:30.65,OP13-Translation,,0,0,0,karaoke,Every time I look up to the sky after the rain
-Comment: 0,0:00:30.65,0:00:36.16,OP13-Karaoke,,0,0,0,karaoke,{\k19}{\k19}Na{\k14}ki{\k26}mu{\k29}shi {\k48}da{\k21}tta {\k47}ko{\k22}ro {\k80}no{\k97} {\k20}bo{\k17}ku {\k35}wo {\k21}o{\k21}mo{\k15}u
-Comment: 0,0:00:30.65,0:00:36.16,OP13-Kanji,,0,0,0,karaoke,{\k19}{\k19}泣｜な{\k14}き{\k26}虫｜む{\k29}#｜し{\k48}だ{\k21}った{\k47}頃｜こ{\k22}#｜ろ{\k80}の{\k97}{\k20}僕｜ぼ{\k17}#｜く{\k35}を{\k21}思｜お{\k21}#｜も{\k15}う
-Comment: 0,0:00:30.65,0:00:36.16,OP13-Translation,,0,0,0,karaoke,I think back to when I was a crybaby
-Comment: 0,0:00:36.16,0:00:43.90,OP13-Karaoke,,0,0,0,karaoke,{\k26}{\k16}Da{\k34}re{\k15}ka {\k42}no {\k30}se{\k45}na{\k26}ka {\k75}wo{\k103} {\k17}ga{\k11}mu{\k47}sha{\k17}ra {\k41}ni {\k16}o{\k20}i{\k97}ka{\k38}ke{\k58}ta
-Comment: 0,0:00:36.16,0:00:43.90,OP13-Kanji,,0,0,0,karaoke,{\k26}{\k16}誰｜だ{\k34}#｜れ{\k15}か{\k42}の{\k30}背｜せ{\k45}中｜!な{\k26}#｜か{\k75}を{\k103}{\k17}が{\k11}む{\k47}しゃ{\k17}ら{\k41}に{\k16}追｜お{\k20}い{\k97}か{\k38}け{\k58}た
-Comment: 0,0:00:36.16,0:00:43.90,OP13-Translation,,0,0,0,karaoke,I was chasing somebody's back blindly
-Comment: 0,0:00:43.97,0:00:46.88,OP13-Karaoke,,0,0,0,karaoke,{\k27}{\k23}"Tsu{\k19}yo{\k36}ku {\k36}na{\k29}ri{\k34}ta{\k66}i" {\k21}tte
-Comment: 0,0:00:43.97,0:00:46.88,OP13-Kanji,,0,0,0,karaoke,{\k27}{\k23}「強｜つ{\k19}#｜よ{\k36}く{\k36}な{\k29}り{\k34}た{\k66}い」{\k21}って
-Comment: 0,0:00:43.97,0:00:46.88,OP13-Translation,,0,0,0,karaoke,Thinking "I want to be stronger"
-Comment: 0,0:00:46.88,0:00:52.06,OP13-Karaoke,,0,0,0,karaoke,{\k15}{\k16}I{\k16}ma {\k37}wa {\k16}ka{\k50}ze {\k34}ni {\k33}ki{\k22}e{\k79}ta {\k36}"a{\k31}ri{\k35}ga{\k34}to{\k64}u"
-Comment: 0,0:00:46.88,0:00:52.06,OP13-Kanji,,0,0,0,karaoke,{\k15}{\k16}今｜い{\k16}#｜ま{\k37}は{\k16}風｜か{\k50}#｜ぜ{\k34}に{\k33}消｜き{\k22}え{\k79}た{\k36}「あ{\k31}り{\k35}が{\k34}と{\k64}う」
-Comment: 0,0:00:46.88,0:00:52.06,OP13-Translation,,0,0,0,karaoke,The word "thank you" has faded into the wind now
-Comment: 0,0:00:52.23,0:00:57.24,OP13-Karaoke,,0,0,0,karaoke,{\k20}{\k18}Bo{\k14}ku {\k31}wa {\k28}tsu{\k45}yo{\k31}ku {\k36}na{\k21}re{\k47}te{\k32}i{\k33}ru {\k34}no {\k33}ka{\k78}na?
-Comment: 0,0:00:52.23,0:00:57.24,OP13-Kanji,,0,0,0,karaoke,{\k20}{\k18}僕｜ぼ{\k14}#｜く{\k31}は{\k28}強｜つ{\k45}#｜よ{\k31}く{\k36}な{\k21}れ{\k47}て{\k32}い{\k33}る{\k34}の{\k33}か{\k78}な?
-Comment: 0,0:00:52.23,0:00:57.24,OP13-Translation,,0,0,0,karaoke,Am I getting stronger?
-Comment: 0,0:00:57.44,0:01:02.91,OP13-Karaoke,,0,0,0,karaoke,{\k37}{\k17}Ko{\k18}ta{\k31}e {\k20}wa {\k50}ma{\k32}da {\k26}de{\k31}so{\k45}u {\k34}ni {\k35}na{\k32}i {\k32}ka{\k26}ra {\k81}sa
-Comment: 0,0:00:57.44,0:01:02.91,OP13-Kanji,,0,0,0,karaoke,{\k37}{\k17}答｜こ{\k18}#｜た{\k31}え{\k20}は{\k50}ま{\k32}だ{\k26}出｜で{\k31}そ{\k45}う{\k34}に{\k35}な{\k32}い{\k32}か{\k26}ら{\k81}さ
-Comment: 0,0:00:57.44,0:01:02.91,OP13-Translation,,0,0,0,karaoke,I don't know the answer yet
-Comment: 0,0:01:03.04,0:01:08.43,OP13-Karaoke,,0,0,0,karaoke,{\k18}{\k30}Ya{\k39}ppa{\k29}ri {\k35}ma{\k66}da {\k36}a{\k32}ru{\k32}i{\k99}te{\k8}i{\k21}ku {\k94}yo
-Comment: 0,0:01:03.04,0:01:08.43,OP13-Kanji,,0,0,0,karaoke,{\k18}{\k30}や{\k39}っぱ{\k29}り{\k35}ま{\k66}だ{\k36}歩｜あ{\k32}#｜る{\k32}い{\k99}て{\k8}い{\k21}く{\k94}よ
-Comment: 0,0:01:03.04,0:01:08.43,OP13-Translation,,0,0,0,karaoke,That's why I'll keep walking ahead
-Comment: 0,0:01:08.58,0:01:11.06,OP13-Karaoke,,0,0,0,karaoke,{\k19}{\k113}Saa {\k27}yu{\k89}kou
-Comment: 0,0:01:08.58,0:01:11.06,OP13-Kanji,,0,0,0,karaoke,{\k19}{\k113}さぁ{\k27}行｜ゆ{\k89}こう
-Comment: 0,0:01:08.58,0:01:11.06,OP13-Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:11.06,0:01:14.27,OP13-Karaoke,,0,0,0,karaoke,{\k25}{\k17}Ta{\k16}chi{\k34}do{\k33}ma{\k35}ru {\k31}ko{\k51}to {\k16}na{\k63}ku
-Comment: 0,0:01:11.06,0:01:14.27,OP13-Kanji,,0,0,0,karaoke,{\k25}{\k17}立｜た{\k16}ち{\k34}止｜ど{\k33}ま{\k35}る{\k31}こ{\k51}と{\k16}な{\k63}く
-Comment: 0,0:01:11.06,0:01:14.27,OP13-Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:01:14.27,0:01:19.51,OP13-Karaoke,,0,0,0,karaoke,{\k42}{\k31}Na{\k36}ga{\k31}re{\k34}ru {\k32}to{\k38}ki {\k33}ni {\k32}ma{\k24}ke{\k46}na{\k31}i {\k70}yo{\k21}u{\k23}ni
-Comment: 0,0:01:14.27,0:01:19.51,OP13-Kanji,,0,0,0,karaoke,{\k42}{\k31}流｜な{\k36}#｜が{\k31}れ{\k34}る{\k32}時｜と{\k38}#｜き{\k33}に{\k32}負｜ま{\k24}け{\k46}な{\k31}い{\k70}よ{\k21}う{\k23}に
-Comment: 0,0:01:14.27,0:01:19.51,OP13-Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:01:19.51,0:01:25.12,OP13-Karaoke,,0,0,0,karaoke,{\k22}{\k97}Nan{\k30}do {\k75}mo{\k28} {\k21}ta{\k16}chi{\k37}mu{\k35}ka{\k28}i {\k33}tsu{\k55}zu{\k28}ke{\k56}you
-Comment: 0,0:01:19.51,0:01:25.12,OP13-Kanji,,0,0,0,karaoke,{\k22}{\k97}何｜なん{\k30}度｜!ど{\k75}も{\k28}{\k21}立｜た{\k16}ち{\k37}向｜む{\k35}か{\k28}い{\k33}続｜つ{\k55}#｜づ{\k28}け{\k56}よう
-Comment: 0,0:01:19.51,0:01:25.12,OP13-Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:01:25.13,0:01:30.76,OP13-Karaoke,,0,0,0,karaoke,{\k31}{\k37}Ta{\k21}i{\k41}se{\k42}tsu {\k18}na {\k46}mo{\k16}no {\k10}u{\k42}shi{\k24}na{\k41}i{\k31}ta{\k37}ku{\k26}na{\k24}i {\k22}ka{\k54}ra
-Comment: 0,0:01:25.13,0:01:30.76,OP13-Kanji,,0,0,0,karaoke,{\k31}{\k37}大｜た{\k21}#｜い{\k41}切｜!せ{\k42}#｜つ{\k18}な{\k46}も{\k16}の{\k10}失｜<う{\k42}#｜し{\k24}#｜な{\k41}い{\k31}た{\k37}く{\k26}な{\k24}い{\k22}か{\k54}ら
-Comment: 0,0:01:25.13,0:01:30.76,OP13-Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:01:30.77,0:01:35.88,OP13-Karaoke,,0,0,0,karaoke,{\k11}{\k30}Bo{\k34}ku {\k66}no {\k33}na{\k35}ka {\k67}ni {\k35}na{\k34}ga{\k32}re{\k35}ru {\k31}ko{\k34}e {\k34}wa
-Comment: 0,0:01:30.77,0:01:35.88,OP13-Kanji,,0,0,0,karaoke,{\k11}{\k30}僕｜ぼ{\k34}#｜く{\k66}の{\k33}中｜な{\k35}#｜か{\k67}に{\k35}流｜な{\k34}#｜が{\k32}れ{\k35}る{\k31}声｜こ{\k34}#｜え{\k34}は
-Comment: 0,0:01:30.77,0:01:35.88,OP13-Translation,,0,0,0,karaoke,The voice inside of me
-Comment: 0,0:01:35.89,0:01:41.28,OP13-Karaoke,,0,0,0,karaoke,{\k29}{\k41}Zu{\k32}t{\k65}to {\k36}zu{\k36}t{\k71}to {\k29}bo{\k36}ku {\k20}wo {\k39}sa{\k34}sa{\k22}e{\k32}te{\k17}ru
-Comment: 0,0:01:35.89,0:01:41.28,OP13-Kanji,,0,0,0,karaoke,{\k29}{\k41}ず{\k32}っ{\k65}と{\k36}ず{\k36}っ{\k71}と{\k29}僕｜ぼ{\k36}#｜く{\k20}を{\k39}支｜さ{\k34}#｜さ{\k22}え{\k32}て{\k17}る
-Comment: 0,0:01:35.89,0:01:41.28,OP13-Translation,,0,0,0,karaoke,keeps sustaining me
-Comment: 0,0:01:41.28,0:01:46.41,OP13-Karaoke,,0,0,0,karaoke,{\k38}{\k26}I{\k34}TA{\k30}ZU{\k43}RA {\k24}na {\k37}a{\k30}me {\k39}ga {\k30}ja{\k37}ma {\k37}su{\k35}ru {\k26}ke{\k47}do
-Comment: 0,0:01:41.28,0:01:46.41,OP13-Kanji,,0,0,0,karaoke,{\k38}{\k26}イ{\k34}タ{\k30}ズ{\k43}ラ{\k24}な{\k37}雨｜あ{\k30}#｜め{\k39}が{\k30}邪｜じゃ{\k37}魔｜!ま{\k37}す{\k35}る{\k26}け{\k47}ど
-Comment: 0,0:01:41.28,0:01:46.41,OP13-Translation,,0,0,0,karaoke,Wicked rain will get in my way
-Comment: 0,0:01:46.42,0:01:51.35,OP13-Karaoke,,0,0,0,karaoke,{\k29}{\k33}Ni{\k34}ge{\k21}da{\k73}sa{\k45}na{\k29}i {\k68}ka{\k161}ra
-Comment: 0,0:01:46.42,0:01:51.35,OP13-Kanji,,0,0,0,karaoke,{\k29}{\k33}逃｜に{\k34}げ{\k21}出｜だ{\k73}さ{\k45}な{\k29}い{\k68}か{\k161}ら
-Comment: 0,0:01:46.42,0:01:51.35,OP13-Translation,,0,0,0,karaoke,But I won't walk away
-Comment: 0,0:01:54.45,0:01:56.81,OP13-Karaoke,,0,0,0,karaoke,{\k14}{\k112}Saa {\k28}yu{\k82}kou
-Comment: 0,0:01:54.45,0:01:56.81,OP13-Kanji,,0,0,0,karaoke,{\k14}{\k112}さぁ{\k28}行｜ゆ{\k82}こう
-Comment: 0,0:01:54.45,0:01:56.81,OP13-Translation,,0,0,0,karaoke,So let's go
-Comment: 0,0:01:56.81,0:02:00.09,OP13-Karaoke,,0,0,0,karaoke,{\k32}{\k22}Ta{\k15}chi{\k31}do{\k38}ma{\k30}ru {\k33}ko{\k52}to {\k16}na{\k59}ku
-Comment: 0,0:01:56.81,0:02:00.09,OP13-Kanji,,0,0,0,karaoke,{\k32}{\k22}立｜た{\k15}ち{\k31}止｜ど{\k38}ま{\k30}る{\k33}こ{\k52}と{\k16}な{\k59}く
-Comment: 0,0:01:56.81,0:02:00.09,OP13-Translation,,0,0,0,karaoke,Without stopping
-Comment: 0,0:02:00.09,0:02:05.38,OP13-Karaoke,,0,0,0,karaoke,{\k42}{\k34}Na{\k35}ga{\k38}re{\k25}ru {\k25}to{\k48}ki {\k30}ni {\k36}ma{\k23}ke{\k43}na{\k31}i {\k70}yo{\k21}u{\k28}ni
-Comment: 0,0:02:00.09,0:02:05.38,OP13-Kanji,,0,0,0,karaoke,{\k42}{\k34}流｜な{\k35}#｜が{\k38}れ{\k25}る{\k25}時｜と{\k48}#｜き{\k30}に{\k36}負｜ま{\k23}け{\k43}な{\k31}い{\k70}よ{\k21}う{\k28}に
-Comment: 0,0:02:00.09,0:02:05.38,OP13-Translation,,0,0,0,karaoke,Without giving up to the flow of time
-Comment: 0,0:02:05.39,0:02:11.02,OP13-Karaoke,,0,0,0,karaoke,{\k17}{\k99}Nan{\k25}do {\k79}mo{\k34} {\k15}ta{\k18}chi{\k32}mu{\k35}ka{\k29}i {\k32}tsu{\k54}zu{\k25}ke{\k69}you
-Comment: 0,0:02:05.39,0:02:11.02,OP13-Kanji,,0,0,0,karaoke,{\k17}{\k99}何｜なん{\k25}度｜!ど{\k79}も{\k34}{\k15}立｜た{\k18}ち{\k32}向｜む{\k35}か{\k29}い{\k32}続｜つ{\k54}#｜づ{\k25}け{\k69}よう
-Comment: 0,0:02:05.39,0:02:11.02,OP13-Translation,,0,0,0,karaoke,I'll keep getting back up
-Comment: 0,0:02:11.02,0:02:16.38,OP13-Karaoke,,0,0,0,karaoke,{\k33}{\k39}Ta{\k13}i{\k41}se{\k36}tsu {\k23}na {\k47}mo{\k19}no {\k7}u{\k39}shi{\k34}na{\k35}i{\k30}ta{\k36}ku{\k25}na{\k19}i {\k27}ka{\k33}ra
-Comment: 0,0:02:11.02,0:02:16.38,OP13-Kanji,,0,0,0,karaoke,{\k33}{\k39}大｜た{\k13}#｜い{\k41}切｜!せ{\k36}#｜つ{\k23}な{\k47}も{\k19}の{\k7}失｜<う{\k39}#｜し{\k34}#｜な{\k35}い{\k30}た{\k36}く{\k25}な{\k19}い{\k27}か{\k33}ら
-Comment: 0,0:02:11.02,0:02:16.38,OP13-Translation,,0,0,0,karaoke,Because I don't want to lose something precious
-Comment: 0,0:02:16.39,0:02:22.08,OP13-Karaoke,,0,0,0,karaoke,{\k26}{\k41}Shi{\k31}n{\k25}ji{\k33}ta {\k46}so{\k25}no {\k39}sa{\k31}ki {\k35}he {\k237}to...
-Comment: 0,0:02:16.39,0:02:22.08,OP13-Kanji,,0,0,0,karaoke,{\k26}{\k41}信｜し{\k31}#｜ん{\k25}じ{\k33}た{\k46}そ{\k25}の{\k39}先｜さ{\k31}#｜き{\k35}へ{\k237}と...
-Comment: 0,0:02:16.39,0:02:22.08,OP13-Translation,,0,0,0,karaoke,To the future I believe in...
-
