@@ -14,7 +14,7 @@ Style: Secondary-207+,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H7800
 Style: Flashbacks-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
 Style: FlashbacksSecondary-207+,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
 Style: Thoughts-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
-Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,27,1
+Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,100,1
 Style: Title-207+,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,360,1
 Style: Captions-PTS,Roboto,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,15,1
 Style: Credits-PW,FOT-Greco Std DB Strp,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,1.5,0,1,3.7,0,1,15,15,150,1
@@ -22,7 +22,7 @@ Style: Sign-Map,VAG Rounded Std Light,30,&H004E4B4B,&H000000FF,&H00000000,&H0000
 Style: Sign-Dad,ians font,90,&H00383734,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Sign-Independent,123Marker,225,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Sign-FineDining,FOT-Greco Std B,90,&H001E5179,&H000000FF,&H000B284C,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,15,1
-Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,27,1
+Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,100,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
@@ -54,24 +54,24 @@ Dialogue: 50,0:03:52.85,0:03:56.52,Main-207+,,0,0,0,,魯夫你在這等著。你
 Dialogue: 50,0:03:56.98,0:03:58.82,Main-207+,,0,0,0,,鱷魚肉！
 Dialogue: 50,0:03:58.82,0:03:59.45,Main-207+,,0,0,0,,– 什麼？！\N– 什麼？！
 Dialogue: 50,0:03:59.45,0:04:01.44,Main-207+,,0,0,0,,我叫你在這等著！
-Dialogue: 50,0:04:09.88,0:04:15.40,Narrator-207+,,0,0,0,,柯爾波山嚴酷的環境\N日復一日地鍛鍊著他們。
-Dialogue: 50,0:04:17.44,0:04:19.22,Narrator-207+,,0,0,0,,在山的北邊⋯⋯
-Dialogue: 50,0:04:20.31,0:04:24.31,Narrator-207+,,0,0,0,,是不確定物終點站——垃圾場，\N被社會拋棄之物的最終歸宿。
-Dialogue: 50,0:04:25.41,0:04:27.41,Narrator-207+,,0,0,0,,而就在那個地方的北邊⋯⋯
-Dialogue: 50,0:04:28.41,0:04:33.12,Narrator-207+,,0,0,0,,矗立著一座被堅固石牆\N包圍的城市。
-Dialogue: 50,0:04:37.32,0:04:41.69,Narrator-207+,,0,0,0,,大門是這座城市唯一的入口⋯⋯
-Dialogue: 50,0:04:41.69,0:04:48.03,Narrator-207+,,0,0,0,,每天兩次，來自全國各地的垃圾山\N會通過這扇門。
+Dialogue: 50,0:04:09.88,0:04:15.40,Narrator-207+,,0,0,200,,柯爾波山嚴酷的環境\N日復一日地鍛鍊著他們。
+Dialogue: 50,0:04:17.44,0:04:19.22,Narrator-207+,,0,0,100,,在山的北邊⋯⋯
+Dialogue: 50,0:04:20.31,0:04:24.31,Narrator-207+,,0,0,200,,是不確定物終點站——垃圾場，\N被社會拋棄之物的最終歸宿。
+Dialogue: 50,0:04:25.41,0:04:27.41,Narrator-207+,,0,0,100,,而就在那個地方的北邊⋯⋯
+Dialogue: 50,0:04:28.41,0:04:33.12,Narrator-207+,,0,0,200,,矗立著一座被堅固石牆\N包圍的城市。
+Dialogue: 50,0:04:37.32,0:04:41.69,Narrator-207+,,0,0,100,,大門是這座城市唯一的入口⋯⋯
+Dialogue: 50,0:04:41.69,0:04:48.03,Narrator-207+,,0,0,200,,每天兩次，來自全國各地的垃圾山\N會通過這扇門。
 Dialogue: 50,0:04:49.57,0:04:51.54,Main-207+,,0,0,0,,哦，來了！
 Dialogue: 50,0:04:51.54,0:04:52.61,Main-207+,,0,0,0,,走吧！
 Dialogue: 50,0:04:52.61,0:04:54.04,Main-207+,,0,0,0,,尋寶時間到了！
-Dialogue: 50,0:04:54.04,0:05:00.71,Narrator-207+,,0,0,0,,垃圾場的居民偶爾會\N進城出售他們撿來的物品。
+Dialogue: 50,0:04:54.04,0:05:00.71,Narrator-207+,,0,0,200,,垃圾場的居民偶爾會\N進城出售他們撿來的物品。
 Dialogue: 50,0:05:06.48,0:05:08.49,Main-207+,,0,0,0,,喂，等等！包裹裡是什麼？
 Dialogue: 50,0:05:10.80,0:05:13.76,Main-207+,,0,0,0,,是鱷魚皮。我拿來賣的。
 Dialogue: 50,0:05:13.76,0:05:14.39,Main-207+,,0,0,0,,鱷魚？
 Dialogue: 50,0:05:17.53,0:05:18.83,Main-207+,,0,0,0,,請⋯⋯請過去吧！
-Dialogue: 50,0:05:21.50,0:05:25.90,Narrator-207+,,0,0,0,,穿過大門是一條林蔭大道，\N行人一覽無遺，
-Dialogue: 50,0:05:25.90,0:05:27.61,Narrator-207+,,0,0,0,,再往前便是邊緣城鎮。
-Dialogue: 50,0:05:33.81,0:05:38.72,Narrator-207+,,0,0,0,,邊緣城鎮：一個吸引城中\N暴徒和黑幫的地方。
+Dialogue: 50,0:05:21.50,0:05:25.90,Narrator-207+,,0,0,200,,穿過大門是一條林蔭大道，\N行人一覽無遺，
+Dialogue: 50,0:05:25.90,0:05:27.61,Narrator-207+,,0,0,100,,再往前便是邊緣城鎮。
+Dialogue: 50,0:05:33.81,0:05:38.72,Narrator-207+,,0,0,200,,邊緣城鎮：一個吸引城中\N暴徒和黑幫的地方。
 Dialogue: 50,0:05:44.89,0:05:48.63,Main-207+,,0,0,0,,站住！那個包裹\N我們收下了！
 Dialogue: 50,0:05:52.00,0:05:54.87,Main-207+,,0,0,0,,喂，啞巴了嗎？！
 Dialogue: 50,0:05:54.87,0:05:56.37,Main-207+,,0,0,0,,閉嘴，混蛋。
@@ -82,12 +82,12 @@ Dialogue: 50,0:06:06.51,0:06:08.55,Main-207+,,0,0,0,,看清楚對手再說！
 Dialogue: 50,0:06:10.68,0:06:12.38,Main-207+,,0,0,0,,這些傢伙⋯⋯他們是⋯⋯
 Dialogue: 50,0:06:13.39,0:06:14.55,Main-207+,,0,0,0,,上吧！
 Dialogue: 50,0:06:14.55,0:06:15.89,Main-207+,,0,0,0,,– 好！\N– 好！
-Dialogue: 50,0:06:33.24,0:06:38.21,Narrator-207+,,0,0,0,,在這座圍城的中心，\N矗立著另一面高聳的石牆。
-Dialogue: 50,0:06:38.21,0:06:44.15,Narrator-207+,,0,0,0,,牆內是上城區，\N王族和貴族居住的高級住宅區。
-Dialogue: 50,0:06:47.32,0:06:50.19,Narrator-207+,,0,0,0,,這個國家叫做哥亞王國。
-Dialogue: 50,0:06:50.19,0:06:55.43,Narrator-207+,,0,0,0,,街道一塵不染，據說是\N東海最美麗的國家。
-Dialogue: 53,0:06:58.56,0:07:00.87,Narrator-207+,,0,0,0,,魯夫出生的風車村⋯⋯
-Dialogue: 53,0:07:01.30,0:07:05.97,Narrator-207+,,0,0,0,,是一個被遺忘的偏僻小鎮，\N雖然在名義上屬於王國的一部分。
+Dialogue: 50,0:06:33.24,0:06:38.21,Narrator-207+,,0,0,200,,在這座圍城的中心，\N矗立著另一面高聳的石牆。
+Dialogue: 50,0:06:38.21,0:06:44.15,Narrator-207+,,0,0,200,,牆內是上城區，\N王族和貴族居住的高級住宅區。
+Dialogue: 50,0:06:47.32,0:06:50.19,Narrator-207+,,0,0,100,,這個國家叫做哥亞王國。
+Dialogue: 50,0:06:50.19,0:06:55.43,Narrator-207+,,0,0,200,,街道一塵不染，據說是\N東海最美麗的國家。
+Dialogue: 53,0:06:58.56,0:07:00.87,Narrator-207+,,0,0,100,,魯夫出生的風車村⋯⋯
+Dialogue: 53,0:07:01.30,0:07:05.97,Narrator-207+,,0,0,200,,是一個被遺忘的偏僻小鎮，\N雖然在名義上屬於王國的一部分。
 Dialogue: 50,0:07:15.51,0:07:18.22,Main-207+,,0,0,0,,三碗拉麵來了！\N讓你們久等了！
 Dialogue: 50,0:07:18.52,0:07:20.09,Main-207+,,0,0,0,,請慢用！
 Dialogue: 50,0:07:21.99,0:07:23.82,Main-207+,,0,0,0,,這就是拉麵？！
@@ -466,8 +466,8 @@ Dialogue: 50,0:34:01.45,0:34:04.19,Main-207+,,0,0,0,,這很嚴重！我們得告
 Dialogue: 50,0:34:04.19,0:34:06.16,Main-207+,,0,0,0,,我就{\i1}知道{\i0}他是壞人！
 Dialogue: 50,0:34:06.16,0:34:08.33,Main-207+,,0,0,0,,我說了小聲點。
 Dialogue: 50,0:34:08.33,0:34:09.89,Main-207+,,0,0,0,,把他們壓住。
-Dialogue: 50,0:34:06.73,0:34:09.89,Secondary-207+,,0,0,0,,{\an8}你們這些混蛋在幹什麼？！
-Dialogue: 50,0:34:09.89,0:34:13.67,Secondary-207+,,0,0,0,,{\an8}喂！放開，混蛋！放開我們！
+Dialogue: 50,0:34:06.73,0:34:09.89,Secondary-207+,,0,0,100,,{\an8}你們這些混蛋在幹什麼？！
+Dialogue: 50,0:34:09.89,0:34:13.67,Secondary-207+,,0,0,100,,{\an8}喂！放開，混蛋！放開我們！
 Dialogue: 50,0:34:11.30,0:34:13.66,Main-207+,,0,0,0,,我不是幕後主使。
 Dialogue: 50,0:34:16.00,0:34:21.17,Main-207+,,0,0,0,,你們這兩天搬的箱子裡\N裝的是油和炸藥。
 Dialogue: 50,0:34:21.17,0:34:25.91,Main-207+,,0,0,0,,即將發生的大火\N不會有人能逃出去。
@@ -577,8 +577,8 @@ Dialogue: 50,0:41:57.39,0:42:01.74,Main-207+,,0,0,0,,我理解你的感受。\N�
 Dialogue: 50,0:42:02.57,0:42:08.54,Main-207+,,0,0,0,,然而，我仍然沒有\N改變這個國家的力量。
 Dialogue: 50,0:42:08.54,0:42:12.81,Main-207+,,0,0,0,,先生，你竟然願意聽我說？
 Dialogue: 50,0:42:12.81,0:42:15.15,Main-207+,,0,0,0,,是的，而且我永遠不會忘記。
-Dialogue: 2,0:02:58.59,0:03:06.03,Title-207+,,0,0,0,,{\an8\blur0.5\fad(1300,1100)\c&H000000&\1a&HFF&\t(1255,1300,\1a&H00&)\t(6340,6385,\1a&HFF&)}兄弟的誓言
-Dialogue: 3,0:02:58.59,0:03:06.03,Title-207+,,0,0,0,,{\an8\bord0\blur0.5\fad(1300,1100)\c&HF9FAF9&\4a&HFF&}兄弟的誓言
+Dialogue: 2,0:02:58.59,0:03:06.03,Title-207+,,0,0,100,,{\an8\blur0.5\fad(1300,1100)\c&H000000&\1a&HFF&\t(1255,1300,\1a&H00&)\t(6340,6385,\1a&HFF&)}兄弟的誓言
+Dialogue: 3,0:02:58.59,0:03:06.03,Title-207+,,0,0,100,,{\an8\bord0\blur0.5\fad(1300,1100)\c&HF9FAF9&\4a&HFF&}兄弟的誓言
 Dialogue: 0,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H40&\an7\blur1.5\c&HF9EFE2&\pos(865.5,267)\p1}m -87 -85.5 l 96 -85.5 96 13.5 -87 13.5
 Dialogue: 1,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H40&\blur0.9\fs52.5\pos(868.5,262.5)}Palace
 Dialogue: 0,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{\frz0\alpha&H40&\an7\blur1.5\bord0\shad0\fscx100\fscy100\pos(1642.5,291)\p1\c&HF9EFE2&}m -93 -112.5 l 96 -112.5 96 3 -93 3
@@ -4167,8 +4167,8 @@ Dialogue: 0,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{\frz0\alpha&H00&\an7\blur1.5
 Dialogue: 1,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{\fscx87.57\fscy87.57\frz0\alpha&H00&\blur0.9\fs52.5\pos(1228.47,938.04)}Gray \NTerminal
 Dialogue: 0,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{\frz0\alpha&H00&\an7\blur1.5\bord0\shad0\fscx86.77\fscy86.77\pos(1472.475,945.345)\p1\c&HFDFDFF&}m -124.5 -93 l 97.5 -93 97.5 21 -124.5 21
 Dialogue: 1,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{\fscx86.77\fscy86.77\frz0\alpha&H00&\blur0.9\fs52.5\pos(1458.465,960.06)}Windmill\NVillage
-Dialogue: 0,0:07:09.24,0:07:12.31,Captions-PTS,,0,0,250,,{\an8\blur0.5\fad(500,0)\bord2.5\fscx173\fscy170\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}中央城鎮
-Dialogue: 1,0:07:09.24,0:07:12.31,Captions-PTS,,0,0,250,,{\an8\blur0.5\fad(500,0)\bord0\fscx173\fscy170\4a&HFF&}中央城鎮
+Dialogue: 0,0:07:09.24,0:07:12.31,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(500,0)\bord2.5\fscx173\fscy170\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}中央城鎮
+Dialogue: 1,0:07:09.24,0:07:12.31,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(500,0)\bord0\fscx173\fscy170\4a&HFF&}中央城鎮
 Dialogue: 0,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\pos(926,440)\blur0.8\frz-0.05\fry-0.2\frx-2.14\fax0.02\c&H182736&\3c&H182736&}Fine Dining                                     Eiichiro
 Dialogue: 1,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\pos(926,440)\blur0.8\frz-0.05\fry-0.2\frx-2.14\fax0.02\bord0\c&H295A7D&\4a&HFF&\clip(131,360,1736,362)}Fine Dining                                     Eiichiro
 Dialogue: 1,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\pos(926,440)\blur0.8\frz-0.05\fry-0.2\frx-2.14\fax0.02\bord0\c&H295A7D&\4a&HFF&\clip(131,362,1736,364)}Fine Dining                                     Eiichiro
@@ -4390,110 +4390,110 @@ Dialogue: 0,0:08:58.18,0:08:58.22,Sign-Independent,,0,0,0,,{\an3\pos(988.95,789.
 Dialogue: 0,0:08:58.22,0:08:58.25,Sign-Independent,,0,0,0,,{\an3\pos(988.92,789.52)\blur1\fscx46.28\fscy46.28\frz351.8\fax-0.2\fnAbscissa\fsp2\c&H0A0C0D&}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:58.25,0:08:58.32,Sign-Independent,,0,0,0,,{\an3\pos(988.89,789.33)\blur1\fscx46.26\fscy46.26\frz351.8\fax-0.2\fnAbscissa\fsp2\c&H0A0C0D&}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:58.32,0:08:58.35,Sign-Independent,,0,0,0,,{\an3\pos(988.9,789.27)\blur1\fscx46.26\fscy46.26\frz351.8\fax-0.2\fnAbscissa\fsp2\c&H0A0C0D&}PUT IT ON MY \NTREASURE TAB \N- LUFFY
-Dialogue: 0,0:10:15.23,0:10:15.26,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&}天龍人來訪
-Dialogue: 0,0:10:15.26,0:10:15.29,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.29,0:10:15.33,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.33,0:10:15.36,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.36,0:10:15.39,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.39,0:10:15.43,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.43,0:10:15.46,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.46,0:10:15.49,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.49,0:10:15.53,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.53,0:10:15.56,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.56,0:10:15.59,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.59,0:10:15.63,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.63,0:10:15.66,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.66,0:10:15.69,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.69,0:10:15.73,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.73,0:10:15.76,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.76,0:10:15.79,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.79,0:10:15.83,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.83,0:10:15.86,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.86,0:10:15.89,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.89,0:10:15.93,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.93,0:10:15.96,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.96,0:10:15.99,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:15.99,0:10:16.03,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.03,0:10:16.06,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.06,0:10:16.09,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.09,0:10:16.13,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.13,0:10:16.16,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.16,0:10:16.19,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.19,0:10:16.23,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.23,0:10:16.26,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.26,0:10:16.29,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.29,0:10:16.33,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.33,0:10:16.36,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.36,0:10:16.39,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.39,0:10:16.43,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.43,0:10:16.46,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.46,0:10:16.50,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.50,0:10:16.53,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.53,0:10:16.56,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.56,0:10:16.60,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.60,0:10:16.63,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.63,0:10:16.66,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.66,0:10:16.70,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.70,0:10:16.73,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.73,0:10:16.76,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.76,0:10:16.80,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.80,0:10:16.83,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.83,0:10:16.86,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.86,0:10:16.90,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.90,0:10:16.93,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.93,0:10:16.96,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:16.96,0:10:17.00,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.00,0:10:17.03,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.03,0:10:17.06,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.06,0:10:17.10,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.10,0:10:17.13,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.13,0:10:17.16,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.16,0:10:17.20,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.20,0:10:17.23,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.23,0:10:17.26,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.26,0:10:17.30,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.30,0:10:17.33,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.33,0:10:17.36,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.36,0:10:17.40,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.40,0:10:17.43,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.43,0:10:17.46,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.46,0:10:17.50,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.50,0:10:17.53,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.53,0:10:17.56,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.56,0:10:17.60,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.60,0:10:17.63,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.63,0:10:17.66,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.66,0:10:17.70,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.70,0:10:17.73,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.73,0:10:17.76,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.76,0:10:17.80,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.80,0:10:17.83,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.83,0:10:17.86,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.86,0:10:17.90,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.90,0:10:17.93,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.93,0:10:17.96,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:17.96,0:10:18.00,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.00,0:10:18.03,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.03,0:10:18.06,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.06,0:10:18.10,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.10,0:10:18.13,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.13,0:10:18.16,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.16,0:10:18.20,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.20,0:10:18.23,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.23,0:10:18.26,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.26,0:10:18.30,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.30,0:10:18.33,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.33,0:10:18.36,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.36,0:10:18.43,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.43,0:10:18.46,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.46,0:10:18.50,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.50,0:10:18.53,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.53,0:10:18.56,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.56,0:10:18.60,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.60,0:10:18.66,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.66,0:10:18.80,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.80,0:10:18.86,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
-Dialogue: 0,0:10:18.86,0:10:21.03,Captions-PTS,,0,0,0,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.23,0:10:15.26,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&}天龍人來訪
+Dialogue: 0,0:10:15.26,0:10:15.29,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.29,0:10:15.33,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.33,0:10:15.36,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.36,0:10:15.39,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.39,0:10:15.43,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.43,0:10:15.46,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.46,0:10:15.49,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.49,0:10:15.53,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.53,0:10:15.56,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.56,0:10:15.59,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.59,0:10:15.63,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.63,0:10:15.66,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.66,0:10:15.69,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.69,0:10:15.73,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.73,0:10:15.76,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.76,0:10:15.79,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.79,0:10:15.83,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.83,0:10:15.86,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.86,0:10:15.89,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.89,0:10:15.93,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.93,0:10:15.96,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.96,0:10:15.99,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:15.99,0:10:16.03,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.03,0:10:16.06,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.06,0:10:16.09,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.09,0:10:16.13,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.13,0:10:16.16,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.16,0:10:16.19,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.19,0:10:16.23,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.23,0:10:16.26,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.26,0:10:16.29,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.29,0:10:16.33,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.33,0:10:16.36,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.36,0:10:16.39,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.39,0:10:16.43,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.43,0:10:16.46,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.46,0:10:16.50,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.50,0:10:16.53,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.53,0:10:16.56,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.56,0:10:16.60,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.60,0:10:16.63,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.63,0:10:16.66,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.66,0:10:16.70,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.70,0:10:16.73,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.73,0:10:16.76,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.76,0:10:16.80,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.80,0:10:16.83,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.83,0:10:16.86,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.86,0:10:16.90,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.90,0:10:16.93,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.93,0:10:16.96,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:16.96,0:10:17.00,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.00,0:10:17.03,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.03,0:10:17.06,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.06,0:10:17.10,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.10,0:10:17.13,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.13,0:10:17.16,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.16,0:10:17.20,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.20,0:10:17.23,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.23,0:10:17.26,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.26,0:10:17.30,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.30,0:10:17.33,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.33,0:10:17.36,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.36,0:10:17.40,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.40,0:10:17.43,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.43,0:10:17.46,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.46,0:10:17.50,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.50,0:10:17.53,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.53,0:10:17.56,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.56,0:10:17.60,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.60,0:10:17.63,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.63,0:10:17.66,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.66,0:10:17.70,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.70,0:10:17.73,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.73,0:10:17.76,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.76,0:10:17.80,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.80,0:10:17.83,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.83,0:10:17.86,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.86,0:10:17.90,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.90,0:10:17.93,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.93,0:10:17.96,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:17.96,0:10:18.00,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.00,0:10:18.03,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.03,0:10:18.06,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.06,0:10:18.10,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.10,0:10:18.13,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.13,0:10:18.16,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.16,0:10:18.20,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.20,0:10:18.23,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.23,0:10:18.26,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.26,0:10:18.30,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.30,0:10:18.33,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.33,0:10:18.36,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.36,0:10:18.43,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.43,0:10:18.46,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.46,0:10:18.50,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.50,0:10:18.53,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.53,0:10:18.56,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.56,0:10:18.60,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.60,0:10:18.66,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.66,0:10:18.80,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.80,0:10:18.86,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
+Dialogue: 0,0:10:18.86,0:10:21.03,Captions-PTS,,0,0,100,,{\an8\blur0.9\bord0\c&H3A276B&\frx8}天龍人來訪
 Dialogue: 0,0:12:31.46,0:12:31.50,Sign-Dad,,0,0,0,,{\blur0.8\frz11.46\fax0.21\pos(1234.665,1094.34)}Dad
 Dialogue: 0,0:12:31.50,0:12:31.53,Sign-Dad,,0,0,0,,{\blur0.8\frz11.46\fax0.21\pos(1204.665,1032.33)}Dad
 Dialogue: 0,0:12:31.53,0:12:31.56,Sign-Dad,,0,0,0,,{\blur0.8\frz11.46\fax0.21\pos(1179.645,969.99)}Dad
@@ -4526,12 +4526,12 @@ Dialogue: 0,0:12:34.13,0:12:34.17,Sign-Dad,,0,0,0,,{\blur0.8\frz11.46\fax0.21\po
 Dialogue: 0,0:12:34.17,0:12:34.70,Sign-Dad,,0,0,0,,{\blur0.8\frz11.46\fax0.21\pos(852.33,155.835)}Dad
 Dialogue: 0,0:12:49.71,0:12:52.65,Sign-Dad,,0,0,0,,{\fad(0,940)\fs60\blur0.8\fax0.6\frz357.5\pos(1209,261)\fscx116\fscy108}Dad
 Dialogue: 0,0:19:16.20,0:19:18.07,Sign-Independent,,0,0,0,,{\pos(919.5,718.5)\blur1\fscx49\fscy28\fnExpletive Deleted\fsp5\c&H020314&}We're going\N independent.
-Dialogue: 0,0:35:16.49,0:35:20.16,Captions-PTS,,0,0,260,,{\an8\blur0.4\fad(500,0)\fscx146\fscy156\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}邊緣城鎮
-Dialogue: 1,0:35:16.49,0:35:20.16,Captions-PTS,,0,0,260,,{\an8\bord0\blur0.4\fad(500,0)\c&HFDFDFE&\fscx146\fscy156\4a&HFF&}邊緣城鎮
-Dialogue: 0,0:35:57.13,0:35:59.90,Captions-PTS,,0,0,250,,{\an8\blur0.4\fad(500,0)\bord2.5\fscx173\fscy170\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}中央城鎮
-Dialogue: 1,0:35:57.13,0:35:59.90,Captions-PTS,,0,0,250,,{\an8\blur0.4\fad(500,0)\bord0\c&HFEFFFD&\fscx173\fscy170\4a&HFF&}中央城鎮
-Dialogue: 0,0:36:07.74,0:36:10.38,Captions-PTS,,0,0,260,,{\an8\blur0.4\fad(500,0)\bord2.5\fscx150\fscy158\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}大門，邊緣城鎮
-Dialogue: 1,0:36:07.74,0:36:10.38,Captions-PTS,,0,0,260,,{\an8\blur0.4\fad(500,0)\bord0\c&HFEFEFE&\fscx150\fscy158\4a&HFF&}大門，邊緣城鎮
+Dialogue: 0,0:35:16.49,0:35:20.16,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\fscx146\fscy156\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}邊緣城鎮
+Dialogue: 1,0:35:16.49,0:35:20.16,Captions-PTS,,0,0,100,,{\an8\bord0\blur0.4\fad(500,0)\c&HFDFDFE&\fscx146\fscy156\4a&HFF&}邊緣城鎮
+Dialogue: 0,0:35:57.13,0:35:59.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\bord2.5\fscx173\fscy170\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}中央城鎮
+Dialogue: 1,0:35:57.13,0:35:59.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\bord0\c&HFEFFFD&\fscx173\fscy170\4a&HFF&}中央城鎮
+Dialogue: 0,0:36:07.74,0:36:10.38,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\bord2.5\fscx150\fscy158\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}大門，邊緣城鎮
+Dialogue: 1,0:36:07.74,0:36:10.38,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(500,0)\bord0\c&HFEFEFE&\fscx150\fscy158\4a&HFF&}大門，邊緣城鎮
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hBastia\N\h\hPhosCity

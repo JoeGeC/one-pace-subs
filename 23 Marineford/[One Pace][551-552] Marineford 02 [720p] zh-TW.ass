@@ -22,7 +22,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Ace-furigana,Cabold Comic,27.5,&H000C3AE8,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 Style: Title-furigana,Agency FB,31.5,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,1,0,1,1,0,2,10,10,10,1
 Style: Credits-furigana,FOT-Greco Std B,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,1.1,0,7,10,10,10,1
-Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,18,1
+Style: Note-furigana,Impress BT,19,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,0.75,0.75,8,120,120,100,1
 Style: Captions-furigana,Roboto,19.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
 Style: Thoughts-furigana,Impress BT,27.5,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,0.875,0.75,2,120,120,18,1
 Style: Flashbacks-furigana,Impress BT,27.5,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,0.875,0.75,2,120,120,18,1
@@ -33,7 +33,7 @@ Style: Secondary,Impress BT,55,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0
 Style: Flashbacks,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,1.75,1.5,2,120,120,18,1
 Style: Captions,Roboto,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,18,1
+Style: Note,Impress BT,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,8,120,120,100,1
 Style: Credits,FOT-Greco Std B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,2.2,0,7,10,10,10,1
 Style: Title,Agency FB,63,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,1,0,1,2,0,2,10,10,10,1
 Style: Kanji-furigana,Duality,30,&H00E24B33,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,80,1
@@ -66,7 +66,7 @@ Dialogue: 0,0:02:02.30,0:02:06.10,Credits,,0,0,0,,{\fad(600,200)\pos(75,518.333)
 Dialogue: 0,0:02:06.91,0:02:09.53,Credits,,0,0,0,,{\fad(600,200)\pos(75,518.333)}Soundtracking\N{\fs34}Halee
 Dialogue: 0,0:02:12.41,0:02:15.63,Credits,,0,0,0,,{\fad(600,200)\pos(75,518.333)}Translation\N{\fs34}Yibis
 Dialogue: 0,0:02:17.48,0:02:20.40,Credits,,0,0,0,,{\fad(600,200)\pos(75,518.333)}Raw Provider\N{\fs34}Cloaknsmoke
-Dialogue: 0,0:03:51.50,0:03:56.30,Title,,0,0,230,,{\an8\fad(1000,1000)}艾斯與白鬍子
+Dialogue: 0,0:03:51.50,0:03:56.30,Title,,0,0,100,,{\an8\fad(1000,1000)}艾斯與白鬍子
 Dialogue: 0,0:04:04.56,0:04:07.86,Main,,0,0,0,,原來他不是魯夫的親兄弟？
 Dialogue: 0,0:04:14.09,0:04:16.20,Main,,0,0,0,,羅傑的……
 Dialogue: 0,0:04:16.20,0:04:18.20,Main,,0,0,0,,兒子？
@@ -387,11 +387,11 @@ Dialogue: 0,0:33:07.20,0:33:10.37,Main,,0,0,0,,擁有毀滅世界的力量！
 Dialogue: 0,0:33:19.54,0:33:21.31,Main,,0,0,0,,開始了……
 Dialogue: 0,0:33:21.31,0:33:22.74,Main,,0,0,0,,戰爭！
 Dialogue: 0,0:33:25.85,0:33:27.72,Main,,0,0,0,,走吧！
-Dialogue: 0,0:33:37.29,0:33:43.30,Narrator,,0,0,0,,白鬍子和他從新世界率領的四十七艘海賊船發動進攻。
-Dialogue: 0,0:33:43.30,0:33:46.17,Narrator,,0,0,0,,迎戰他們的是世界政府\N最強大的兩股力量：
-Dialogue: 0,0:33:46.17,0:33:49.11,Narrator,,0,0,0,,海軍本部與\N王下七武海。
-Dialogue: 0,0:33:50.04,0:33:53.35,Narrator,,0,0,0,,無論誰勝……無論誰敗……
-Dialogue: 0,0:33:53.35,0:33:54.88,Narrator,,0,0,0,,時代都將改變。
+Dialogue: 0,0:33:37.29,0:33:43.30,Narrator,,0,0,100,,白鬍子和他從新世界率領的四十七艘海賊船發動進攻。
+Dialogue: 0,0:33:43.30,0:33:46.17,Narrator,,0,0,200,,迎戰他們的是世界政府\N最強大的兩股力量：
+Dialogue: 0,0:33:46.17,0:33:49.11,Narrator,,0,0,200,,海軍本部與\N王下七武海。
+Dialogue: 0,0:33:50.04,0:33:53.35,Narrator,,0,0,100,,無論誰勝……無論誰敗……
+Dialogue: 0,0:33:53.35,0:33:54.88,Narrator,,0,0,100,,時代都將改變。
 Dialogue: 0,0:01:45.46,0:01:46.86,Karaoke,,0,0,0,fx,{\an5\pos(357,40)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,0,\bord1\1a&HFF&\blur1)\fad(0,800)}
 Dialogue: 0,0:01:45.46,0:01:46.86,Karaoke,,0,0,0,fx,{\an5\pos(357,40)\t(0,33,\3c&HFFFFFF&\bord7\blur3)\t(33,100,\bord1\1a&HFF&\blur1)\fad(0,800)}
 Dialogue: 1,0:01:44.74,0:01:45.56,Karaoke,,0,0,0,fx,{\an5\move(396,-34,372,40,0,500)\fad(700,0)\t(0,400,\1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)\fscx100\fscy100)}A

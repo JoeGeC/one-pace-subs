@@ -15,18 +15,18 @@ Style: Flashbacks-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H780
 Style: Thoughts-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
 Style: Captions-PTS,Roboto,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,15,15,15,1
 Style: Title-207+,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,360,1
-Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,27,1
+Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,100,1
 Style: Credits-PW,FOT-Greco Std DB Strp,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,1.5,0,1,3.7,0,1,15,15,150,1
-Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,27,1
+Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3,3,8,300,300,100,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 50,0:02:34.18,0:02:36.70,Narrator-207+,,0,0,0,,白鬍子的時代結束了。
-Dialogue: 50,0:02:36.70,0:02:41.11,Narrator-207+,,0,0,0,,熊熊的野心驅使著\N世界各地的海賊採取行動。
-Dialogue: 50,0:02:41.11,0:02:45.01,Narrator-207+,,0,0,0,,然後是特拉法爾加·羅⋯⋯
+Dialogue: 50,0:02:34.18,0:02:36.70,Narrator-207+,,0,0,100,,白鬍子的時代結束了。
+Dialogue: 50,0:02:36.70,0:02:41.11,Narrator-207+,,0,0,200,,熊熊的野心驅使著\N世界各地的海賊採取行動。
+Dialogue: 50,0:02:41.11,0:02:45.01,Narrator-207+,,0,0,100,,然後是特拉法爾加·羅⋯⋯
 Dialogue: 50,0:02:45.01,0:02:47.63,Main-207+,,0,0,0,,什麼？還不出發嗎？
 Dialogue: 50,0:02:47.63,0:02:49.92,Main-207+,,0,0,0,,我們趕快去新世界吧！
 Dialogue: 50,0:02:50.82,0:02:53.97,Main-207+,,0,0,8,,我說了，要等待合適的時機。
@@ -237,7 +237,7 @@ Dialogue: 50,0:15:33.18,0:15:36.31,Main-207+,,0,0,0,,魯夫！
 Dialogue: 50,0:15:36.31,0:15:37.72,Main-207+,,0,0,0,,我⋯⋯
 Dialogue: 50,0:15:37.72,0:15:39.17,Main-207+,,0,0,0,,一定會⋯⋯
 Dialogue: 50,0:15:39.17,0:15:42.47,Main-207+,,0,0,0,,{\fad(0,300)}變得更強！
-Dialogue: 50,0:15:45.00,0:15:48.36,Narrator-207+,,0,0,0,,偉大航道上的\N卡瑪巴卡王國⋯⋯
+Dialogue: 50,0:15:45.00,0:15:48.36,Narrator-207+,,0,0,200,,偉大航道上的\N卡瑪巴卡王國⋯⋯
 Dialogue: 50,0:15:48.36,0:15:52.16,Main-207+,,0,0,0,,你～到底在那篇文章裡看到了什麼？
 Dialogue: 50,0:15:52.24,0:15:53.74,Flashbacks-207+,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,245,1,\3c&H525252&\4c&H000000&)\t(1246,1500,1,\3c&HFFFFFF&\4c&HFFFFFF&)}我收到了，聽得清清楚楚⋯⋯
 Dialogue: 50,0:15:53.80,0:15:56.37,Main-207+,,0,0,0,,你突然就冷靜下來了⋯⋯
@@ -352,7 +352,7 @@ Dialogue: 50,0:21:35.01,0:21:37.01,Main-207+,,0,0,0,,別手下留情啊，寶貝
 Dialogue: 50,0:21:37.42,0:21:38.38,Main-207+,,0,0,0,,我來了！
 Dialogue: 50,0:21:40.46,0:21:42.43,Main-207+,,0,0,0,,我絕對會⋯⋯
 Dialogue: 50,0:21:42.43,0:21:43.82,Main-207+,,0,0,0,,贏！
-Dialogue: 50,0:21:48.60,0:21:52.62,Narrator-207+,,0,0,0,,小型空島威乂席亞上⋯⋯
+Dialogue: 50,0:21:48.60,0:21:52.62,Narrator-207+,,0,0,100,,小型空島威乂席亞上⋯⋯
 Dialogue: 50,0:21:53.21,0:21:54.76,Main-207+,,0,0,0,,她偷走的研究資料⋯⋯
 Dialogue: 50,0:21:54.76,0:21:56.05,Main-207+,,0,0,0,,⋯⋯天氣球⋯⋯
 Dialogue: 50,0:21:56.05,0:21:58.20,Main-207+,,0,0,0,,⋯⋯還有她的人質哈雷達斯先生！
@@ -430,7 +430,7 @@ Dialogue: 50,0:25:55.60,0:25:58.75,Main-207+,,0,0,0,,喂喂，別說\N這麼危�
 Dialogue: 50,0:25:58.75,0:25:59.77,Main-207+,,0,0,0,,別笑了！
 Dialogue: 50,0:26:12.98,0:26:14.71,Flashbacks-207+,,0,0,0,,娜美！
 Dialogue: 50,0:26:15.22,0:26:18.19,Flashbacks-207+,,0,0,0,,你是我們的夥伴！
-Dialogue: 50,0:26:42.66,0:26:47.52,Narrator-207+,,0,0,0,,這裡是偉大航道上\N劍之山島的阿姆索隆王國。
+Dialogue: 50,0:26:42.66,0:26:47.52,Narrator-207+,,0,0,200,,這裡是偉大航道上\N劍之山島的阿姆索隆王國。
 Dialogue: 50,0:26:47.52,0:26:50.30,Main-207+,,0,0,0,,快來看！快來看！
 Dialogue: 50,0:26:53.52,0:26:57.49,Main-207+,,0,0,0,,這個生物有著\N真正骷髏的外表！
 Dialogue: 50,0:26:57.49,0:27:00.33,Main-207+,,0,0,0,,更厲害的是，他的手臂只有一個關節！
@@ -490,7 +490,7 @@ Dialogue: 50,0:29:58.69,0:30:00.58,Main-207+,,0,0,0,,這節奏是什麼？
 Dialogue: 50,0:30:00.58,0:30:02.32,Main-207+,,0,0,0,,好觸動靈魂！
 Dialogue: 50,0:30:03.95,0:30:07.18,Main-207+,,0,0,0,,請聆聽我的最新單曲，
 Dialogue: 50,0:30:07.18,0:30:09.75,Main-207+,,0,0,0,,「骨頭狂想曲」！
-Dialogue: 50,0:30:16.40,0:30:21.16,Narrator-207+,,0,0,0,,與此同時，東海\N巨大橋梁的正下方⋯⋯
+Dialogue: 50,0:30:16.40,0:30:21.16,Narrator-207+,,0,0,200,,與此同時，東海\N巨大橋梁的正下方⋯⋯
 Dialogue: 50,0:30:22.14,0:30:25.02,Main-207+,,0,0,0,,怎麼突然改變主意了？
 Dialogue: 50,0:30:25.02,0:30:27.34,Main-207+,,0,0,0,,你要跟我們去巴爾迪哥嗎？
 Dialogue: 50,0:30:28.04,0:30:30.05,Main-207+,,0,0,0,,如果是的話，我們非常感激。
@@ -534,8 +534,8 @@ Dialogue: 50,0:33:02.32,0:33:08.49,Thoughts-207+,,0,0,0,,魯夫，如果我去�
 Dialogue: 50,0:33:08.49,0:33:11.67,Thoughts-207+,,0,0,0,,不知道能不能變強一點？
 Dialogue: 50,0:33:13.52,0:33:16.66,Thoughts-207+,,0,0,0,,為了別人\N而想要變強⋯⋯
 Dialogue: 50,0:33:17.70,0:33:19.75,Thoughts-207+,,0,0,0,,我以前從來沒想過。
-Dialogue: 50,0:33:24.32,0:33:27.85,Narrator-207+,,0,0,0,,現在回到偉大航道上的\N機械島⋯⋯
-Dialogue: 50,0:33:27.85,0:33:31.02,Narrator-207+,,0,0,0,,未來國度巴爾吉摩爾⋯⋯
+Dialogue: 50,0:33:24.32,0:33:27.85,Narrator-207+,,0,0,200,,現在回到偉大航道上的\N機械島⋯⋯
+Dialogue: 50,0:33:27.85,0:33:31.02,Narrator-207+,,0,0,100,,未來國度巴爾吉摩爾⋯⋯
 Dialogue: 50,0:33:31.50,0:33:35.56,Main-207+,,0,0,0,,{\i1}我們調查了乂乂乂克博士的\N實驗室被破壞一事⋯⋯
 Dialogue: 50,0:33:36.20,0:33:39.06,Main-207+,,0,0,0,,{\i1}但仍然沒有找到犯人。
 Dialogue: 50,0:33:39.30,0:33:40.83,Main-207+,,0,0,0,,喂！快一點！
@@ -601,10 +601,10 @@ Dialogue: 50,0:37:37.34,0:37:39.27,Main-207+,,0,0,0,,好燙好燙好燙好燙⋯
 Dialogue: 50,0:37:40.84,0:37:41.54,Main-207+,,0,0,0,,那是什麼？！
 Dialogue: 50,0:37:42.64,0:37:44.41,Main-207+,,0,0,0,,怪物嗎？！小心！
 Dialogue: 50,0:37:57.10,0:38:02.89,Thoughts-207+,,0,0,0,,所以魯夫，讓我們一起\N克服新世界的驚濤駭浪吧！
-Dialogue: 50,0:38:06.47,0:38:09.69,Narrator-207+,,0,0,0,,偉大航道上的這個事件\N後來被永遠稱為：
-Dialogue: 50,0:38:09.69,0:38:13.93,Narrator-207+,,0,0,0,,{\q2}「巴爾吉摩爾烈焰靈獸傳說」。
-Dialogue: 50,0:38:16.50,0:38:17.56,Narrator-207+,,0,0,0,,與此同時⋯⋯
-Dialogue: 50,0:38:18.28,0:38:21.08,Narrator-207+,,0,0,0,,在偉大航道上的波音列島⋯⋯
+Dialogue: 50,0:38:06.47,0:38:09.69,Narrator-207+,,0,0,200,,偉大航道上的這個事件\N後來被永遠稱為：
+Dialogue: 50,0:38:09.69,0:38:13.93,Narrator-207+,,0,0,100,,{\q2}「巴爾吉摩爾烈焰靈獸傳說」。
+Dialogue: 50,0:38:16.50,0:38:17.56,Narrator-207+,,0,0,100,,與此同時⋯⋯
+Dialogue: 50,0:38:18.28,0:38:21.08,Narrator-207+,,0,0,100,,在偉大航道上的波音列島⋯⋯
 Dialogue: 50,0:38:24.30,0:38:26.97,Main-207+,,0,0,0,,怎麼了'n，騙人布'n？
 Dialogue: 50,0:38:26.97,0:38:29.89,Main-207+,,0,0,0,,必須燃燒脂肪！必須鍛鍊身材！
 Dialogue: 50,0:38:29.89,0:38:32.23,Main-207+,,0,0,0,,喔！好主意'n！
@@ -666,7 +666,7 @@ Dialogue: 50,0:41:41.21,0:41:43.45,Thoughts-207+,,0,0,0,,等著我，魯夫！
 Dialogue: 50,0:41:45.60,0:41:49.96,Main-207+,,0,0,0,,跑啊騙人布'n！這座森林\N會讓你變強的'n！
 Dialogue: 50,0:41:50.82,0:41:53.23,Thoughts-207+,,0,0,0,,為了幫你成為海賊王，
 Dialogue: 50,0:41:53.23,0:41:57.01,Thoughts-207+,,0,0,0,,我要成為真正的狙擊王！
-Dialogue: 50,0:42:03.70,0:42:10.05,Narrator-207+,,0,0,0,,現在來到偉大航道上的陰鬱島，\N陰暗王國的遺跡⋯⋯
+Dialogue: 50,0:42:03.70,0:42:10.05,Narrator-207+,,0,0,200,,現在來到偉大航道上的陰鬱島，\N陰暗王國的遺跡⋯⋯
 Dialogue: 50,0:42:10.96,0:42:11.94,Main-207+,,0,0,0,,拜託了！
 Dialogue: 50,0:42:19.58,0:42:21.98,Main-207+,,0,0,0,,教我劍術！
 Dialogue: 50,0:42:22.70,0:42:25.11,Main-207+,,0,0,0,,我對你很失望，羅羅亞。
@@ -878,58 +878,58 @@ Dialogue: 50,0:59:46.39,0:59:49.56,Main-207+,,0,0,0,,喬巴、羅賓、佛朗基
 Dialogue: 50,0:59:50.05,0:59:52.53,Main-207+,,0,0,0,,還有艾斯和薩波！
 Dialogue: 50,0:59:52.53,0:59:55.10,Main-207+,,0,0,0,,我再次向你們承諾⋯⋯
 Dialogue: 50,0:59:55.10,0:59:57.57,Main-207+,,0,0,0,,我一定會變得更強！
-Dialogue: 0,0:02:35.37,0:02:41.11,Captions-PTS,,0,0,260,,{\an8\blur0.3\fad(750,0)\fscx140\fscy140\bord2.7\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}偉大航道 夏波帝諸島附近
-Dialogue: 1,0:02:35.37,0:02:41.11,Captions-PTS,,0,0,260,,{\an8\blur0.3\fad(750,0)\fscx140\fscy140\bord0\c&HFBFEFD&\4a&HFF&}偉大航道 夏波帝諸島附近
-Dialogue: 0,0:02:53.32,0:02:58.89,Captions-PTS,,0,0,180,,{\an8\blur0.3\b0\fad(750,0)\fnIwata Mincho Old Pro H-Fate\bord2.7\fsp3\fscx152\fscy161\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}特拉法爾加·羅
-Dialogue: 1,0:02:53.32,0:02:58.89,Captions-PTS,,0,0,180,,{\an8\blur0.3\b0\fad(750,0)\fnIwata Mincho Old Pro H-Fate\bord0\fsp3\fscx152\fscy161\c&HFDFFFF&\4a&HFF&}特拉法爾加·羅
-Dialogue: 0,0:03:38.93,0:03:42.57,Captions-PTS,,0,0,255,,{\an8\blur0.6\fscx130\fscy130\bord3.8\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}新世界 某座冬島
-Dialogue: 1,0:03:38.93,0:03:42.57,Captions-PTS,,0,0,255,,{\an8\blur0.6\fscx130\fscy130\bord0\fad(500,0)\c&HF9F8FB&\4a&HFF&}新世界 某座冬島
-Dialogue: 0,0:03:50.51,0:03:53.08,Captions-PTS,,0,0,0,,{\an8\blur0.6\fnIwata Mincho Old Pro H-Fate\b0\bord3.7\fsp3\fscx152\fscy161\fad(350,0)\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)}X乂雷克
-Dialogue: 1,0:03:50.51,0:03:53.08,Captions-PTS,,0,0,0,,{\an8\blur0.6\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(350,0)\4a&HFF&}X乂雷克
-Dialogue: 0,0:04:27.25,0:04:31.48,Captions-PTS,,0,0,240,,{\an8\blur0.3\bord2.85\fad(750,0)\fscx122\fscy122\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}新世界 某座春島
-Dialogue: 1,0:04:27.25,0:04:31.48,Captions-PTS,,0,0,240,,{\an8\blur0.3\bord0\fad(750,0)\fscx122\fscy122\c&HFCFFFD&\4a&HFF&}新世界 某座春島
-Dialogue: 0,0:04:38.22,0:04:42.36,Captions-PTS,,0,0,230,,{\an8\blur0.8\fad(750,300)\fnIwata Mincho Old Pro H-Fate\b0\bord3.7\fsp3\fscx152\fscy161\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3840,3885,\1a&HFF&)}斯克拉奇曼·阿普
-Dialogue: 1,0:04:38.22,0:04:42.36,Captions-PTS,,0,0,230,,{\an8\blur0.8\fad(750,300)\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\4a&HFF&}斯克拉奇曼·阿普
-Dialogue: 0,0:05:36.78,0:05:41.52,Captions-PTS,,0,0,180,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,750)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3990,4035,\1a&HFF&)}聖乂安·乂爾夫
-Dialogue: 1,0:05:36.78,0:05:41.52,Captions-PTS,,0,0,180,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,750)\4a&HFF&}聖乂安·乂爾夫
-Dialogue: 0,0:05:46.02,0:05:52.26,Captions-PTS,,0,0,240,,{\an8\blur0.3\fad(525,725)\fscx108\fscy120\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(5515,5560,\1a&HFF&)}新世界 某座燃燒之島
-Dialogue: 1,0:05:46.02,0:05:52.26,Captions-PTS,,0,0,240,,{\an8\bord0\blur0.3\fad(525,725)\fscx108\fscy120\c&HFEFDFD&\4a&HFF&}新世界 某座燃燒之島
-Dialogue: 0,0:06:00.81,0:06:05.98,Captions-PTS,,0,0,220,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}馬歇爾·D·帝奇
-Dialogue: 1,0:06:00.81,0:06:05.98,Captions-PTS,,0,0,220,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\c&HFBFDFA&\4a&HFF&}馬歇爾·D·帝奇
-Dialogue: 0,0:06:06.11,0:06:09.65,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}吉薩斯·巴乂斯
-Dialogue: 1,0:06:06.11,0:06:09.65,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}吉薩斯·巴乂斯
-Dialogue: 0,0:06:09.78,0:06:14.15,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(400,0)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}希留
-Dialogue: 1,0:06:09.78,0:06:14.15,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(400,0)\4a&HFF&}希留
-Dialogue: 0,0:06:14.29,0:06:18.99,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}阿巴洛·乂薩洛
-Dialogue: 1,0:06:14.29,0:06:18.99,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}阿巴洛·乂薩洛
-Dialogue: 0,0:06:19.12,0:06:24.26,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}拉飛特
-Dialogue: 1,0:06:19.12,0:06:24.26,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}拉飛特
-Dialogue: 0,0:06:24.40,0:06:29.60,Captions-PTS,,0,0,230,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}乂乂乂Q
-Dialogue: 1,0:06:24.40,0:06:29.60,Captions-PTS,,0,0,230,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}乂乂乂Q
-Dialogue: 0,0:06:30.07,0:06:36.67,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}巴斯柯·乂特
-Dialogue: 1,0:06:30.07,0:06:36.67,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\4a&HFF&}巴斯柯·乂特
-Dialogue: 0,0:06:36.81,0:06:42.91,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(5600,5645,\1a&HFF&)}卡塔麗娜·乂芳
-Dialogue: 1,0:06:36.81,0:06:42.91,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,500)\4a&HFF&}卡塔麗娜·乂芳
-Dialogue: 0,0:06:44.72,0:06:48.25,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(200,325)\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(3205,3250,\1a&HFF&)}乂恩·乂古爾
-Dialogue: 1,0:06:44.72,0:06:48.25,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(200,325)\4a&HFF&}乂恩·乂古爾
-Dialogue: 0,0:06:58.10,0:07:03.13,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}乂乂莉·乂妮
-Dialogue: 1,0:06:58.10,0:07:03.13,Captions-PTS,,0,0,190,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\4a&HFF&}乂乂莉·乂妮
-Dialogue: 0,0:08:55.75,0:08:58.45,Captions-PTS,,0,0,240,,{\an8\blur0.3\bord2.5\fad(200,0)\fscx133\fscy147\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}聖地 瑪麗喬亞
-Dialogue: 1,0:08:55.75,0:08:58.45,Captions-PTS,,0,0,240,,{\an8\blur0.3\bord0\fad(200,0)\c&HFDFFFF&\fscx133\fscy147\4a&HFF&}聖地 瑪麗喬亞
-Dialogue: 0,0:10:10.19,0:10:14.43,Captions-PTS,,0,0,250,,{\an8\blur0.4\fad(750,0)\fscx116\fscy123\bord2.4\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}南海 多利諾王國
-Dialogue: 1,0:10:10.19,0:10:14.43,Captions-PTS,,0,0,250,,{\an8\blur0.4\fad(750,0)\fscx116\fscy123\bord0\c&HFDFDFD&\4a&HFF&}南海 多利諾王國
-Dialogue: 0,0:26:42.51,0:26:47.52,Captions-PTS,,0,0,380,,{\an8\blur0.4\fad(1000,500)\fscx154\fscy144\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(4510,4555,\1a&HFF&)}阿姆索隆王國\N偉大航道 劍之山島
-Dialogue: 1,0:26:42.51,0:26:47.52,Captions-PTS,,0,0,380,,{\an8\bord0\blur0.4\fad(1000,500)\c&HFDFEFE&\fscx154\fscy144\4a&HFF&}阿姆索隆王國\N偉大航道 劍之山島
-Dialogue: 0,0:30:16.93,0:30:21.90,Captions-PTS,,0,0,230,,{\an8\blur0.4\fad(750,750)\fscx116\fscy122\bord2.5\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4220,4265,\1a&HFF&)}東海 巨大橋梁
-Dialogue: 1,0:30:16.93,0:30:21.90,Captions-PTS,,0,0,230,,{\an8\blur0.4\fad(750,750)\fscx116\fscy122\bord0\4a&HFF&}東海 巨大橋梁
-Dialogue: 0,0:38:19.58,0:38:23.58,Captions-PTS,,0,0,390,,{\an8\blur0.4\fad(1000,0)\fscx171\fscy172\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}波音列島\N偉大航道
-Dialogue: 1,0:38:19.58,0:38:23.58,Captions-PTS,,0,0,390,,{\an8\bord0\blur0.4\fad(1000,0)\fscx171\fscy172\c&HFDFCFF&\4a&HFF&}波音列島\N偉大航道
-Dialogue: 0,0:42:05.03,0:42:10.77,Captions-PTS,,0,0,380,,{\an8\blur0.4\fad(750,475)\fscx172\fscy163\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(5265,5310,\1a&HFF&)}陰暗王國遺跡\N偉大航道 克拉伊加那島
-Dialogue: 1,0:42:05.03,0:42:10.77,Captions-PTS,,0,0,380,,{\an8\bord0\blur0.4\fad(750,475)\fscx172\fscy163\4a&HFF&}陰暗王國遺跡\N{\c&HFFFFFE&}偉大航道 克拉伊加那島
-Dialogue: 0,0:45:19.60,0:45:22.97,Captions-PTS,,0,0,400,,{\an8\blur0.4\fad(750,0)\fscx142\fscy146\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}數日前\N無風帶
-Dialogue: 1,0:45:19.60,0:45:22.97,Captions-PTS,,0,0,400,,{\an8\bord0\blur0.4\fad(750,0)\c&HFBF9FC&\fscx142\fscy146\4a&HFF&}數日前\N無風帶
-Dialogue: 0,0:46:47.62,0:46:52.42,Captions-PTS,,0,0,340,,{\an8\blur0.3\fad(500,0)\bord2.3\fscx122\fscy132\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}露斯卡伊那 無人島\N女人國西北方 無風帶
-Dialogue: 1,0:46:47.62,0:46:52.42,Captions-PTS,,0,0,340,,{\an8\blur0.3\fad(500,0)\bord0\fscx122\fscy132\c&HFAFAFA&\4a&HFF&}露斯卡伊那 無人島\N女人國西北方 無風帶
+Dialogue: 0,0:02:35.37,0:02:41.11,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(750,0)\fscx140\fscy140\bord2.7\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}偉大航道 夏波帝諸島附近
+Dialogue: 1,0:02:35.37,0:02:41.11,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(750,0)\fscx140\fscy140\bord0\c&HFBFEFD&\4a&HFF&}偉大航道 夏波帝諸島附近
+Dialogue: 0,0:02:53.32,0:02:58.89,Captions-PTS,,0,0,100,,{\an8\blur0.3\b0\fad(750,0)\fnIwata Mincho Old Pro H-Fate\bord2.7\fsp3\fscx152\fscy161\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}特拉法爾加·羅
+Dialogue: 1,0:02:53.32,0:02:58.89,Captions-PTS,,0,0,100,,{\an8\blur0.3\b0\fad(750,0)\fnIwata Mincho Old Pro H-Fate\bord0\fsp3\fscx152\fscy161\c&HFDFFFF&\4a&HFF&}特拉法爾加·羅
+Dialogue: 0,0:03:38.93,0:03:42.57,Captions-PTS,,0,0,100,,{\an8\blur0.6\fscx130\fscy130\bord3.8\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}新世界 某座冬島
+Dialogue: 1,0:03:38.93,0:03:42.57,Captions-PTS,,0,0,100,,{\an8\blur0.6\fscx130\fscy130\bord0\fad(500,0)\c&HF9F8FB&\4a&HFF&}新世界 某座冬島
+Dialogue: 0,0:03:50.51,0:03:53.08,Captions-PTS,,0,0,100,,{\an8\blur0.6\fnIwata Mincho Old Pro H-Fate\b0\bord3.7\fsp3\fscx152\fscy161\fad(350,0)\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)}X乂雷克
+Dialogue: 1,0:03:50.51,0:03:53.08,Captions-PTS,,0,0,100,,{\an8\blur0.6\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(350,0)\4a&HFF&}X乂雷克
+Dialogue: 0,0:04:27.25,0:04:31.48,Captions-PTS,,0,0,100,,{\an8\blur0.3\bord2.85\fad(750,0)\fscx122\fscy122\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}新世界 某座春島
+Dialogue: 1,0:04:27.25,0:04:31.48,Captions-PTS,,0,0,100,,{\an8\blur0.3\bord0\fad(750,0)\fscx122\fscy122\c&HFCFFFD&\4a&HFF&}新世界 某座春島
+Dialogue: 0,0:04:38.22,0:04:42.36,Captions-PTS,,0,0,100,,{\an8\blur0.8\fad(750,300)\fnIwata Mincho Old Pro H-Fate\b0\bord3.7\fsp3\fscx152\fscy161\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3840,3885,\1a&HFF&)}斯克拉奇曼·阿普
+Dialogue: 1,0:04:38.22,0:04:42.36,Captions-PTS,,0,0,100,,{\an8\blur0.8\fad(750,300)\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\4a&HFF&}斯克拉奇曼·阿普
+Dialogue: 0,0:05:36.78,0:05:41.52,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,750)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3990,4035,\1a&HFF&)}聖乂安·乂爾夫
+Dialogue: 1,0:05:36.78,0:05:41.52,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,750)\4a&HFF&}聖乂安·乂爾夫
+Dialogue: 0,0:05:46.02,0:05:52.26,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(525,725)\fscx108\fscy120\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(5515,5560,\1a&HFF&)}新世界 某座燃燒之島
+Dialogue: 1,0:05:46.02,0:05:52.26,Captions-PTS,,0,0,100,,{\an8\bord0\blur0.3\fad(525,725)\fscx108\fscy120\c&HFEFDFD&\4a&HFF&}新世界 某座燃燒之島
+Dialogue: 0,0:06:00.81,0:06:05.98,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}馬歇爾·D·帝奇
+Dialogue: 1,0:06:00.81,0:06:05.98,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\c&HFBFDFA&\4a&HFF&}馬歇爾·D·帝奇
+Dialogue: 0,0:06:06.11,0:06:09.65,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}吉薩斯·巴乂斯
+Dialogue: 1,0:06:06.11,0:06:09.65,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}吉薩斯·巴乂斯
+Dialogue: 0,0:06:09.78,0:06:14.15,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(400,0)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}希留
+Dialogue: 1,0:06:09.78,0:06:14.15,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(400,0)\4a&HFF&}希留
+Dialogue: 0,0:06:14.29,0:06:18.99,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}阿巴洛·乂薩洛
+Dialogue: 1,0:06:14.29,0:06:18.99,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}阿巴洛·乂薩洛
+Dialogue: 0,0:06:19.12,0:06:24.26,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}拉飛特
+Dialogue: 1,0:06:19.12,0:06:24.26,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}拉飛特
+Dialogue: 0,0:06:24.40,0:06:29.60,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}乂乂乂Q
+Dialogue: 1,0:06:24.40,0:06:29.60,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(375,0)\4a&HFF&}乂乂乂Q
+Dialogue: 0,0:06:30.07,0:06:36.67,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}巴斯柯·乂特
+Dialogue: 1,0:06:30.07,0:06:36.67,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\4a&HFF&}巴斯柯·乂特
+Dialogue: 0,0:06:36.81,0:06:42.91,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(5600,5645,\1a&HFF&)}卡塔麗娜·乂芳
+Dialogue: 1,0:06:36.81,0:06:42.91,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,500)\4a&HFF&}卡塔麗娜·乂芳
+Dialogue: 0,0:06:44.72,0:06:48.25,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(200,325)\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(3205,3250,\1a&HFF&)}乂恩·乂古爾
+Dialogue: 1,0:06:44.72,0:06:48.25,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(200,325)\4a&HFF&}乂恩·乂古爾
+Dialogue: 0,0:06:58.10,0:07:03.13,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord3\fsp3\fscx152\fscy161\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}乂乂莉·乂妮
+Dialogue: 1,0:06:58.10,0:07:03.13,Captions-PTS,,0,0,100,,{\an8\blur0.3\fnIwata Mincho Old Pro H-Fate\b0\bord0\fsp3\fscx152\fscy161\fad(500,0)\4a&HFF&}乂乂莉·乂妮
+Dialogue: 0,0:08:55.75,0:08:58.45,Captions-PTS,,0,0,100,,{\an8\blur0.3\bord2.5\fad(200,0)\fscx133\fscy147\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}聖地 瑪麗喬亞
+Dialogue: 1,0:08:55.75,0:08:58.45,Captions-PTS,,0,0,100,,{\an8\blur0.3\bord0\fad(200,0)\c&HFDFFFF&\fscx133\fscy147\4a&HFF&}聖地 瑪麗喬亞
+Dialogue: 0,0:10:10.19,0:10:14.43,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,0)\fscx116\fscy123\bord2.4\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}南海 多利諾王國
+Dialogue: 1,0:10:10.19,0:10:14.43,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,0)\fscx116\fscy123\bord0\c&HFDFDFD&\4a&HFF&}南海 多利諾王國
+Dialogue: 0,0:26:42.51,0:26:47.52,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,500)\fscx154\fscy144\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(4510,4555,\1a&HFF&)}阿姆索隆王國\N偉大航道 劍之山島
+Dialogue: 1,0:26:42.51,0:26:47.52,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.4\fad(1000,500)\c&HFDFEFE&\fscx154\fscy144\4a&HFF&}阿姆索隆王國\N偉大航道 劍之山島
+Dialogue: 0,0:30:16.93,0:30:21.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,750)\fscx116\fscy122\bord2.5\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4220,4265,\1a&HFF&)}東海 巨大橋梁
+Dialogue: 1,0:30:16.93,0:30:21.90,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(750,750)\fscx116\fscy122\bord0\4a&HFF&}東海 巨大橋梁
+Dialogue: 0,0:38:19.58,0:38:23.58,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(1000,0)\fscx171\fscy172\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}波音列島\N偉大航道
+Dialogue: 1,0:38:19.58,0:38:23.58,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.4\fad(1000,0)\fscx171\fscy172\c&HFDFCFF&\4a&HFF&}波音列島\N偉大航道
+Dialogue: 0,0:42:05.03,0:42:10.77,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(750,475)\fscx172\fscy163\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(5265,5310,\1a&HFF&)}陰暗王國遺跡\N偉大航道 克拉伊加那島
+Dialogue: 1,0:42:05.03,0:42:10.77,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.4\fad(750,475)\fscx172\fscy163\4a&HFF&}陰暗王國遺跡\N{\c&HFFFFFE&}偉大航道 克拉伊加那島
+Dialogue: 0,0:45:19.60,0:45:22.97,Captions-PTS,,0,0,200,,{\an8\blur0.4\fad(750,0)\fscx142\fscy146\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}數日前\N無風帶
+Dialogue: 1,0:45:19.60,0:45:22.97,Captions-PTS,,0,0,200,,{\an8\bord0\blur0.4\fad(750,0)\c&HFBF9FC&\fscx142\fscy146\4a&HFF&}數日前\N無風帶
+Dialogue: 0,0:46:47.62,0:46:52.42,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(500,0)\bord2.3\fscx122\fscy132\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}露斯卡伊那 無人島\N女人國西北方 無風帶
+Dialogue: 1,0:46:47.62,0:46:52.42,Captions-PTS,,0,0,200,,{\an8\blur0.3\fad(500,0)\bord0\fscx122\fscy132\c&HFAFAFA&\4a&HFF&}露斯卡伊那 無人島\N女人國西北方 無風帶
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hBastia
