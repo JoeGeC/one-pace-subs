@@ -488,21 +488,21 @@ Dialogue: 50,0:41:00.20,0:41:02.71,Main-207+,,0,0,0,,我⋯⋯想見他們。
 Dialogue: 50,0:41:02.89,0:41:06.98,Main-207+,,0,0,0,,我好想見他們！
 Dialogue: 0,0:07:04.90,0:07:11.74,Title-207+,,0,0,100,,{\an8\blur0.4\fad(1000,1400)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(5440,5485,\1a&HFF&)}風之意志
 Dialogue: 1,0:07:04.90,0:07:11.74,Title-207+,,0,0,100,,{\an8\bord0\blur0.4\fad(1000,1400)\c&HFFFFFF&\4a&HFF&}風之意志
-Dialogue: 0,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(1000,675)\fscx126\fscy126\bord2.5\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3995,4040,\1a&HFF&)}7年後
-Dialogue: 1,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(1000,675)\fscx126\fscy126\bord0\c&HFDFDFD&\4a&HFF&}7年後
-Dialogue: 1,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(750,750)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx137\fscy182\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3670,3715,\1a&HFF&)}艾斯，17歲
-Dialogue: 2,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(750,750)\fsp4\fnIwata Mincho Old Pro H-Fate\bord0\fscx137\fscy182\4a&HFF&}艾斯，17歲
-Dialogue: 0,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx122\fscy165\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3270,3315,\1a&HFF&)}魯夫，14歲
-Dialogue: 1,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord0\fscx122\fscy165\4a&HFF&}魯夫，14歲
-Dialogue: 1,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,100,,{\an8\pos(960,100)\fs90\bord0\c&H000000&\t(0,450,0.9,\c&HFDFDFD&)\fscx225\fscy225}數月後
-Dialogue: 0,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,255,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&H000000&}m 399 342 l 1519 353 1560 749 381 713
-Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,100,,{\an8\pos(957,100)\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\fscx505\fscy505}3年後
-Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,100,,{\an8\pos(964,100)\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\fscx425\fscy425}魯夫，17歲
-Dialogue: 0,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,75,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&H000000&}m 476 99 l 1437 111 1816 956 98 945
-Dialogue: 0,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(575,0)\fscx160\fscy160\bord2.7\c&H000000&\1a&HFF&\t(530,575,\1a&H00&)}風車村，哥亞王國，東海
-Dialogue: 1,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.3\fad(575,0)\fscx160\fscy160\bord0\4a&HFF&}風車村，哥亞王國，東海{\c&HFDFDFC&}
-Dialogue: 0,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,550)\fscx150\fscy150\bord2.75\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3470,3515,\1a&HFF&)}女人島，無風帶
-Dialogue: 1,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\pos(720,100)\blur0.4\fad(1000,550)\fscx150\fscy150\bord0\4a&HFF&}女人島，無風帶
+Dialogue: 0,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(1000,675)\fscx126\fscy126\bord2.5\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3995,4040,\1a&HFF&)}7年後
+Dialogue: 1,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(1000,675)\fscx126\fscy126\bord0\c&HFDFDFD&\4a&HFF&}7年後
+Dialogue: 1,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(750,750)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx137\fscy182\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3670,3715,\1a&HFF&)}艾斯，17歲
+Dialogue: 2,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(750,750)\fsp4\fnIwata Mincho Old Pro H-Fate\bord0\fscx137\fscy182\4a&HFF&}艾斯，17歲
+Dialogue: 0,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx122\fscy165\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3270,3315,\1a&HFF&)}魯夫，14歲
+Dialogue: 1,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,100,,{\an8\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord0\fscx122\fscy165\4a&HFF&}魯夫，14歲
+Dialogue: 1,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,100,,{\an8\fs90\bord0\c&H000000&\t(0,450,0.9,\c&HFDFDFD&)\fscx225\fscy225}數月後
+Dialogue: 0,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,100,,{\an8\fscx100\fscy100\p1\c&H000000&}m 399 342 l 1519 353 1560 749 381 713
+Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,100,,{\an8\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\fscx505\fscy505}3年後
+Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,100,,{\an8\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\fscx425\fscy425}魯夫，17歲
+Dialogue: 0,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,100,,{\an8\fscx100\fscy100\p1\c&H000000&}m 476 99 l 1437 111 1816 956 98 945
+Dialogue: 0,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(575,0)\fscx160\fscy160\bord2.7\c&H000000&\1a&HFF&\t(530,575,\1a&H00&)}風車村，哥亞王國，東海
+Dialogue: 1,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(575,0)\fscx160\fscy160\bord0\4a&HFF&}風車村，哥亞王國，東海{\c&HFDFDFC&}
+Dialogue: 0,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,550)\fscx150\fscy150\bord2.75\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3470,3515,\1a&HFF&)}女人島，無風帶
+Dialogue: 1,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,550)\fscx150\fscy150\bord0\4a&HFF&}女人島，無風帶
 Dialogue: 0,0:11:18.86,0:11:19.72,Country Sign,,0,0,0,,{\move(1164,486,1155,489)\fscx111\fscy111\frz0.31\fry4\frx14\c&H3F3D3D&\blur1.2\t(\fscx105.86\fscy105.86\blur1.14\frz0.32)}Ace's Country
 Dialogue: 0,0:11:19.72,0:11:20.56,Country Sign,,0,0,0,,{\move(1222.5,427.5,1210.5,432)\frz4.72\fry359\frx8\blur1.2\t(\fscx95.63\fscy95.63\blur1.155\frz4.7)\fnAxe Hand}Luffy's Country
 Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur1.2}Ace's Country
