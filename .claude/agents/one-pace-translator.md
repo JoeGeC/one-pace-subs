@@ -55,6 +55,9 @@ At the **end** of each translation session (or after every file processed):
 
 ## Translation Workflow
 
+**MANDATORY: You MUST use the extract/merge pipeline below. NEVER write ASS files directly.**
+The merge script handles critical repositioning (moving Title/Captions/Narrator/Note lines down to avoid hardcoded Japanese text). If you bypass it by writing the ASS file yourself, subtitles will appear in the wrong position on screen.
+
 The project uses a pipeline of scripts to speed up translation. Instead of reading/writing the full ASS file (which can be 2MB+ with vector drawing data), the agent works with a compact TSV of just the translatable text.
 
 ### Pipeline scripts (in project root):
