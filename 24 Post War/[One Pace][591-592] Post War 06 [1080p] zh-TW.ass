@@ -589,16 +589,16 @@ Dialogue: 55,0:39:33.25,0:39:34.52,Thoughts-207+,,0,0,0,,Thoughts-207+
 Dialogue: 55,0:39:34.52,0:39:36.89,Main-207+,,0,0,0,,Main-207+
 Dialogue: 0,0:02:59.83,0:03:05.46,Title-207+,,0,0,100,,{\an8}Title-207+
 Dialogue: 1,0:02:59.83,0:03:05.46,Title-207+,,0,0,100,,{\an8}Title-207+
-Dialogue: 0,0:02:31.00,0:02:34.40,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 1,0:02:31.00,0:02:34.40,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 0,0:04:28.18,0:04:32.82,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 1,0:04:28.18,0:04:32.82,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 0,0:14:16.60,0:14:22.21,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 1,0:14:16.60,0:14:22.21,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 0,0:19:14.33,0:19:18.07,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 1,0:19:14.33,0:19:18.07,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 0,0:22:11.74,0:22:17.15,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
-Dialogue: 1,0:22:11.74,0:22:17.15,Captions-PTS,,0,0,100,,{\an8\pos(720,100)}Captions-PTS
+Dialogue: 0,0:02:31.00,0:02:34.40,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 1,0:02:31.00,0:02:34.40,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 0,0:04:28.18,0:04:32.82,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 1,0:04:28.18,0:04:32.82,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 0,0:14:16.60,0:14:22.21,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 1,0:14:16.60,0:14:22.21,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 0,0:19:14.33,0:19:18.07,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 1,0:19:14.33,0:19:18.07,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 0,0:22:11.74,0:22:17.15,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
+Dialogue: 1,0:22:11.74,0:22:17.15,Captions-PTS,,0,0,100,,{\an8}{}Captions-PTS
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hPhosCity
