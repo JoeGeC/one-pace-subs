@@ -1968,3 +1968,113 @@ type: reference
 | Zoro-chin | 索隆阿琴 |
 | Chopper-chin | 喬巴阿琴 |
 | Skeleton-chin | 骷髏阿琴 |
+| Usopp-chin | 騙人布阿琴 |
+| Brook-chin | 布魯克阿琴 |
+| Turtle-chin | 烏龜阿琴 |
+| Killifish-chin(s) | 鱂魚阿琴（們）|
+
+## Characters (Fishman Island Arc)
+| English | 繁體中文 |
+|---|---|
+| Caribou / "Wet-Haired" Caribou | 乾隱布 / 「濕髮」乾隱布 |
+| Coribou / "Blood-Splatterer" Coribou | 乾利布 / 「返血」乾利布 |
+| Mohmoo (sea cow, former Arlong crew) | 毛姆（海牛，前惡龍船團）|
+| Hammond (New Fishman Pirates combatant) | 哈蒙德（新魚人海賊團戰鬥員）|
+| Hyouzou (New Fishman Pirates assassin, Blue-Ringed Octopus) | 兇藏（新魚人海賊團刺客，藍環章魚人魚）|
+| Hody Jones (New Fishman Pirates captain, Great White Shark) | 乘地·乘斯（新魚人海賊團船長，大白鯊魚人）|
+| Dosun (New Fishman Pirates, Hammerhead Shark) | 哆遜（新魚人海賊團，雙髻鯊魚人）|
+| Zeo (New Fishman Pirates, Wobbegong) | 乘奧（新魚人海賊團，鬚鯊魚人）|
+| Daruma (New Fishman Pirates, Cookiecutter Shark) | 達摩（新魚人海賊團，達摩鯊魚人）|
+| Ikaros Much (New Fishman Pirates, Giant Squid) | 伊卡洛斯·乘奇（新魚人海賊團，大王烏賊魚人）|
+| Vander Decken IX (Flying Dutchman captain) | 班德·乘肯九世（飛行荷蘭人號船長）|
+| Wadatsumi (Sea Bonze, giant) | 瓦達茲米（海入道，巨人）|
+| King Neptune (ruler of Ryuuguu Kingdom, Coelacanth Merman) | 海神·乘頓（龍宮王國統治者，腔棘魚人魚）|
+| Princess Shirahoshi (Giant Whiting Mermaid) | 白星公主（巨型銀魚人魚）|
+| Fukaboshi (eldest prince, Shark Merman) | 福卡博西（長子，鯊魚人魚）|
+| Ryuboshi (second prince, Oarfish Merman) | 龍星（次子，皇帶魚人魚）|
+| Manboshi (third prince, Opah Merman) | 曼星（三子，翻車魨人魚）|
+| Madame Shyarly (Mermaid Café owner, fortune teller) | 夏莉夫人（人魚咖啡廳老闆，占卜師）|
+| Ishilly (mermaid from Mermaid Cove) | 伊希莉（人魚海灣的人魚）|
+| Surume (Kraken, tamed by Luffy) | 小章（海怪，被魯夫馴服）|
+| Megalo (Shirahoshi's pet shark) | 梅加洛（白星公主的寵物鯊魚）|
+| Hoe (Neptune's whale) | 小寶（乘頓的鯨魚）|
+| Crab-Hand Gyro (pirate from South Blue) | 蟹手吉洛（南海海賊）|
+| Splash and Splatter (pirate twins, blood donors) | 飛沫與濺血（海賊雙胞胎，捐血者）|
+| Killifish Mermaid Quintuplets | 鱂魚人魚五胞胎 |
+| Ichika / Nika / Sanka / Yonka / Yonka Two | 一花 / 二花 / 三花 / 四花 / 四花二號 |
+
+## Locations (Fishman Island Arc)
+| English | 繁體中文 |
+|---|---|
+| Fishman Island | 魚人島 |
+| Ryuuguu Kingdom | 龍宮王國 |
+| Ryuuguu Palace | 龍宮城 |
+| Fishman District | 魚人街 |
+| Noah (ancient ship in Fishman District) | 諾亞（魚人街的古代方舟）|
+| Mermaid Cove / Mermaids' Cove | 人魚海灣 |
+| Coral Hill (port town) | 珊瑚丘（港口城鎮）|
+| Gyoverly Hills (elite district) | 魚鰭利山丘（高級住宅區）|
+| Mermaid Café | 人魚咖啡廳 |
+| Coral Apartments (underwater housing) | 珊瑚公寓（水中住宅）|
+| Flying Dutchman (ghost ship) | 飛行荷蘭人號（幽靈船）|
+
+## Terms (Fishman Island Arc)
+| English | 繁體中文 |
+|---|---|
+| New Fishman Pirates | 新魚人海賊團 |
+| Neptune Army | 海神軍 |
+| Ammo Knights (Neptune Army soldiers) | 彈藥騎士團（海神軍士兵）|
+| Energy Steroids / Power Drugs | 能量類固醇 / 興奮劑 |
+| Sea Bonze / Umibouzu | 海入道 |
+| Kraken (legendary sea monster) | 海怪（傳說中的海怪）|
+| Downflow / Plume (descending current) | 下降流 / 普魯姆 |
+| Deep currents | 深層海流 |
+| Flutter Kick Coating (instant diving suit) | 踢水鍍膜（即席潛水服）|
+| Water Road (bubble pathway) | 水之道路（泡泡通道）|
+| Treasure Tree Eve | 寶樹夏娃 |
+| Charlotte Linlin / Big Mom (Four Emperors) | 夏洛特·莉莉 / 大媽（四皇）|
+| Judgment of the Dark Night | 暗夜的制裁 |
+| Swamp-Swamp Fruit / Numa Numa no Mi (Caribou) | 沼沼果實（乾隱布的惡魔果實）|
+| Coral continent | 珊瑚大陸 |
+| Candy factory (Big Mom's tribute) | 糖果工廠（大媽的進貢）|
+| Criminal (fashion brand) | Criminal（時尚品牌）|
+| Sea Turtle Elevator | 海龜電梯 |
+| Fish Taxi | 魚計程車 |
+
+## Attacks (Fishman Island Arc)
+| English | 繁體中文 |
+|---|---|
+| Elephant Gun (Luffy Gear Third + Haki) | 象槍（魯夫三檔＋霸氣）|
+| Color of Arms Hardening | 武裝色硬化 |
+| Blue Walk (Sanji underwater technique) | 藍色步行（香吉士水中技）|
+| Diable Jambe: Bien Cuit Grill Shot (Sanji) | 惡魔風腳：全熟·燒烤射擊 |
+| Secret Three Swords Style: Crossing of the Six Paths (Zoro) | 奧義三刀流：六道之辻 |
+| Mille Fleur: Gigantesco Mano (Robin) | 千紫萬紅：巨大手 |
+| Chicken Voyage (Sunny evasion) | 膽小鬼航行（千陽號迴避）|
+| Small Coup de Burst (Franky) | 小型風來爆發 |
+| Franky Rocket Launcher | 佛朗基火箭炮 |
+| Deadly Green Star: Sargasso (Usopp) | 必殺綠星：馬尾藻 |
+| Coup de Burst | 風來爆發 |
+| Trawl Net (Hammond attack) | 拖網（哈蒙德攻擊）|
+
+## Neptune's Speech Quirk
+| English | 繁體中文 |
+|---|---|
+| -jamon (Neptune's sentence-ending quirk) | -佳蒙（乘頓的句尾口癖）|
+
+## Ryuboshi/Manboshi Speech Quirks
+| English | 繁體中文 |
+|---|---|
+| -do-re-mi-fa (Ryuboshi's musical endings) | -哆-雷-咪-法（龍星的音樂句尾）|
+| Akkamanbo! (Manboshi's catchphrase) | 赤紅曼波！（曼星的口頭禪）|
+
+## Dosun's Speech Quirk
+| English | 繁體中文 |
+|---|---|
+| -dosun (Dosun's sentence-ending) | -哆遜（哆遜的句尾口癖）|
+
+## Ikaros Much's Speech Quirk
+| English | 繁體中文 |
+|---|---|
+| -hi (Ikaros Much's sentence-ending) | -嗨（伊卡洛斯·乘奇的句尾口癖）|
+| Muhi (Ikaros's acknowledgment) | 呣嗨（伊卡洛斯的回應語）|
