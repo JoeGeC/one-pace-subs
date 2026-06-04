@@ -1920,6 +1920,44 @@ type: reference
 | Strong Right (Franky) | 強力右拳 |
 | Veinte Fleur (Robin, 20 flowers) | 二十輪花 |
 
+## Characters (Return to Sabaody Arc)
+| English | 繁體中文 |
+|---|---|
+| Sentomaru | 戰桃丸 |
+| Demaro Black / "Triple-Tongued" (Fake Luffy) | 乘馬洛·乾拉 / 「三舌」（冒牌魯夫）|
+| Caribou / "Wet-Haired" Caribou | 乾隱布 / 「濕髮」乾隱布 |
+| Coribou / "Blood-Splatterer" Coribou | 乾利布 / 「返血」乾利布 |
+| Albion / "Albion the Maimed" | 亞爾比翁 / 「殘肢」亞爾比翁 |
+| Doughty / Lip "Service" Doughty | 道堤 / 「甜言蜜語」道堤 |
+| Cocoa (fake Robin) | 可可亞（冒牌羅賓）|
+| Soul King (Brook's stage name) | 靈魂之王（布魯克的藝名）|
+
+## Locations (Return to Sabaody Arc)
+| English | 繁體中文 |
+|---|---|
+| Shabondy Dome Theater (Grove 33) | 夏波圓頂劇場（33號紅樹林）|
+| Straw Hats' Rendezvous Point (Grove 42/46) | 草帽集合點 |
+| Marine Garrison (Grove 66) | 海軍駐點（66號紅樹林）|
+| Birdie Kingdom | 小鳥王國 |
+| Weatheria | 威瑟利亞 |
+
+## Terms (Return to Sabaody Arc)
+| English | 繁體中文 |
+|---|---|
+| Pacifista (PX-5, PX-7) | 和平主義者 |
+| Coating / Coated ship | 鍍膜 / 鍍膜船 |
+| Buoyancy bag | 浮力袋 |
+| Bubble bag | 泡泡袋 |
+| Vivre Card (life card) | 生命卡 |
+| Baby Den Den Mushi | 幼年電話蟲 |
+| Haki (armament) | 霸氣 |
+| Slave Arrow (Hancock attack) | 奴隸之箭 |
+| Gear Second | 二檔 |
+| Gum-Gum Jet Pistol | 橡膠橡膠火箭砲 |
+| Negative Hollow (Perona) | 消極幽靈 |
+| Mecha (Franky's verbal tic) | 機甲 |
+| Rear Admiral | 少將 |
+
 ## Camie's Speech Quirks
 | English | 繁體中文 |
 |---|---|
