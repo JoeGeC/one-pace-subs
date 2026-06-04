@@ -2057,6 +2057,14 @@ type: reference
 | Coup de Burst | 風來爆發 |
 | Trawl Net (Hammond attack) | 拖網（哈蒙德攻擊）|
 
+## Characters (Fishman Island Arc - Otohime/Tiger Flashback)
+| English | 繁體中文 |
+|---|---|
+| Queen Otohime (Ryuuguu Kingdom) | 乙姬王后（龍宮王國）|
+| Koala (former slave girl, Sun Pirates passenger) | 乘拉（前奴隸少女，太陽海賊團的乘客）|
+| Rear Admiral Kadaru (Navy G2) | 卡達魯少將（海軍G2部隊）|
+| Strawberry (Navy officer, ambushed Sun Pirates) | 斯特羅貝里（海軍軍官，伏擊太陽海賊團）|
+
 ## Neptune's Speech Quirk
 | English | 繁體中文 |
 |---|---|
