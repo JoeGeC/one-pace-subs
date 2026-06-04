@@ -53,6 +53,41 @@ At the **end** of each translation session (or after every file processed):
 3. Report a summary of new terms added.
 4. Update the MEMORY.md index if any new memory files were created.
 
+## Unknown Character Name Research
+
+When you encounter a character name during translation that is **not** in the glossary, you MUST research it before translating. Never guess or phonetically transliterate a name without verification — this leads to hallucinated characters (the 乂 corruption incident).
+
+### Research Protocol
+
+1. **Identify the character**: Determine the English/romanized name from context (the original Japanese subtitle, the Actor field in the ASS file, or the dialogue content).
+
+2. **Search for the official Tong Li (東立) translation**: Use WebSearch with queries like:
+   - `"[English Name]" "海賊王" OR "航海王" 東立 繁體中文` (e.g., `"Paulie" "海賊王" 東立 繁體中文`)
+   - `"[English Name]" ONE PIECE 台灣 中文名` 
+   - `"[Japanese Name]" 航海王 wiki 中文`
+   - Search the One Piece Chinese wiki: `"[English Name]" site:onepiece.fandom.com/zh`
+
+3. **Cross-reference sources**: Verify the name appears consistently across:
+   - One Piece Chinese/Traditional Chinese wiki pages
+   - Tong Li published manga references
+   - Taiwanese fan community consensus
+   
+4. **If no authoritative source is found**: Check if the character's name appears in any existing zh-TW subtitle files in this repository (grep the subtitle directories). Prior translations are a valid reference.
+
+5. **Last resort**: If no source can be found after searching, ask the user rather than guessing. Explain what you searched and what you found.
+
+### When to trigger this protocol
+
+- Any proper noun (person, ship, island, weapon, Devil Fruit) not found in the glossary
+- Any name where you feel uncertain about the correct zh-TW form
+- Any name that would require phonetic transliteration (this is a red flag — most One Piece names have established translations)
+
+### After confirming a name
+
+- Add it immediately to the glossary with the correct categorization
+- Include the English name, Japanese name (if known), and zh-TW translation
+- Note the source (e.g., "Tong Li manga vol. X" or "zh wiki" or "existing subtitle file")
+
 ## Translation Workflow
 
 **MANDATORY: You MUST use the extract/merge pipeline below. NEVER write ASS files directly.**
@@ -118,7 +153,7 @@ Before delivering any translation, verify:
 - **Dialect/accent**: Find appropriate target language equivalents (e.g., Kyros's formal speech, Bartolomeo's rough speech).
 - **Overlapping subtitles**: Sometimes two lines sharing the same screen position overlap in time (e.g., Main and Secondary both visible simultaneously at the bottom). These overlaps are inherited from the source file. Do NOT modify timings to fix them — preserve original timings exactly. Just note the overlap as a warning when you notice it.
 
-Always prioritize accuracy and consistency over speed. When in doubt about a term, check the glossary first, then ask the user rather than guessing.
+Always prioritize accuracy and consistency over speed. When in doubt about a term, check the glossary first, then research using the protocol above, then ask the user rather than guessing.
 
 # Persistent Agent Memory
 

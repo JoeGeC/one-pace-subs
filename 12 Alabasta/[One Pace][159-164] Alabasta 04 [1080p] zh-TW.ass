@@ -65,7 +65,7 @@ Dialogue: 50,0:03:56.17,0:03:58.38,Main-207-,,0,0,0,,{\q2}我的腰就是被你�
 Dialogue: 50,0:03:58.84,0:04:03.85,Main-207-,,0,0,0,,我……很……
 Dialogue: 50,0:04:03.85,0:04:05.18,Main-207-,,0,0,0,,抱歉……
 Dialogue: 50,0:04:03.85,0:04:05.18,Secondary-207-,,0,0,0,,好！好！好！好！
-Dialogue: 50,0:04:05.18,0:04:07.60,Main-207-,,0,0,0,,生意怎麼樣，乂拉？\N今天店裡一個人都沒有！
+Dialogue: 50,0:04:05.18,0:04:07.60,Main-207-,,0,0,0,,生意怎麼樣，寶拉？\N今天店裡一個人都沒有！
 Dialogue: 50,0:04:07.60,0:04:10.86,Main-207-,,0,0,0,,店裡沒人！空空如也！\N空空！空——空——如——也！
 Dialogue: 50,0:04:11.36,0:04:15.11,Main-207-,,0,0,0,,好久不見。\N歡迎，聖誕快樂小姐，
 Dialogue: 50,0:04:15.11,0:04:16.32,Main-207-,,0,0,0,,還有你，4號先生。{Z}
@@ -117,7 +117,7 @@ Dialogue: 50,0:05:56.04,0:05:59.76,Main-207-,,0,0,0,,{\fad(150,150)\b1\bord3.375
 Dialogue: 50,0:06:05.30,0:06:07.47,Main-207-,,0,0,0,,你好！
 Dialogue: 50,0:06:07.47,0:06:10.52,Main-207-,,0,0,0,,你好……{\i1}嗎{\i0}？
 Dialogue: 50,0:06:10.52,0:06:11.77,Main-207-,,0,0,0,,你真蠢。
-Dialogue: 50,0:06:11.77,0:06:14.02,Main-207-,,0,0,0,,我{\i1}才不{\i0}蠢，乂拉！
+Dialogue: 50,0:06:11.77,0:06:14.02,Main-207-,,0,0,0,,我{\i1}才不{\i0}蠢，寶拉！
 Dialogue: 50,0:06:14.02,0:06:17.52,Main-207-,,0,0,0,,我{\i1}是{\i0}個舞者！
 Dialogue: 50,0:06:17.52,0:06:19.19,Main-207-,,0,0,0,,來一份章魚聖代，謝謝！{Z}
 Dialogue: 50,0:06:19.19,0:06:20.11,Main-207-,,0,0,0,,章魚聖代？
@@ -298,7 +298,7 @@ Dialogue: 50,0:19:35.95,0:19:41.45,Main-207-,,0,0,0,,王國將向受旱災影響
 Dialogue: 50,0:19:41.45,0:19:46.92,Main-207-,,0,0,0,,我賜你在阿魯巴納居住，\N以便你規劃未來！
 Dialogue: 50,0:19:46.92,0:19:52.59,Main-207-,,0,0,0,,陛下真是仁慈！\N謝謝！謝謝！
 Dialogue: 50,0:19:53.63,0:19:57.30,Main-207-,,0,0,0,,少囉嗦！你根本不懂\N村民的感受！
-Dialogue: 50,0:19:57.97,0:20:00.30,Main-207-,,0,0,0,,等等！乂薩！給我回來！
+Dialogue: 50,0:19:57.97,0:20:00.30,Main-207-,,0,0,0,,等等！寇沙！給我回來！
 Dialogue: 50,0:20:02.56,0:20:03.56,Main-207-,,0,0,0,,多多。
 Dialogue: 50,0:20:03.56,0:20:04.68,Main-207-,,0,0,0,,陛下！
 Dialogue: 50,0:20:05.93,0:20:10.65,Main-207-,,0,0,0,,真是個好孩子，說出了\N村民的心聲。
@@ -329,7 +329,7 @@ Dialogue: 50,0:21:29.98,0:21:32.85,Secondary-207-,,0,0,0,,打！打！
 Dialogue: 50,0:21:33.98,0:21:35.98,Main-207-,,0,0,0,,好好教訓那個公主！
 Dialogue: 50,0:21:35.98,0:21:38.74,Main-207-,,0,0,0,,讓那個臭屁皇族\N知道厲害！
 Dialogue: 50,0:21:38.74,0:21:41.11,Main-207-,,0,0,0,,薇薇加油！
-Dialogue: 50,0:21:41.11,0:21:44.62,Main-207-,,0,0,0,,喂，你知道嗎！乂薩\N可是我們的頭目！
+Dialogue: 50,0:21:41.11,0:21:44.62,Main-207-,,0,0,0,,喂，你知道嗎！寇沙\N可是我們的頭目！
 Dialogue: 50,0:21:48.33,0:21:52.25,Main-207-,,0,0,0,,如果我贏了，我就當你們的頭目！
 Dialogue: 50,0:21:53.00,0:21:55.34,Main-207-,,0,0,0,,我才不會輸給你，小不點！
 Dialogue: 50,0:21:55.79,0:21:58.55,Main-207-,,0,0,0,,在我們村子裡，\N我一直都是頭目。
@@ -346,7 +346,7 @@ Dialogue: 50,0:22:39.88,0:22:42.13,Main-207-,,0,0,0,,友情至關重要。
 Dialogue: 50,0:22:48.68,0:22:49.85,Main-207-,,0,0,0,,啊哈！
 Dialogue: 50,0:22:50.81,0:22:53.56,Main-207-,,0,0,0,,多多叔叔、多多嬸嬸！早上好！
 Dialogue: 50,0:22:53.56,0:22:54.64,Main-207-,,0,0,0,,頭目在哪？
-Dialogue: 50,0:22:54.64,0:22:58.65,Main-207-,,0,0,0,,哦，早上好！你在找乂薩的話，\N他已經出門了！
+Dialogue: 50,0:22:54.64,0:22:58.65,Main-207-,,0,0,0,,哦，早上好！你在找寇沙的話，\N他已經出門了！
 Dialogue: 50,0:22:59.11,0:23:00.98,Main-207-,,0,0,0,,應該是去老地方。
 Dialogue: 50,0:23:00.98,0:23:02.44,Main-207-,,0,0,0,,謝謝！
 Dialogue: 50,0:23:02.82,0:23:05.91,Main-207-,,0,0,0,,哦，薇薇！你留下來吃午飯嗎？
@@ -391,9 +391,9 @@ Dialogue: 2,0:03:53.88,0:03:58.38,Captions-207-,,0,0,0,,{\an5\q2\pos(720,440)\bl
 Dialogue: 0,0:03:58.38,0:04:03.35,Captions-207-,,0,0,0,,{\an5\q2\pos(720,420)\blur1.2\bord5.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\c&H121212&\3c&H121212&}4號先生\N幹部，巴洛克工作社
 Dialogue: 1,0:03:58.38,0:04:03.35,Captions-207-,,0,0,0,,{\an5\q2\pos(720,420)\blur1.2\bord0.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\3c&HFFFFFF&\4a&HFF&}4號先生\N幹部，巴洛克工作社
 Dialogue: 2,0:03:58.38,0:04:03.35,Captions-207-,,0,0,0,,{\an5\q2\pos(720,420)\blur1.3\bord0\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\4a&HFF&}4號先生\N幹部，巴洛克工作社
-Dialogue: 0,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.2\bord5.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\c&H121212&\3c&H121212&\pos(720,470.67)}乂拉，蜘蛛咖啡廳老闆
-Dialogue: 1,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.2\bord0.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\3c&HFFFFFF&\4a&HFF&\pos(720,470.67)}乂拉，蜘蛛咖啡廳老闆
-Dialogue: 2,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.3\bord0\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\4a&HFF&\pos(720,470.67)}乂拉，蜘蛛咖啡廳老闆
+Dialogue: 0,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.2\bord5.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\c&H121212&\3c&H121212&\pos(720,470.67)}寶拉，蜘蛛咖啡廳老闆
+Dialogue: 1,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.2\bord0.6\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\3c&HFFFFFF&\4a&HFF&\pos(720,470.67)}寶拉，蜘蛛咖啡廳老闆
+Dialogue: 2,0:04:16.32,0:04:26.08,Captions-207-,,0,0,0,,{\an5\q2\blur1.3\bord0\fscx83\fscy95\fnDFPGiHi-W7-Strp\fsp8\4a&HFF&\pos(720,470.67)}寶拉，蜘蛛咖啡廳老闆
 Dialogue: 0,0:10:22.52,0:10:35.49,Captions-207-,,0,0,0,,{\an5\q2\pos(720,393.67)\blur1.2\bord4.5\fscx98\fscy110\fnDFPGiHi-W7-Strp\fsp8\c&H121212&\3c&H121212&}1號先生\N{\bord5.4\fscx83\fscy95}幹部，巴洛克工作社
 Dialogue: 1,0:10:22.52,0:10:35.49,Captions-207-,,0,0,0,,{\an5\q2\pos(720,393.67)\blur1.2\bord0.6\fscx98\fscy110\fnDFPGiHi-W7-Strp\fsp8\3c&HFFFFFF&\4a&HFF&}1號先生\N{\fscx83\fscy95}幹部，巴洛克工作社
 Dialogue: 2,0:10:22.52,0:10:35.49,Captions-207-,,0,0,0,,{\an5\q2\pos(720,393.67)\blur1.3\bord0\fscx98\fscy110\fnDFPGiHi-W7-Strp\fsp8\4a&HFF&}1號先生\N{\fscx83\fscy95}幹部，巴洛克工作社
@@ -415,9 +415,9 @@ Dialogue: 2,0:14:33.56,0:14:41.53,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fa
 Dialogue: 0,0:18:21.58,0:18:26.25,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(938,0)\blur1\bord3.8\fscx88\fnDFPGiHi-W7-Strp\c&H000000&\3c&H2F2E31&\1a&HFF&\3a&H10&\t(893,938,\1a&H00&)}阿拉巴斯坦王國\N十一年前
 Dialogue: 1,0:18:21.58,0:18:26.25,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(938,0)\blur0.6\bord0.6\fscx88\fnDFPGiHi-W7-Strp\c&HFAF9F6&\3c&HFAF9F6&\1a&HFF&\4a&HFF&\t(893,938,\1a&H00&)}阿拉巴斯坦王國\N十一年前
 Dialogue: 2,0:18:21.58,0:18:26.25,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(938,0)\blur0.6\bord0\fscx88\fnDFPGiHi-W7-Strp\c&HF5F5F5&\4a&HFF&}阿拉巴斯坦王國\N十一年前
-Dialogue: 0,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord4.9\fscx88\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(432,477,\1a&H00&)}乂薩\N鎮上的男孩
-Dialogue: 1,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord0.6\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\3c&HFEFEFF&\1a&HFF&\4a&HFF&\t(432,477,\1a&H00&)}乂薩\N鎮上的男孩
-Dialogue: 2,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord0\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\4a&HFF&}乂薩\N鎮上的男孩
+Dialogue: 0,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord4.9\fscx88\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(432,477,\1a&H00&)}寇沙\N鎮上的男孩
+Dialogue: 1,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord0.6\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\3c&HFEFEFF&\1a&HFF&\4a&HFF&\t(432,477,\1a&H00&)}寇沙\N鎮上的男孩
+Dialogue: 2,0:18:47.15,0:18:50.44,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(477,0)\blur0.5\bord0\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\4a&HFF&}寇沙\N鎮上的男孩
 Dialogue: 0,0:19:14.38,0:19:18.35,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(482,0)\blur0.5\bord4.9\fscx88\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(437,482,\1a&H00&)}多多，男孩之父\N{\fscx90\fscy90}（優芭的男人）
 Dialogue: 1,0:19:14.38,0:19:18.35,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(482,0)\blur0.5\bord0.6\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\3c&HFEFEFF&\1a&HFF&\4a&HFF&\t(437,482,\1a&H00&)}多多，男孩之父\N{\fscx90\fscy90}（優芭的男人）
 Dialogue: 2,0:19:14.38,0:19:18.35,Captions-207-,,0,0,0,,{\an5\pos(707.98,610)\fad(482,0)\blur0.5\bord0\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\4a&HFF&}多多，男孩之父\N{\fscx90\fscy90}（優芭的男人）

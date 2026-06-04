@@ -28,7 +28,7 @@ type: reference
 | Smoker (Captain Smoker) | 煙薰（煙薰上尉）|
 | Tashigi | 塔西姬 |
 | Marshall D. Teach / Blackbeard | 馬歇爾·D·帝奇 / 黑鬍子 |
-| Igaram | 伊乂拉姆 |
+| Igaram | 伊卡萊姆 |
 | Eyelashes (camel) | 睫毛（駱駝）|
 
 ## Titles & Groups
@@ -199,9 +199,9 @@ type: reference
 | Mr. 2 Bon Kurei | "Un, Deux, Korrois/Ourrois!" (dance count) | 一、兩、三！／一、兩、四！ |
 | Mr. 2 Bon Kurei | "Bold Change!" (transformation call) | 大變身！ |
 | Mr. 2 Bon Kurei | "Okama way" | 御宅之道 |
-| Koza | Koza (child / rebel leader) | 乂薩 |
+| Koza | Koza (child / rebel leader) | 寇沙 |
 | Toto | Toto (man from Yuba) | 多多 |
-| Paula | Paula (Spiders Cafe proprietor / Miss Doublefinger) | 乂拉 |
+| Paula | Paula (Spiders Cafe proprietor / Miss Doublefinger) | 寶拉 |
 | Frilled Runners | Baroque Works urgent delivery force | 褶領蜥蜴快跑隊 |
 | Bunchi | Special All-Terrain Transport Turtle, Baroque Works | 笨吉 |
 | Katorea | Oasis city near Nanohana, rebel base | 卡特蕾亞 |
@@ -327,7 +327,7 @@ type: reference
 | Tamarisk (Eastern Port of Alabasta) | 泰瑪利斯克 |
 | Downpour (Baroque Works rainmaking ship) | 暴雨號 |
 | White Hound (Smoker's epithet) | 白獵 |
-| Jango / "Turncoat" Jango | 乂乂哥 / 「變節者」乂乂哥 |
+| Jango / "Turncoat" Jango | 傑克斯 / 「變節者」傑克斯 |
 | Fullbody / "Ironfist" Fullbody | 富爾巴迪 / 「鐵拳」富爾巴迪 |
 | Private Third Class (Marine rank) | 三等兵 |
 | Black Cage Unit (Hina's unit) | 黑檻部隊 |
@@ -337,13 +337,13 @@ type: reference
 ## Characters (Skypiea Arc)
 | English | 繁體中文 |
 |---|---|
-| Gan Fall (Sky Knight) | 乂爾（空騎士）|
-| Pierre (Gan Fall's bird partner) | 乂路 |
+| Gan Fall (Sky Knight) | 甘·福爾（空騎士）|
+| Pierre (Gan Fall's bird partner) | 皮耶爾 |
 | Inspector Amazon (Heaven's Gate) | 監察官亞瑪遜 |
-| Conis (Angel Beach resident) | 乂妮絲 |
+| Conis (Angel Beach resident) | 柯妮絲 |
 | Suu (cloud fox) | 小蘇 |
-| Pagaya (Conis's father) | 帕乂亞 |
-| God Enel | 神艾乂爾 |
+| Pagaya (Conis's father) | 派葛亞 |
+| God Enel | 神艾尼路 |
 | Captain McKinley (White Berets) | 麥金利隊長 |
 | White Berets (Skypiea Police) | 白貝雷帽（Skypiea警察）|
 
@@ -354,15 +354,15 @@ type: reference
 | Masira Pirates | 瑪斯拉海賊團 |
 | Bellamy "the Hyena" | 「鬣狗」貝拉密 |
 | Bellamy Pirates | 貝拉密海賊團 |
-| "Big Knife" Sarquiss | 「大刀」乂奇士 |
+| "Big Knife" Sarquiss | 「大刀」薩奇士 |
 | Roshio "the Executioner" | 「行刑者」路基歐 |
 | Roshio Pirates | 路基歐海賊團 |
 | Lily (Bellamy crew member) | 莉莉 |
 | Stronger (Doc Q's horse) | 斯特隆格 |
-| Shojo "the Oceanographer" | 「海洋學家」乂祖 |
-| Shojo Pirates | 乂祖海賊團 |
-| Mont Blanc Cricket | 蒙布朗·乂力克特 |
-| Buggy "the Clown" | 「小丑」巴乂 |
+| Shojo "the Oceanographer" | 「海洋學家」修祖 |
+| Shojo Pirates | 修祖海賊團 |
+| Mont Blanc Cricket | 蒙布朗·克力凱特 |
+| Buggy "the Clown" | 「小丑」巴基 |
 | Mohji (Buggy Pirates) | 摩奇 |
 | Richie (Mohji's lion) | 里奇 |
 | Alvida "Iron Mace" | 「鐵棒」阿爾貝達 |
@@ -370,16 +370,16 @@ type: reference
 | Shanks / "Red Hair" Shanks | 傑克斯 / 「紅髮」傑克斯 |
 | Red Hair Pirates | 紅髮海賊團 |
 | Rockstar (Red Hair Pirates) | 洛克斯達 |
-| Donquixote Doflamingo | 唐乂柯德·乂佛朗明歌 |
-| Bartholomew Kuma | 乂索隆熊 |
+| Donquixote Doflamingo | 唐吉訶德·多佛朗明哥 |
+| Bartholomew Kuma | 巴索羅繆·熊 |
 | Sengoku "the Buddha" | 「佛」戰國 |
 | "Master Tactician" Tsuru | 「智謀」鶴 |
 | Dracule Mihawk / "Hawk Eye" | 「鷹眼」密佛格 |
 | Laffitte (Blackbeard Pirates) | 拉飛特 |
-| Jesus Burgess "Champion" | 「冠軍」吉薩斯·乂乂斯 |
-| Van Augur "Supersonic" | 「音速」乂恩·乂古爾 |
-| Doc Q "the Reaper" | 乂乂乂Q「死神」 |
-| Edward Newgate / Whitebeard | 愛德華·乂乂蓋特 / 白鬍子 |
+| Jesus Burgess "Champion" | 「冠軍」吉薩斯·巴基斯 |
+| Van Augur "Supersonic" | 「音速」范·歐葛 |
+| Doc Q "the Reaper" | 毒Q「死神」 |
+| Edward Newgate / Whitebeard | 愛德華·紐蓋特 / 白鬍子 |
 | Five Elders (Gorosei) | 五老星 |
 | Blackbeard Pirates | 黑鬍子海賊團 |
 
@@ -536,10 +536,10 @@ type: reference
 | Satori (Skypiea Priest, "of the Forest") | 沙多利（森之沙多利）|
 | Ohm (Skypiea Priest, "of the Iron") | 奧姆（鐵之奧姆）|
 | Shura (Skypiea Priest, "of the String") | 修羅（繩之修羅）|
-| Gedatsu (Skypiea Priest, "of the Swamp") | 乂達茲（沼之乂達茲）|
+| Gedatsu (Skypiea Priest, "of the Swamp") | 格達茲（沼之格達茲）|
 | Yama (Skypiean Abbot) | 亞瑪（Skypiea神兵長）|
 | Enel (God of Skypiea) | 艾尼路（Skypiea之神）|
-| Wyper (Shandian warrior) | 乂柏（香迪亞戰士）|
+| Wyper (Shandian warrior) | 瓦夷帕（香迪亞戰士）|
 | Kamakiri (Shandian warrior) | 卡瑪奇利（香迪亞戰士）|
 | Raki (Shandian woman) | 拉琪（香迪亞人）|
 | Aisa (Shandian child) | 艾莎（香迪亞兒童）|
@@ -576,7 +576,7 @@ type: reference
 | Hotori (Satori's brother, prior) | 霍多利（副神官）|
 | Kotori (Satori's brother, prior) | 科多利（副神官）|
 | Priors (Satori's brothers) | 副神官 |
-| Genbo (Shandian front-line attacker) | 乂恩博（香迪亞前鋒）|
+| Genbo (Shandian front-line attacker) | 根寶（香迪亞前鋒）|
 | Giant Jack (great beanstalk) | 巨大豆蔓 |
 | Shandora (ancient city of gold) | 香朵拉 |
 | Swamp Cloud Burger (Gedatsu attack) | 沼雲漢堡 |
@@ -592,7 +592,7 @@ type: reference
 | Surprise Dial Illusion (Hotori/Kotori) | 驚奇貝殼幻術 |
 | Gauntlet (Gan Fall's iron impact weapon) | 臂甲 |
 | Swamp clouds (Gedatsu's trap) | 沼雲 |
-| Sky Punk Gedatsu (Gedatsu's title) | 空之暴徒乂達茲 |
+| Sky Punk Gedatsu (Gedatsu's title) | 空之暴徒格達茲 |
 | Burn Blade (Kamakiri attack) | 燃燒之刃 |
 | One Million Volts: Vari (Enel attack) | 一百萬伏特·雷電 |
 | Stomach Mountain (Yama attack) | 腹山 |
@@ -605,7 +605,7 @@ type: reference
 | Hang (Robin attack) | 絞殺 |
 | Rio Poneglyph | 真正的歷史本文 |
 | Grand belfry (Shandora) | 大鐘樓 |
-| Holy (Ohm's dog) | 乂力 |
+| Holy (Ohm's dog) | 霍利 |
 | Iron cloud (material) | 鐵雲 |
 | Upper Ruins (Upper Yard area) | 上層遺跡 |
 | Master of the Sky (giant snake) | 天空的主人 |
@@ -691,7 +691,7 @@ type: reference
 |---|---|
 | Tonjit (nomad of Long Ring Long Land) | 東吉特 |
 | Shelly (Tonjit's horse) | 雪莉 |
-| Foxy "the Silver Fox" | 「銀狐」弗乂西 |
+| Foxy "the Silver Fox" | 「銀狐」弗克西 |
 | Foxy Pirates | 狐狸海賊團 |
 | Porche (Foxy Pirate fighter) | 波琪 |
 | Hamburg (Foxy Pirate fighter) | 漢堡 |
@@ -699,7 +699,7 @@ type: reference
 | Capote (swordfish fishman, Foxy Pirates) | 卡波提 |
 | Monda (star shark, Foxy Pirates) | 蒙達 |
 | Fang-Frog Pirates | 牙蛙海賊團 |
-| Pickles "Tackle Machine" (Foxy Pirates) | 「擒抱機器」皮乂斯 |
+| Pickles "Tackle Machine" (Foxy Pirates) | 「擒抱機器」皮克斯 |
 | Big Pan (wotan, half-fishman half-giant) | 大潘（沃坦，半魚人半巨人）|
 
 ## Locations (Long Ring Long Land Arc)
@@ -808,8 +808,8 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Kokoro (Stationmaster) | 可可羅（站長）|
-| Chimney (Kokoro's grandchild) | 乂米妮（可可羅的孫女）|
-| Gonbe (cat, actually a rabbit) | 乂貝（貓，實際上是兔子）|
+| Chimney (Kokoro's grandchild) | 奇姆妮（可可羅的孫女）|
+| Gonbe (cat, actually a rabbit) | 貢貝（貓，實際上是兔子）|
 | Iceburg | 冰山 |
 | Kalifa | 卡莉法 |
 | Yokozuna (front-crawl frog) | 橫綱（自由式青蛙）|
@@ -860,19 +860,19 @@ type: reference
 ## Characters (Water Seven Arc - continued)
 | English | 繁體中文 |
 |---|---|
-| Kaku (Galley-La foreman, Dock One) | 卡乂（卡雷拉公司一號船塢工頭）|
+| Kaku (Galley-La foreman, Dock One) | 卡庫（卡雷拉公司一號船塢工頭）|
 | Lucci (Galley-La shipwright) | 路奇（卡雷拉公司船匠）|
-| Paulie (Galley-La shipwright) | 乂利（卡雷拉公司船匠）|
+| Paulie (Galley-La shipwright) | 保利（卡雷拉公司船匠）|
 | Lulu (Galley-La shipwright) | 路路（卡雷拉公司船匠）|
 | Tilestone (Galley-La shipwright) | 泰斯通（卡雷拉公司船匠）|
 | Tyrannosaurus (Iceburg's mouse) | 暴龍（冰山的老鼠）|
 | Rob Lucci (full name) | 路布·路奇 |
-| Hattori (Lucci's pigeon) | 哈乂利（路奇的鴿子）|
-| Peepley Lulu (Galley-La foreman) | 乂普利·路路（卡雷拉公司工頭）|
-| Corgi (World Government official) | 乂基（世界政府官員）|
+| Hattori (Lucci's pigeon) | 哈特利（路奇的鴿子）|
+| Peepley Lulu (Galley-La foreman) | 皮普利·路路（卡雷拉公司工頭）|
+| Corgi (World Government official) | 科基（世界政府官員）|
 | Franky (Franky Family boss) | 佛朗基（佛朗基家族老大）|
 | Franky House | 佛朗基之家 |
-| Zambai (Franky Family member) | 乂白（佛朗基家族成員）|
+| Zambai (Franky Family member) | 贊白（佛朗基家族成員）|
 
 ## Attacks (Water Seven Arc)
 | English | 繁體中文 |
@@ -975,7 +975,7 @@ type: reference
 | Dumburg (Franky's insult for Iceburg) | 蠢山 |
 | Flunky (Iceburg's insult for Franky) | 廢朗基 |
 | Jerkburg (Franky's insult for Iceburg, adult) | 蠢山 |
-| Spandam (CP5 Director-General) | 斯帕乂姆 |
+| Spandam (CP5 Director-General) | 斯帕達姆 |
 | Director-General (CP rank) | 局長 |
 | Cipher Pol No. 5 (CP5) | Cipher Pol No.5 |
 | Great Pirate Era | 大海賊時代 |
@@ -989,7 +989,7 @@ type: reference
 | Karate Island (Jerry's homeland, South Blue) | 空手道島（南海）|
 | T-Bone (Marine HQ Captain) | T-Bone（海軍本部上尉）|
 | Wanze (CP7 martial artist / head steward) | 旺澤（Cipher Pol No.7武術家／伙食長）|
-| Nero (CP9 newest member) | 乂洛（CP9最新成員）|
+| Nero (CP9 newest member) | 尼洛（CP9最新成員）|
 | Cipher Pol No. 7 (CP7) | Cipher Pol No.7 |
 | Cipher Pol No. 6 (CP6) | Cipher Pol No.6 |
 | Departing Shortly (episode title, Water Seven 15) | 即將出發 |
@@ -998,7 +998,7 @@ type: reference
 | Brochette (Sanji attack) | 肉串 |
 | Screw Drop Kick (Jerry attack) | 旋轉下墜踢 |
 | Rocketman (prototype sea train) | 火箭人 |
-| Funkfreed (Spandam's elephant sword) | 方克乂利德 |
+| Funkfreed (Spandam's elephant sword) | 方克弗利德 |
 | Gates of Justice (Enies Lobby) | 正義之門 |
 | Impel Down (undersea prison) | 推進城 |
 | Marine Headquarters | 海軍本部 |
@@ -1026,7 +1026,7 @@ type: reference
 | Ra-Men's Formal Suit (Wanze technique) | 拉麵正裝 |
 | Fire Skate (Sanji attack) | 火焰溜冰 |
 | Four Powers (Nero's CP9 mastery level) | 四式 |
-| Nero "the Sea Weasel" (epithet) | 「海鼬」乂洛 |
+| Nero "the Sea Weasel" (epithet) | 「海鼬」尼洛 |
 | Perfect Climate Baton (Nami's upgraded weapon) | 完美天候棒 |
 | Ramen Kenpo (episode title, Water Seven 18) | 拉麵拳法 |
 | Operation Rescue Robin | 拯救羅賓行動 |
@@ -1080,7 +1080,7 @@ type: reference
 ## Characters (Little Garden Arc)
 | English | 繁體中文 |
 |---|---|
-| Dorry (Elbaf giant warrior) | 乂利 |
+| Dorry (Elbaf giant warrior) | 多利 |
 | Broggy (Elbaf giant warrior) | 布洛基 |
 
 ## Characters (Enies Lobby Arc)
@@ -1088,8 +1088,8 @@ type: reference
 |---|---|
 | Oimo (giant gatekeeper) | 奧伊莫 |
 | Kashi (giant gatekeeper) | 卡西 |
-| Spandam (CP9 Chief) | 斯帕乂姆 |
-| Spandine (CP9 Chief, 20 years earlier, Spandam's father) | 斯帕乂因 |
+| Spandam (CP9 Chief) | 斯帕達姆 |
+| Spandine (CP9 Chief, 20 years earlier, Spandam's father) | 斯帕達因 |
 | Baskerville (Chief Justice, three-headed) | 巴斯卡維爾（首席法官，三頭）|
 | Left Baskerville | 左巴斯卡維爾 |
 | Right Baskerville | 右巴斯卡維爾 |
@@ -1100,10 +1100,10 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Nico Olvia (Robin's mother) | 妮可·歐爾維亞 |
-| Professor Clover (Ohara Head Librarian) | 乂洛佛教授 |
-| Jaguar D. Saul (Giant, castaway) | 加加·D·乂爾 |
+| Professor Clover (Ohara Head Librarian) | 克洛巴教授 |
+| Jaguar D. Saul (Giant, castaway) | 哈古瓦爾·D·薩烏羅 |
 | Aunt Roji (Robin's aunt) | 蘿姬阿姨 |
-| Kuzan (Vice Admiral, later Admiral Aokiji) | 乂贊 |
+| Kuzan (Vice Admiral, later Admiral Aokiji) | 庫贊 |
 
 ## Locations (Ohara Flashback)
 | English | 繁體中文 |
@@ -1226,7 +1226,7 @@ type: reference
 | Lethal Sunflower Star (Sogeking/Usopp attack) | 必殺向日葵星 |
 | Advanced Kabuto (Sogeking's upgraded slingshot) | 進化獨角仙 |
 | Jabra (CP9 member, wolf zoan) | 加布拉（CP9成員，狼動物系）|
-| Fukuro (CP9 member) | 福乂洛（CP9成員）|
+| Fukuro (CP9 member) | 福庫羅（CP9成員）|
 | Kumadori (CP9 member) | 熊多利（CP9成員）|
 | Noseking / Sogeking (Usopp alias, alternate) | 鼻擊王 / 狙擊王 |
 | Wolf Shot (Jabra attack) | 狼彈 |
@@ -1301,18 +1301,18 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Brook / "Just Dead Bones" Brook | 布魯克 / 「只剩白骨」的布魯克 |
-| Gekko Moriah (Warlord of the Sea) | 乂科·乂利亞（七武海）|
-| Doctor Hogback (genius surgeon) | 乂乂乂克醫生（天才外科醫生）|
-| Cindry / Victoria Cindry | 乂德莉 / 維多利亞·乂德莉 |
-| Hildon (bat-man servant) | 乂爾頓（蝙蝠男僕人）|
-| Absalom / "Absalom of the Graveyard" | 乂布薩羅姆 / 「墓場的乂布薩羅姆」|
-| Perona / "Ghost Princess" | 乂洛娜 / 「幽靈公主」|
-| Kumashi (Perona's bear zombie) | 乂瑪西（乂洛娜的熊殭屍）|
-| Buhichuck (pig wall-zombie) | 布乂乂克（豬牆壁殭屍）|
+| Gekko Moriah (Warlord of the Sea) | 月光·莫利亞（七武海）|
+| Doctor Hogback (genius surgeon) | 霍古巴克醫生（天才外科醫生）|
+| Cindry / Victoria Cindry | 辛德莉 / 維多利亞·辛德莉 |
+| Hildon (bat-man servant) | 希爾頓（蝙蝠男僕人）|
+| Absalom / "Absalom of the Graveyard" | 阿布薩羅姆 / 「墓場的阿布薩羅姆」|
+| Perona / "Ghost Princess" | 培羅娜 / 「幽靈公主」|
+| Kumashi (Perona's bear zombie) | 庫瑪西（培羅娜的熊殭屍）|
+| Buhichuck (pig wall-zombie) | 布希丘克（豬牆壁殭屍）|
 | Ryuuma (legendary samurai zombie) | 龍馬（傳說中的武士殭屍）|
 | Lola (warthog zombie) | 蘿拉（野豬殭屍）|
 | Jigoro (zombie using Zoro's techniques) | 吉五郎（使用索隆招式的殭屍）|
-| Captain John (zombie general) | 乂翰船長（將軍殭屍）|
+| Captain John (zombie general) | 約翰船長（將軍殭屍）|
 | Spider Monkey (spider zombie) | 蜘蛛猴（蜘蛛殭屍）|
 | Risky Brothers (squirrel zombies) | 冒險兄弟（松鼠殭屍）|
 
@@ -1321,8 +1321,8 @@ type: reference
 |---|---|
 | Thriller Bark (wandering ghost island / largest pirate ship) | Thriller Bark（流浪的幽靈島 / 世界最大的海賊船）|
 | Florian Triangle | 佛羅利安三角地帶 |
-| Perona's Wonder Garden | 乂洛娜的奇幻花園 |
-| Tower of Justice / Dance Hall (Moriah's lair) | 舞廳（乂利亞的巢穴）|
+| Perona's Wonder Garden | 培羅娜的奇幻花園 |
+| Tower of Justice / Dance Hall (Moriah's lair) | 舞廳（莫利亞的巢穴）|
 
 ## Devil Fruits (Thriller Bark Arc)
 | English | 繁體中文 |
@@ -1422,26 +1422,26 @@ type: reference
 | Thunder Charge (Nami technique) | 蓄電 |
 | Swing Arm (Nami technique) | 迴轉臂 |
 | Namizou (Nami's alias on Thriller Bark) | 娜美藏 |
-| Noble-hippo (Perona's zombie vice-commander) | 乂乂河馬 |
+| Noble-hippo (Perona's zombie vice-commander) | 貴族河馬 |
 | Graveyard King (Absalom's self-title) | 墓場之王 |
 
 ## Characters (Post-Enies Lobby Arc)
 | English | 繁體中文 |
 |---|---|
 | Monkey D. Garp (Vice Admiral, "Garp the Fist") | 蒙其·D·卡普（中將，「鐵拳卡普」）|
-| Monkey D. Dragon (Revolutionary) | 蒙其·D·乂拉岡（革命家）|
-| Coby (Marine HQ Sergeant Major) | 乂比（海軍本部軍曹長）|
-| Helmeppo (Marine HQ Sergeant) | 乂爾乂波（海軍本部軍曹）|
+| Monkey D. Dragon (Revolutionary) | 蒙其·D·多拉格（革命家）|
+| Coby (Marine HQ Sergeant Major) | 克比（海軍本部軍曹長）|
+| Helmeppo (Marine HQ Sergeant) | 貝魯梅伯（海軍本部軍曹）|
 | Captain Morgan | 摩根上尉 |
 | Dadan (mountain bandit) | 達坦（山賊）|
-| Dr. Vegapunk (Marine scientist) | 乂乂乂克博士（海軍科學家）|
+| Dr. Vegapunk (Marine scientist) | 貝加龐克博士（海軍科學家）|
 | Thatch (4th Division Commander, Whitebeard Pirates) | 薩奇（四番隊隊長，白鬍子海賊團）|
-| Marco (1st Division Commander, Whitebeard Pirates) | 瑪爾乂（一番隊隊長，白鬍子海賊團）|
+| Marco (1st Division Commander, Whitebeard Pirates) | 瑪爾科（一番隊隊長，白鬍子海賊團）|
 | Kaya (Syrup Village) | 可雅（西羅布村）|
-| Genzo / Gen-san (Cocoyashi Village) | 乂恩先生（可可亞西村）|
-| Nojiko (Nami's sister) | 乂希可（娜美的姐姐）|
+| Genzo / Gen-san (Cocoyashi Village) | 源造先生（可可亞西村）|
+| Nojiko (Nami's sister) | 諾琪高（娜美的姐姐）|
 | Dolton (Sakura Kingdom) | 多爾頓（櫻花王國）|
-| Doctor Kureha (Doctorine) | 乂蕾哈醫生（朵麗妮）|
+| Doctor Kureha (Doctorine) | 庫蕾哈醫生（朵麗妮）|
 
 ## Locations (Post-Enies Lobby Arc)
 | English | 繁體中文 |
@@ -1452,7 +1452,7 @@ type: reference
 | Cocoyashi Village (Nami's hometown) | 可可亞西村（娜美的故鄉）|
 | Sakura Kingdom (Chopper's hometown) | 櫻花王國（喬巴的故鄉）|
 | Baltigo (Revolutionary Army base) | 巴爾迪哥（革命軍基地）|
-| Banaro Island | 巴乂洛島 |
+| Banaro Island | 巴基洛島 |
 | Baratie (Floating Restaurant) | 巴拉蒂（海上餐廳）|
 | Loguetown | 羅格鎮 |
 | Fish-man Island | 魚人島 |
@@ -1500,9 +1500,9 @@ type: reference
 | Rolling Pirates | 滾動海賊團 |
 | Nightmare Luffy (100 shadows form) | 噩夢魯夫（100個影子型態）|
 | Spoil (Victim Association President) | 斯波伊爾（受害者協會會長）|
-| Captain Yorki / "Calico Yorki" (Rumbar Pirates) | 乂奇船長 /「花布乂奇」（倫巴海賊團）|
+| Captain Yorki / "Calico Yorki" (Rumbar Pirates) | 約奇船長 /「花布約奇」（倫巴海賊團）|
 | Rumbar Pirates | 倫巴海賊團 |
-| Crocus (Twin Capes lighthouse keeper) | 乂洛乂斯（雙子岬燈塔看守人）|
+| Crocus (Twin Capes lighthouse keeper) | 克洛克斯（雙子岬燈塔看守人）|
 | Laboon (whale, Brook's friend) | 拉布（鯨魚，布魯克的夥伴）|
 | Margarita (shadow victim, maid) | 瑪格麗塔（影子受害者，女僕）|
 | Kaido (Four Emperors) | 凱多（四皇）|
@@ -1561,12 +1561,12 @@ type: reference
 ## Characters (Amazon Lily Arc)
 | English | 繁體中文 |
 |---|---|
-| Boa Hancock / Pirate Empress / Snake Princess | 乂亞·漢考克 / 海賊女帝 / 蛇姬 |
+| Boa Hancock / Pirate Empress / Snake Princess | 波亞·漢考克 / 海賊女帝 / 蛇姬 |
 | Marguerite (Kuja warrior) | 瑪格麗特（九蛇戰士）|
 | Sweetpea (Kuja warrior) | 甜豌豆（九蛇戰士）|
 | Aphelandra (Kuja warrior) | 阿芬蘭朵拉（九蛇戰士）|
 | Kikyo (Kuja warrior) | 桔梗（九蛇戰士）|
-| Belladonna (Kuja doctor) | 貝拉乂娜（九蛇醫生）|
+| Belladonna (Kuja doctor) | 貝拉多娜（九蛇醫生）|
 | Granny Nyon / Elder Nyon | 妞妞婆婆 |
 
 ## Locations (Amazon Lily Arc)
@@ -1585,8 +1585,8 @@ type: reference
 | Crying Mushroom | 哭菇 |
 | Gol (Amazon Lily currency) | 哥爾 |
 | Family jewels (Luffy's euphemism) | 傳家之寶 |
-| Boa Marigold (youngest Gorgon Sister) | 乂亞·瑪莉哥德（蛇髮三姊妹的三女）|
-| Boa Sandersonia (second Gorgon Sister) | 乂亞·桑達索尼亞（蛇髮三姊妹的二女）|
+| Boa Marigold (youngest Gorgon Sister) | 波亞·瑪莉哥德（蛇髮三姊妹的三女）|
+| Boa Sandersonia (second Gorgon Sister) | 波亞·桑達索尼亞（蛇髮三姊妹的二女）|
 | Gorgon Sisters | 蛇髮三姊妹 |
 | Gorgon (monster legend) | 蛇髮女妖 |
 | Yuda (Hancock's pirate ship) | 遊蛇號（漢考克的海賊船）|
@@ -1604,7 +1604,7 @@ type: reference
 | White sake | 白酒 |
 | Center sea people (outsiders from Grand Line) | 中央海域的人（從偉大航道來的外人）|
 | Sea Prism Stone (in warship) | 海樓石（軍艦中）|
-| Bacura (executioner panther) | 巴乂拉（處刑黑豹）|
+| Bacura (executioner panther) | 巴庫拉（處刑黑豹）|
 | Love-Love Beam (Hancock attack) | 甜甜戀風（漢考克攻擊）|
 | Pistol Kiss (Hancock attack) | 手槍之吻（漢考克攻擊）|
 | Snake Pit Dance (Gorgon Sisters fighting style) | 蛇穴之舞（蛇髮三姊妹的戰鬥風格）|
@@ -1629,8 +1629,8 @@ type: reference
 | News Coo (newspaper delivery bird) | 新聞鷗（送報鳥）|
 | Hancock's Confession (episode title) | 漢考克的告白（集數標題）|
 | Pit of blades (arena hazard) | 刀刃之坑（鬥技場的危險裝置）|
-| Weatheria (small Sky Island, weather research) | 威乂席亞（小型空島，天氣研究）|
-| Knots of Wind (Weatheria weather science) | 風之結（威乂席亞氣象科學）|
+| Weatheria (small Sky Island, weather research) | 威瑟利亞（小型空島，天氣研究）|
+| Knots of Wind (Weatheria weather science) | 風之結（威瑟利亞氣象科學）|
 | Mechanical Island / Bulgemore (future kingdom) | 機械島 / 巴爾吉摩爾（未來國度）|
 | Peachy Island (second Island of Women) | 桃色島（第二座女人之島）|
 | Kamabakka Kingdom | 卡瑪巴卡王國 |
@@ -1649,7 +1649,7 @@ type: reference
 ## Characters (Impel Down Arc)
 | English | 繁體中文 |
 |---|---|
-| Hannyabal (Assistant Warden) | 乂尼巴爾（副典獄長）|
+| Hannyabal (Assistant Warden) | 般若拔（副典獄長）|
 | Magellan (Prison Warden) | 麥哲倫（典獄長）|
 | Domino (Vice Chief Jailer) | 多米諾（副看守長）|
 
@@ -1705,11 +1705,11 @@ type: reference
 | Burning Heat Hell (Level 4 name) | 焦熱地獄（第四層名稱）|
 | Demon guards (four beast jailers) | 獄卒獸（四隻惡魔守衛）|
 | Candle Lock (Mr. 3 attack) | 蠟燭鎖定（3號先生攻擊）|
-| Bara Bara Cannon (Buggy attack) | 四分五裂大砲（巴乂攻擊）|
-| Golden Lion (Shiki, legendary prisoner) | 金獅子（乂奇，傳說中的囚犯）|
-| Fake Legs Master-Plan (Buggy tactic) | 假腳大作戰（巴乂的戰術）|
-| Escape Alliance (Buggy & Mr. 3 pact) | 逃跑同盟（巴乂和3號先生的約定）|
-| Miss Goldenweek (Baroque Works painter) | 乂金薇克小姐（巴洛克工作社畫家）|
+| Bara Bara Cannon (Buggy attack) | 四分五裂大砲（巴基攻擊）|
+| Golden Lion (Shiki, legendary prisoner) | 金獅子（史基，傳說中的囚犯）|
+| Fake Legs Master-Plan (Buggy tactic) | 假腳大作戰（巴基的戰術）|
+| Escape Alliance (Buggy & Mr. 3 pact) | 逃跑同盟（巴基和3號先生的約定）|
+| Miss Goldenweek (Baroque Works painter) | 黃金週小姐（巴洛克工作社畫家）|
 | Diarrhea Man (prisoners' nickname for Magellan) | 拉肚子男（囚犯對麥哲倫的綽號）|
 | Straw-chan (Bon Kurei's nickname for Luffy) | 草帽醬（蹦可雷對魯夫的暱稱）|
 | Bon-chan (Luffy's nickname for Mr. 2) | 蹦可雷（魯夫對2號先生的暱稱）|
@@ -1722,15 +1722,15 @@ type: reference
 | Inferno Hell (Level 4 full name) | 焦熱地獄（第四層正式名稱）|
 | Vent Column (Level 3 structure) | 通氣井（第三層結構）|
 | Well-hole tower (Impel Down structure) | 通氣井塔（推進城結構）|
-| Muggy-Ball (Buggy's mini weapon) | 瑪乂彈（巴乂的迷你武器）|
-| Special Muggy-Ball (Buggy attack) | 特製瑪乂彈（巴乂攻擊）|
-| Buggy-Ball (Buggy's cannonball) | 巴乂彈（巴乂的砲彈）|
+| Muggy-Ball (Buggy's mini weapon) | 瑪吉彈（巴基的迷你武器）|
+| Special Muggy-Ball (Buggy attack) | 特製瑪吉彈（巴基攻擊）|
+| Buggy-Ball (Buggy's cannonball) | 巴基彈（巴基的砲彈）|
 | Hammer Rifle (Luffy attack) | 鐵鎚來福槍（魯夫攻擊）|
 | Iva-san (Ivankov, Miracle Man) | 伊娃先生（奇蹟之人）|
 | Okama Queen (Ivankov's title) | 御宅女王（伊娃先生的稱號）|
 | Kamabakka Queendom / Momoiro Island | 卡瑪巴卡王國 / 桃色島 |
-| Daz Bones (former BW assassin, Mr. 1) | 達斯·乂恩斯（前巴洛克工作社刺客，1號先生）|
-| Galdino (Mr. 3's real name) | 乂爾迪諾（3號先生的本名）|
+| Daz Bones (former BW assassin, Mr. 1) | 達茲·波涅斯（前巴洛克工作社刺客，1號先生）|
+| Galdino (Mr. 3's real name) | 蓋爾迪諾（3號先生的本名）|
 | Army Wolves (Level 5 beasts) | 軍隊狼（第五層猛獸）|
 | Level 5 - Frozen Hell | 第五層 冰凍地獄 |
 | Demon's Tug (prisoner disappearance phenomenon) | 魔鬼的拖拽（囚犯失蹤現象）|
@@ -1764,6 +1764,7 @@ type: reference
 | Great Scissors (Inazuma attack) | 大剪刀（伊那茲瑪攻擊）|
 | Keep Out (Inazuma defense) | 禁止通行（伊那茲瑪防禦）|
 | Emporio Healing Hormone (Ivankov technique) | 恩波里奧治癒賀爾蒙（伊萬科夫技術）|
+| Emporio Tension Hormone (Ivankov technique) | 恩波里奧興奮賀爾蒙（伊萬科夫技術）|
 | Emporio Female Hormone (Ivankov technique) | 恩波里奧女性賀爾蒙（伊萬科夫技術）|
 | Hormone Fruit (Ivankov's devil fruit) | 賀爾蒙果實（伊萬科夫的惡魔果實）|
 | Kama Land (short for Newkama Land) | 人妖樂園（新人妖樂園的簡稱）|
@@ -1772,38 +1773,38 @@ type: reference
 | Bon-boy (Ivankov's nickname for Bon Kurei) | 蹦可雷小子（伊萬科夫對蹦可雷的暱稱）|
 | Straw-Hat-boy (Ivankov's nickname for Luffy) | 草帽小子（伊萬科夫對魯夫的暱稱）|
 | Level 6 - Eternal Hell | 第六層 永恆地獄 |
-| Katarina Devon (Level 6 prisoner) | 卡塔麗娜·乂芳（第六層囚犯）|
-| San Juan Wolf (Level 6 prisoner) | 聖乂安·乂爾夫（第六層囚犯）|
-| Basco Shot (Level 6 prisoner) | 巴斯柯·乂特（第六層囚犯）|
+| Katarina Devon (Level 6 prisoner) | 卡達莉納·戴彭（第六層囚犯）|
+| San Juan Wolf (Level 6 prisoner) | 聖胡安·沃爾夫（第六層囚犯）|
+| Basco Shot (Level 6 prisoner) | 巴斯可·蕭特（第六層囚犯）|
 | Saldeath (Chief Guard) | 薩爾迪斯（看守長）|
 
 ## Characters (Sabaody Archipelago Arc)
 | English | 繁體中文 |
 |---|---|
 | Camie (Kissing Gourami mermaid) | 卡蜜（接吻魚人魚）|
-| Pappag (starfish, Criminal brand designer) | 帕帕乂（海星，Criminal品牌設計師）|
+| Pappag (starfish, Criminal brand designer) | 帕帕古（海星，Criminal品牌設計師）|
 | Hatchan / Hacchan / Hachi (Octopus Fishman, takoyaki seller) | 八金 / 八吉（章魚魚人，章魚燒師傅）|
-| Duval / "Iron Mask Duval" | 乂巴爾 / 「鐵面具乂巴爾」|
-| Motobaro (Duval's bison) | 毛多巴洛（乂巴爾的愛牛）|
+| Duval / "Iron Mask Duval" | 杜巴爾 / 「鐵面具杜巴爾」|
+| Motobaro (Duval's bison) | 毛多巴洛（杜巴爾的愛牛）|
 | Macro (Macro Pirates boss, Makropharynx Fishman) | 瑪克洛（瑪克洛海賊團老大，巨咽壺魚魚人）|
-| Gyaro (Pop-Eyed Goldfish Fishman) | 乂亞洛（凸眼金魚魚人）|
+| Gyaro (Pop-Eyed Goldfish Fishman) | 基亞洛（凸眼金魚魚人）|
 | Tansui (Arowana Fishman) | 丹水（龍魚魚人）|
 | Shakky / Shakuyaku (bar owner, former pirate) | 夏琪（酒吧老闆娘，前海賊）|
-| Silvers Rayleigh (coating mechanic, former pirate) | 乂爾佛斯·雷利（鍍膜師，前海賊）|
-| Peterman (Hound Pets kidnapping team boss) | 乂特曼（綁架集團「獵犬寵物」老大）|
+| Silvers Rayleigh (coating mechanic, former pirate) | 席爾佛斯·雷利（鍍膜師，前海賊）|
+| Peterman (Hound Pets kidnapping team boss) | 彼得曼（綁架集團「獵犬寵物」老大）|
 | Disco (Human Auction House host) | 迪斯可（人口拍賣場主持人）|
 | Saint Roswald (Celestial Dragon) | 聖·羅茲瓦德（天龍人）|
 | Saint Shalria (Celestial Dragon) | 聖·夏爾莉雅（天龍人）|
 | Saint Charlos (Celestial Dragon) | 聖·查爾羅斯（天龍人）|
-| Eustass "Captain" Kid | 尤斯塔斯「船長」乂德 |
-| Killer "Massacre Soldier" | 「殺戮武人」乂乂 |
+| Eustass "Captain" Kid | 尤斯塔斯「船長」基德 |
+| Killer "Massacre Soldier" | 「殺戮武人」奇拉 |
 | Trafalgar Law "Surgeon of Death" | 「死亡外科醫」特拉法爾加·羅 |
 | Basil Hawkins "The Magician" | 「魔術師」巴茲爾·霍金斯 |
-| Scratchmen Apoo "Roar of the Sea" | 「海鳴」斯克拉奇曼·乂普 |
-| X-Drake "Red Flag" | 「赤旗」X乂乂雷克 |
+| Scratchmen Apoo "Roar of the Sea" | 「海鳴」斯克拉奇曼·亞普 |
+| X-Drake "Red Flag" | 「赤旗」X德雷克 |
 | Urouge "Mad Monk" | 「怪僧」烏魯基 |
-| Capone "Gang" Bege | 卡波涅「乂哥」貝乂 |
-| Jewelry Bonney "The Glutton" | 「大胃女」乂乂莉·乂妮 |
+| Capone "Gang" Bege | 卡波涅「大哥」貝基 |
+| Jewelry Bonney "The Glutton" | 「大胃女」珠寶莉·波妮 |
 
 ## Locations (Sabaody Archipelago Arc)
 | English | 繁體中文 |
@@ -1855,13 +1856,13 @@ type: reference
 |---|---|
 | Sentoumaru (Navy HQ, Science Patrol Captain) | 戰桃丸（海軍本部科學部隊隊長）|
 | Borsalino / "Kizaru" (Navy HQ Admiral) | 波爾薩利諾 / 「黃猿」（海軍本部大將）|
-| Jean Bart (pirate captain, Law's recruit) | 乂恩·巴特（海賊船長，羅的招募成員）|
+| Jean Bart (pirate captain, Law's recruit) | 尚·巴特（海賊船長，羅的招募成員）|
 | Bepo (Heart Pirates, bear mink) | 貝波（紅心海賊團，熊毛皮族）|
 | Coffee Monkeys (kidnapping team) | 咖啡猴子（綁架集團）|
 | Byron (slave #1, musician pirate) | 拜倫（1號奴隸，音樂家海賊）|
 | Pascia (slave #15, dancer) | 帕希亞（15號奴隸，舞者）|
 | Lacuba (slave #16, pirate captain) | 拉庫巴（16號奴隸，海賊船長）|
-| Donquixote Doflamingo (Seven Warlords) | 唐乂柯德·乂佛朗明歌（七武海）|
+| Donquixote Doflamingo (Seven Warlords) | 唐吉訶德·多佛朗明哥（七武海）|
 
 ## Terms (Sabaody Archipelago Arc - continued)
 | English | 繁體中文 |

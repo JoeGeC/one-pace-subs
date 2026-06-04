@@ -25,7 +25,7 @@ Style: Roger Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H780
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 50,0:01:49.98,0:01:52.67,Main-207-,,0,0,0,,乂妮絲她會沒事嗎？
+Dialogue: 50,0:01:49.98,0:01:52.67,Main-207-,,0,0,0,,柯妮絲她會沒事嗎？
 Dialogue: 50,0:01:52.67,0:01:56.46,Main-207-,,0,0,0,,她試著救我們\N結果變成了共犯！
 Dialogue: 50,0:01:56.46,0:01:59.13,Main-207-,,0,0,0,,她一定會受到嚴厲懲罰的！
 Dialogue: 50,0:01:59.13,0:02:02.73,Main-207-,,0,0,0,,那個空騎士老伯說\N會照看她，可是……
@@ -325,7 +325,7 @@ Dialogue: 50,0:21:35.52,0:21:38.64,Main-207-,,0,0,0,,可、可惡！香吉士！
 Dialogue: 50,0:21:42.36,0:21:47.12,Main-207-,,0,0,0,,嗯，我沒事……\N不過那到底是什麼鬼？！
 Dialogue: 50,0:21:47.12,0:21:50.46,Main-207-,,0,0,0,,完全不明白……！他是個謎！
 Dialogue: 50,0:21:52.75,0:21:55.36,Main-207-,,0,0,0,,我的名字是沙多利！
-Dialogue: 50,0:21:55.36,0:21:59.42,Main-207-,,0,0,0,,我是全能的\N神艾乂爾的神官之一！
+Dialogue: 50,0:21:55.36,0:21:59.42,Main-207-,,0,0,0,,我是全能的\N神艾尼路的神官之一！
 Dialogue: 50,0:21:59.42,0:22:02.13,Main-207-,,0,0,0,,我擁有迷途之森中的\N大地。
 Dialogue: 50,0:22:02.62,0:22:03.97,Main-207-,,0,0,0,,迷途之森？
 Dialogue: 50,0:22:03.97,0:22:04.93,Main-207-,,0,0,0,,沒錯！
