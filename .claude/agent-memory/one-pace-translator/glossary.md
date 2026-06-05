@@ -2137,6 +2137,36 @@ type: reference
 | Weak-hoshi (Luffy's nickname for Shirahoshi) | 弱星（魯夫對白星的暱稱）|
 | Minister of the Right (Ryuuguu Kingdom) | 右大臣（龍宮王國）|
 
+## Characters (Post-War Arc)
+| English | 繁體中文 |
+|---|---|
+| Silvers Rayleigh / Dark King Rayleigh | 席爾佛斯·雷利 / 冥王雷利 |
+| Haredas (Weatheria old man) | 哈雷達斯（威瑟利亞老人）|
+| Heracles / Heraclesun (Bowin Islands warrior) | 海格力斯 / 海格力遜（波音列島戰士）|
+| Humandrills (weapon-using baboons) | 人狒（會使用武器的狒狒）|
+| Dracule Mihawk / Hawk Eye | 「鷹眼」密佛格 |
+| Perona (Ghost Princess, on Gloom Island) | 培羅娜（幽靈公主，在陰鬱島）|
+| Trafalgar Law | 特拉法爾加·羅 |
+| Shakky / Shakuyaku | 夏琪 |
+| Baldimore / Futureland | 巴爾吉摩爾 / 未來國度 |
+
+## Terms (Post-War Arc)
+| English | 繁體中文 |
+|---|---|
+| Nightmare of Baldimore | 巴爾吉摩爾的惡夢 |
+| Ground-heating system | 地面加熱系統 |
+| Self-destruct button | 自毀按鈕 |
+| Ice breaker (ship) | 破冰船 |
+| Stomach baron (meat-eating plant) | 食肉男爵（肉食植物）|
+| Knots of wind (Weatheria tech) | 風之結（威瑟利亞技術）|
+| Weather balls | 氣象球 |
+| Dark Lord Satan (Brook's alias on Namakura Island) | 暗黑霸王撒旦（布魯克在長花薄島的化名）|
+| Longarm Tribe | 長手族 |
+| Demonic summoning (villagers' ritual) | 召喚惡魔（村民的儀式）|
+| Sea hippo | 海河馬 |
+| Usoppun (Heracles' suffix for Usopp) | 騙人布遜（海格力遜對騙人布的稱呼）|
+| Heraclesun (Heracles' name with -sun suffix) | 海格力遜（海格力斯加-遜後綴）|
+
 ## Characters (Post-War Arc - ASL Flashback)
 | English | 繁體中文 |
 |---|---|
