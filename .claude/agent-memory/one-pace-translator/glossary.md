@@ -2136,3 +2136,30 @@ type: reference
 | Bro-hoshi (Luffy's nickname for Fukaboshi) | 大哥星（魯夫對福卡博西的暱稱）|
 | Weak-hoshi (Luffy's nickname for Shirahoshi) | 弱星（魯夫對白星的暱稱）|
 | Minister of the Right (Ryuuguu Kingdom) | 右大臣（龍宮王國）|
+
+## Characters (Post-War Arc - ASL Flashback)
+| English | 繁體中文 |
+|---|---|
+| Sabo (Ace & Luffy's sworn brother) | 薩乘（艾斯和魯夫的義兄弟）|
+| Curly Dadan (mountain bandit boss) | 卷毛達坦（山賊頭子）|
+| Dogra (mountain bandit) | 多格拉（山賊）|
+| Magra (mountain bandit) | 瑪格拉（山賊）|
+| Porchemy (Bluejam Pirates) | 波齊米（乘傑姆海賊團）|
+| Captain Bluejam | 乘傑姆船長 |
+| Dadan Family (mountain bandits) | 達坦家族（山賊）|
+| Bluejam Pirates | 乘傑姆海賊團 |
+
+## Locations (Post-War Arc - ASL Flashback)
+| English | 繁體中文 |
+|---|---|
+| Gray Terminal (junkyard north of Mt. Colubo) | 不確定物的終點站（可爾波山北方的垃圾場）|
+| Mount Colubo | 可爾波山 |
+| Pirate Bay (Gray Terminal cove) | 海賊灣（不確定物終點站海灣）|
+
+## Terms (Post-War Arc - ASL Flashback)
+| English | 繁體中文 |
+|---|---|
+| Pirate fund (Ace & Sabo's savings) | 海賊基金（艾斯和薩乘的積蓄）|
+| Mountain bandit | 山賊 |
+| Shanks (Luffy's idol, referenced) | 傑克斯（魯夫崇拜的人）|
+| Rubber Rubber Fruit (Gomu Gomu no Mi) | 橡膠果實 |
