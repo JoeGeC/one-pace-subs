@@ -2064,6 +2064,20 @@ type: reference
 | Koala (former slave girl, Sun Pirates passenger) | 乘拉（前奴隸少女，太陽海賊團的乘客）|
 | Rear Admiral Kadaru (Navy G2) | 卡達魯少將（海軍G2部隊）|
 | Strawberry (Navy officer, ambushed Sun Pirates) | 斯特羅貝里（海軍軍官，伏擊太陽海賊團）|
+| Saint Myosgard (Celestial Dragon) | 苗斯加德聖（天龍人）|
+| Aladdin (Sun Pirates doctor) | 阿拉丁（太陽海賊團醫生）|
+| Minister of the Left (Ryuuguu Kingdom) | 左大臣（龍宮王國）|
+
+## Terms (Fishman Island Arc - Otohime/Tiger Flashback)
+| English | 繁體中文 |
+|---|---|
+| Tamate Box (Ryuuguu Palace treasure) | 玉手箱（龍宮城寶物）|
+| Koukaku Tower (Ryuuguu Palace) | 硬殼塔（龍宮城）|
+| Border Police (Fishman Island) | 邊境警察（魚人島）|
+| World Council / World Council Meeting | 世界會議 |
+| Council of Kings | 國王會議 |
+| Petition / Signature collection | 請願書 / 簽名收集 |
+| Ryuuguu Gondola | 龍宮纜車 |
 
 ## Neptune's Speech Quirk
 | English | 繁體中文 |
