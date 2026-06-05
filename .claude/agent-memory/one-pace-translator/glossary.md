@@ -2155,6 +2155,11 @@ type: reference
 | Gray Terminal (junkyard north of Mt. Colubo) | 不確定物的終點站（可爾波山北方的垃圾場）|
 | Mount Colubo | 可爾波山 |
 | Pirate Bay (Gray Terminal cove) | 海賊灣（不確定物終點站海灣）|
+| Goa Kingdom | 哥雅王國 |
+| High Town (noble district) | 上城區（貴族區）|
+| Edge Town (commoner/thug area) | 邊緣鎮（平民/流氓區）|
+| Midtown | 中城區 |
+| Great Gate (Goa Kingdom gate) | 大門（哥雅王國城門）|
 
 ## Terms (Post-War Arc - ASL Flashback)
 | English | 繁體中文 |
@@ -2163,3 +2168,7 @@ type: reference
 | Mountain bandit | 山賊 |
 | Shanks (Luffy's idol, referenced) | 傑克斯（魯夫崇拜的人）|
 | Rubber Rubber Fruit (Gomu Gomu no Mi) | 橡膠果實 |
+| Sterry (Sabo's adopted brother) | 史乘利（薩乘的養弟）|
+| Treasure tab (boys' IOU note) | 寶藏記帳（男孩們的賒帳條）|
+| Oath of Brotherhood (episode title) | 兄弟之誓（集數標題）|
+| World Government observers | 世界政府視察團 |
