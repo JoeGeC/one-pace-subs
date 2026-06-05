@@ -2154,6 +2154,9 @@ type: reference
 | Cabaji (Buggy Pirates chief of staff) | 卡巴吉（巴基海賊團參謀長）|
 | Mohji (Buggy Pirates first mate) | 摩奇（巴基海賊團副船長）|
 | Shikkearu Kingdom (ruins, Zoro's training location) | 席凱阿爾王國（廢墟，索隆的修行地）|
+| Avalo Pizarro (Blackbeard Pirates) | 阿瓦羅·乘乘羅（黑鬍子海賊團）|
+| Ruskaina (Dessert Island, Luffy's training location) | 魯斯卡伊納（無人島，魯夫的修行地）|
+| Island of 48 Seasons (Ruskaina epithet) | 四十八個季節之島（魯斯卡伊納的別稱）|
 
 ## Terms (Post-War Arc)
 | English | 繁體中文 |
