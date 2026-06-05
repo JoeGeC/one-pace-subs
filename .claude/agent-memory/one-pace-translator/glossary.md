@@ -2057,6 +2057,16 @@ type: reference
 | Coup de Burst | 風來爆發 |
 | Trawl Net (Hammond attack) | 拖網（哈蒙德攻擊）|
 | Shark Tile True Fist (Jinbe, Fishman Karate) | 鯊瓦正拳（吉貝爾，魚人空手道）|
+| Black Rope: Grand Dragon Twist (Zoro attack) | 黑繩·大龍捲 |
+| A Thousand Needles (Zoro attack) | 千本針 |
+| FR-U 4 / Black Rhino (Soldier Dock Channel 4) | FR-U 4 / 黑犀牛（船塢系統四號頻道）|
+| Brachio Tank 5 (Soldier Dock Channel 5) | 腕龍坦克5號（船塢系統五號頻道）|
+| Steel Shell Squadron (New Fishman Pirates unit) | 鐵殼中隊（新魚人海賊團部隊）|
+| Sea Urchin Spine Squadron (New Fishman Pirates unit) | 海膽刺中隊（新魚人海賊團部隊）|
+| Harisenbon (New Fishman Pirates commander) | 千針豚（新魚人海賊團隊長）|
+| Lethal Poison Squad (New Fishman Pirates unit) | 劇毒中隊（新魚人海賊團部隊）|
+| Bombarding Squad (New Fishman Pirates unit) | 砲擊隊（新魚人海賊團部隊）|
+| Uchimizu (Fishman Karate water shot) | 撥水（魚人空手道水彈）|
 
 ## Characters (Fishman Island Arc - Otohime/Tiger Flashback)
 | English | 繁體中文 |
