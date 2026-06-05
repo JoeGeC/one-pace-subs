@@ -2067,6 +2067,10 @@ type: reference
 | Lethal Poison Squad (New Fishman Pirates unit) | 劇毒中隊（新魚人海賊團部隊）|
 | Bombarding Squad (New Fishman Pirates unit) | 砲擊隊（新魚人海賊團部隊）|
 | Uchimizu (Fishman Karate water shot) | 撥水（魚人空手道水彈）|
+| Sure-Kill Daruma Drop (Daruma attack) | 必殺達摩落（達摩攻擊）|
+| Iron Pirate: General Franky (Franky mech) | 鐵之海賊：佛朗基將軍（佛朗基機甲）|
+| Fransword (General Franky weapon) | 佛朗劍（佛朗基將軍武器）|
+| Wapometal (shape-adapting alloy) | 瓦波金屬（形狀適應合金）|
 
 ## Characters (Fishman Island Arc - Otohime/Tiger Flashback)
 | English | 繁體中文 |
