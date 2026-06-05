@@ -2002,6 +2002,9 @@ type: reference
 | Splash and Splatter (pirate twins, blood donors) | 飛沫與濺血（海賊雙胞胎，捐血者）|
 | Killifish Mermaid Quintuplets | 鱂魚人魚五胞胎 |
 | Ichika / Nika / Sanka / Yonka / Yonka Two | 一花 / 二花 / 三花 / 四花 / 四花二號 |
+| Pekoms / Sir Pekoms (Big Mom Pirates, lion mink) | 乘高斯（大媽海賊團，獅子毛皮族）|
+| Baron Tamago (Big Mom Pirates, egg-man) | 塔瑪哥男爵（大媽海賊團，蛋人）|
+| Bobbin (Big Mom Pirates subordinate) | 波賓（大媽海賊團部下）|
 
 ## Locations (Fishman Island Arc)
 | English | 繁體中文 |
@@ -2037,6 +2040,12 @@ type: reference
 | Swamp-Swamp Fruit / Numa Numa no Mi (Caribou) | 沼沼果實（乾隱布的惡魔果實）|
 | Coral continent | 珊瑚大陸 |
 | Candy factory (Big Mom's tribute) | 糖果工廠（大媽的進貢）|
+| Gura Gura no Mi / Tremor-Tremor Fruit (Whitebeard/Blackbeard) | 震震果實（白鬍子/黑鬍子的惡魔果實）|
+| Hito Hito no Mi / Human-Human Fruit (Chopper) | 人人果實（喬巴的惡魔果實）|
+| Big Mom Pirates | 大媽海賊團 |
+| Big Mom's Tea Party | 大媽的茶會 |
+| Protection agreement (Big Mom's deal) | 保護協議（大媽的交易）|
+| Uranus (Ancient Weapon) | 天王（古代兵器）|
 | Criminal (fashion brand) | Criminal（時尚品牌）|
 | Sea Turtle Elevator | 海龜電梯 |
 | Fish Taxi | 魚計程車 |
