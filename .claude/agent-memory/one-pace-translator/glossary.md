@@ -2056,6 +2056,7 @@ type: reference
 | Deadly Green Star: Sargasso (Usopp) | 必殺綠星：馬尾藻 |
 | Coup de Burst | 風來爆發 |
 | Trawl Net (Hammond attack) | 拖網（哈蒙德攻擊）|
+| Shark Tile True Fist (Jinbe, Fishman Karate) | 鯊瓦正拳（吉貝爾，魚人空手道）|
 
 ## Characters (Fishman Island Arc - Otohime/Tiger Flashback)
 | English | 繁體中文 |
@@ -2100,3 +2101,11 @@ type: reference
 |---|---|
 | -hi (Ikaros Much's sentence-ending) | -嗨（伊卡洛斯·乘奇的句尾口癖）|
 | Muhi (Ikaros's acknowledgment) | 呣嗨（伊卡洛斯的回應語）|
+
+## Terms (Fishman Island Arc - continued)
+| English | 繁體中文 |
+|---|---|
+| Projector Snail (broadcast device) | 投影電話蟲（廣播裝置）|
+| Fumi-e (loyalty stepping test) | 踏繪（忠誠踩踏測試）|
+| Gyoncord Plaza (execution location) | 魚鑼廣場（處刑地點）|
+| Joyboy (ancient figure, Poneglyph author) | 喬伊波伊（古代人物，歷史本文作者）|
