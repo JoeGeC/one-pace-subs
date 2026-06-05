@@ -2148,6 +2148,7 @@ type: reference
 | Captain Bluejam | 乘傑姆船長 |
 | Dadan Family (mountain bandits) | 達坦家族（山賊）|
 | Bluejam Pirates | 乘傑姆海賊團 |
+| Saint Jalmack (Celestial Dragon) | 加爾瑪克聖（天龍人）|
 
 ## Locations (Post-War Arc - ASL Flashback)
 | English | 繁體中文 |
