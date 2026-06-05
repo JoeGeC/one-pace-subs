@@ -2127,3 +2127,12 @@ type: reference
 | Fumi-e (loyalty stepping test) | 踏繪（忠誠踩踏測試）|
 | Gyoncord Plaza (execution location) | 魚鑼廣場（處刑地點）|
 | Joyboy (ancient figure, Poneglyph author) | 喬伊波伊（古代人物，歷史本文作者）|
+| Air Tank (Fishman Island structure) | 空氣罐（魚人島設施）|
+| Air Tank control tower | 空氣罐控制塔 |
+| Mega Monk (Wadatsumi threat name) | 超級僧侶（瓦達茲米威脅名）|
+| Ink Clone (Ikaros Much technique) | 墨汁分身（伊卡洛斯·乘奇的技術）|
+| Ikaros's Fluttering (Ikaros Much attack) | 伊卡洛斯的飄動（伊卡洛斯·乘奇攻擊）|
+| -gyaban (Dosun's powered-up sentence-ending) | -嘉班（哆遜強化後的句尾口癖）|
+| Bro-hoshi (Luffy's nickname for Fukaboshi) | 大哥星（魯夫對福卡博西的暱稱）|
+| Weak-hoshi (Luffy's nickname for Shirahoshi) | 弱星（魯夫對白星的暱稱）|
+| Minister of the Right (Ryuuguu Kingdom) | 右大臣（龍宮王國）|
