@@ -2173,3 +2173,8 @@ type: reference
 | Treasure tab (boys' IOU note) | 寶藏記帳（男孩們的賒帳條）|
 | Oath of Brotherhood (episode title) | 兄弟之誓（集數標題）|
 | World Government observers | 世界政府視察團 |
+| Makino (Foosha Village bartender) | 瑪琪諾（風車村酒保）|
+| Windmill Village / Foosha Village | 風車村 |
+| Dawn Island | 多恩島 |
+| Lord of the Coast (sea king near Foosha) | 近海之王（風車村附近的海王類）|
+| Will of the Winds (episode title) | 風之志向（集數標題）|
