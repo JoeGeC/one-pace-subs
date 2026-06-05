@@ -2149,10 +2149,22 @@ type: reference
 | Trafalgar Law | 特拉法爾加·羅 |
 | Shakky / Shakuyaku | 夏琪 |
 | Baldimore / Futureland | 巴爾吉摩爾 / 未來國度 |
+| Brownbeard (pirate, New World) | 茶鬍子（海賊，新世界）|
+| Kong (World Government Commander in Chief) | 乘（世界政府全軍總帥）|
+| Cabaji (Buggy Pirates chief of staff) | 卡巴吉（巴基海賊團參謀長）|
+| Mohji (Buggy Pirates first mate) | 摩奇（巴基海賊團副船長）|
+| Shikkearu Kingdom (ruins, Zoro's training location) | 席凱阿爾王國（廢墟，索隆的修行地）|
 
 ## Terms (Post-War Arc)
 | English | 繁體中文 |
 |---|---|
+| Ox Bell (sacred Marine bell) | 大梵鐘（海軍神聖之鐘）|
+| Sixteen bells (Marine tradition) | 十六響鐘（海軍傳統）|
+| Ox Lloyds (historic warship carrying Ox Bell) | 奧克斯·勞埃德號（載運大梵鐘的歷史軍艦）|
+| Carrier Bat (government messenger) | 信使蝙蝠（政府通訊）|
+| Foodvalten (New World island) | 福特法爾登（新世界島嶼）|
+| Teena Gaina Kingdom (Longarm Tribe kingdom) | 迪那蓋那王國（長手族王國）|
+| G-5 (Navy Grand Line 5th division) | G-5（海軍偉大航道第五支隊）|
 | Nightmare of Baldimore | 巴爾吉摩爾的惡夢 |
 | Ground-heating system | 地面加熱系統 |
 | Self-destruct button | 自毀按鈕 |
