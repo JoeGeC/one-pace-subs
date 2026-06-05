@@ -2071,6 +2071,10 @@ type: reference
 | Iron Pirate: General Franky (Franky mech) | 鐵之海賊：佛朗基將軍（佛朗基機甲）|
 | Fransword (General Franky weapon) | 佛朗劍（佛朗基將軍武器）|
 | Wapometal (shape-adapting alloy) | 瓦波金屬（形狀適應合金）|
+| Seven Thousand Tile Roundhouse Kick (Wadatsumi attack) | 七千枚瓦迴旋踢（瓦達茲米攻擊）|
+| Drunken Staggering Hash (Hyouzou attack) | 醉步亂劈（兇藏攻擊）|
+| Shark Cutter (Fukaboshi technique) | 鯊切（福卡博西技術）|
+| Mato Mato (Decken's Devil Fruit power) | 靶靶（乘肯的惡魔果實能力）|
 
 ## Characters (Fishman Island Arc - Otohime/Tiger Flashback)
 | English | 繁體中文 |
