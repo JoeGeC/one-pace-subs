@@ -2290,3 +2290,12 @@ type: reference
 | Repel (Law's enemy used; deflection) | 排擊 |
 | Captain (G-5 commander's self-reference, "Captain-chan") | 隊長 |
 | Cutie-swan (Mr. 2 / G-5 nickname for Tashigi) | 小可愛 |
+| Monet (CC org secretary, Punk Hazard) | 莫奈 |
+| Ope Ope Fruit / surgery-man (Law's devil fruit) | 手術果實 / 手術人 |
+| Jutte (Smoker's Seastone-tipped weapon) | 十手 |
+| Surgeon of Death (Law's epithet) | 死亡外科醫 |
+| Crocotaur (Luffy's name for Brownbeard) | 鱷魚馬 |
+| Boss (Brownbeard, underlings' term) | 老大 |
+| Smokey (Tashigi/G-5 nickname for Smoker) | 小斯莫 |
+| The frozen lands (PH ice region) | 冰封大地 |
+| Soul King (Brook, PH self-intro) | 靈魂之王 |
