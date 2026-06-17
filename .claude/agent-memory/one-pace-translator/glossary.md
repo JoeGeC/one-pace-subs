@@ -2276,3 +2276,17 @@ type: reference
 | Cybern (Franky self-intro, cut off) | 改造 |
 | The Burning Lands (PH region) | 燃燒之地 |
 | The Northwestern Shore (PH location) | 西北岸 |
+| Boyn Islands (where Usopp trained 2 years) | 波茵群島 |
+| Fan grass (Usopp's plant, used as oars) | 扇子草 |
+| Dr. Vegapunk (Marine scientist) | 貝卡帕庫博士 |
+| Trafalgar Law / "Surgeon of Death" | 托拉法爾加·羅 |
+| Boa Hancock / Pirate Empress | 波雅·漢考克 / 海賊女帝 |
+| Eustass Kid | 尤斯塔斯·基德 |
+| Roswald House (Celestial Dragon family, Sabaody) | 羅斯華德家族 |
+| G-5 (Marine base/unit, New World) | G-5 |
+| Room (Law's Ope Ope no Mi technique) | 房間 |
+| Shambles (Law's Ope Ope no Mi technique) | 搬運 |
+| Gum-Gum Balloon (Gomu Gomu no Fuusen, Luffy) | 橡膠氣球 |
+| Repel (Law's enemy used; deflection) | 排擊 |
+| Captain (G-5 commander's self-reference, "Captain-chan") | 隊長 |
+| Cutie-swan (Mr. 2 / G-5 nickname for Tashigi) | 小可愛 |
