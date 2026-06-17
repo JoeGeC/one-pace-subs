@@ -2299,3 +2299,9 @@ type: reference
 | Smokey (Tashigi/G-5 nickname for Smoker) | 小斯莫 |
 | The frozen lands (PH ice region) | 冰封大地 |
 | Soul King (Brook, PH self-intro) | 靈魂之王 |
+| Caesar Clown (former Govt scientist, CC mastermind) | 凱薩·克勞恩 (zh wiki / Fandom zh-TW) |
+| Joker (Caesar's backer / Doflamingo alias) | 喬卡 |
+| Foxfire Kinemon (Wano samurai) | 狐火錦右衛門 |
+| Basil Hawkins (Worst Generation, broke Brownbeard's crew) | 巴吉魯·霍金斯 |
+| X Drake (Worst Generation) | 德雷克 |
+| Doron (Mr.2/Bentham transformation SFX) | 咚隆 |
