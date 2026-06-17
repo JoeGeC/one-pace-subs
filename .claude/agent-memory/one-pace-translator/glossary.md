@@ -2256,3 +2256,24 @@ type: reference
 | Mini Merry (scout boat) | 迷你梅利 |
 | Vice-Admiral (Smoker's PH-era rank) | 中將 |
 | Boss (PH distress caller's term) | 老大 |
+| Smoker (Punk Hazard / New World era) | 斯莫格 |
+| Tashigi (Punk Hazard / New World era) | 塔西姬 |
+| Momonosuke (Wano child sought by Kin'emon) | 桃之助 |
+| Centaur (Punk Hazard creature) | 半人馬 |
+| Master (CC org leader, children's term for him) | 主人 |
+| CC (marking on Baby Snail Phones) | CC |
+| Biscuit Room (facility room, PH lab) | 餅乾室 |
+| Legson / Legman (Luffy's name for centaur's legs) | 腿吉 / 腿人 |
+| Iron man (gas troopers' term for Franky) | 鋼鐵人 |
+| Wano topknot (samurai hairstyle) | 髮髻 |
+| Sea of ice floes (route to PH ice side) | 浮冰之海 |
+| Gas mask (PH troopers) | 防毒面具 |
+| Gas bullet (PH troopers' weapon) | 瓦斯彈 |
+| Bellflower (attack/note title) | 桔梗 |
+| Ultimate Tiger Hunt (Zoro attack, PH) | 究極虎狩 |
+| Sure-Kill Green Star (Usopp attack) | 必殺綠星 |
+| One-Sword Style Draw-and-Resheathe: Death Lion Song (Zoro) | 一刀流·拔刀回鞘術·死獅子歌歌 |
+| Rocket Punch (Franky attack) | 火箭飛拳 |
+| Cybern (Franky self-intro, cut off) | 改造 |
+| The Burning Lands (PH region) | 燃燒之地 |
+| The Northwestern Shore (PH location) | 西北岸 |
