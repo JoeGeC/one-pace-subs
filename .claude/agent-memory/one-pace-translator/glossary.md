@@ -2232,3 +2232,27 @@ type: reference
 | Dawn Island | 多恩島 |
 | Lord of the Coast (sea king near Foosha) | 近海之王（風車村附近的海王類）|
 | Will of the Winds (episode title) | 風之志向（集數標題）|
+
+## Punk Hazard Arc
+| English | 繁體中文 |
+|---|---|
+| Punk Hazard (forbidden burning/frozen island, New World) | 龐克哈薩德 |
+| Wano Country / Wano Kingdom | 和之國 |
+| Samurai (Wano swordsmen) | 武士 |
+| Whitestrom (underwater white maelstrom) | 白色風暴 |
+| Island Whale (pod, Laboon's species/homeland) | 島鯨 |
+| Laboon (whale at Twin Capes) | 拉布 |
+| Rumbar Pirates | 倫巴海賊團 |
+| Binks' Sake / Binks' Brew (pirate song) | 賓克斯的美酒 |
+| Shuusui (named sword, formerly Ryuuma's) | 秋水（名刀）|
+| Shower Tempo (Nami bathing/cloud technique) | 淋浴節拍 |
+| Sure-Kill Capture Star (Usopp attack) | 必殺捕獲星 |
+| 360 Pound Cannon / Phoenix of 360 Earthly Desires (Zoro) | 三百六十煩惱鳳 |
+| Rising current / Rising currents (to surface) | 上升海流 |
+| Snail Phone / Den Den Mushi | 電話蟲 |
+| Baby Snail Phone / Baby Den Den Mushi | 幼年電話蟲 |
+| Emergency signal (distress call) | 緊急信號 |
+| Coup de Burst (Franky / Sunny escape) | 風來爆發 |
+| Mini Merry (scout boat) | 迷你梅利 |
+| Vice-Admiral (Smoker's PH-era rank) | 中將 |
+| Boss (PH distress caller's term) | 老大 |
