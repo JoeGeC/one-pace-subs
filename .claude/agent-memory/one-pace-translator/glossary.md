@@ -25,7 +25,7 @@ type: reference
 | Mr. 1 | 1號先生 |
 | Sir Crocodile | 克洛克達爾先生 |
 | Portgas D. Ace | 波特卡斯·D·艾斯 |
-| Smoker (Captain Smoker) | 煙薰（煙薰上尉）|
+| Smoker | 斯莫格 — CANONICAL project-wide (Tong Li New World standard). Legacy alias 煙薰 was used in Alabasta-era files; do NOT use it going forward. |
 | Tashigi | 塔西姬 |
 | Marshall D. Teach / Blackbeard | 馬歇爾·D·帝奇 / 黑鬍子 |
 | Igaram | 伊卡萊姆 |
@@ -2256,7 +2256,6 @@ type: reference
 | Mini Merry (scout boat) | 迷你梅利 |
 | Vice-Admiral (Smoker's PH-era rank) | 中將 |
 | Boss (PH distress caller's term) | 老大 |
-| Smoker (Punk Hazard / New World era) | 斯莫格 |
 | Tashigi (Punk Hazard / New World era) | 塔西姬 |
 | Momonosuke (Wano child sought by Kin'emon) | 桃之助 |
 | Centaur (Punk Hazard creature) | 半人馬 |
