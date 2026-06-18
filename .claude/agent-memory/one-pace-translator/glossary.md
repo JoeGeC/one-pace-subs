@@ -2398,3 +2398,71 @@ type: reference
 | Counter Shock (Law attack) | 反震 |
 | Akainu (Admiral Sakazuki) | 赤犬 |
 | Garbage dump / Garbage heap (Building C, PH) | 垃圾場 |
+| Sakazuki (Fleet Admiral, real name) | 薩卡斯基 |
+| Aokiji (former Admiral) | 青雉 |
+| Kuzan (Aokiji's real name) | 庫贊 |
+| Kaido / Kaidou of the Beasts (Yonko, King of the Beasts) | 凱多 / 百獸的凱多 |
+| King of the Beasts (Kaido's title) | 百獸之王 |
+| Snake Princess of the Kuja (Hancock) | 九蛇的蛇姬 |
+| Jack (Kaido subordinate, mentioned) | 傑克 |
+| Mama (Big Mom, mentioned by underworld) | 媽媽 |
+| Donquixote Pirates / Donquixote Family | 唐吉訶德海賊團 / 唐吉訶德家族 |
+| News Coo (newspaper-delivering bird) | 報導鷗 |
+| SMILE (artificial Zoan devil fruit) | SMILE |
+| Lineage factor (Vegapunk's discovery) | 血統因子 |
+| Green Bit (island near Dressrosa) | 格林比特 |
+| Seat of Hearts (Warlord position Joker offered Law) | 紅心之位 |
+| Line between good and evil (G-5 gag boundary) | 善與惡之間的界線 |
+| Ryuma (legendary Wano swordsman, Shusui's original owner) | 龍馬 |
+| Carte blanche (Warlord privilege) | 全權自由 |
+| Pizza ("Pida" mispronunciation gag) | 披薩（「披殺」誤念）|
+| Uzu (Biscuit Room child) | 宇津 |
+| Konbu (Biscuit Room child) | 昆布 |
+| Biyo (Biscuit Room child) | 比優 |
+| Harpy (Monet's hybrid form) | 哈耳庇厄 |
+| Snow Fruit / Snow-Snow user (Monet) | 雪果實 |
+| Snow Rabbit (Monet attack) | 雪兔 |
+| Snow Fence (Monet attack) | 雪柵欄 |
+| Perpetual Snow (Monet attack) | 萬年雪 |
+| Sword Snow (Monet attack) | 雪劍 |
+| Skin Sword (Monet attack) | 肌膚劍 |
+| Blizzard (Monet attack) | 暴風雪 |
+| Milky Ball (Monet attack) | 白路球 |
+| Heat Egg (Nami attack, PH) | 熱蛋 |
+| Shave (Monet movement) | 剃刀 |
+| Cuatro Manos / Four Flowers (Robin attack) | 四隻手 / 四輪花 |
+| Spank (Robin attack) | 拍擊 |
+| Great Dragon Shock / One Sword Style (Zoro attack) | 大龍震 |
+| Cutting Autumn Rain (Tashigi attack) | 斬秋雨 |
+| Demon Staff (Vergo attack) | 惡魔棍棒 |
+| Grizzly Magnum (Luffy attack) | 灰熊麥格農 |
+| Gastille / Gas Burner (Caesar attack) | 瓦斯之劍（瓦斯火焰）|
+| Weapon Fruit / weaponized-body human (Baby 5) | 武器果實 / 武器化身體的人類 |
+| Weapon Metamorphose (Baby 5 technique) | 武器變身 |
+| Espada Girl (Baby 5 weapon form) | 劍刃女郎 |
+| Missile Girl (Baby 5 weapon form) | 飛彈女郎 |
+| Revolver Girl (Baby 5 weapon form) | 左輪女郎 |
+| Sickle Girl (Baby 5 weapon form) | 鐮刀女郎 |
+| Spin Fruit / rotating human (Buffalo) | 旋轉果實 / 旋轉人類 |
+| Spinning Projectile Cannon (Buffalo attack) | 旋轉投射砲 |
+| Gust: Matasaburo (Buffalo attack) | 陣風：又三郎 |
+| Dasuyan (Buffalo speech quirk) | 咑酥呀 |
+| Smo-yan (G-5 nickname for Smoker) | 斯莫呀 |
+| General Franky / Shogun (Franky's robot) | 將軍 |
+| General Left (Franky attack) | 將軍左拳 |
+| General Okay (Franky attack) | 將軍好的 |
+| General Shield (Franky attack) | 將軍盾牌 |
+| General Shield Boomerang (Franky attack) | 將軍盾牌迴力鏢 |
+| General Body (Franky robot body) | 將軍身軀 |
+| General Cannon / Gaon Cannon land version (Franky) | 將軍加農砲 |
+| Gaon Cannon | 加農砲 |
+| Grow Up (Usopp Pop Green) | 長大吧 |
+| Black Kabuto Chomping Grass (Usopp Pop Green) | 黑卡布托啃食草 |
+| Shooting Star Rush (Usopp attack) | 流星連擊 |
+| Weather Egg (Nami attack) | 天候蛋 |
+| Thunder Breed Tempo (Nami attack) | 雷電培育節拍 |
+| Rubber Gluttony (Luffy technique) | 橡膠暴食 |
+| Newkama Kenpo Secret Technique 99th Vital Recipe (Sanji) | 新人妖拳法奧義第九十九號活力食譜 |
+| Hormone Soup with Sea Pig (Sanji dish) | 海豬荷爾蒙湯 |
+| Mini-Merry #2 (scout boat) | 迷你梅利二號 |
+| Apparent death (petrification state) | 假死狀態 |
