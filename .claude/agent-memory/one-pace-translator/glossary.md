@@ -2333,3 +2333,13 @@ type: reference
 | Chappe the Rope-puller (PH ex-prisoner) | 拉繩夏佩 |
 | Pirate alliance (Luffy-Law) | 海賊同盟 |
 | White Hunter (Smoker's epithet, PH) | 白獵 |
+| Vergo (Doflamingo officer, undercover G-5 vice-admiral) | 維爾戈 |
+| Dressrosa (kingdom, Doflamingo's domain) | 德雷斯羅薩 |
+| S.A.D. (substance/tanker, SMILE production) | S.A.D. |
+| Slimeling (small piece of Smiley) | 小史萊姆 |
+| Gas Robe (Caesar attack) | 瓦斯外衣 |
+| Jet Mace / Gas Mace (Caesar/Luffy) | 噴射狼牙棒 |
+| Gastanet (Caesar gas explosive attack) | 瓦斯響板 |
+| Foxfire Style (Kin'emon's flame-cutting style) | 狐火流 |
+| Kuri (region of Wano, Kin'emon's birthplace) | 九里 |
+| Color of Perception / Observation Haki | 見聞色 |
