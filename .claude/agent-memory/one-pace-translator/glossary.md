@@ -2305,3 +2305,19 @@ type: reference
 | Basil Hawkins (Worst Generation, broke Brownbeard's crew) | 巴吉魯·霍金斯 |
 | X Drake (Worst Generation) | 德雷克 |
 | Doron (Mr.2/Bentham transformation SFX) | 咚隆 |
+| Yeti Cool Brothers (CC's hitman duo) | 雪山冷酷兄弟 |
+| Rock (Yeti Cool Brothers) | 洛克 |
+| Scotch (Yeti Cool Brothers) | 斯科奇 |
+| Coolly (Yeti Cool Brothers catchphrase) | 冷酷地 |
+| Mocha (Biscuit Room child) | 摩卡 |
+| Sind (Biscuit Room child) | 辛德 |
+| Doran (Biscuit Room child) | 多蘭 |
+| Ally (Biscuit Room child) | 艾莉 |
+| NHC-10 (narcotic in candy) | NHC-10 |
+| Doctorine (Chopper's mentor, drug reference) | Doctorine |
+| Brownbeard (Crocotaur boss) | 布朗比德 |
+| Guard Point (Chopper transformation) | 防禦強化 |
+| Beam (Brownbeard laser eye attack) | 光線 |
+| Master (CC org leader, children's term) | 主人 |
+| god of salvation / god of salvation (Master's title) | 救贖之神 |
+| Vegapunk's laser (Franky's eye laser quip) | 貝卡帕庫雷射 |
