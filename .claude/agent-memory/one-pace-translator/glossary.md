@@ -2321,3 +2321,15 @@ type: reference
 | Master (CC org leader, children's term) | 主人 |
 | god of salvation / god of salvation (Master's title) | 救贖之神 |
 | Vegapunk's laser (Franky's eye laser quip) | 貝卡帕庫雷射 |
+| Heart Pirates (Law's crew) | 紅心海賊團 |
+| Kung-fu Point (Chopper transformation) | 功夫強化 |
+| Gun Salute (Franky deflection counterattack) | 鳴槍致敬 |
+| KYP gas-bullet (Yeti Cool Brothers weapon) | KYP瓦斯彈 |
+| Gas-Gas Fruit (Caesar's logia devil fruit) | 瓦斯果實 |
+| Smiley (Caesar's slime pet) | 史麥利 |
+| Slime (rare life-form, Caesar's pet) | 史萊姆 |
+| Iron-joint Smoodge (PH ex-prisoner) | 鐵關節斯穆吉 |
+| Fein Bock the Gourd (PH ex-prisoner) | 葫蘆費恩·伯克 |
+| Chappe the Rope-puller (PH ex-prisoner) | 拉繩夏佩 |
+| Pirate alliance (Luffy-Law) | 海賊同盟 |
+| White Hunter (Smoker's epithet, PH) | 白獵 |
