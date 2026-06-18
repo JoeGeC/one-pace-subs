@@ -2343,3 +2343,8 @@ type: reference
 | Foxfire Style (Kin'emon's flame-cutting style) | 狐火流 |
 | Kuri (region of Wano, Kin'emon's birthplace) | 九里 |
 | Color of Perception / Observation Haki | 見聞色 |
+| Commodore Yarisugi (G-5 Squadron 06, "going too far" gag) | 亞利杉准將 |
+| Black Ball: Thundercloud (Usopp attack) | 黑色彈丸·雷雲 |
+| Fire Bird Star (Usopp attack) | 火鳥星 |
+| Surveillance Snail / Monitoring Den Den Mushi | 監視電話蟲 |
+| Underworld broker (Joker's clientele) | 黑社會掮客 |
