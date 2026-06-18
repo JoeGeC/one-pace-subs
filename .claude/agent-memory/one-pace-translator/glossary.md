@@ -2348,3 +2348,53 @@ type: reference
 | Fire Bird Star (Usopp attack) | 火鳥星 |
 | Surveillance Snail / Monitoring Den Den Mushi | 監視電話蟲 |
 | Underworld broker (Joker's clientele) | 黑社會掮客 |
+| Shinokuni (Caesar's WMD, "Land of Death") | 死國 |
+| Biscuits Room / Biscuit Room (PH lab room) | 餅乾室 |
+| Eustass "Captain" Kid | 尤斯塔斯·「船長」·基德 |
+| Kid Pirates | 基德海賊團 |
+| Killer (Kid Pirates combatant) | 基拉 |
+| Scratchmen Apoo | 斯克拉奇曼·阿普 |
+| On Air Pirates (Apoo's crew) | 播報海賊團 |
+| Hawkins Pirates | 霍金斯海賊團 |
+| Radical Beam (Franky attack) | 激進光束 |
+| Coup de Boo (Franky fart-propulsion gag, on Coup de Burst) | 風來放屁 |
+| Franky Fireball (Franky attack) | 佛朗基火球 |
+| Pacifista (cyborg weapon) | 和平主義者 |
+| Coup de Burst (alt. rendering) | 風來爆發 |
+| Gum-Gum UFO (Luffy attack) | 橡膠UFO |
+| Gum-Gum Jet Pistol (Luffy attack) | 橡膠噴射手槍 |
+| Gum-Gum Jet Gatling (Luffy attack) | 橡膠噴射機關槍 |
+| Gum-Gum Jet Spear (Luffy attack) | 橡膠噴射長矛 |
+| Machete Run (former pirate, Building B gatekeeper centaur) | 砍刀蘭 |
+| Spider (centaur charge attack, reused term) | 蜘蛛 |
+| Finger Gun / Finger Pistol (Vergo attack) | 指槍 |
+| Stomach Strike (Vergo attack) | 鳩尾打 |
+| R-66 / Gate 66 (PH escape passage door) | R-66 / 66號門 |
+| Building A/B/C/D/R (PH lab buildings) | A棟/B棟/C棟/D棟/R棟 |
+| SAD production room | SAD製造室 |
+| Miok Gas (Caesar attack, "water" reversed) | 米歐克瓦斯 |
+| Combustion Type (Caesar) | 燃燒型 |
+| Airless World (Caesar attack) | 無氣世界 |
+| Blue Sword (Caesar attack) | 藍劍 |
+| Snow Hut (Caesar defense) | 雪屋 |
+| Ten Layer Igloo (Monet defense) | 十層冰屋 |
+| Armament Hardening (Haki) | 武裝硬化 |
+| Baby 5 (Donquixote Family) | 貝比5 |
+| Buffalo (Donquixote Family) | 巴法羅 |
+| Young master (Doflamingo, subordinates' term) | 少主 |
+| Law-chan (Doflamingo's term for Law) | 羅醬 |
+| Doffy (Vergo's nickname for Doflamingo) | 多佛 |
+| Oiin (Doflamingo's speech quirk) | 喔咿 |
+| Thunder Trap (Tashigi attack) | 雷電陷阱 |
+| Breast band girl (Brownbeard's name for Tashigi) | 綁胸布的女孩 |
+| Deadly Green Star: Rafflesia (Usopp attack) | 必殺綠星·大王花 |
+| Mille Fleur (Robin technique base, "thousand flowers") | 千輪花 |
+| Gigantesco Mano (Robin attack, "gigantic hand") | 巨手 |
+| Forty Flowers: Four Hands (Robin attack) | 四十輪花·四隻手 |
+| Hold (Robin attack) | 壓制 |
+| Foxfire Style: Conflagration Cutter (Kin'emon attack) | 狐火流·大火事斬 |
+| Gavotte Bond en Avant (Brook attack, "gavotte forward leap") | 加沃特舞步·前躍 |
+| Flaming Fox Flourish (Brook attack) | 火焰狐舞 |
+| Counter Shock (Law attack) | 反震 |
+| Akainu (Admiral Sakazuki) | 赤犬 |
+| Garbage dump / Garbage heap (Building C, PH) | 垃圾場 |
