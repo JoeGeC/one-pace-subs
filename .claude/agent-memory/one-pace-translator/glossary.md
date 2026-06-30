@@ -2466,3 +2466,105 @@ type: reference
 | Hormone Soup with Sea Pig (Sanji dish) | 海豬荷爾蒙湯 |
 | Mini-Merry #2 (scout boat) | 迷你梅利二號 |
 | Apparent death (petrification state) | 假死狀態 |
+
+## Dressrosa Arc
+| English | 繁體中文 |
+|---|---|
+| Dressrosa (Country of Passion, Love, and Toys) | 德雷斯羅薩（激情、愛與玩具之國）|
+| Acacia (port town, Dressrosa) | 阿卡西亞 |
+| Green Bit (solitary island north of Dressrosa) | 格林比特 |
+| Zou (island sought by samurai, Law's crew location) | 卓武 |
+| Wano Country / Wano | 和之國 |
+| Trafalgar Law / "Surgeon of Death" | 托拉法爾加·羅 / 「死亡外科醫」 — CANONICAL (matches Punk Hazard files; do NOT use 特拉法爾加) |
+| Joker (Doflamingo's underworld alias) | 喬卡 |
+| Mingo (Luffy's shortening of Doflamingo) | 明哥 |
+| Doffy (subordinates' nickname for Doflamingo) | 多佛 |
+| Donquixote Doflamingo / "Heavenly Demon" | 唐吉訶德·多佛朗明哥 / 「天夜叉」 |
+| Donquixote Family / Donquixote Pirates | 唐吉訶德家族 / 唐吉訶德海賊團 |
+| Caesar Clown | 凱薩·克勞恩 |
+| Brownbeard | 布朗比德 |
+| Kin'emon / Foxfire Kin'emon | 錦右衛門 / 狐火錦右衛門 |
+| Momonosuke | 桃之助 |
+| Kanjuro (Wano samurai, covered Kin'emon's escape) | 拳十郎 |
+| Diamante (Donquixote executive, Colosseum hero) | 迪亞曼鐵 |
+| Trebol (Donquixote executive) | 特雷波爾 |
+| Baby 5 (Donquixote Family) | 貝比5 |
+| Buffalo (Donquixote Family) | 巴法羅 |
+| Senor Pink (Donquixote Family) | 賽尼奧爾·平克 |
+| Dellinger (Donquixote Family) | 德林傑 |
+| Lao G (Donquixote Family) | 老G |
+| Machvise / Vise (Donquixote Family) | 馬釗布西 / 布西 |
+| Young Master (Doflamingo, subordinates' term) | 少主 |
+| Fujitora / Issho (Wisteria Tiger, Admiral) | 藤虎 / 一笑 |
+| Brannew (Marine officer, intel briefer) | 布蘭紐 |
+| Maynard the Pursuer (Navy HQ Vice Admiral) | 追緝者梅納德 |
+| Absa (freelance scoop writer) | 阿布薩 |
+| Eustass "Captain" Kid | 尤斯塔斯·「船長」·基德 |
+| Kid Pirate Crew | 基德海賊團 |
+| Tora-guy / Tra-guy (Luffy's nickname for Law) | 虎哥 |
+| Dress-roba (Luffy's misreading) / Roba (= old lady) | 德雷斯羅巴 / 羅巴（老太婆）|
+| Corrida Colosseum | 科利達競技場 |
+| Colosseum Armory | 競技場武器庫 |
+| Thunder Soldier / Mad Thunder Soldier (toy soldier) | 雷鬼士兵 / 瘋狂的雷鬼士兵 |
+| Rocky Port Incident | 洛奇港事件 |
+| Pirate Dispatch Organization (Buggy's outfit) | 海賊派遣組織 |
+| The Thousand Piece Clown, Buggy | 「千塊小丑」巴基 |
+| SMILE factory | SMILE工廠 |
+| Flame Fruit (Ace's, sought by Doflamingo) | 火焰果實 |
+| Caesar Handover Team | 交還凱薩小隊 |
+| Sunny's Security/Safety Team | 千陽號（安全）警備小隊 |
+| Guardian deities of Dressrosa (fairy legend) | 德雷斯羅薩的守護神 |
+| Fairies (Dressrosa thieves/legend) | 妖精 |
+| Living toys | 活生生的玩具 |
+| Dress Shrimp Paella | 德雷斯鮮蝦燉飯 |
+| Rose Squid Ink Pasta | 玫瑰墨魚汁義大利麵 |
+| Fairy Pumpkin Gazpacho | 妖精南瓜西班牙冷湯 |
+| "His Pace" (Doflamingo's conversational lure) | 他的節奏 |
+| Don Chinjao (Happo Navy / Flower Country legend) | 唐·錦傑奧 |
+| Chinjao Family / Flower Country Gang | 錦傑奧家族 / 花之國幫派 |
+| Sai (Chinjao's grandson) | 錆 |
+| Boo (Chinjao's grandson) | 普 |
+| Dagama (Prodence Kingdom military tactician) | 達卡馬 |
+| Prodence Kingdom | 普羅丹斯王國 |
+| Elizabello II / The Fighting King | 伊麗莎白洛二世 / 格鬥王 |
+| King Punch (Elizabello's attack) | 國王重拳 |
+| Tank Lepanto (Dressrosa Self-Defense Army captain) | 坦克·勒龐特 |
+| Blue Gilly (Jiaokungdo martial artist) | 布魯·吉利 |
+| Jiaokungdo (Blue Gilly's martial art) | 蛟拳道 |
+| Funk Brothers / Kelly Funk / Bobby Funk | 方克兄弟 / 凱利·方克 / 巴比·方克 |
+| Suleiman the Beheader (Class-A war criminal) | 斬首者蘇萊曼 |
+| Abdullah and Jeet (former bounty hunters) | 阿布杜拉和吉特 |
+| Orlumbus "The Surmounter" (fake adventurer) | 「超越者」歐倫布斯 |
+| Bellamy the Hyena (Spring Fruit user) | 鬣狗貝拉密 |
+| Cavendish / "White Horse Cavendish" / Pirate Noble | 卡文迪許 / 「白馬」卡文迪許 / 海賊貴公子 |
+| Beautiful Pirates (Cavendish's crew) | 美麗海賊團 |
+| Durandal (Cavendish's famous sword) | 杜蘭達爾 |
+| Military Head / Beautiful Sword / Blue Bird (Cavendish attacks) | 軍人之首 / 美麗之劍 / 青鳥 |
+| Cabbage (Bartolomeo's nickname for Cavendish) | 包心菜 |
+| Bartolomeo the Cannibal | 食人族巴托洛梅奧 |
+| Barto Club (Bartolomeo's crew) | 巴托俱樂部 |
+| Barrier Fruit / Barrier man (Bartolomeo) | 障壁果實 / 障壁人 |
+| Barrier / Barrier Crash (Bartolomeo attacks) | 障壁 / 障壁粉碎 |
+| Gambia "The Missionary" (Barto Club staff officer) | 「傳教士」甘比亞 |
+| Ricky (mysterious gladiator) | 瑞奇 |
+| Rebecca (Corrida Colosseum gladiator) | 蕾貝卡 |
+| Kyros (legendary Colosseum gladiator, 3000-0) | 基洛斯 |
+| Spartan (Corrida Colosseum gladiator) | 斯巴達 |
+| Lucy (Luffy's Colosseum alias) | 魯西 |
+| Mr. Store (masked Block A entrant) | 斯托爾先生 |
+| Jesus Burgess (Blackbeard Pirates 1st ship captain) | 吉薩斯·巴基斯 |
+| Hajrudin "Pirate Mercenary" | 「海賊傭兵」哈伊路丁 |
+| Hack (Fishman warrior, Jinbe associate) | 哈克 |
+| 4000 Tile Punch / True Punch (Hack, Fishman Karate) | 四千枚瓦正拳 |
+| Longleg Tribe | 長腿族 |
+| Fighting Fish (savage horned fish near Green Bit) | 鬥魚 |
+| Spring Death Knock (Bellamy attack) | 彈簧死亡敲擊 |
+| Gatz (Corrida Colosseum announcer) | 蓋茲 |
+| Capman (Block B gladiator 0429) | 卡普曼 |
+| Violet (dancer) | 薇歐蕾特 |
+| CP-0 / Cipher Pol Aigis 0 | CP-0 / Cipher Pol Aigis 0 |
+| Ice Continent (Chinjao legend) | 冰之大陸 |
+| Maro / Mario (Luffy's mis-name for Bellamy) | 馬力歐 |
+| Choppa'emon (Chopper's Wano-play retainer name) | 喬巴衛門 |
+| O-Nami (Nami's Wano-play maid name) | 阿娜美 |
+| Bone-kichi (Brook's Wano-play name) | 骨吉 |
