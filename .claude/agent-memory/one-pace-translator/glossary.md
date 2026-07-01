@@ -376,7 +376,7 @@ type: reference
 | "Master Tactician" Tsuru | 「智謀」鶴 |
 | Dracule Mihawk / "Hawk Eye" | 「鷹眼」密佛格 |
 | Laffitte (Blackbeard Pirates) | 拉飛特 |
-| Jesus Burgess "Champion" | 「冠軍」吉薩斯·巴基斯 |
+| Jesus Burgess "Champion" | 「冠軍」吉札士·伯吉斯 |
 | Van Augur "Supersonic" | 「音速」范·歐葛 |
 | Doc Q "the Reaper" | 毒Q「死神」 |
 | Edward Newgate / Whitebeard | 愛德華·紐蓋特 / 白鬍子 |
@@ -2485,15 +2485,15 @@ type: reference
 | Brownbeard | 布朗比德 |
 | Kin'emon / Foxfire Kin'emon | 錦右衛門 / 狐火錦右衛門 |
 | Momonosuke | 桃之助 |
-| Kanjuro (Wano samurai, covered Kin'emon's escape) | 拳十郎 |
+| Kanjuro (Wano samurai, covered Kin'emon's escape) | 勘十郎 |
 | Diamante (Donquixote executive, Colosseum hero) | 帝雅曼鐵 |
 | Trebol (Donquixote executive) | 托雷波爾 |
-| Baby 5 (Donquixote Family) | 貝比5 |
-| Buffalo (Donquixote Family) | 巴法羅 |
-| Senor Pink (Donquixote Family) | 賽尼奧爾·平克 |
+| Baby 5 (Donquixote Family) | 貝比5 — kept (NOT Fandom's latin "BABY 5") for consistency with 12 prior Punk Hazard uses |
+| Buffalo (Donquixote Family) | 巴法羅 — kept (NOT Fandom's semantic 水牛) for consistency with 12 prior Punk Hazard uses |
+| Senor Pink (Donquixote Family) | 粉紅先生 — Fandom/Tong Li semantic form, NOT phonetic 賽尼奧爾·平克 |
 | Dellinger (Donquixote Family) | 德林傑 |
-| Lao G (Donquixote Family) | 老G |
-| Machvise / Vise (Donquixote Family) | 馬釗布西 / 布西 |
+| Lao G (Donquixote Family) | 拉歐·G |
+| Machvise / Vise (Donquixote Family) | 馬赫拜茲 / 布西 |
 | Young Master (Doflamingo, subordinates' term) | 少主 |
 | Fujitora / Issho (Wisteria Tiger, Admiral) | 藤虎 / 一笑 |
 | Brannew (Marine officer, intel briefer) | 布蘭紐 |
@@ -2503,8 +2503,8 @@ type: reference
 | Kid Pirate Crew | 基德海賊團 |
 | Tora-guy / Tra-guy (Luffy's nickname for Law) | 虎哥 |
 | Dress-roba (Luffy's misreading) / Roba (= old lady) | 德雷斯羅巴 / 羅巴（老太婆）|
-| Corrida Colosseum | 科利達競技場 |
-| Colosseum Armory | 競技場武器庫 |
+| Corrida Colosseum | 鬥牛鬥技場 |
+| Colosseum Armory | 鬥技場武器庫 |
 | Thunder Soldier / Mad Thunder Soldier (toy soldier) | 雷鬼士兵 / 瘋狂的雷鬼士兵 |
 | Rocky Port Incident | 洛奇港事件 |
 | Pirate Dispatch Organization (Buggy's outfit) | 海賊派遣組織 |
@@ -2524,16 +2524,16 @@ type: reference
 | Chinjao Family / Flower Country Gang | 青椒家族 / 花之國幫派 |
 | Sai (Chinjao's grandson) | 雜菜 |
 | Boo (Chinjao's grandson) | 阿葡 |
-| Dagama (Prodence Kingdom military tactician) | 達卡馬 |
+| Dagama (Prodence Kingdom military tactician) | 達迦馬 |
 | Prodence Kingdom | 普羅丹斯王國 |
-| Elizabello II / The Fighting King | 伊麗莎白洛二世 / 格鬥王 |
+| Elizabello II / The Fighting King | 伊力薩貝羅二世 / 格鬥王 |
 | King Punch (Elizabello's attack) | 國王重拳 |
-| Tank Lepanto (Dressrosa Self-Defense Army captain) | 坦克·勒龐特 |
-| Blue Gilly (Jiaokungdo martial artist) | 布魯·吉利 |
+| Tank Lepanto (Dressrosa Self-Defense Army captain) | 譚克·勒潘陀 |
+| Blue Gilly (Jiaokungdo martial artist) | 布爾吉利 |
 | Jiaokungdo (Blue Gilly's martial art) | 蛟拳道 |
-| Funk Brothers / Kelly Funk / Bobby Funk | 方克兄弟 / 凱利·方克 / 巴比·方克 |
+| Funk Brothers / Kelly Funk / Bobby Funk | 方克兄弟 / 凱利·放克 / 鮑比·放克 |
 | Suleiman the Beheader (Class-A war criminal) | 斬首者蘇萊曼 |
-| Abdullah and Jeet (former bounty hunters) | 阿布杜拉和吉特 |
+| Abdullah and Jeet (former bounty hunters) | 亞布德拉和吉特 |
 | Orlumbus "The Surmounter" (fake adventurer) | 「超越者」歐隆拜斯 |
 | Bellamy the Hyena (Spring Fruit user) | 鬣狗貝拉密 |
 | Cavendish / "White Horse Cavendish" / Pirate Noble | 卡文迪許 / 「白馬」卡文迪許 / 海賊貴公子 |
@@ -2552,7 +2552,7 @@ type: reference
 | Spartan (Corrida Colosseum gladiator) | 斯巴達 |
 | Lucy (Luffy's Colosseum alias) | 魯西 |
 | Mr. Store (masked Block A entrant) | 斯托爾先生 |
-| Jesus Burgess (Blackbeard Pirates 1st ship captain) | 吉薩斯·巴基斯 |
+| Jesus Burgess (Blackbeard Pirates 1st ship captain) | 吉札士·伯吉斯 |
 | Hajrudin "Pirate Mercenary" | 「海賊傭兵」哈爾汀 |
 | Hack (Fishman warrior, Jinbe associate) | 哈克 |
 | 4000 Tile Punch / True Punch (Hack, Fishman Karate) | 四千枚瓦正拳 |
