@@ -2621,3 +2621,30 @@ Character/place/fruit names below were verified against onepiece.fandom.com/zh (
 | Drilling Dragon Auger Spike / Open, Chinjao! (Chinjao) | 鑽龍螺旋刺 / 開啟吧，青椒！ |
 | Drill-less Dragon's Elephant Gun / Thor Elephant Gun (Luffy) | 無鑽龍之大猿王槍 / 雷神大猿王槍 |
 | Level 6 (Impel Down) | 第六層 |
+
+## Dressrosa Arc (eps 11-15)
+Names verified against onepiece.fandom.com/zh (Tong Li) unless marked "(unverified)".
+| English | 繁體中文 |
+|---|---|
+| Monet (Punk Hazard harpy, flashback) | 莫內 |
+| Donquixote Rosinante / Corazon / "Cora-san" | 唐吉訶德·羅希南特 / 柯拉先生 (Cora romanization unverified) |
+| Riku Doldo III (King Riku, full name) | 利克·德爾多三世 |
+| Vivre Card | 生命紙 |
+| Farul (Cavendish's horse) | 法露爾 |
+| Meadows (Block D gladiator) | 梅多茲 |
+| String-String Fruit (Doflamingo) | 線線果實 |
+| Parasite (Doflamingo mind-control) | 寄生 |
+| Bullet Thread (Doflamingo) | 彈丸線 |
+| Mes (Law) | 手術刀 |
+| Tact (Fujitora) | 操縱 |
+| Damask "Pyromaniac" (Block D gladiator) | 達馬斯克 (unverified) |
+| Rolling Logan (Block D gladiator) | 滾動洛根 (unverified) |
+| Acilia (Block D gladiator) | 阿希莉亞 (unverified) |
+| Kingdom of Biggschots (Cavendish's homeland) | 比格夏茲王國 (unverified) |
+| Majiatsuka Kingdom | 馬加茲卡王國 (unverified) |
+| Sevio (flashback town) | 塞維歐 (unverified) |
+| Premier Hachis (Sanji) | 一級肉末 |
+| Poêle à Frire: Spectre (Sanji) | 煎鍋·幽靈 |
+| Penta-Chromatic String (Jora) | 五彩絲線 |
+| Painting Song: Bamboo Flute Joint Slice (Brook) | 繪畫之歌·竹笛關節斬 |
+| Backwater Sword Dance (Rebecca) | 背水劍舞 |
