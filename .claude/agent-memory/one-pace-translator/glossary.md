@@ -2486,8 +2486,8 @@ type: reference
 | Kin'emon / Foxfire Kin'emon | 錦右衛門 / 狐火錦右衛門 |
 | Momonosuke | 桃之助 |
 | Kanjuro (Wano samurai, covered Kin'emon's escape) | 拳十郎 |
-| Diamante (Donquixote executive, Colosseum hero) | 迪亞曼鐵 |
-| Trebol (Donquixote executive) | 特雷波爾 |
+| Diamante (Donquixote executive, Colosseum hero) | 帝雅曼鐵 |
+| Trebol (Donquixote executive) | 托雷波爾 |
 | Baby 5 (Donquixote Family) | 貝比5 |
 | Buffalo (Donquixote Family) | 巴法羅 |
 | Senor Pink (Donquixote Family) | 賽尼奧爾·平克 |
@@ -2520,10 +2520,10 @@ type: reference
 | Rose Squid Ink Pasta | 玫瑰墨魚汁義大利麵 |
 | Fairy Pumpkin Gazpacho | 妖精南瓜西班牙冷湯 |
 | "His Pace" (Doflamingo's conversational lure) | 他的節奏 |
-| Don Chinjao (Happo Navy / Flower Country legend) | 唐·錦傑奧 |
-| Chinjao Family / Flower Country Gang | 錦傑奧家族 / 花之國幫派 |
-| Sai (Chinjao's grandson) | 錆 |
-| Boo (Chinjao's grandson) | 普 |
+| Don Chinjao (Happo Navy / Flower Country legend) | 唐·青椒 — CANONICAL (Fandom/Tong Li; チンジャオ=green-pepper pun, NOT phonetic 錦傑奧) |
+| Chinjao Family / Flower Country Gang | 青椒家族 / 花之國幫派 |
+| Sai (Chinjao's grandson) | 雜菜 |
+| Boo (Chinjao's grandson) | 阿葡 |
 | Dagama (Prodence Kingdom military tactician) | 達卡馬 |
 | Prodence Kingdom | 普羅丹斯王國 |
 | Elizabello II / The Fighting King | 伊麗莎白洛二世 / 格鬥王 |
@@ -2534,7 +2534,7 @@ type: reference
 | Funk Brothers / Kelly Funk / Bobby Funk | 方克兄弟 / 凱利·方克 / 巴比·方克 |
 | Suleiman the Beheader (Class-A war criminal) | 斬首者蘇萊曼 |
 | Abdullah and Jeet (former bounty hunters) | 阿布杜拉和吉特 |
-| Orlumbus "The Surmounter" (fake adventurer) | 「超越者」歐倫布斯 |
+| Orlumbus "The Surmounter" (fake adventurer) | 「超越者」歐隆拜斯 |
 | Bellamy the Hyena (Spring Fruit user) | 鬣狗貝拉密 |
 | Cavendish / "White Horse Cavendish" / Pirate Noble | 卡文迪許 / 「白馬」卡文迪許 / 海賊貴公子 |
 | Beautiful Pirates (Cavendish's crew) | 美麗海賊團 |
@@ -2548,12 +2548,12 @@ type: reference
 | Gambia "The Missionary" (Barto Club staff officer) | 「傳教士」甘比亞 |
 | Ricky (mysterious gladiator) | 瑞奇 |
 | Rebecca (Corrida Colosseum gladiator) | 蕾貝卡 |
-| Kyros (legendary Colosseum gladiator, 3000-0) | 基洛斯 |
+| Kyros (legendary Colosseum gladiator, 3000-0) | 居魯士 |
 | Spartan (Corrida Colosseum gladiator) | 斯巴達 |
 | Lucy (Luffy's Colosseum alias) | 魯西 |
 | Mr. Store (masked Block A entrant) | 斯托爾先生 |
 | Jesus Burgess (Blackbeard Pirates 1st ship captain) | 吉薩斯·巴基斯 |
-| Hajrudin "Pirate Mercenary" | 「海賊傭兵」哈伊路丁 |
+| Hajrudin "Pirate Mercenary" | 「海賊傭兵」哈爾汀 |
 | Hack (Fishman warrior, Jinbe associate) | 哈克 |
 | 4000 Tile Punch / True Punch (Hack, Fishman Karate) | 四千枚瓦正拳 |
 | Longleg Tribe | 長腿族 |
