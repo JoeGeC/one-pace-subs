@@ -23,11 +23,13 @@ from pathlib import Path
 
 from extract_dialogue import (
     parse_ass_line, TRANSLATABLE_PREFIXES, SKIP_PREFIXES,
-    EDITOR_COMMENT_RE, is_drawing_only
+    EDITOR_COMMENT_RE, is_drawing_only, style_matches
 )
 
+# Matched case-insensitively via style_matches — source files ship the same
+# styles under different capitalisation (`Title`/`title`, `Captions`/`captions`).
 TOP_POSITION_PREFIXES = ("Title", "Captions")
-BOTTOM_POSITION_PREFIXES = ("Main", "Secondary", "Note", "Thoughts", "Flashbacks", "RogerMonologue")
+BOTTOM_POSITION_PREFIXES = ("Main", "Secondary", "Note", "Thoughts", "Flashbacks", "RogerMonologue", "Gold")
 POS_TAG_RE = re.compile(r'\\pos\([^)]*\)')
 AN_TAG_RE = re.compile(r'\\an\d')
 
@@ -58,9 +60,9 @@ def detect_overlaps(dialogue_lines):
     top_lines = []
 
     for ln, layer, start, end, style, name, ml, mr, mv, effect, text in dialogue_lines:
-        if style.startswith(BOTTOM_POSITION_PREFIXES) and not style.startswith(SKIP_PREFIXES):
+        if style_matches(style, BOTTOM_POSITION_PREFIXES) and not style_matches(style, SKIP_PREFIXES):
             bottom_lines.append((ln, layer, start, end, style))
-        elif style.startswith(TOP_POSITION_PREFIXES) and not style.startswith(SKIP_PREFIXES):
+        elif style_matches(style, TOP_POSITION_PREFIXES) and not style_matches(style, SKIP_PREFIXES):
             top_lines.append((ln, layer, start, end, style))
 
     for group_name, lines in [("bottom", bottom_lines), ("top", top_lines)]:
@@ -182,7 +184,7 @@ def validate(original_path, translated_path, fix=False):
             meta_issues.append(f"style: {o_style} vs {t_style}")
         if o_layer != t_layer:
             meta_issues.append(f"layer: {o_layer} vs {t_layer}")
-        has_an8_margin = ('\\an8' in t_text or t_style.startswith(("Narrator", "Note"))) and t_mv in ('100', '200')
+        has_an8_margin = ('\\an8' in t_text or style_matches(t_style, ("Narrator", "Note"))) and t_mv in ('100', '200')
         if o_ml != t_ml or o_mr != t_mr or (o_mv != t_mv and not has_an8_margin):
             meta_issues.append(f"margins: {o_ml},{o_mr},{o_mv} vs {t_ml},{t_mr},{t_mv}")
 
@@ -194,7 +196,7 @@ def validate(original_path, translated_path, fix=False):
 
         # Check formatting tag consistency (detects shifted translations)
         # Only check translatable lines — non-translatable lines are copied verbatim
-        is_translatable = t_style.startswith(TRANSLATABLE_PREFIXES) and not t_style.startswith(SKIP_PREFIXES)
+        is_translatable = style_matches(t_style, TRANSLATABLE_PREFIXES) and not style_matches(t_style, SKIP_PREFIXES)
         if is_translatable and not is_drawing_only(o_text):
             o_tags = extract_format_tags(o_text)
             t_tags = extract_format_tags(t_text)
@@ -213,11 +215,15 @@ def validate(original_path, translated_path, fix=False):
                 tag_ok += 1
 
         # Check Title/Captions repositioning (only on translatable lines)
-        if is_translatable and t_style.startswith(TOP_POSITION_PREFIXES):
+        if is_translatable and style_matches(t_style, TOP_POSITION_PREFIXES):
             has_an8 = bool(re.search(r'\\an8', t_text))
             has_pos = bool(POS_TAG_RE.search(t_text))
 
-            if has_an8 and not has_pos:
+            # A repositioned caption is one that has been pulled to the top with
+            # \an8. It may ALSO carry \pos(x,y): merge_translation.py pins
+            # coincident top lines to explicit stacked positions so they don't
+            # overlap each other. \an8\pos is therefore valid — do NOT strip it.
+            if has_an8:
                 reposition_ok += 1
             else:
                 reposition_needed += 1
