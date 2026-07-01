@@ -2568,3 +2568,56 @@ type: reference
 | Choppa'emon (Chopper's Wano-play retainer name) | 喬巴衛門 |
 | O-Nami (Nami's Wano-play maid name) | 阿娜美 |
 | Bone-kichi (Brook's Wano-play name) | 骨吉 |
+
+## Dressrosa Arc (eps 06-10)
+Character/place/fruit names below were verified against onepiece.fandom.com/zh (Tong Li) unless marked "(unverified)".
+| English | 繁體中文 |
+|---|---|
+| Tontatta Tribe / Tontatta Kingdom | 頓達塔族 / 頓達塔王國 |
+| Tonta-chief (dwarf king title) | 頓達塔族長 |
+| Leo (Tontatta warrior) | 雷奧 |
+| Kabu (Yellow Kabu Brigade captain) / Yellow Kabu (Great Golden Rhinoceros Beetle) | 喀布 / 黃色喀布（黃金大兜蟲）|
+| Bian (Pink Bee Brigade captain) | 碧安 (unverified) |
+| Gancho (Tonta-chief / dwarf king) | 甘丘 (unverified) |
+| Wicca (Tontatta scout) | 薇卡 |
+| Flapper (Tontatta messenger) | 弗萊帕 (unverified) |
+| Princess Mansherry | 蔓雪莉公主 |
+| Milo / Onepoko (toy father) | 米洛 / 萬波可 (Onepoko unverified) |
+| Esta (toy woman) | 愛絲塔 |
+| Sugar (Donquixote toy-maker) | 砂糖 |
+| Riku Family / King Riku | 利克家族 / 利克國王 |
+| Riku Royal Army / Anti-Doflamingo Organization | 利克王軍 / 反多佛朗明哥組織 |
+| Ideo "Destruction Cannon" / A O Pirates | 伊迪歐「破壞加農砲」/ A·O海賊團 |
+| Jean Ango / Jean the Bandit | 約翰·昂戈 / 盜賊約翰 |
+| Bastille "Shark Cutter" (Vice Admiral) | 巴斯提憂 / 斬鯊巴斯提憂 |
+| Jora (Trébol Army) | 喬菈 |
+| Elbaf (giants' country) | 艾爾帕布 |
+| Shiliew of the Rain | 雨之矢龍 (unverified epithet form) |
+| Emporio Ivankov | 艾波利歐·伊娃柯夫（短：伊娃柯夫）|
+| Fighting Bull / "Brutal Bull" (Colosseum beast) | 鬥牛 |
+| Ucy (Luffy's name for the Fighting Bull) | 魯牛 (coined) |
+| Happo Navy / Happo Pirate Navy | 八寶水軍 / 八寶海賊水軍 (unverified) |
+| Mogaro Kingdom | 莫加羅王國 (unverified) |
+| Chinjao the Drill / the Auger | 螺鑽青椒 |
+| Insect-Insect Fruit (Model: Rhinoceros Beetle / Hornet) | 蟲蟲果實（獨角仙形態 / 胡蜂形態）|
+| Glare-Glare Fruit / insight human (Violet) | 瞪瞪果實 / 透視能力者 |
+| Art-Art Fruit / art human (Jora) | 藝術果實 / 藝術人 |
+| Jacket-Jacket Fruit / jacket human (Kelly Funk) | 夾克果實 / 夾克人 |
+| Pink Bee (Pink Hornet) | 粉紅蜜蜂（粉紅胡蜂）|
+| Linear Fox / Yelp Express (dwarf transport) | 直線狐（叫喊快遞）(unverified) |
+| Tontatta Airport / Airline | 頓達塔機場 / 頓達塔航空 |
+| "Big Human" (dwarves' term for normal-size people) | 大人類 |
+| Usoland / Robiland / Luffyland etc. (dwarf-suffix nicknames) | 騙人蘭 / 羅賓蘭 / 魯夫蘭 等 (coined suffix -蘭) |
+| Usolanders (Usoland's fighting force) | 騙人蘭軍 |
+| Toy House (SMILE factory front) | 玩具屋 |
+| Elbaf-related / Hajrudin's mercenaries — see [[Dressrosa Arc]] Hajrudin 哈爾汀 |  |
+| Peeping Mind (Violet) | 窺視內心 |
+| Hierro Lagrima / Iron Tear (Violet) | 鐵之淚珠（鐵淚）|
+| Eye Whale (Violet) | 眼之鯨 |
+| Ra-Ra-Ra Rampage (Kelly Funk) | 啦啦啦大暴走 |
+| Charitable Donation (Jean Ango) | 慈善捐贈 |
+| Hawk Rifle (Luffy) | 鷹之來福槍 |
+| Eight-Impact Fist / Chinjao's Happo Navy technique | 八衝拳 (unverified) |
+| Drilling Dragon Auger Spike / Open, Chinjao! (Chinjao) | 鑽龍螺旋刺 / 開啟吧，青椒！ |
+| Drill-less Dragon's Elephant Gun / Thor Elephant Gun (Luffy) | 無鑽龍之大猿王槍 / 雷神大猿王槍 |
+| Level 6 (Impel Down) | 第六層 |
