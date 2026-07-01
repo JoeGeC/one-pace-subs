@@ -2541,7 +2541,7 @@ type: reference
 | Durandal (Cavendish's famous sword) | 杜蘭達爾 |
 | Military Head / Beautiful Sword / Blue Bird (Cavendish attacks) | 軍人之首 / 美麗之劍 / 青鳥 |
 | Cabbage (Bartolomeo's nickname for Cavendish) | 包心菜 |
-| Bartolomeo the Cannibal | 食人族巴托洛梅奧 |
+| Bartolomeo the Cannibal | 食人族巴特洛馬 — CANONICAL (matches zh.Wikipedia; do NOT use 巴托洛梅奧). Short-form nickname "Barto"/crew name kept as 巴托. |
 | Barto Club (Bartolomeo's crew) | 巴托俱樂部 |
 | Barrier Fruit / Barrier man (Bartolomeo) | 障壁果實 / 障壁人 |
 | Barrier / Barrier Crash (Bartolomeo attacks) | 障壁 / 障壁粉碎 |
