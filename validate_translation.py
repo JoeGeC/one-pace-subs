@@ -228,7 +228,15 @@ def validate(original_path, translated_path, fix=False):
             # \an8. It may ALSO carry \pos(x,y): merge_translation.py pins
             # coincident top lines to explicit stacked positions so they don't
             # overlap each other. \an8\pos is therefore valid — do NOT strip it.
+            o_pos_m = POS_TAG_RE.search(o_text)
+            t_pos_m = POS_TAG_RE.search(t_text)
+            kept_in_place = (not has_an8 and o_pos_m and t_pos_m
+                             and o_pos_m.group(0) == t_pos_m.group(0))
             if has_an8:
+                reposition_ok += 1
+            elif kept_in_place:
+                # Deliberately unpinned: merge keeps original \pos for montage
+                # clusters (> MAX_PINNED_CLUSTER simultaneous captions).
                 reposition_ok += 1
             else:
                 reposition_needed += 1

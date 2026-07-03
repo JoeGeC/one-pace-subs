@@ -45,6 +45,13 @@ STACK_LINE_H = 55
 OVERLAP_EPS = 0.3         # seconds; ignore briefer overlaps (crossfades) when stacking
 DEFAULT_RES_X = 1280      # fallback PlayResX for centering \an8 lines when stacking
 
+# Montage screens (character-introduction recaps etc.) label many characters
+# at once, each \pos'd beside its character across the whole frame. Pinning
+# such a screen stacks rows far past the bottom of the frame — most labels
+# would land off-screen. Clusters of more than this many simultaneous caption
+# groups therefore KEEP their original \pos instead of being pinned.
+MAX_PINNED_CLUSTER = 3
+
 
 def _parse_time(t):
     h, m, s = t.split(":")
@@ -149,12 +156,30 @@ def _plan_top_positions(raw_lines, translations, res_x):
     if not groups:
         return {}
 
+    # Cluster time-overlapping groups; clusters larger than MAX_PINNED_CLUSTER
+    # (montage screens) keep their original \pos — exclude them from pinning.
+    clusters = []
+    cur, cur_end = [], None
+    for g in sorted(groups.values(), key=lambda g: g["start"]):
+        if cur and g["start"] < cur_end - OVERLAP_EPS:
+            cur.append(g)
+            cur_end = max(cur_end, g["end"])
+        else:
+            if cur:
+                clusters.append(cur)
+            cur, cur_end = [g], g["end"]
+    if cur:
+        clusters.append(cur)
+    pinned = [g for c in clusters if len(c) <= MAX_PINNED_CLUSTER for g in c]
+    if not pinned:
+        return {}
+
     # Uniform row height sized to the tallest caption so no two rows can touch.
-    row_h = max(g["nlines"] for g in groups.values()) * STACK_LINE_H
+    row_h = max(g["nlines"] for g in pinned) * STACK_LINE_H
 
     slot_end = []  # slot_end[i] = end time of the group currently holding row i
     assignment = {}
-    for g in sorted(groups.values(), key=lambda g: g["start"]):
+    for g in sorted(pinned, key=lambda g: g["start"]):
         slot = None
         for i, end in enumerate(slot_end):
             if end - OVERLAP_EPS <= g["start"]:  # row is free by the time g starts
