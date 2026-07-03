@@ -2089,7 +2089,7 @@ type: reference
 | English | 繁體中文 |
 |---|---|
 | Queen Otohime (Ryuuguu Kingdom) | 乙姬王后（龍宮王國）|
-| Koala (former slave girl, Sun Pirates passenger) | 乘拉（前奴隸少女，太陽海賊團的乘客）|
+| Koala (former slave girl, Sun Pirates passenger; Revolutionary Army officer, Fishman Karate instructor) | 可亞拉（前奴隸少女，太陽海賊團的乘客；革命軍幹部，魚人空手道代理師父）— VERIFIED Fandom tname 可亞拉 (コアラ/Koala). NOTE: prior "乘拉" was mojibake corruption of 可亞拉; use 可亞拉 going forward. Do NOT confuse with 克伊娜=Kuina. |
 | Rear Admiral Kadaru (Navy G2) | 卡達魯少將（海軍G2部隊）|
 | Strawberry (Navy officer, ambushed Sun Pirates) | 斯特羅貝里（海軍軍官，伏擊太陽海賊團）|
 | Saint Myosgard (Celestial Dragon) | 苗斯加德聖（天龍人）|
@@ -2194,7 +2194,7 @@ type: reference
 ## Characters (Post-War Arc - ASL Flashback)
 | English | 繁體中文 |
 |---|---|
-| Sabo (Ace & Luffy's sworn brother) | 薩乘（艾斯和魯夫的義兄弟）|
+| Sabo (Ace & Luffy's sworn brother; Revolutionary Army Chief of Staff) | 薩波（艾斯和魯夫的義兄弟；革命軍參謀總長）— VERIFIED Fandom 薩波. NOTE: prior "薩乘" (and 薩乘 in Pirate fund/Sterry entries) was mojibake corruption of 薩波; use 薩波 going forward. |
 | Curly Dadan (mountain bandit boss) | 卷毛達坦（山賊頭子）|
 | Dogra (mountain bandit) | 多格拉（山賊）|
 | Magra (mountain bandit) | 瑪格拉（山賊）|
@@ -2580,7 +2580,7 @@ Character/place/fruit names below were verified against onepiece.fandom.com/zh (
 | Bian (Pink Bee Brigade captain) | 碧安 (unverified) |
 | Gancho (Tonta-chief / dwarf king) | 甘丘 (unverified) |
 | Wicca (Tontatta scout) | 薇卡 |
-| Flapper (Tontatta messenger) | 弗萊帕 (unverified) |
+| Flapper (Tontatta messenger) | 芙拉帕 (VERIFIED Fandom page "芙拉帕"; was coined 弗萊帕 — WRONG. Appears wrong in ep09 & ep20 files) |
 | Princess Mansherry | 蔓雪莉公主 |
 | Milo / Onepoko (toy father) | 米洛 / 萬波可 (Onepoko unverified) |
 | Esta (toy woman) | 愛絲塔 |
@@ -2627,7 +2627,7 @@ Names verified against onepiece.fandom.com/zh (Tong Li) unless marked "(unverifi
 | English | 繁體中文 |
 |---|---|
 | Monet (Punk Hazard harpy, flashback) | 莫內 |
-| Donquixote Rosinante / Corazon / "Cora-san" | 唐吉訶德·羅希南特 / 柯拉先生 (Cora romanization unverified) |
+| Donquixote Rosinante / Corazon / "Cora-san" | 唐吉訶德·羅希南特 / 柯拉遜（代號）/ 柯拉遜先生 (VERIFIED Fandom page "唐吉訶德·羅希南特": codename コラソン = 柯拉遜; "Cora-san" = 柯拉遜先生. UNIFIED — the ep25 coinage 柯拉松 and the old alias 柯拉先生 are both WRONG; use 柯拉遜 everywhere) |
 | Riku Doldo III (King Riku, full name) | 利克·德爾多三世 |
 | Vivre Card | 生命紙 |
 | Farul (Cavendish's horse) | 法露爾 |
@@ -2648,3 +2648,200 @@ Names verified against onepiece.fandom.com/zh (Tong Li) unless marked "(unverifi
 | Penta-Chromatic String (Jora) | 五彩絲線 |
 | Painting Song: Bamboo Flute Joint Slice (Brook) | 繪畫之歌·竹笛關節斬 |
 | Backwater Sword Dance (Rebecca) | 背水劍舞 |
+| Cipher Pol Aegis Zero (CP-0) | CP-0 |
+| Dressrosa | 德雷斯羅薩 |
+| World Nobles (Celestial Dragons) | 天龍人 |
+| Violet (Viola) | 薇歐蕾特 |
+| Extra edition (news) | 號外 |
+
+## Dressrosa Arc (ep 16)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Pirate Hunter (Zoro's epithet) | 海賊獵人 |
+| Traf (Luffy's short name for Law) | 小羅 |
+| Kin (Luffy's short name for Kin'emon) | 阿錦 |
+| Flower Hill (Dressrosa district) | 花田 (VERIFIED Fandom "花田", ename "Flower Hill", jname 花畑; was coined 花之丘 — WRONG) |
+| Trébol Army (Donquixote unit) | 托雷波爾軍 |
+| Hobby Fruit / Hobi Hobi no Mi (Sugar's power) | 遊樂果實 (VERIFIED Fandom page "童樂果實" DISPLAYTITLE 遊樂果實, ホビホビの実; was coined 玩具果實 — WRONG) |
+| Dressrosa SOP Operation | 德雷斯羅薩SOP作戰 |
+| Sugar Oversurprise Panic Operation (SOP full name) | 砂糖過度驚嚇恐慌作戰 (coined) |
+| Franky Hair Salon (Franky's call) | 佛朗基美髮沙龍 |
+| Battle-Hair (Franky's hairstyle) | 戰鬥髮型 |
+| Fraland (Franky's dwarf-suffix nickname) | 佛朗蘭 (coined, -蘭 suffix per eps 06-10 convention) |
+| Toys' House / Toy House (SMILE factory front) | 玩具屋 |
+| hen-comb guy (Luffy's nickname for Bartolomeo) | 雞冠頭傢伙 (coined) |
+| -gao / -bon / -soir (Big Mom crew Praline/Pekoms-era duo speech quirks) | 嘎歐 / 崩 / 索瓦 (coined phonetic tags) |
+| medical room | 醫務室 |
+| battle royale (Colosseum) | 大亂鬥 |
+
+## Dressrosa Arc (ep 17)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Giolla (Trébol Army officer) | 喬菈 (matches ep 06-10 Jora 喬菈) |
+| Gladius (Pica Army officer) | 古拉迪斯 (VERIFIED Fandom page "古拉迪斯"; was coined 格拉迪烏斯 — WRONG) |
+| Machvise (Diamante Army officer) | 馬赫拜茲 (matches eps 11-15) |
+| Pica Army (Special Ops Unit) | 皮卡軍 (unverified — Pica exec name) |
+| Diamante Army (Battle Brigade) | 帝雅曼鐵軍（戰鬥旅團）|
+| Trébol Army (Special Ability Team) | 托雷波爾軍（特殊能力隊）|
+| Special Ability Team | 特殊能力隊 |
+| Battle Brigade | 戰鬥旅團 |
+| Special Ops Unit / commando unit | 特殊行動隊 / 突擊部隊 |
+| Elite Officer (Doflamingo Family rank) | 精銳幹部 |
+| Officer (Doflamingo Family rank) | 幹部 |
+| Officer's Tower / Officers' Tower | 幹部之塔 (coined) |
+| Lift Junction | 升降機交會處 (coined) |
+| Toys' House / Toy House | 玩具屋 |
+| Scrapyard (toy disposal) | 廢料場 |
+| Coup de Vent (Franky attack) | 風來 (project convention — prior repo uses 風來噴射 Jet / 風來爆發 Burst etc.; was coined 狂風疾襲 — NOT USED in any ep16-20 file, so no subtitle change, but glossary corrected to prior-repo standard) |
+| Weapons Left (Franky attack call) | 左武器 (coined) |
+| Suleiman the Beheader (Class-A war criminal) | 斬首者蘇萊曼 |
+| Dias Navy Battle (Suleiman's past war) | 迪亞斯海戰 (coined; verify) |
+| Orlumbus / Yonta Maria Great Fleet (adventurer) | 歐隆拜斯 (VERIFIED) / 約瑪利亞大船團 (VERIFIED Fandom page "約瑪利亞大船團"; fleet was coined 尤塔·瑪麗亞大船團 — WRONG) |
+| Cavendish (pirate) | 卡文迪許 (matches eps 11-15) |
+| Damask "The Fire Demon" (Block D gladiator) | 達馬斯克 / 火焰惡魔 (matches eps 11-15; epithet coined) |
+| Mummy "The Witch Doctor" (gladiator) | 木乃伊 / 巫醫 (coined) |
+| Agyo (gladiator lion) | 阿吉歐 (UNRESOLVED — no Fandom entry for this minor gladiator lion; phonetic coinage kept) |
+| Soldier-san (Rebecca's term for Thunder Soldier) | 士兵先生 |
+| Operation SOP (short form) | SOP作戰 |
+| Inhel (dwarf password/command) | 因海爾 (coined phonetic; verify) |
+| Tontatta Combat (dwarf attack) | 頓達塔戰鬥 (coined) |
+| Tail Hammer (dwarf attack) | 尾錘 (coined) |
+| Block D (Colosseum) | D區 |
+| Diamante ♦ Officer (caption rank) | 帝雅曼鐵軍幹部 |
+
+## Dressrosa Arc (ep 18)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Rommel / Kingdom of Rommel (where Hakuba's tragedy occurred) | 布爾橋 / 布爾橋王國 (VERIFIED via Fandom Cavendish 卡文迪許 page — he is prince of 布爾橋王國; was coined 羅梅爾 — WRONG) |
+| Hakuba (Cavendish's sleeping alter ego) | 白馬 (semantic; matches "White Horse Cavendish" 白馬) |
+| Slicing Wind / Slicing Wind of Rommel (Hakuba's phenomenon) | 斬風 / 布爾橋的斬風 (updated per corrected 布爾橋 kingdom name) |
+| Swim Fruit / Sui Sui no Mi (Senor Pink's power, swim through solids) | 游游果實 (VERIFIED Fandom page "游游果實", スイスイの実; was coined 游泳果實 — WRONG) |
+| Vise / Machvise (Senor Pink's ally, short form) | 布西 (matches eps 11-15 Machvise 馬赫拜茲 / short 布西) |
+| Usolanders (Tontatta name for Straw Hat Pirates, after "Usoland"/Usopp) | 騙人蘭人 (coined; -蘭 dwarf suffix per eps 06-10, from 騙人布/Usopp) |
+| Rampart Tower (tower housing the palace gates) | 城牆塔 (coined) |
+| Suit Chamber / The Suit Chamber (Doflamingo's palace room) | 西裝廳 (coined) |
+| Reverie / World Council Meeting | 世界會議 |
+| Marincolosseo (Bartolomeo's Colosseum-Marine mashup name) | 鬥技場海軍 (coined; portmanteau Marine+Colosseo) |
+| Sir Heavenly Demon (Fujitora's address to Doflamingo) | 天夜叉大人 (matches "Heavenly Demon" 天夜叉) |
+| Scarlett (Rebecca's mother, Viola's sister) | 絲卡蕾特 (VERIFIED Fandom page "絲卡蕾特"; was coined 斯卡蕾特 — WRONG. Also appears wrong in ep11 & ep20 files) |
+| Three great powers (balance) | 三大勢力 (matches Jaya glossary) |
+
+## Dressrosa Arc (ep 19)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Stone Fruit / Ishi Ishi no Mi (Pica's power, merge with stone) | 岩石果實 (VERIFIED Fandom page "岩石果實", イシイシの実; was coined 石石果實 — WRONG) |
+| Ripple Fruit / Hira Hira no Mi (Diamante's power, "fluttering" — turn things into fluttering material) | 飄揚果實 (VERIFIED Fandom page "飄揚果實", ヒラヒラの実; was coined 飄飄果實 — WRONG) |
+| Sticky Fruit / Beta Beta no Mi (Trebol's power) | 黏黏果實 (VERIFIED Fandom page "黏黏果實", ベタベタの実 — coinage CORRECT) — the substance itself called "Sticky" 黏黏 |
+| Flag man (Diamante's self-description) | 旗幟人 (coined) |
+| Corrida Glaive (Diamante attack) | 鬥牛長刀 (coined; Corrida = Colosseum name 鬥牛) |
+| Lock (Diamante attack call) | 鎖定 (coined) |
+| Wave Motion Elbow (Burgess attack) | 波動肘擊 (coined; Wave Motion 波動) |
+| Wave Motion Dragon's Claw (Burgess attack) | 波動龍爪 (coined) |
+| tatababasco (world's spiciest seasoning, disguised as grape) | 塔塔巴巴斯科 (VERIFIED via Fandom SOP作戰 page which uses 塔塔巴巴斯科; ep19 file wrongly has 塔巴巴斯科 [missing a 塔], ep20 file already correct) |
+| Grand Senpai (Burgess's term for Luffy, as Whitebeard's successor lineage) | 大前輩 (coined) |
+| Commanders' Tower / Officers' Tower (SMILE factory, where Sugar is) | 幹部之塔 (matches ep 17 coined) |
+| Fighting Fish 01 (the one with Devil Fruit on its back) | 鬥魚01號 (coined; Fighting Fish 鬥魚 matches eps 06-10) |
+| Commerce Port / Underground Commerce Port | 商業港 / 地下商業港 (coined) |
+| Rampart Tower B-1 / B-2 (palace tower sections) | 城牆塔B-1 / B-2 (matches ep 18 城牆塔) |
+
+## Dressrosa Arc (ep 20)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Sanshita-san (SMILE factory overseer, name/title Tontattans use) | 三下大人 (CORRECTED — サンシタ = 三下, Donquixote-family slang for a third-rate/small-fry thug, NOT a surname Yamashita. The "name" is the insult-title; dwarves add deferential -san→大人. Was coined 山下大人 — WRONG) |
+| Captain Eves (pirate crew captain at port four) | 伊夫斯船長 (UNRESOLVED — no Fandom entry; obscure background captain; phonetic coinage kept) |
+| Whip of Love (Sanshita's whip command to slaves) | 愛之鞭 (coined; unverified, reasonable — kept) |
+| Little Black Bears (Sugar attack, summons toy bears) | 小熊玩具 (VERIFIED Fandom 遊樂果實 page: リトルブラックベアーズ = 小熊玩具; was coined 小黑熊 — WRONG) |
+| Sticky Chain (Trébol attack) | 黏黏鎖鏈 (coined; consistent with 黏黏 Sticky Fruit ep 19) |
+| Sticky Stick... Meteor! (Trébol attack) | 黏黏棍……流星！ (coined; 流星 Meteor matches Usopp Meteor convention) |
+| Shing Flower "Elegant Sunflower" (SMILE factory flower/caption) | 閃亮花「優雅向日葵」 (coined; verify vs official) |
+| Underground Trade Port / Trading Port (SMILE factory area) | 地下貿易港 (kept; no Fandom entry to disambiguate from ep19's 商業港. RECOMMEND standardizing on ONE form — 地下貿易港 is the fuller/clearer rendering; ep19's 商業港/地下商業港 could be aligned to it in a future pass, but neither is wiki-canonical so no forced change) |
+| Operation SOP (short form, this ep) | SOP作戰 (matches ep 17) |
+| Robiland (Robin's dwarf-suffix nickname) | 羅賓蘭 (matches eps 06-10 -蘭 suffix) |
+| Musclemelon (Diamante's insult nickname for Bartolomeo) | 肌肉瓜 (coined) |
+
+## Dressrosa Arc (ep 21)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Ranpo (Tontatta warrior, with Kabu) | 蘭波 (coined phonetic; UNRESOLVED — no Fandom entry found for this minor Tontatta; phonetic coinage kept) |
+| Pamu Pamu Fruit / rupture man (Gladius's power, makes things burst) | 爆爆果實 / 破裂人 (VERIFIED Fandom page "爆爆果實", パムパムの実, ename "Pop-Pop Fruit", meaning Rupture; the ability = 破裂人. Was coined 破破果實 / 破裂能力者 — WRONG on both) |
+| Donquixote Doflaemon (Kin'emon disguised as Doflamingo, portmanteau Doflamingo+Kin'emon) | 唐吉訶德·多佛拉衛門 (coined portmanteau; -衛門 from 錦右衛門/勘十郎, 多佛 from 多佛朗明哥) |
+| Helmet Puncture (Gladius attack) | 頭盔穿刺 (coined) |
+| Jet Stamp (Luffy Gear Second attack, here) | 噴射印章 (matches Enies Lobby glossary) |
+| Platanus Shuriken / Sure-Kill Green Star: Platanus Shuriken (Usopp attack) | 懸鈴木葉手裏劍 / 綠星．懸鈴木葉手裏劍 (VERIFIED Fandom "POP GREEN" page: 綠星．懸鈴木葉手裏劍. Plane tree = 懸鈴木, NOT the coined synonym 法國梧桐. ep21 subtitle splits it "綠星：法國梧桐……手裏劍！" → correct 法國梧桐 to 懸鈴木) |
+| dasuyan (Trebol speech quirk, tag suffix) | 達斯呀 (coined phonetic tag; Trebol's だすやん verbal tic) |
+| Clairvoyance / Peeping Mind (Violet, watching from afar) | 透視能力 (matches 透視能力者/窺視內心 Violet convention) |
+
+## Dressrosa Arc (ep 22)
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Onepoco (child's mispronunciation of Onepoko, toy father Milo) | 萬波可 (matches eps 06-10 Onepoko 萬波可; here a small child mispronouncing it — same rendering kept) |
+| Sebio (southern district of Dressrosa) | 塞比歐 (UNRESOLVED — no Fandom district page; phonetic coinage kept. Used in ep22 file x3. NOTE inconsistency: ep11-15 glossary coined the flashback town "Sevio" 塞維歐 — likely same セビオ; both unverified, left unforced) |
+| Carta (eastern district of Dressrosa) | 卡爾塔 (UNRESOLVED — no Fandom entry; coinage kept. NOTE: does NOT appear in any ep21-25 subtitle file, glossary-only) |
+| Primula District (Dressrosa district) | 普莉穆拉區 (UNRESOLVED — no Fandom entry; coinage kept. NOTE: does NOT appear in any ep21-25 subtitle file, glossary-only) |
+| Surging Elbow / Wave Motion Elbow (Burgess attack) | 波濤肘擊 (coined; cf. ep19 波動肘擊 for "Wave Motion Elbow" — "Surging Elbow" rendered 波濤肘擊, verify whether same attack should unify) |
+| Dragon Claw Technique (Burgess attack) | 龍爪功 (coined; cf. ep19 Wave Motion Dragon's Claw 波動龍爪) |
+| Dragon's Breath (Burgess attack) | 龍之吐息 (coined; verify vs Fandom) |
+| Toys' House / Toy House (SMILE factory front) | 玩具屋 (matches eps 16/17) |
+| Scarlett (Rebecca's mother) | 絲卡蕾特 (VERIFIED prior — kept) |
+| red flower field / red flower field (promised meeting place) | 紅花田 (coined; distinct from Flower Hill 花田 district) |
+
+## Dressrosa Arc (eps 23 [744-745])
+| English | 繁體中文 |
+|---|---|
+| Bird Cage (Doflamingo's Birdcage, city-wide barrier/game) | 鳥籠 (VERIFIED Fandom page "鳥籠" — String-String Fruit technique/death game) |
+| Beta Beta Chain (Trebol attack) | 黏黏鎖鏈 (coined from VERIFIED 黏黏果實; verify exact attack name vs Fandom) |
+| Parasite String (Doflamingo string-control technique) | 寄生線 (VERIFIED Fandom "寄生線") |
+| Chief of Staff (Sabo's Revolutionary Army rank) | 參謀總長 (coined; standard rank rendering) |
+| Buffalo (Donquixote Family) | 巴法羅 (kept — matches established 巴法羅 in glossary; NOT coined 巴弗洛). Fandom lists 巴弗洛 but project uses 巴法羅 for consistency |
+| Bastille "Shark Cutter" (Vice Admiral) | 巴斯提憂 (kept — matches established 巴斯提憂; NOT Fandom 巴斯提尤) |
+| Tontatta Tribe (dwarf people) | 頓達塔族 (kept — matches established 頓達塔; NOT Fandom 托恩塔塔族) |
+| Usoland (dwarves' name for Usopp) | 騙人蘭 (kept — matches established 騙人蘭 in prior files; -蘭 dwarf suffix) |
+| Rampart Tower (tower housing palace gates) | 城牆塔 (kept — matches established 城牆塔) |
+| Jet Gatling (Luffy Gear Second attack) | 噴射機關槍 (kept — matches established) |
+| God Usopp (toys' worship of Usopp) | 騙人布神 (coined; 神+name pattern) |
+| young master (Doflamingo Family address for Doffy) | 少主 (kept — matches established 少主) |
+| Doffy / Mingo (nickname for Doflamingo) | 明哥 (kept — matches established) |
+
+## Dressrosa Arc (ep 24 [746-747])
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Pica (Donquixote Family Top Commander, stone-man; comically high voice) | 皮卡 (coined phonetic; matches Pica Army 皮卡軍 established. Fandom uses 皮卡 — verify pass) |
+| Isshou / Issho (Fujitora's given name, Admiral) | 一笑 (kept — matches established Fujitora/Issho 藤虎/一笑; used as "Isshou-san" 一笑大人) |
+| Topknotland (Bartolomeo's affectionate name for Kin'emon, cf. Wano topknot) | 髮髻國 (coined portmanteau; 髮髻 = Wano topknot [established] + 國 "-land") |
+| Royal Grounds / Royal Palace grounds (Doflamingo's designation for the palace zone) | 王宮聖地 (coined; "royal grounds" as sacred palace area) |
+| Ton-Ton! Ten-Ton Vise! (Machvise crushing attack) | 噸噸！十噸布西！ (UNRESOLVED — no Fandom named-technique entry; weight-pun coinage kept [トントン/十噸 = 噸/十噸; Vise 布西 established], used ep24 x6) |
+| super-weight man (Machvise, dwarves/Luffy describing him) | 超重量男 (coined descriptor) |
+| Gatling Girl (Baby 5 weapon form, machine-gun) | 機關槍女郎 (coined; matches Baby 5 "-Girl" 女郎 forms: Espada Girl 劍刃女郎 etc.) |
+| Pistol High-Heel (Baby 5 attack, gun-heel shot) | 手槍高跟鞋 (coined; 手槍 pistol + 高跟鞋 high-heel) |
+| G, for disgraceful! (Lao G's self-punning catchphrase on 恥 disgrace) | G，就是「丟」人現眼的G！ (coined; renders English G-pun via 丟人現眼 "disgraceful", isolating 丟 as the "G")|
+| Kingdom of Biggschots (trading vessel's origin, disguised as pirate ship) | 比格夏茲王國 (kept — matches established, unverified) |
+
+## Dressrosa Arc (ep 25 [748-749])
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Onward!! Army of Rogues (episode title) | 前進！！烏合之眾大軍 (coined; "army of rogues" = the ragtag gladiators chasing Luffy) |
+| Happou Navy (Gang) / Don Chinjao's group (episode caption) | 八寶水軍 (VERIFIED Fandom Chinjao page: affiliation 八寶水軍; coinage CORRECT. Chinjao name = 青椒, epithet Don Chinjao = 首領·青椒 on wiki; project files use bare 青椒) |
+| Head-Armor (Sai / Hasshoken technique) | 頭盔武裝 (coined; UNRESOLVED — wiki uses 武頭 for a Hasshoken head technique, but "頭盔武裝" does NOT appear in any ep21-25 file [glossary-only], so no forced change. If it ever surfaces, prefer wiki 武頭) |
+| Hasshoken Secret Technique (Chinjao/Sai martial art) | 八衝拳奧義 (八衝拳 VERIFIED Fandom page "八衝拳"; 奧義 secret-technique suffix coined. NOTE: does NOT appear in any ep21-25 file [glossary-only]) |
+| Drill Dragon (Chinjao Hasshoken technique) | 鑽龍 (KEPT — prior-repo established in ep10 "鑽龍螺旋刺". Fandom uses 錐龍 [「錐龍錐釘」], but project rule prefers established repo form 鑽 over wiki 錐; ep25 use is consistent) |
+| Drilling Nail (Chinjao finishing technique) | 鑽釘 (KEPT — matches established 鑽 forms [ep09/10 螺鑽青椒, ep10 鑽龍]. Fandom uses 錐釘; project keeps 鑽 for consistency) |
+| Light version King Punch (Elizabello, weaker charge) | 輕量版國王重拳 (coined; King Punch 國王重拳 established) |
+| Destructive Cannon (Ideo attack) | 破壞加農砲 (coined; matches Ideo epithet 破壞加農砲 established) |
+| Admiral Hug (Orlumbus attack) | 司令·擁抱 (coined; Orlumbus = Fleet Admiral 艦隊司令; comedic hug attack) |
+| Beautiful Sword (Cavendish attack) | 美麗之劍 (kept — established glossary) |
+| Swan Lake (Cavendish attack) | 天鵝湖 (UNRESOLVED — no Fandom named-technique entry; anime/minor attack. Ballet-themed coinage kept, used ep25 x8) |
+| Long Leg Tribe (Blue Gilly's race) | 長腳族 (VERIFIED Fandom "布爾吉利" page: 長腳族. Was coined 長腿族 — WRONG. Appears wrong in ep04 AND ep25 files) |
+| Blue Gilly (Long Leg Tribe fighter, Ideo Pirates) | 布爾吉利 (VERIFIED Fandom page "布魯基利"/又譯"布爾吉利"; project files use 布爾吉利 x10 — kept) |
+| Ideo (boxing captain, Ideo Pirates) | 伊迪歐 / 伊迪歐海賊團 (VERIFIED Fandom "伊迪歐") |
+| Donquixote Family (Doflamingo's crew/organization) | 唐吉訶德家族 (VERIFIED Fandom "唐吉訶德家族") |
+| Corazón (Rosinante, Doflamingo's brother, Law's savior) | 柯拉遜 (VERIFIED Fandom "唐吉訶德·羅希南特": codename コラソン = 柯拉遜. Was coined 柯拉松 — WRONG [ep25]. Unified with old alias "Cora-san" → 柯拉遜先生; the old 柯拉先生 is superseded) |
+| Superstar (Cavendish self-title in daydream) | 超級巨星 (coined; matches Cavendish vanity theme) |
