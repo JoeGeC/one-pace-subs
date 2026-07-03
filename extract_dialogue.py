@@ -27,6 +27,10 @@ from pathlib import Path
 
 # Prefixes of styles whose text content should be translated.
 # Style names vary between files (e.g. Main-207-, Main-480p) so we match by prefix.
+# Matching is CASE-INSENSITIVE (see style_matches): source files have shipped the
+# same style under different capitalisation, e.g. `Title`/`Captions` became
+# lowercase `title`/`captions` partway through the Fishman Island arc, and the
+# old `RogerMonologue` narration style was later renamed to `Gold`.
 TRANSLATABLE_PREFIXES = (
     "Main",
     "Secondary",
@@ -34,8 +38,12 @@ TRANSLATABLE_PREFIXES = (
     "Captions",
     "Title",
     "Thoughts",
-    "Flashbacks",
+    # Singular "Flashback" so we also match `Flashback inception` (Dressrosa 07),
+    # `FlashbackSecondary-207+` and `FlashbackThoughts-207-/207+` — the plural
+    # prefix silently dropped these from translation.
+    "Flashback",
     "RogerMonologue",
+    "Gold",
     "Narrator",
 )
 
@@ -43,6 +51,18 @@ TRANSLATABLE_PREFIXES = (
 SKIP_PREFIXES = (
     "Credits",
 )
+
+
+def style_matches(style, prefixes):
+    """Case-insensitive prefix match for ASS style names.
+
+    Source files are inconsistent about capitalisation (e.g. `Title` vs `title`,
+    `Captions` vs `captions`), so we always compare lowercased. Matching by case
+    silently dropped episode titles from translation/repositioning from Fishman
+    Island ep 07 onward — keep this case-insensitive.
+    """
+    style_lower = style.lower()
+    return any(style_lower.startswith(p.lower()) for p in prefixes)
 
 # Pattern to match editor comments (non-formatting curly brace blocks)
 # These are {text} blocks where the content does NOT start with \
@@ -118,7 +138,7 @@ def extract(input_path):
                 continue
 
             prefix, style, text = parsed
-            if style.startswith(SKIP_PREFIXES) or not style.startswith(TRANSLATABLE_PREFIXES):
+            if style_matches(style, SKIP_PREFIXES) or not style_matches(style, TRANSLATABLE_PREFIXES):
                 continue
 
             # Skip pure vector drawing lines (no translatable text)

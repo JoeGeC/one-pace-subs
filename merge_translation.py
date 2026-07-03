@@ -108,9 +108,15 @@ def _plan_top_positions(raw_lines, translations, res_x):
     (a long chain of non-simultaneous captions does NOT keep stacking downward).
     A brief crossfade overlap (< OVERLAP_EPS) doesn't count as sharing a row.
 
+    Typeset captions are often LAYERED: the same text drawn twice or more with
+    identical timing on different layers (a border pass and a fill pass with
+    different override tags). Those duplicates must land on the SAME (x, y) —
+    stacking them apart tears the caption into ghost copies. We therefore group
+    lines by (start, end, tag-stripped text) and assign one row per group.
+
     Returns {line_num: (x, y)} for every line to be pinned with \\an8\\pos.
     """
-    meta = {}  # line_num -> info
+    groups = {}  # (start_str, end_str, plain_text) -> info incl. member line numbers
     for line_num, line in enumerate(raw_lines, 1):
         if line_num not in translations or not line.startswith("Dialogue:"):
             continue
@@ -124,34 +130,39 @@ def _plan_top_positions(raw_lines, translations, res_x):
         if not (is_caption or is_an8):
             continue
         ox, _oy = _orig_pos(parts[9])  # x geometry from the ORIGINAL line
-        meta[line_num] = {
+        key = (parts[1], parts[2], re.sub(r'\{[^}]*\}', '', trans_text))
+        g = groups.setdefault(key, {
             "start": _parse_time(parts[1]),
             "end": _parse_time(parts[2]),
             "ox": ox,
             "nlines": 1 + trans_text.count("\\N"),
-        }
+            "members": [],
+        })
+        g["members"].append(line_num)
+        if g["ox"] is None:
+            g["ox"] = ox
 
-    if not meta:
+    if not groups:
         return {}
 
     # Uniform row height sized to the tallest caption so no two rows can touch.
-    row_h = max(m["nlines"] for m in meta.values()) * STACK_LINE_H
+    row_h = max(g["nlines"] for g in groups.values()) * STACK_LINE_H
 
-    slot_end = []  # slot_end[i] = end time of the line currently holding row i
+    slot_end = []  # slot_end[i] = end time of the group currently holding row i
     assignment = {}
-    for n in sorted(meta, key=lambda k: meta[k]["start"]):
-        m = meta[n]
+    for g in sorted(groups.values(), key=lambda g: g["start"]):
         slot = None
         for i, end in enumerate(slot_end):
-            if end - OVERLAP_EPS <= m["start"]:  # row is free by the time n starts
+            if end - OVERLAP_EPS <= g["start"]:  # row is free by the time g starts
                 slot = i
-                slot_end[i] = m["end"]
+                slot_end[i] = g["end"]
                 break
         if slot is None:
-            slot_end.append(m["end"])
+            slot_end.append(g["end"])
             slot = len(slot_end) - 1
-        x = m["ox"] if m["ox"] is not None else res_x / 2
-        assignment[n] = (x, STACK_TOP + slot * row_h)
+        x = g["ox"] if g["ox"] is not None else res_x / 2
+        for n in g["members"]:
+            assignment[n] = (x, STACK_TOP + slot * row_h)
 
     return assignment
 
