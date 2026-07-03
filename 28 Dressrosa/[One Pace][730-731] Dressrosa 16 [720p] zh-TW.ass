@@ -274,7 +274,7 @@ Dialogue: 0,0:15:13.65,0:15:14.53,Main,Bartolomeo,0,0,0,,什麼？
 Dialogue: 0,0:15:16.19,0:15:19.59,Main,Bartolomeo,0,0,0,,當兩個男人在戰場上交過手，
 Dialogue: 0,0:15:19.59,0:15:20.77,Main,Bartolomeo,0,0,0,,那就是並肩作戰的戰友了！
 Dialogue: 0,0:15:24.07,0:15:27.91,Main,Bartolomeo,0,0,0,,我絕不會拋棄戰友，不管他有多不堪！
-Dialogue: 0,0:15:33.06,0:15:37.43,Captions,Caption,0,0,100,,{\an8\pos(640,100)\fad(520,250)}德雷斯羅薩「花之丘」
+Dialogue: 0,0:15:33.06,0:15:37.43,Captions,Caption,0,0,100,,{\an8\pos(640,100)\fad(520,250)}德雷斯羅薩「花田」
 Dialogue: 0,0:15:34.78,0:15:37.43,Main,Thunder Soldier,0,0,2,,{\fad(0,250)}情況就如我先前所解釋的。
 Dialogue: 0,0:15:38.86,0:15:43.66,Captions,,0,0,100,,{\an8\pos(640,100)\fad(493,0)}地下——利克革命軍基地
 Dialogue: 0,0:15:38.85,0:15:41.84,Main,Thunder Soldier,0,0,4,,至於我們要揭露那些
@@ -300,8 +300,8 @@ Dialogue: 0,0:16:36.20,0:16:38.24,Main,Thunder Soldier,0,0,0,,當然，這個計
 Dialogue: 0,0:16:39.13,0:16:44.95,Main,Thunder Soldier,0,0,0,,我們根本不知道接下來這幾分鐘德雷斯羅薩會發生什麼。
 Dialogue: 0,0:16:46.88,0:16:51.62,Main,Thunder Soldier,0,0,0,,最重要的是，有一項任務我們絕對必須完成。
 Dialogue: 0,0:16:53.12,0:16:59.04,Main,Thunder Soldier,0,0,0,,多佛朗明哥的部下，那個把我們變成玩具的人……
-Dialogue: 0,0:16:59.04,0:17:02.23,Main,Thunder Soldier,0,0,0,,我們必須讓那個玩具果實能力者昏迷過去！
-Dialogue: 0,0:17:03.55,0:17:05.51,Main,Usopp,0,0,0,,玩具果實？
+Dialogue: 0,0:16:59.04,0:17:02.23,Main,Thunder Soldier,0,0,0,,我們必須讓那個遊樂果實能力者昏迷過去！
+Dialogue: 0,0:17:03.55,0:17:05.51,Main,Usopp,0,0,0,,遊樂果實？
 Dialogue: 0,0:17:05.51,0:17:07.54,Main,Thunder Soldier,0,0,0,,你們覺得那樣一來會發生什麼事？
 Dialogue: 0,0:17:08.65,0:17:10.78,Main,Robin,0,0,0,,咒語會被解除嗎？
 Dialogue: 0,0:17:10.78,0:17:15.40,Main,Thunder Soldier,0,0,0,,沒錯！德雷斯羅薩所有的玩具……
@@ -313,7 +313,7 @@ Dialogue: 0,0:17:37.37,0:17:39.30,Main,Thunder Soldier,0,0,0,,多佛朗明哥會
 Dialogue: 0,0:17:39.30,0:17:41.87,Main,Thunder Soldier,0,0,0,,海軍會出什麼招。
 Dialogue: 0,0:17:41.87,0:17:43.22,Main,Thunder Soldier,0,0,0,,我們唯一能確定的是，
 Dialogue: 0,0:17:43.22,0:17:46.74,Main,Thunder Soldier,0,0,0,,整個國家將會陷入恐慌。
-Dialogue: 0,0:17:46.74,0:17:50.87,Main,Usopp,0,0,0,,那麼，這個玩具果實能力者在哪裡？
+Dialogue: 0,0:17:46.74,0:17:50.87,Main,Usopp,0,0,0,,那麼，這個遊樂果實能力者在哪裡？
 Dialogue: 0,0:17:50.87,0:17:54.05,Main,Usopp,0,0,0,,而且她真的很強吧？
 Dialogue: 0,0:17:54.74,0:17:56.75,Main,Thunder Soldier,0,0,0,,根據頓達塔偵察隊的情報，
 Dialogue: 0,0:17:57.55,0:18:00.47,Main,Thunder Soldier,0,0,0,,她現在人在貿易港。
