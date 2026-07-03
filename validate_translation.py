@@ -29,9 +29,12 @@ from extract_dialogue import (
 # Matched case-insensitively via style_matches — source files ship the same
 # styles under different capitalisation (`Title`/`title`, `Captions`/`captions`).
 TOP_POSITION_PREFIXES = ("Title", "Captions")
-BOTTOM_POSITION_PREFIXES = ("Main", "Secondary", "Note", "Thoughts", "Flashbacks", "RogerMonologue", "Gold")
+BOTTOM_POSITION_PREFIXES = ("Main", "Secondary", "Note", "Thoughts", "Flashback", "RogerMonologue", "Gold")
 POS_TAG_RE = re.compile(r'\\pos\([^)]*\)')
 AN_TAG_RE = re.compile(r'\\an\d')
+# \move is stripped by merge when pinning a caption to the top of the screen,
+# so it must not count as a tag difference (mirrors merge_translation.py).
+MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
 
 # Extract ASS formatting tag blocks: {\...} where content starts with backslash
 ASS_TAG_RE = re.compile(r'\{\\[^}]*\}')
@@ -103,6 +106,7 @@ def extract_format_tags(text):
     normalized = []
     for tag in tags:
         t = POS_TAG_RE.sub('', tag)
+        t = MOVE_TAG_RE.sub('', t)
         t = AN_TAG_RE.sub('', t)
         # Normalize shorthand toggle tags: \i} -> \i0}, \b} -> \b0}
         t = re.sub(r'\\([ib])([\\}])', r'\\\g<1>0\2', t)
@@ -138,6 +142,7 @@ def parse_all_dialogue(path):
 def reposition_text(text):
     """Apply \an8 repositioning to a Title/Captions text field."""
     text = POS_TAG_RE.sub('', text)
+    text = MOVE_TAG_RE.sub('', text)
     text = AN_TAG_RE.sub('', text)
     if text.startswith('{\\'):
         text = '{\\an8' + text[1:]

@@ -31,6 +31,9 @@ TOP_POSITION_PREFIXES = ("Title", "Captions")
 POS_TAG_RE = re.compile(r'\\pos\(([^,]+),([^)]+)\)')
 # Regex to strip \an followed by a digit (existing alignment overrides)
 AN_TAG_RE = re.compile(r'\\an\d')
+# Regex to strip \move(...) — a caption pinned to the top must be static;
+# leaving \move alongside the injected \pos is renderer-ambiguous.
+MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
 
 # Repositioning geometry. Top-positioned lines (Title/Captions, and \an8 dialogue)
 # are moved off the hardcoded English subs to the top of the screen. When several
@@ -65,8 +68,9 @@ def _num(v):
 
 
 def _apply_top_pos(text, x, y):
-    """Strip any existing \\pos/\\an from text and pin it to \\an8\\pos(x,y)."""
+    """Strip any existing \\pos/\\move/\\an from text and pin it to \\an8\\pos(x,y)."""
     text = POS_TAG_RE.sub("", text)
+    text = MOVE_TAG_RE.sub("", text)
     text = AN_TAG_RE.sub("", text)
     pos_tag = f"\\an8\\pos({_num(x)},{_num(y)})"
     # Insert into the existing leading override block (which may now be empty
