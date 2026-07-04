@@ -35,6 +35,9 @@ AN_TAG_RE = re.compile(r'\\an\d')
 # \move is stripped by merge when pinning a caption to the top of the screen,
 # so it must not count as a tag difference (mirrors merge_translation.py).
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
+# Karaoke sweeps are re-syllabified in translation (zh has a different
+# syllable count), so \ko/\k/\kf/\K durations can't be compared per-block.
+KARAOKE_TAG_RE = re.compile(r'\\(?:ko|kf|k|K)\d+')
 
 # Extract ASS formatting tag blocks: {\...} where content starts with backslash
 ASS_TAG_RE = re.compile(r'\{\\[^}]*\}')
@@ -108,6 +111,7 @@ def extract_format_tags(text):
         t = POS_TAG_RE.sub('', tag)
         t = MOVE_TAG_RE.sub('', t)
         t = AN_TAG_RE.sub('', t)
+        t = KARAOKE_TAG_RE.sub('', t)
         # Normalize shorthand toggle tags: \i} -> \i0}, \b} -> \b0}
         t = re.sub(r'\\([ib])([\\}])', r'\\\g<1>0\2', t)
         # Remove empty tag blocks left after stripping
@@ -230,8 +234,12 @@ def validate(original_path, translated_path, fix=False):
             # overlap each other. \an8\pos is therefore valid — do NOT strip it.
             o_pos_m = POS_TAG_RE.search(o_text)
             t_pos_m = POS_TAG_RE.search(t_text)
-            kept_in_place = (not has_an8 and o_pos_m and t_pos_m
-                             and o_pos_m.group(0) == t_pos_m.group(0))
+            # Deliberately unpinned captions keep the original positioning:
+            # identical \pos tags, or no \pos on either side (margin-positioned
+            # map labels — margins are already compared by the metadata check).
+            kept_in_place = (not has_an8
+                             and (o_pos_m.group(0) if o_pos_m else None)
+                                 == (t_pos_m.group(0) if t_pos_m else None))
             if has_an8:
                 reposition_ok += 1
             elif kept_in_place:
