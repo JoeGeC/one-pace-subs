@@ -2591,7 +2591,7 @@ Character/place/fruit names below were verified against onepiece.fandom.com/zh (
 | Jean Ango / Jean the Bandit | 約翰·昂戈 / 盜賊約翰 |
 | Bastille "Shark Cutter" (Vice Admiral) | 巴斯提憂 / 斬鯊巴斯提憂 |
 | Jora (Trébol Army) | 喬菈 |
-| Elbaf (giants' country) | 艾爾帕布 |
+| Elbaf (giants' country) | 艾爾巴夫 (prior-arc usage: Water Seven/Enies Lobby/Post-EL x14; corrected from 艾爾帕布 2026-07-03) |
 | Shiliew of the Rain | 雨之矢龍 (unverified epithet form) |
 | Emporio Ivankov | 艾波利歐·伊娃柯夫（短：伊娃柯夫）|
 | Fighting Bull / "Brutal Bull" (Colosseum beast) | 鬥牛 |
@@ -2845,3 +2845,194 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Donquixote Family (Doflamingo's crew/organization) | 唐吉訶德家族 (VERIFIED Fandom "唐吉訶德家族") |
 | Corazón (Rosinante, Doflamingo's brother, Law's savior) | 柯拉遜 (VERIFIED Fandom "唐吉訶德·羅希南特": codename コラソン = 柯拉遜. Was coined 柯拉松 — WRONG [ep25]. Unified with old alias "Cora-san" → 柯拉遜先生; the old 柯拉先生 is superseded) |
 | Superstar (Cavendish self-title in daydream) | 超級巨星 (coined; matches Cavendish vanity theme) |
+
+## New Terms (Dressrosa 26 [750-751])
+| English | 繁體中文 |
+|---|---|
+| Funk Brothers (Kelly & Bobby Funk, Mogaro assassins) | 放克兄弟 (surname VERIFIED Fandom: 凱利·放克 / 鮑比·放克. NOTE: ep8 & ep26 captions wrote 方克兄弟 with wrong surname char 方克 → should be 放克兄弟. Bobby 鮑比 confirmed correct, NOT 巴比) |
+| Princess Mancherie (Tontatta/dwarf princess held captive) | 蔓雪莉公主 (VERIFIED Fandom page 蔓雪莉; 公主 = princess) |
+| Reaper of the Colosseum (Ucy the Fighting Bull's nickname) | 鬥技場的死神 (coined; Reaper 死神, applied to Ucy 魯牛) |
+| Dragon Claws (Sabo's flame-empowered claws, from Ryusoken Dragon Claw style) | 龍爪 (coined; matches Sabo's 龍爪功 Dragon Claw fighting style / 龍爪 claws) |
+| Shark-Cleaver / Shark Cutter (Bastille's sword) | 斬鯊刀 (coined; Bastille VERIFIED Fandom 巴斯提憂, epithet 斬鯊) |
+| cups of brotherhood / brotherhood cup (Ace-Luffy-Sabo sworn bond) | 兄弟之杯 (coined; sakazuki brotherhood ritual) |
+| slanted water well (dead-end shaft Ucy runs into) | 傾斜的水井 (coined descriptor) |
+| rooster-human / rooster man (Cavendish, escort context) | 公雞人 (coined; cf. hen-comb guy 雞冠頭傢伙) |
+
+## New Terms (Dressrosa 27 [752-753])
+New terms coined this episode; "(unverified)" ones need a later Fandom pass.
+| English | 繁體中文 |
+|---|---|
+| Moocy (Luffy's mangled name for the captured Law string-puppet / Mingo) | 穆西 (coined phonetic; UNRESOLVED — 穆西 confirmed NOT a Fandom page; minor one-off, coinage kept. Files use 穆西 x4 in ep27) |
+| Bullet String (Doflamingo string attack) | 子彈絲線 (coined; UNRESOLVED — no Fandom technique page found; coinage kept) |
+| Flevance / the White Town (young Law's homeland) | 弗雷凡斯 (VERIFIED Fandom page 弗雷凡斯) / 白色小鎮 (coined descriptor for "the White Town/City") |
+| String-Joker (Doflamingo's string-clone puppet, subordinates' term) | 絲線傀儡 (rendered semantically; UNVERIFIED — could be phonetic 絲線喬卡. Chose descriptive "string puppet" for clarity, consistent with 絲線傀儡 used earlier this ep) |
+| Yellow Cubs (Tontatta Airlines jumping-service beetle unit) | 黃色幼獸隊 (coined; caption. VERIFY vs Fandom) |
+| Tontatta Airlines Jumping Service | 頓達塔航空跳躍服務 (coined; matches Tontatta Airport/Airline 頓達塔航空/機場 established) |
+| Inhel / Wicca (Pink Bee dwarf commands/names) | 因海爾 / 薇卡 (Inhel 因海爾 kept — matches ep06-10 coinage; Wicca 薇卡 established glossary) |
+| Suleiman the Beheader / war executioner | 斬首者蘇萊曼 (established) / 戰爭處刑人 (coined descriptor for "war executioner") |
+| Revolver Leg (Suleiman-adjacent kick? colosseum fighter attack) | 左輪腿 (coined; UNVERIFIED — spinning revolver-cylinder kick attack in the colosseum-army fight) |
+| Armsmorphosis (armament transformation attack, colosseum fighter) | 武裝變形 (coined; UNVERIFIED — Haki-like armament morph. VERIFY vs Fandom) |
+| Blade of Beauty: Saint-Exupéry / Stardust Prince (Cavendish attack) | 美之刃：聖修伯里 / 星塵王子 (coined; Little Prince author allusion 聖修伯里 [established rendering] + 星塵王子 "Stardust Prince". VERIFY vs Fandom) |
+| Rubber Jet Gatling (Luffy Gear Second attack) | 橡膠噴射機關槍 (coined; matches Gum-Gum Gatling 橡膠機關槍 + Jet 噴射 established) |
+| Old King's Plateau / Former Royal Plateau (rally point / Birdcage zone) | 舊王宮高地 (UNIFIED — canonical caption form used in ep27 & ep30 captions is 舊王宮高地; the spoken abbreviation 舊王高地 in ep27 line 302 should become 舊王宮高地. cf. New Royal Plateau 新王宮高地) |
+| Farland (Franky's dwarf-suffix nickname, alt spelling of Fraland) | 佛朗蘭 (kept — established Fraland 佛朗蘭) |
+| Luffyland (dwarf-suffix nickname for Luffy, -land suffix) | 魯夫蘭 (coined; -蘭 suffix per Tontatta convention, cf. Fraland 佛朗蘭) |
+| Daruma (Donquixote Family, Pica Army officer, referenced in colosseum fight) | 達魯馬 (VERIFIED Fandom page 達魯馬; distinct from Fishman-Island 達摩) |
+| Sebio (southern town/district of Dressrosa) | 塞維歐 (UNIFIED — prior-repo majority: ep14 flashback town 塞維歐鎮/南方城鎮塞維歐 + ep27 caption 南方的城鎮塞維歐. ep22's 塞比歐 is the outlier and should be 塞維歐. Not on Fandom; prior-repo consistency governs) |
+| Elephant Gun (Luffy Gear 3 attack) | 象槍 (Fandom canonical: 橡膠象槍, bare 象槍; matches Fishman Island 02 象槍. ep27's 大象槍 is non-canonical → 象槍. Gatling form = 橡膠象槍亂打) |
+
+## Dressrosa Arc — ep 28 [754-755] new/coined terms
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Evening Shower Kanjuro (Wano samurai, drawing/sorcery powers) | 驟雨勘十郎 | coined; caption epithet "Evening Shower" 驟雨 + Kanjuro 勘十郎 (established). VERIFY vs Fandom |
+| Spring Sparrow (Kanjuro's drawing-come-to-life bird) | 春天麻雀 | coined; his drawn bird. VERIFY vs Fandom |
+| Guillotine High-Heel (Longleg-tribe colosseum fighter attack) | 斷頭台高跟鞋 | coined; UNVERIFIED |
+| Pulpostone (Pica attack, octopus-shaped stone golems) | 章魚石 | coined (Pulpo=octopus 章魚 + stone 石). VERIFY vs Fandom |
+| Thousand-and-Eighty Pound Phoenix (Zoro attack) | 一千零八十煩惱鳳 | CORRECTED — Fandom Zoro page uses full-numeral pattern 三十六煩惱鳳 / 三百六十煩惱鳳 (NOT 〇-digit style). ep28's coined 一〇八〇煩惱鳳 → 一千零八十煩惱鳳. cf. Skypiea 一百零八煩惱鳳 |
+| Kuween (SMILE Factory manager, 20yo female) | 庫溫 | coined phonetic; UNRESOLVED — 庫溫 confirmed NOT a Fandom page (missing); minor one-off, coinage kept |
+| Mouji (Princess Mansherry's aide, Tontatta) | 姆吉 | coined phonetic; UNRESOLVED — no Fandom page; coinage kept (distinct from Buggy's Mohji 摩奇) |
+| Chao (Tontatta dwarf in SMILE factory) | 喬歐 | coined phonetic; UNRESOLVED — no Fandom page; coinage kept |
+| Franky Ear (Franky's keen-hearing gag, caption+narration) | 佛朗基之耳 | coined |
+| Franky Southland Suplex (Franky attack) | 佛朗基南方過肩摔 | coined; matches 過肩摔 suplex rendering |
+| Cat-Ear Punch (SMILE factory manager Kuween attack) | 貓耳拳 | coined |
+| Diaper Bombs (Senor Pink attack) | 尿布炸彈 | coined; UNVERIFIED — VERIFY vs Fandom |
+| Nipple Light Special (Franky attack) | 乳頭光線特別版 | coined; UNVERIFIED — VERIFY vs Fandom |
+| Tontatta Swing (Tontatta dwarf attack) | 頓達塔盪擊 | coined; matches Tontatta 頓達塔 established |
+| Tontatta Tail Four-man Hammer (Tontatta combo attack) | 頓達塔尾巴四人鐵鎚 | coined; matches Tontatta convention |
+| hard-boiled (Senor Pink / Franky's manly-cool motif) | 硬派 | coined rendering of the recurring "hard-boiled" catchphrase |
+| One-star criminal (Franky's bounty tier, per Kuween) | 一星級罪犯 | coined |
+| Isolation ward (SMILE factory) | 隔離病房 | coined |
+| Executive tower / Officers' Tower (SMILE factory caption) | 幹部之塔 | kept — matches ep17 established 幹部之塔 |
+| Junkyard / Scrap Heap (SMILE factory caption) | 廢料場 / 廢料堆 | matches established 廢料場 (Junkyard) / 廢料堆 (Scrap Heap) |
+
+## Dressrosa Arc (ep 29 [756-757])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Trump Card (episode title) | 王牌 | coined; the crew's ace-in-the-hole theme |
+| Clairvoyance (Viola's peeping-sight ability, this ep) | 透視能力 | kept — matches established Violet 透視能力 |
+| naughty room (small room off the palace chapel where Mansherry is held) | 頑皮房 | coined; the room where Scarlett scolded the kids |
+| Pop Baller (Gladius attack, Pamu Pamu Fruit) | 爆爆炸彈球 | coined technique; Gladius VERIFIED Fandom 古拉迪斯, Pamu Pamu / Pop-Pop Fruit VERIFIED 爆爆果實. "Pop" prefix = 爆. Technique-name itself unresolved on Fandom; coinage kept |
+| Pop... Diez Fleurs (Gladius bursting Robin's arms) | 爆…十輪花 | "Pop" 爆 (Gladius burst) + established Diez Fleurs 十輪花 |
+| Yellow Cubs (Tontatta beetle jump-service unit) | 黃色幼獸隊 | kept — matches ep28 coined |
+| Special Facial Jack in the Box (Sugar's KO'd state device) | 特製人臉玩偶盒 | coined; the surprise-box that knocked Sugar out; UNVERIFIED |
+| Headcracker Doll (toy-soldier form Sugar makes people fight as) | 裂頭娃娃 | coined; UNVERIFIED — VERIFY vs Fandom |
+| Rubber Jet Pistol (Luffy Gear Second attack) | 橡膠噴射手槍 | coined; Gum-Gum Pistol 橡膠手槍 + Jet 噴射 (established) |
+| Blade of Beauty! Round Table! (Cavendish attack) | 美之刃！圓桌！ | coined; extends "Blade of Beauty" 美之刃 line (cf. Saint-Exupéry). VERIFY vs Fandom |
+| Rubber UFO (Luffy attack) | 橡膠幽浮 | coined; UNVERIFIED — VERIFY vs Fandom |
+| Barrier-bility: Stairs (Bartolomeo, Barrier-power staircase) | 障壁技·階梯 | coined; "Barrier-bility" = 障壁技 (barrier technique) + Stairs 階梯. VERIFY vs Fandom |
+| Cinco Mano! Spank! (Robin attack, five hands) | 五手！打屁股！ | coined; Cinco Mano "five hands" 五手 (Note gives 五隻手) + Spank 打屁股. VERIFY vs Fandom |
+| Mil Fleurs! Gigantesco Mano! (Robin attack, giant hand) | 千紫萬紅！巨大手！ | kept — matches established 千紫萬紅：巨大手 (Mille Fleur: Gigantesco Mano) |
+| Gravity Blade (Fujitora attack) | 重力刀刃 | coined; UNVERIFIED — VERIFY vs Fandom |
+| Raging Tiger (Sabo attack, Dragon Claw style) | 狂猛虎 | coined; UNVERIFIED — Sabo Ryusoken-adjacent kick. VERIFY vs Fandom |
+| Farul (Cavendish's horse) | 法露爾 | kept — established glossary |
+| rooster-man / Rooster-kun (Cavendish, escort context) | 公雞人 | kept — matches ep25 公雞人 |
+| Crest Head / hen-comb guy (Luffy's nickname for Bartolomeo) | 雞冠頭 | matches established 雞冠頭傢伙; short form 雞冠頭 |
+| Usoland (Tontatta reverent name for Usopp) | 騙人蘭 | UNIFIED (user directive ep30): use 騙人蘭 everywhere. The ep29 coinage 騙人布蘭 is SUPERSEDED |
+| God Usopp (Tontatta worship title) | 神之騙人布 | UNIFIED (user directive ep30): use 神之騙人布. The ep29 coinage 騙人布大神 is SUPERSEDED |
+
+## Dressrosa Arc (ep 30 [758-759])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Secret Plan (episode title) | 秘密計畫 | coined; Law & Luffy's agreed plan to reach Doflamingo |
+| Usoland (dwarves' name for Usopp) | 騙人蘭 | UNIFIED per user directive — use everywhere |
+| God Usopp | 神之騙人布 | UNIFIED per user directive — use everywhere |
+| -dono (honorific, dwarves to Usopp) | 大人 | UNIFIED per user directive — -dono → 大人 |
+| Mansherry (Tontatta princess) | 蔓雪莉 | UNIFIED per user directive; 公主 = princess |
+| Super Grow Up Great Black Kabuto (Usopp slingshot form) | 超級成長黑卡布托 | coined; extends established Black Kabuto 黑卡布托; UNVERIFIED |
+| Sure-Kill Long-Range Bagworm (Usopp Pop Green attack) | 必殺遠程蓑衣蟲 | coined; 蓑衣蟲 = bagworm (moth larva); UNVERIFIED — VERIFY vs Fandom |
+| Exploding Star (Usopp bullet booster, this ep) | 火藥星 | kept — matches established Lethal Exploding Star 必殺火藥星 |
+| Black Knight (Doflamingo string-clone attack) | 黑騎士 | coined; Doflamingo's Black Knight puppet; UNVERIFIED — VERIFY vs Fandom |
+| Radio Knife (Law attack) | 無線電手術刀 | coined; SEMI-ATTESTED — 無線電手術刀 appears in Fandom 佐烏篇 (Zou arc) page text but has no standalone technique page. Coinage kept (consistent with later-arc wiki usage) |
+| Black Knight (Doflamingo string-clone attack) | 黑騎士 | coined; UNRESOLVED — no Fandom technique page; coinage kept |
+| Radical Beam (Diamante-adjacent? colosseum attack) | 激進光束 | coined; UNRESOLVED — no Fandom technique page; coinage kept |
+| Third Corazón (Doflamingo's term for what Law could have been) | 第三代柯拉遜 | uses VERIFIED 柯拉遜 (Corazón) |
+| Chambres (Law's ROOM swap/cut technique call) | Chambres | kept — French, left untranslated as in-source (matches Room→ROOM styling) |
+| that generation / from that generation (Worst Generation reference) | 同一個世代 | contextual; Luffy & Doflamingo both "of that (Worst) generation" cf. 最惡世代 |
+| New Royal Plateau / Former Royal Plateau (Birdcage stage captions) | 新王宮高地 / 舊王宮高地 | coined; cf. established Royal Plateau; "New"/"Former" = Birdcage-game staged zones |
+| Pool courtyard / Pool (palace yard caption) | 水池中庭 | coined; the palace yard where Law & Luffy arrive |
+| Sunflower Field (Birdcage 4th-step caption) | 向日葵花田 | coined; Birdcage game 4th step location |
+| The Operation Fruit (episode title) | 手術果實 | ep31 title; uses established Ope Ope Fruit 手術果實 |
+| Operation Fruit (spoken, = Ope Ope no Mi) | 手術果實 | matches established Ope Ope Fruit 手術果實 |
+| Amputation (Law's regular ROOM cut, contrasted with Radio Knife) | 截斷 | UNRESOLVED — kept coined. No dedicated Fandom zh technique page (Law abilities subpage is a stub). No authoritative form found. |
+| Injection / Injection Shot (Law attack) | 注射 / 注射彈 | UNRESOLVED — kept coined. No dedicated Fandom zh technique page. No authoritative form found. |
+| Snot Blade-Catcher (Bellamy attack, catches Radio Knife blades with snot) | 鼻涕接刃 | coined; Bellamy nose-running gag turned defense; UNVERIFIED — VERIFY vs Fandom |
+| Shot (Bellamy Spring Fruit attack call, this ep) | 射擊 | coined; bare "Shot!" during Bellamy combo; UNVERIFIED |
+| Fullbright (Bellamy finisher, this ep) | 全亮 | UNRESOLVED — no dedicated Fandom zh technique page found; coined rendering kept. |
+| Rubber Octopus Stamp / Octopus Stamp (Luffy attack) | 橡膠章魚印章 / 章魚印章 | coined; Gum-Gum Stamp 橡膠印章 (established) + Octopus 章魚. Spoken split "Rubber…/Octopus Stamp!" = 橡膠…/章魚印章！ |
+| Personality Transplant Surgery (Ope Ope no Mi usage) | 人格移植手術 | coined; one of the fruit's two great uses; UNVERIFIED — VERIFY vs Fandom |
+| Perpetual Youth Surgery (Ope Ope no Mi usage, grants eternal life, kills surgeon) | 不老手術 | coined; the immortality surgery; UNVERIFIED — VERIFY vs Fandom (may be 不老手術/永生手術) |
+| Straw Hatter (Doflamingo's address to Luffy) | 草帽小子 | coined; contemptuous form of 草帽. Distinct from bare "Straw Hat" 草帽 |
+| "the Straw" (Cavendish/Law betting phrase, = Straw Hat) | 「草帽」 | shortening of Straw Hat; kept as 「草帽」 |
+| Spider Miles (North Blue port town, Donquixote Family base, flashback) | 蜘蛛英哩 | CORRECTED — was coined 蜘蛛麥爾斯. Fandom zh geography list (航海王地理列表, North Blue section) lists town as 蜘蛛英哩 (semantic: 英哩 = miles). |
+| dasuyan / -dasuyan (Buffalo speech quirk) | 達斯呀 | kept — matches established Dasuyan 達斯呀 / dasuyan tag (glossary L2449, L2777) |
+| -yashi / -deshi (fishman pirate speech quirk, waste-plant scene) | 呀西 / 嘚西 | coined phonetic tics; UNVERIFIED — minor fishman characters, this ep |
+| White Lead (amber-lead mineral, source of Flevance's wealth & poison, ep32) | 珀鉛 | CORRECTED — was 琥珀鉛. Fandom zh Law history subpage (托拉法爾加·D·瓦特爾·羅/經歷): "盛產珀鉛而聞名". |
+| White Lead Disease (amber-lead poisoning, ep32) | 珀鉛病 | CORRECTED — was 琥珀鉛病. Fandom zh Law history subpage: 「珀鉛病」. |
+| Rakesh (North Blue port town, ep32 caption) | 拉克什 | UNRESOLVED — kept coined phonetic. Not listed in Fandom zh North Blue geography list (航海王地理列表); no dedicated page. No authoritative alternative found. |
+| Donquixote Homing / Saint Homing (Doflamingo & Rosinante's father, ex-Celestial Dragon) | 唐吉訶德·荷敏 / 荷敏聖人 | CORRECTED — was 霍米茵. Fandom zh page title = 唐吉訶德·荷敏 (infobox cname variant 霍名古). "-Saint" honorific kept as 聖人 per repo usage. |
+| Lammy (Law's little sister, died in Flevance, ep32) | 拉米 / 拉米醬 | CORRECTED — was 蕾米. Fandom zh ch762 uses 拉米 (Law history subpage variant 菈米). -chan → 醬. |
+| Trafalgar D. Water Law (Law's full true name; "Water" is the taboo family name) | 托拉法爾加·D·瓦特爾·羅 | VERIFIED — Fandom zh page title is exactly 托拉法爾加·D·瓦特爾·羅. "Water" = 瓦特爾. |
+| Heavenly Tribute (tax paid by member nations to the Celestial Dragons) | 天上金 | VERIFIED — Fandom zh Doflamingo history: 「天上金」(tribute to 天龍人). |
+| blood law / the blood law (Donquixote Family's iron code, ep32) | 血之戒律 | coined; the family's binding law. UNVERIFIED — VERIFY vs Fandom |
+| Doffy (father Homing & family's affectionate name for young Doflamingo) | 多菲 | coined; softer childhood form distinct from subordinates' 多佛 (Doffy nickname). Note: ep32 flashback uses 多菲 for family address |
+| -in / {\i1}-in{\i0} (Trebol speech quirk in this ep, distinct short tic) | 咿 | coined phonetic tic; Trebol's だすやん-adjacent short verbal tic rendered 咿 (kept short, italic-matched) |
+| impalement (Donquixote Family torture/execution: spearing) | 長矛穿刺 | coined; punishment for breaking the blood law |
+| Celestial Dragon ID chip (identity chip confiscated on renouncing status) | 天龍人身分晶片 | coined; the World Noble identity chip |
+
+## Characters & Terms (Dressrosa 33 / Law Flashback, ep764-765)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Diez Barrels (former Navy officer turned pirate, holds the Operation Fruit) | 狄艾思·巴雷爾茲 | VERIFIED Fandom zh (狄艾思·巴雷尔兹, converted to Traditional). X Drake's father. |
+| Barrels Pirates (Diez Barrels's crew) | 巴雷爾茲海賊團 | VERIFIED Fandom zh (巴雷尔兹海賊團) |
+| Minion (island, Barrels's hideout, ep title "Island of Fate: Minion") | 米尼翁島 | CORRECTED — was 米農島. Fandom zh dedicated page 米尼翁島 (jname ミニオン島, ename Minion Island); geography list confirms. |
+| Rubeck (North Blue island, Operation Fruit trade site) | 魯貝克島 / 魯貝克 | VERIFIED — Fandom zh geography list + Law history subpage: 魯貝克島. |
+| Swallow Island (Donquixote Family rendezvous point) | 斯瓦羅島 | CORRECTED — was 燕子島. Fandom zh Law history subpage names the Family rendezvous/Navy-ambush island 斯瓦羅島 (phonetic). NB: geography list has a distinct generic North Blue entry 海燕島 — the ep33/34 rendezvous is 斯瓦羅島. |
+| Calm Fruit / Nagi Nagi no Mi (Corazón's devil fruit) | 寂靜果實 | VERIFIED Fandom zh (寂靜果實 = 凪凪の実). Paramecia; creates soundproof walls / silences actions. |
+| soundless man (Corazón's self-description, Calm Fruit user) | 能消音的人 | coined; describes the 寂靜果實 ability |
+| "Silent!" / "Calm!" (Calm Fruit ability call) | 寂靜！ | coined; the sound-nullifying activation call |
+| Blush! (Baby 5's catchphrase when needed/relied on) | 臉紅！ | coined; her exclamation when someone needs her |
+| Dray (Barrels Pirates crew member) | 德雷 | coined phonetic; minor character. UNVERIFIED — VERIFY vs Fandom |
+| Operation Fruit (= Ope Ope no Mi / Surgery Fruit) | 手術果實 | established (ep31); confirmed reuse |
+
+## Characters & Terms (Dressrosa 34 / Law Flashback conclusion, ep766-767)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Vergo (former 2nd Corazón, Family member infiltrating the Navy) | 維爾戈 | established ep33; confirmed reuse |
+| "Vergo-san" (honorific Vergo demands from subordinates) | 維爾戈先生 | -san → 先生 per convention. In ep34 line source styles the honorific italic ("Vergo-{\i1}san{\i0}") → 維爾戈{\i1}先生{\i0} |
+| Second Corazón (Vergo's slur naming Rosinante as the prior Corazón) | 第二任柯拉遜 | coined; Rosinante is the 2nd person to hold the Corazón title |
+| Buffalo (Donquixote Family, aerial spinner, "-dasuyan" tic) | 水牛 | VERIFIED Fandom zh (水牛). Repo alias 巴法羅 exists in earlier files — 水牛 is Fandom/Tong Li canonical, prefer it going forward |
+| "-dasuyan" (Buffalo's speech tic) | 達斯呀 | coined; append plain (no emphasis) unless source italicizes |
+| Lao G (Donquixote Family elder officer) | 拉歐·G | VERIFIED Fandom zh (拉歐·G) |
+| Gladius (Donquixote Family officer, Pica Army) | 格拉迪斯 | established ep33 (Captions); confirmed reuse |
+| Parasite String (Doflamingo's String-String ability, cage form) | 寄生線 | coined; String-String Fruit control technique used to cage the town |
+| bird cage (Doflamingo's giant string cage over the town) | 鳥籠 | coined; NOT the later "Birdcage" arc-wide event — here a smaller string cage |
+| Sengoku (Fleet Admiral / Admiral at this time) | 戰國 | established; confirmed reuse |
+| Tsuru (Vice Admiral) | 鶴 | established; confirmed reuse |
+| White Town / White Lead Town (Law's hometown) | 白色小鎮 | established ep33; confirmed reuse |
+| White Lead Disease (Law's terminal illness) | 珀鉛病 | CORRECTED — was 琥珀鉛病. Fandom zh: 「珀鉛病」 |
+| Dressrosa (the kingdom Corazón's letter would save) | 德雷斯羅薩 | established arc-wide; confirmed reuse |
+| Holy Land (Mary Geoise, where Homing wanted to return) | 聖地 | established; confirmed reuse |
+
+## Dressrosa Arc Finale (ep35 [768-769])
+| English | 繁體中文 | Note |
+|---|---|---|
+| Army Bandera (Diamante attack, flag/ground ripple) | 軍旗 | UNRESOLVED — kept coined. No dedicated Fandom zh technique page found. |
+| Pierna Fleur (Cavendish leg-flower attack call, this ep) | 腿花 | kept — matches established Pierna Fleur (Robin leg flower) 腿花 glossary L1404 |
+| Rooster-kun (Cavendish, escort context) | 公雞人 | kept — matches ep25/34 公雞人 |
+| Destructive Cannon (Baby 5 attack) | 破壞加農砲 | UNRESOLVED — kept coined. No dedicated Fandom zh technique page found. |
+| Ten-Ton Vise / Ten-Ton... Vise! (Machvise crush) | 十噸…布西！ | matches established Vise 布西 (L2722) + weight-pun 十噸 (cf. L2820 Ten-Ton Vise 十噸布西) |
+| String Saw (Doflamingo string attack, "String Saw! String Saw!") | 絲線鋸 | UNRESOLVED — kept coined. No dedicated Fandom zh technique page found. |
+| Spiderweb (Doflamingo string net, this ep) | 蜘蛛網 | coined; matches Spider 蜘蛛 / Spider Net 蜘蛛網 web theme. UNVERIFIED |
+| Injection Shot (Law ROOM attack, "Injection... Shot!") | 注射…彈！ | matches established Injection/Injection Shot 注射/注射彈 (L2957) |
+| Tact (Law/Doflamingo throw technique, this ep) | 操縱 | kept — matches established Tact 操縱 (L2639, Fujitora) |
+| Mes / Scalpel (Law technique, Note-styled EN gloss "Scalpel") | Mes / 手術刀 | Mes kept untranslated (French, in-source styling like Room/Chambres); the Note line glossing it = 手術刀 |
+| Chambres (Law ROOM technique call) | Chambres | kept — French, left untranslated in-source (matches L2949) |
+| Rubber Jet Gatling (Luffy, "Rubber... Jet... Gatling!") | 橡膠…噴射…機關槍！ | matches established Rubber Jet Gatling 橡膠噴射機關槍 (L2876), split across source rows |
+| Doffy's double / String-Joker double (this ep) | 多菲的分身 | contextual; Doffy 多菲 (childhood/family form per user directive) + 分身 (clone/double). Distinct from 絲線傀儡 |
+| Nortis / Nortis town (Bellamy's home town, North Blue) | 諾迪斯 | CORRECTED — was 諾提斯. Fandom zh geography list (航海王地理列表, North Blue) lists 諾迪斯. |
+| Spring Hopper (Bellamy attack, "Spring... Hopper!") | 彈簧…跳人！ | VERIFIED via prior-arc repo usage — Jaya 07 (232-234) renders Spring Hopper 彈簧跳人 (split 彈簧…/跳人！). Matches established L414. |
+| Snot (Luffy's insulting name for Trebol, this ep) | 鼻涕 | coined; Luffy calling mucus-man Trebol "Snot". Matches Trebol's snot/黏液 motif |
+| Traf (Luffy's short name for Law) | 小羅 | kept — established (L2662) |
+| Mingo (Luffy's shortening of Doflamingo) | 明哥 | kept — established (L2480, L2810) |
+| Straw Hatter (Doflamingo's contemptuous address for Luffy) | 草帽小子 | kept — established (L2964) |
+| written in stone (Doflamingo's recurring "only what happened is fact" motif) | 刻進史冊 | coined rendering of the finale's fatalism motif ("only things that actually happened are written in stone") |
