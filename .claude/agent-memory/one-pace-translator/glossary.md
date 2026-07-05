@@ -2395,7 +2395,7 @@ type: reference
 | Foxfire Style: Conflagration Cutter (Kin'emon attack) | 狐火流·大火事斬 |
 | Gavotte Bond en Avant (Brook attack, "gavotte forward leap") | 加沃特舞步·前躍 |
 | Flaming Fox Flourish (Brook attack) | 火焰狐舞 |
-| Counter Shock (Law attack) | 反震 |
+| Counter Shock (Law attack) | 反震 (KEPT per prior-repo rule — Punk Hazard 15 renders 反震; Dressrosa 40 also uses 反震. Fandom 手術果實 page canonical is 反擊衝擊, but prior-arc repo usage governs and is self-consistent, so 反震 retained.) |
 | Akainu (Admiral Sakazuki) | 赤犬 |
 | Garbage dump / Garbage heap (Building C, PH) | 垃圾場 |
 | Sakazuki (Fleet Admiral, real name) | 薩卡斯基 |
@@ -3036,3 +3036,88 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Mingo (Luffy's shortening of Doflamingo) | 明哥 | kept — established (L2480, L2810) |
 | Straw Hatter (Doflamingo's contemptuous address for Luffy) | 草帽小子 | kept — established (L2964) |
 | written in stone (Doflamingo's recurring "only what happened is fact" motif) | 刻進史冊 | coined rendering of the finale's fatalism motif ("only things that actually happened are written in stone") |
+| The Spear of Elbaf (ep770-771 title) | 艾爾巴夫之槍 | coined; ep title. Elbaf 艾爾巴夫 established (L2594); refers to Hajrudin's Gungnir spear |
+| Don Sai (ep770-771 title / address) | 唐·雜菜 | Sai=雜菜 established (L2525); "Don" honorific = 唐 (matches Don Chinjao 唐·青椒 L2523). Sai demands "Call me Don!" 叫我唐！ this ep |
+| Commodore's Dignity (Marine formation gag attack) | 准將的尊嚴 | coined; comedic Marine forced-formation gag. Commodore 准將 established (L683) |
+| Killer Bowling (Marine/enemy attack, this ep) | 殺手保齡球 | coined; UNVERIFIED — no dedicated Fandom zh technique page found |
+| Charlestone (Pica stone attack, "Charlestone!") | 查爾斯頓 | UNRESOLVED — no Fandom page (查爾斯頓 MISSING; Pica page lists no named techniques). Coinage kept. |
+| Ton-Ton! (Machvise weight-attack call) | 噸噸！ | matches established weight-pun 噸 (cf. Ten-Ton Vise 十噸布西 L2820/L3023). Vise 布西 established |
+| Destructive 1,000-Ton Vise (Machvise attack) | 破壞·千噸布西 | coined; extends Vise 布西 (L2722) + weight-pun 千噸. cf. Ten-Ton Vise 十噸布西. UNVERIFIED |
+| Hellish 10,000-Ton Vise (Machvise attack) | 地獄·萬噸布西 | coined; Vise 布西 + 萬噸 (10,000-ton) + 地獄 "Hellish". UNVERIFIED |
+| Gungnir (Hajrudin's spear attack, Norse) | 岡格尼爾 | UNRESOLVED — no Fandom page (岡格尼爾 MISSING; Hajrudin page 哈爾汀 lists no named spear technique). Coinage kept. Hajrudin 哈爾汀 VERIFIED (Fandom page). |
+| Geo-Fist (Lao G's fighting style, "Geo-Fist!") | 地翁拳 | CORRECTED — was 地拳 (WRONG). Fandom page 地翁拳 (Jio-Ken). |
+| Eye-Jab Strain (Lao G attack) | 目之突枯 | CORRECTED — was 戳眼扭傷 (WRONG). Fandom 地翁拳 page: 目之突枯 (Me no Tsukare, pun on 目の疲れ eye fatigue). |
+| Icy Stiff Shoulder (Lao G attack) | 型冰 | CORRECTED — was 冰凍僵肩 (WRONG). Fandom 地翁拳 page: 型冰 (Kata Kori, pun on 肩こり stiff shoulders). |
+| Immortal Warrior's Joint Pain (Lao G attack) | 不死武士之痛楚 | CORRECTED — was 不死戰士的關節痛 (WRONG). Fandom 地翁拳 page: 不死武士之痛楚 (Fushi Bushi no Itami). |
+| Back-Pain Stance (Lao G stance) | 腰痛式 | CORRECTED — was 腰痛架式 (WRONG). Fandom 地翁拳 page: 腰痛式 (Yōtsū no Kamae). |
+| Seal of G (Lao G finisher, "Seal of G!") | G之刻印 | CORRECTED — was G之封印 (WRONG). Fandom 地翁拳 page: G之刻印 (Jī no Kokuin). |
+| Battle Insurance Fist (Geo-Fist ultimate technique) | 戰鬥保拳 | CORRECTED — was 戰鬥保險拳 (WRONG). Fandom 地翁拳 page: 地翁拳究極密技·戰鬥保拳 (short call 戰鬥保拳). |
+| Bujaogen Heel (Sai kick, "Bujaogen Heel!") | 武蹈拳·腳跟 | UNRESOLVED — no Fandom page (武蹈拳 MISSING). Coinage kept. |
+| Oohlicia (Nihou Navy leader's daughter, Sai's arranged bride) | 歐莉希雅 | UNRESOLVED — no Fandom page (歐莉希雅 MISSING). Coinage kept. |
+| Nihou Navy ("Two Treasures") | 二寶水軍 | UNRESOLVED — no Fandom page (二寶水軍 MISSING). Coinage kept; matches Happou Navy 八寶水軍 (L2832) pattern. |
+| Juppou Navy ("Ten Treasures", merged fleet) | 十寶水軍 | coined; Juppou=十寶 (10=2+8). Matches Happou/Nihou 寶 pattern |
+| Flower Kingdom / Flower Country (Chinjao's homeland, "Monkey from the Flower Kingdom") | 花之國 | matches established Flower Country 花之國 (L2524 Chinjao Family / 花之國幫派) |
+| young master (Trebol/Family address for Doflamingo) | 少爺 | coined; subordinate-address for Doflamingo. Consistent with 多佛 subordinate-side naming rule |
+| Cabbage and Lomeo (ep37 title, Romeo pun on Bartolo-MEO) | 包心菜與羅蜜歐 | coined title; Cabbage 包心菜 (established) + Romeo 羅蜜歐 pun (Bartolomeo). UNVERIFIED |
+| Vipera Glaive (Diamante snake-sword attack) | 毒蛇長刀 | UNRESOLVED — Diamante page 帝雅曼鐵 (VERIFIED name) lists no named attack techniques. Coinage kept; Glaive=長刀 matches Corrida Glaive 鬥牛長刀 (L2740). |
+| Pop Rock... Festival (Gladius Pamu Pamu attack, ep37) | 爆爆搖滾…祭典 | coined; Pop=爆 (爆爆果實), Rock=搖滾, Festival=祭典. UNVERIFIED |
+| Pop Rock... Super Arena (Gladius Pamu Pamu attack, ep37) | 爆爆搖滾…超級競技場 | coined; same Pop-Rock 爆爆搖滾 base + Super Arena 超級競技場. UNVERIFIED |
+| Catapult Pop (Gladius Pamu Pamu attack, ep37) | 彈射爆彈 | coined; Catapult=彈射, Pop=爆彈. UNVERIFIED |
+| Punk Hair (Gladius poison-needle hair attack) | 龐克髮 | coined; hair turns to poison needles. UNVERIFIED |
+| Fashion Pop (Gladius attack, ep37) | 時尚爆裂 | coined; Fashion=時尚, Pop=爆裂 (爆爆果實). UNVERIFIED |
+| Bari-ability: Racket (Bartolomeo Barrier attack, ep37) | 障壁技·球拍 | coined; matches Barrier-bility 障壁技 (L2922) + Racket 球拍. UNVERIFIED |
+| Barrier Bulls (Bartolomeo charging-barrier attack, ep37) | 障壁公牛 | coined; Barrier 障壁 + Bulls 公牛. UNVERIFIED |
+| Barrier Ball (Bartolomeo attack, ep37) | 障壁球 | coined; Barrier 障壁 + Ball 球. UNVERIFIED |
+| Blade of Beauty: Blue Bracchium (Cavendish attack, ep37, split-line) | 美之刃：蒼藍臂斬 | coined; extends Blade of Beauty 美之刃 line (cf. Saint-Exupéry L2875). Blue=蒼藍, Bracchium(arm)=臂斬. UNVERIFIED |
+| Divine Homage Fist (Bartolomeo Barrier finisher, ep37) | 神拜拳 | coined; Divine Homage=神拜 (worship), Fist=拳. UNVERIFIED |
+| Cien Fleur! Spider Net (Robin, ep37) | 百輪花！蜘蛛網 | matches Cien Fleur 百輪花 + Spider Net 蜘蛛網 (L1417/1913). Note gloss "Hundred Flower Spider Net" = 百花蜘蛛網 |
+| Mil Fleur! Moth Orchid (Robin butterfly-flower attack, ep37) | 千紫萬紅！蝴蝶蘭 | Mil/Mille Fleur 千紫萬紅 VERIFIED (established L2924). Moth Orchid 蝴蝶蘭 UNRESOLVED — no Fandom page; coinage kept (蝴蝶蘭 = standard zh for moth orchid / Phalaenopsis). |
+| Longhand (Lao G insult for Gladius, shoulder protrusions) | 長手 | coined; refers to Gladius's arm/shoulder spikes. Contextual |
+| Martial Arts Champion (Lao G's mocking title for Gladius) | 武術冠軍 | coined; contextual insult |
+| Fighting Fish lineage (Dellinger's boast) | 鬥魚血統 | Fighting Fish 鬥魚 (established L2560) + lineage 血統 |
+| Sunflower Hill (Birdcage 4th-step caption, ep37) | 向日葵之丘 | coined; cf. Sunflower Field 向日葵花田 (L2953) |
+| Russian (Senor Pink's wife, ep38 flashback) | 露西安 | CORRECTED — was 露仙 (WRONG). Fandom 粉紅先生 page: 露西安 (Rushian). |
+| Gimlet (Senor Pink & Russian's infant son, ep38 flashback) | 吉姆雷特 | CORRECTED — was 琴力 (WRONG). Fandom 粉紅先生 page: 吉姆雷特 (Gimlet). |
+| To Russian, With Love (ep38 title) | 獻給露西安的愛 | CORRECTED — was 獻給露仙的愛. Uses corrected Russian 露西安. |
+| Healing Fruit / Heal-Heal Fruit (Mansherry's power, ep38) | 治癒果實 | CORRECTED (glossary only) — was coined 治治果實, but subtitle files already correctly render 治癒果實. Fandom page 治癒果實 (チユチユの実, Chiyu Chiyu no Mi, ch774 = Mansherry debut). No file change needed. |
+| Beetle Uppercut (Leo attack, ep38) | 獨角仙上勾拳 | UNRESOLVED — no Fandom page (獨角仙上勾拳 MISSING). Coinage kept. Leo 雷奧 VERIFIED (Fandom page; matches L2578 + prior-repo). |
+| Meow-Meow Suplex (Senor Pink attack, ep38) | 貓貓過肩摔 | UNRESOLVED — no dedicated Fandom technique entry (粉紅先生 page lists only 尿布炸彈 Diaper Bomb). Note: narrative text uses 背摔 for suplex, not 過肩摔 — discrepancy noted, coinage left unforced. |
+| Baby Buster (Senor Pink attack, ep38) | 嬰兒終結者 | UNRESOLVED — no dedicated Fandom technique entry. Coinage kept. |
+| Franky Iron Boxing (Franky finisher, ep38) | 佛朗基鐵拳 | coined; distinct from Franky Boxing 佛朗基拳擊 (L1912); Iron Boxing 鐵拳 for the KO blow. UNVERIFIED |
+| Strong Hammer (Senor Pink attack, ep38) | 強力鐵鎚 | matches established Strong Hammer 強力鐵鎚 (L1043/L1911); reused for Senor Pink's Swim-Fruit dive-slam |
+| Haute Couture (Giolla art attack, ep38) | 高級時裝 | coined; French "high-class sewing" — source Note line glosses 高級縫紉. UNVERIFIED |
+| Patchwork (Giolla art attack, ep38, follows Haute Couture) | 拼布藝術 | coined; Patchwork=拼布藝術. UNVERIFIED |
+| Strong-style / hard-boiled (Senor Pink & Franky manly motif, ep38) | 硬派風格 | extends established hard-boiled 硬派 (L2902); "Strong-style" = 硬派風格 |
+| Punishment Room (palace chapel cell where Mansherry held, ep38) | 懲罰室 | coined; caption. cf. naughty room 頑皮房 (L2913) — distinct room |
+| Stairway to the Royal Palace (ep38 caption) | 通往王宮的階梯 | coined caption |
+| Palace Plateau, Third Step (ep38 caption) | 王宮高地 第三階 | coined; cf. Royal Plateau. Birdcage-staged zone |
+| Mousey (Mansherry's Tontatta aide, ep38) | 姆吉 | matches established Mouji 姆吉 (L2893); same aide, alt romanization |
+| Half Moon Glaive (Diamante attack, ep39) | 半月長刀 | coined; Glaive=長刀 (matches Corrida Glaive 鬥牛長刀 L2740, Vipera Glaive 毒蛇長刀). Split "Half Moon…/Glaive!" 半月…/長刀！. UNVERIFIED |
+| Ripple Release (Diamante, undoes Ripple/Hira Hira power, ep39) | 飄揚解除 | coined; extends Ripple Fruit 飄揚果實 (VERIFIED). "Release" = 解除 |
+| Death Enjambre / Death Swarm (Diamante attack, ep39) | 死亡蟲群 | UNRESOLVED — Diamante page 帝雅曼鐵 lists no named attacks. Coinage kept. |
+| Mil Fleur / Thousand Flower (Robin attack, ep39) | 千輪花 | coined; extends Robin -輪花 series (十六輪花, 二十輪花 etc.). Note "Thousand Flower"=千花齊放. UNVERIFIED |
+| Flower Umbrella (Robin defensive attack, ep39) | 花之傘 | coined; Robin flower-shield. UNVERIFIED |
+| Trueno Bastardo (Kyros attack, ep39, split-line) | 雷鳴…混蛋！ | coined; Notes gloss Trueno=雷鳴 (Thunder), Bastardo=混蛋 (Bastard). Spanish. UNVERIFIED |
+| Steel Mill (Pica attack, ep39) | 鋼鐵磨坊 | UNRESOLVED — no Fandom page (鋼鐵磨坊 MISSING; Pica page lists no named techniques). Coinage kept. |
+| Bite Stone (Pica attack, ep39) | 咬石 | UNRESOLVED — no Fandom page (咬石 MISSING; Pica page lists no named techniques). Coinage kept. |
+| One-Sword Style: Demon Horse (Zoro attack, ep39, split "One-Sword Style…/Demon Horse!") | 一刀流…鬼馬 | coined; 一刀流 established (L290). Demon Horse=鬼馬. UNVERIFIED |
+| Great Trichiliocosm / One Billion Worlds (Zoro finisher, ep39, split) | 大千世界…十億大千世界！ | DISCREPANCY (unforced) — Fandom 三刀流 page canonical is 三刀流的奧義 一大·三千·大千·世界 (Ichidai Sanzen Daisen Sekai). Subtitle's 十億大千世界 is an interpretive gloss (三千大千世界 = 1000³ = 10⁹ = one billion). Split-line + defensible; left as-is. |
+| Three Thousand Worlds (Zoro attack, ep39) | 三千世界 | VERIFIED — Fandom 三刀流 page: 三刀流奧義 三・千・世・界 (Sanzen Sekai). Core term 三千世界 confirmed. |
+| chiliocosm / small chiliocosm (Buddhist term, Zoro speech ep39) | 小千世界 | Note-glossed; 一千個世界=1000 worlds → 小千世界. Buddhist cosmology term |
+| Three-Sword Style Secret Technique (Zoro, ep39) | 三刀流奧義 | VERIFIED — Fandom 三刀流 page uses 三刀流奧義 prefix for Zoro's secret techniques. |
+| Killer Bowling (Pica attack, ep39, split "Killer…/Bowling!") | 殺手保齡球 | UNRESOLVED — no Fandom page (殺手保齡球 MISSING). Coinage kept. |
+| King Punch (Elizabello attack, ep39 split "King…/Punch!") | 國王重拳 | established (glossary); Sai/Elizabello borrow it here. Split 國王…/重拳！ |
+| Director → Commodore gag (Zoro mis-titles Orlumbus/Elizabello's fleet officer, ep39) | 署長／准將 | Zoro says "Director" 署長; corrected to "Commodore" 准將 (established L683). Comedic mis-address |
+| Doro / Boro (Pica & others mispronouncing "Zoro", ep39 gag) | 多羅 / 波羅 | coined phonetic mangling of Zoro 索隆 (cf. Maro/Mario→馬力歐 gag). "Doro"=多羅, "Boro"=波羅. Preserves wrong-name comedy |
+| Royal Plateau / King's Plateau (Dressrosa palace plateau, ep39 caption) | 王宮高地 | UNIFIED — was coined 王之台地 (outlier). The established caption form repo-wide is 王宮高地 (21x, incl. ep38 Third Step captions). The ep39 caption (line 1434) should become 王宮高地. Bare 台地 in dialogue ("the plateau") is generic — left unchanged. |
+| Fourth Step / Second Step (Dressrosa Birdcage staircase levels, ep39 captions) | 第四階 / 第二階 | coined; matches ep38 "Third Step" 第三階 staircase-level convention |
+| Zoro vs. Pica (ep39 title) | 索隆 對 皮卡 | Zoro 索隆 + Pica 皮卡 (established). "vs." = 對 (matches Kyros vs Diamante caption 對) |
+| The Curse of Heart (ep40 title) | 心之詛咒 | coined; Doflamingo's "curse" broken by killing Corazón's legacy (Law) |
+| Gamma Knife (Law attack, ep40) | 伽馬刀 | CORRECTED — was 伽瑪射線刀 (WRONG). Fandom 手術果實 page: 伽馬（γ）刀 (ガンマナイフ Ganma Naifu); clean subtitle form 伽馬刀. No prior-repo usage besides ep40 itself. |
+| Sticky Launcher (Trébol attack, ep40) | 黏黏發射器 | UNRESOLVED — no Fandom page (黏黏發射器 MISSING). Coinage kept; consistent with 黏黏 Sticky Fruit family. |
+| Hawk Gatling (Luffy attack, ep40) | 鷹式機關槍 | UNRESOLVED — no Fandom page (鷹式機關槍 MISSING). Coinage kept; Hawk (cf. Red Hawk 紅鷹) + Gatling 機關槍. |
+| Break White (string counter after Hawk Gatling, ep40) | 白破 | UNRESOLVED — no Fandom page (白破 MISSING). Coinage kept. |
+| Perpetual Youth Surgery / Eternal Youth Operation (Ope Ope no Mi, ep40) | 不老手術 | established (coined ep31/33); reused. Doflamingo's demand of Law |
+| Carta (Donquixote soldier reporting Eastern district, ep40) | 卡爾塔 | coined phonetic; one-off reporting soldier. UNVERIFIED — no Fandom page found |
+| Lawland / Roland (dwarf-suffix nickname for Law, ep40) | 羅蘭 | coined; -蘭 suffix per Tontatta convention (cf. Luffyland 魯夫蘭). Mansherry's term for Law |
+| Room (Law ROOM shouted call "Room!", ep40) | 房間 | established (Punk Hazard/Dressrosa 房間 canonical); reused for shouted call |
