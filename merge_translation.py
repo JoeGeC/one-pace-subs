@@ -140,6 +140,10 @@ def _plan_top_positions(raw_lines, translations, res_x):
         is_an8 = "\\an8" in trans_text or "\\an8" in parts[9]
         if not (is_caption or is_an8):
             continue
+        # Motion-tracked frames (Aegisub-Motion {=NN...} marker) are positioned
+        # per-frame to follow the camera — never pin them to the top.
+        if re.search(r'\{=\d', parts[9]):
+            continue
         ox, _oy = _orig_pos(parts[9])  # x geometry from the ORIGINAL line
         key = (parts[1], parts[2], re.sub(r'\{[^}]*\}', '', trans_text))
         g = groups.setdefault(key, {

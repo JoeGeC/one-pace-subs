@@ -71,7 +71,8 @@ def style_matches(style, prefixes):
 EDITOR_COMMENT_RE = re.compile(
     r'\{(?!'           # opening brace, not followed by:
     r'\\|'             #   backslash (ASS formatting tag)
-    r'Z\}'             #   just "Z}" (end-of-line marker)
+    r'Z\}|'            #   just "Z}" (end-of-line marker)
+    r'=\d'             #   "=NN" Aegisub-Motion frame marker (carries \pos etc.)
     r')[^}]*\}'        # any content until closing brace
 )
 

@@ -38,6 +38,9 @@ MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
 # Karaoke sweeps are re-syllabified in translation (zh has a different
 # syllable count), so \ko/\k/\kf/\K durations can't be compared per-block.
 KARAOKE_TAG_RE = re.compile(r'\\(?:ko|kf|k|K)\d+')
+# Per-glyph shear on animated typesetting (Dressrosa 39 plan boards):
+# zh re-syllabification changes how many \fax splits a line has.
+FAX_TAG_RE = re.compile(r'\\fax-?[\d.]+')
 
 # Extract ASS formatting tag blocks: {\...} where content starts with backslash
 ASS_TAG_RE = re.compile(r'\{\\[^}]*\}')
@@ -112,6 +115,7 @@ def extract_format_tags(text):
         t = MOVE_TAG_RE.sub('', t)
         t = AN_TAG_RE.sub('', t)
         t = KARAOKE_TAG_RE.sub('', t)
+        t = FAX_TAG_RE.sub('', t)
         # Normalize shorthand toggle tags: \i} -> \i0}, \b} -> \b0}
         t = re.sub(r'\\([ib])([\\}])', r'\\\g<1>0\2', t)
         # Remove empty tag blocks left after stripping
