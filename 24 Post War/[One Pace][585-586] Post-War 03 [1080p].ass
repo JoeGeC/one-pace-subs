@@ -22,7 +22,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Main,Impress BT,55,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,120,120,18,1
 Style: Flashbacks,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,2.75,2.5,2,120,120,18,1
 Style: Thoughts,Impress BT,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,2.75,2.5,2,120,120,18,1
-Style: Narrator,Impress BT,56,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,2.5,2.5,8,120,120,100,1
+Style: Narrator,Impress BT,56,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,2.5,2.5,8,120,120,18,1
 Style: Title,Agency FB,63,&H00E8E7E5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.5,0,1,1.8,0,2,10,10,10,1
 Style: Captions,Roboto,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: OP14Credits,FOT-Greco Std B,29,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,1,0,1,2.2,0,7,10,10,10,1
@@ -2031,64 +2031,64 @@ Dialogue: 0,0:02:26.02,0:02:26.44,Karaoke,,0,0,0,fx,{\an5\pos(579,55)\blur2\3c&H
 Dialogue: 0,0:02:26.24,0:02:26.67,Karaoke,,0,0,0,fx,{\an5\pos(667,55)\blur2\3c&HFFFFFF&\1a&HFF&\3a&H100&\t(\fscx145\fscy145\3a&HFF&)}to
 Dialogue: 0,0:02:26.47,0:02:26.96,Karaoke,,0,0,0,fx,{\an5\pos(715,55)\blur2\3c&HFFFFFF&\1a&HFF&\3a&H100&\t(\fscx145\fscy145\3a&HFF&)}ge
 Dialogue: 0,0:02:26.76,0:02:28.10,Karaoke,,0,0,0,fx,{\an5\pos(787,55)\blur2\3c&HFFFFFF&\1a&HFF&\3a&H100&\t(\fscx145\fscy145\3a&HFF&)}ther
-Dialogue: 0,0:02:33.40,0:02:34.70,Main,,0,0,0,,我來了！
-Dialogue: 0,0:02:34.70,0:02:37.07,Main,,0,0,0,,{\fad(150,150)}橡膠橡膠⋯⋯
-Dialogue: 0,0:02:37.07,0:02:39.37,Main,,0,0,0,,{\fad(150,150)}手槍！
-Dialogue: 0,0:02:43.68,0:02:45.48,Main,,0,0,0,,你搞什麼⋯⋯
-Dialogue: 0,0:02:46.05,0:02:48.25,Main,,0,0,0,,你到底在幹嘛啊？！
-Dialogue: 0,0:02:48.78,0:02:50.15,Main,,0,0,0,,得一分！
-Dialogue: 0,0:02:56.12,0:02:58.26,Main,,0,0,0,,我跟你說了多少次了，
-Dialogue: 0,0:02:58.26,0:03:01.72,Main,,0,0,0,,那個能力到底有什麼用啊？
-Dialogue: 0,0:02:58.66,0:03:06.03,Title,,30,0,100,,{\an8\pos(640,100)\blur0.6\fad(1500,1500)\c&H000000&\1a&HFF&\t(1455,1500,\1a&H00&)\t(5870,5915,\1a&HFF&)}兄弟之誓
-Dialogue: 1,0:02:58.66,0:03:06.03,Title,,30,0,100,,{\an8\pos(640,100)\bord0\blur0.6\fad(1500,1500)\4a&HFF&\c&HE3E2E4&}兄弟之誓
-Dialogue: 0,0:03:01.72,0:03:07.23,Main,,0,0,0,,可惡！不行！明明就快了！
-Dialogue: 0,0:03:07.23,0:03:08.80,Main,,0,0,0,,再來一次！
-Dialogue: 0,0:03:08.80,0:03:12.50,Main,,0,0,0,,不行！規定每人\N一天只能比100場。
-Dialogue: 0,0:03:12.50,0:03:13.54,Main,,0,0,0,,等明天吧。
-Dialogue: 0,0:03:13.91,0:03:17.71,Main,,0,0,0,,魯夫輸了艾斯和我50次。
-Dialogue: 0,0:03:17.71,0:03:21.28,Main,,0,0,0,,我跟艾斯是24比26。
-Dialogue: 0,0:03:21.28,0:03:24.12,Main,,0,0,0,,差了兩場。可惡！
-Dialogue: 0,0:03:24.12,0:03:28.39,Main,,0,0,0,,你們這些傢伙！等我\N到10歲的時候，一定揍扁你們兩個！
-Dialogue: 0,0:03:28.39,0:03:32.62,Main,,0,0,0,,到時候我們都13歲了。\N走吧，去找晚餐。
-Dialogue: 0,0:03:41.37,0:03:42.97,Main,,0,0,0,,好，鱷魚聽起來不錯！
-Dialogue: 0,0:03:42.97,0:03:45.30,Main,,0,0,0,,我最喜歡鱷魚了！
-Dialogue: 0,0:03:45.30,0:03:48.34,Main,,0,0,0,,魯夫，這次別被吃掉了。
-Dialogue: 0,0:03:48.84,0:03:51.54,Main,,0,0,0,,上次你能活下來\N只是因為被整隻吞下去而已。
-Dialogue: 0,0:03:52.85,0:03:56.52,Main,,0,0,0,,魯夫你在這裡等著。\N你不會游泳，會拖累我們的⋯⋯
-Dialogue: 0,0:03:56.78,0:03:58.82,Main,,0,0,0,,鱷魚！
-Dialogue: 0,0:03:58.82,0:04:01.75,Main,,0,0,0,,– 什麼？！\N– 我說了「等著」！！
-Dialogue: 0,0:04:09.88,0:04:15.40,Narrator,,0,0,200,,可爾波山嚴苛的環境\N日復一日地磨練著他們。
-Dialogue: 0,0:04:17.44,0:04:19.22,Narrator,,0,0,100,,在山的北邊⋯⋯
-Dialogue: 0,0:04:20.31,0:04:24.31,Narrator,,0,0,100,,是被社會遺棄之物最終的歸宿。那裡被稱為不確定物的終點站。
-Dialogue: 0,0:04:25.41,0:04:27.41,Narrator,,0,0,100,,更往北邊⋯⋯
-Dialogue: 0,0:04:28.41,0:04:33.12,Narrator,,0,0,100,,是一座被堅不可摧的石牆所圍繞的城市。
-Dialogue: 0,0:04:37.32,0:04:41.23,Narrator,,0,0,100,,巨大的城門是唯一的入口，
-Dialogue: 0,0:04:41.69,0:04:48.03,Narrator,,0,0,100,,全國各地的垃圾每天兩次通過這裡被運進來。
-Dialogue: 0,0:04:49.57,0:04:54.04,Main,,0,0,0,,– 喔，來了來了！\N– 撿破爛的時間到了！
-Dialogue: 0,0:04:54.41,0:05:00.71,Narrator,,0,0,100,,不確定物終點站的居民偶爾會進城販賣回收的物品。
-Dialogue: 0,0:05:06.48,0:05:08.49,Main,,0,0,0,,喂，等等！你帶的那是什麼？
-Dialogue: 0,0:05:10.80,0:05:13.76,Main,,0,0,0,,鱷魚皮。我來賣的。
-Dialogue: 0,0:05:13.76,0:05:14.39,Main,,0,0,0,,鱷魚？
-Dialogue: 0,0:05:17.53,0:05:18.83,Main,,0,0,0,,你⋯⋯你過去吧！
-Dialogue: 0,0:05:21.50,0:05:25.90,Narrator,,0,0,200,,穿過大門之後，\N行人走在寬闊的大道上。
-Dialogue: 0,0:05:25.90,0:05:27.61,Narrator,,0,0,100,,通往邊緣鎮。
-Dialogue: 0,0:05:33.81,0:05:38.72,Narrator,,0,0,100,,邊緣鎮是流氓和黑幫的地盤。
-Dialogue: 0,0:05:44.89,0:05:48.63,Main,,0,0,0,,喂，老頭！把那個留下！
-Dialogue: 0,0:05:52.00,0:05:54.87,Main,,0,0,0,,喂，你怎麼不說話啊？！
-Dialogue: 0,0:05:54.87,0:05:56.27,Main,,0,0,0,,閉嘴，小鬼。
-Dialogue: 0,0:05:56.27,0:05:57.20,Main,,0,0,0,,什麼？！
-Dialogue: 0,0:06:00.94,0:06:02.34,Main,,0,0,0,,你⋯⋯你這小子⋯⋯
-Dialogue: 0,0:06:02.34,0:06:04.18,Main,,0,0,0,,要當搶匪的話，
-Dialogue: 0,0:06:06.78,0:06:08.55,Main,,0,0,0,,看清楚對象再動手！
-Dialogue: 0,0:06:10.68,0:06:12.48,Main,,0,0,0,,他⋯⋯他們是⋯⋯
-Dialogue: 0,0:06:13.39,0:06:14.55,Main,,0,0,0,,上吧！
-Dialogue: 0,0:06:14.55,0:06:15.89,Main,,0,0,0,,{\i1}– 好！\N– 沒錯！
-Dialogue: 0,0:06:33.24,0:06:38.21,Narrator,,0,0,200,,再往城市深處，\N另一道高聳的石牆矗立⋯⋯
-Dialogue: 0,0:06:38.21,0:06:44.15,Narrator,,0,0,200,,圍繞著皇室和貴族居住的\N上城區。
-Dialogue: 0,0:06:47.32,0:06:50.19,Narrator,,0,0,100,,這個國家叫做哥雅。
-Dialogue: 0,0:06:50.19,0:06:51.62,Narrator,,0,0,100,,它的街道一塵不染，
-Dialogue: 0,0:06:51.62,0:06:55.43,Narrator,,0,0,100,,據說是東海最美麗的國家。
-Dialogue: 3,0:06:58.56,0:07:00.87,Narrator,,0,0,100,,魯夫出生的風車村，
+Dialogue: 0,0:02:33.40,0:02:34.70,Main,,0,0,0,,Here I come!
+Dialogue: 0,0:02:34.70,0:02:37.07,Main,,0,0,0,,{\fad(150,150)}Rubber Rubber...
+Dialogue: 0,0:02:37.07,0:02:39.37,Main,,0,0,0,,{\fad(150,150)}Pistol!
+Dialogue: 0,0:02:43.68,0:02:45.48,Main,,0,0,0,,{Now tell me...}What the hell...
+Dialogue: 0,0:02:46.05,0:02:48.25,Main,,0,0,0,,{What are}do you think you're doing?!
+Dialogue: 0,0:02:48.78,0:02:50.15,Main,,0,0,0,,One point!
+Dialogue: 0,0:02:56.12,0:02:58.26,Main,,0,0,0,,Like I keep saying,
+Dialogue: 0,0:02:58.26,0:03:01.72,Main,,0,0,0,,{is there any point in having that power?}what is that power good for anyway?
+Dialogue: 0,0:02:58.66,0:03:06.03,Title,,30,0,250,,{\blur0.6\fad(1500,1500)\c&H000000&\1a&HFF&\t(1455,1500,\1a&H00&)\t(5870,5915,\1a&HFF&)}{Brotherly Pact}Oath of Brotherhood
+Dialogue: 1,0:02:58.66,0:03:06.03,Title,,30,0,250,,{\bord0\blur0.6\fad(1500,1500)\4a&HFF&\c&HE3E2E4&}{Brotherly Pact}Oath of Brotherhood
+Dialogue: 0,0:03:01.72,0:03:07.23,Main,,0,0,0,,Dammit! It's not working! {It was}I'm so close!
+Dialogue: 0,0:03:07.23,0:03:08.80,Main,,0,0,0,,One more time!
+Dialogue: 0,0:03:08.80,0:03:12.50,Main,,0,0,0,,No! The rule is only 100 \Nmatches per person a day.
+Dialogue: 0,0:03:12.50,0:03:13.54,Main,,0,0,0,,Wait until tomorrow.
+Dialogue: 0,0:03:13.91,0:03:17.71,Main,,0,0,0,,Luffy lost 50 times to Ace and me.
+Dialogue: 0,0:03:17.71,0:03:21.28,Main,,0,0,0,,Me vs. Ace is 24 - 26.
+Dialogue: 0,0:03:21.28,0:03:24.12,Main,,0,0,0,,I lost by {2}two. Dammit!
+Dialogue: 0,0:03:24.12,0:03:28.39,Main,,0,0,0,,You guys! When I become 10 \Nyears old, I'll beat you two up!
+Dialogue: 0,0:03:28.39,0:03:32.62,Main,,0,0,0,,We'll be 13 then. \NLet's go get something for dinner.
+Dialogue: 0,0:03:41.37,0:03:42.97,Main,,0,0,0,,Okay, {let's go for }crocodile sounds good!
+Dialogue: 0,0:03:42.97,0:03:45.30,Main,,0,0,0,,I love crocodile{ meat}!
+Dialogue: 0,0:03:45.30,0:03:48.34,Main,,0,0,0,,Luffy, don't get eaten this time.
+Dialogue: 0,0:03:48.84,0:03:51.54,Main,,0,0,0,,You {were okay the}survived last time only\Nbecause you were swallowed whole.
+Dialogue: 0,0:03:52.85,0:03:56.52,Main,,0,0,0,,You wait here, Luffy. \NYou can't swim so you'd slow us down...
+Dialogue: 0,0:03:56.78,0:03:58.82,Main,,0,0,0,,Crocodile{ meat}!
+Dialogue: 0,0:03:58.82,0:04:01.75,Main,,0,0,0,,– What?!\N– I said "wait"!!
+Dialogue: 0,0:04:09.88,0:04:15.40,Narrator,,0,0,0,,The {harsh}inhospitable environment of M{t.}ount Colubo\N{made}conditioned them{ stronger} day by day.
+Dialogue: 0,0:04:17.44,0:04:19.22,Narrator,,0,0,0,,{On}To the north {side }of th{is}e mountain...
+Dialogue: 0,0:04:20.31,0:04:24.31,Narrator,,0,0,0,,{there is the place where}lies the final destination for {all uncertain\Nthings end up}anything estranged from society. It is called the Gray Terminal.
+Dialogue: 0,0:04:25.41,0:04:27.41,Narrator,,0,0,0,,{And on the north side of the Terminal,}Even further north...
+Dialogue: 0,0:04:28.41,0:04:33.12,Narrator,,0,0,0,,{there is }stands a city enclosed {with}by an {solid}impenetrable stone wall{ that doesn't let anyone enter.}.
+Dialogue: 0,0:04:37.32,0:04:41.23,Narrator,,0,0,0,,The great gate is the only entrance{ to the city\Nis called the great gate},
+Dialogue: 0,0:04:41.69,0:04:48.03,Narrator,,0,0,0,,through which {twice daily passes mountains}loads of junk from all over the country pass twice a day.
+Dialogue: 0,0:04:49.57,0:04:54.04,Main,,0,0,0,,– Oh, here they come!\N– {Let's go}It's {treasure hunting}scavenging time!
+Dialogue: 0,0:04:54.41,0:05:00.71,Narrator,,0,0,0,,{Residents}Denizens of the Gray Terminal occasionally visit the city {sometimes }to sell {recycled}salvaged products.
+Dialogue: 0,0:05:06.48,0:05:08.49,Main,,0,0,0,,Hey, wait! What's {in }that {package}you're carrying?
+Dialogue: 0,0:05:10.80,0:05:13.76,Main,,0,0,0,,It's a crocodile {skin}hide. I'm here to sell it.
+Dialogue: 0,0:05:13.76,0:05:14.39,Main,,0,0,0,,Crocodile?
+Dialogue: 0,0:05:17.53,0:05:18.83,Main,,0,0,0,,G-Go ahead!
+Dialogue: 0,0:05:21.50,0:05:25.90,Narrator,,0,0,0,,Beyond the great gate,\N{there is }pedestrians mark a {sprawling}wide {boulevard}avenue{ where all passersby can be clearly seen}.
+Dialogue: 0,0:05:25.90,0:05:27.61,Narrator,,0,0,0,,{and then there is}It leads to Edge Town.
+Dialogue: 0,0:05:33.81,0:05:38.72,Narrator,,0,0,0,,Edge Town is a {place where}hangout for street punks and gangsters{ gather}.
+Dialogue: 0,0:05:44.89,0:05:48.63,Main,,0,0,0,,Hey, pops! Leave {your package}that here!
+Dialogue: 0,0:05:52.00,0:05:54.87,Main,,0,0,0,,Hey, why don't you say something?!
+Dialogue: 0,0:05:54.87,0:05:56.27,Main,,0,0,0,,Shut up, {you }punk.
+Dialogue: 0,0:05:56.27,0:05:57.20,Main,,0,0,0,,What?!
+Dialogue: 0,0:06:00.94,0:06:02.34,Main,,0,0,0,,Y-You little...
+Dialogue: 0,0:06:02.34,0:06:04.18,Main,,0,0,0,,{When you mug somebody,}If you're gonna be a mugger,
+Dialogue: 0,0:06:06.78,0:06:08.55,Main,,0,0,0,,be careful who you {pick}target!
+Dialogue: 0,0:06:10.68,0:06:12.48,Main,,0,0,0,,Th-They are{ the}...
+Dialogue: 0,0:06:13.39,0:06:14.55,Main,,0,0,0,,Let's do this!
+Dialogue: 0,0:06:14.55,0:06:15.89,Main,,0,0,0,,{\i1}– {Okay}Yeah!\N– {Okay}Right!
+Dialogue: 0,0:06:33.24,0:06:38.21,Narrator,,0,0,0,,{In the middle of the walled}Further into the city,\N{there is }another high stone wall rises...
+Dialogue: 0,0:06:38.21,0:06:44.15,Narrator,,0,0,0,,{which }to {enclose}surround High Town, \Nwhere royalty and {nobles}nobility {live}reside.
+Dialogue: 0,0:06:47.32,0:06:50.19,Narrator,,0,0,0,,{The name of this country is the Goa.}This country is called Goa.
+Dialogue: 0,0:06:50.19,0:06:51.62,Narrator,,0,0,0,,{There is no garbage on streets}Its streets are free of litter,
+Dialogue: 0,0:06:51.62,0:06:55.43,Narrator,,0,0,0,,and it is said to be the most \Nbeautiful country in the East Blue.
+Dialogue: 3,0:06:58.56,0:07:00.87,Narrator,,0,0,0,,{Windmill}Foosha Village, where Luffy was born,
 Dialogue: 0,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{=52}{\fscx100\fscy100\frz0\alpha&H40&\an7\blur1\c&HF9EFE2&\pos(577,178)\p1}m -58 -57 l 64 -57 64 9 -58 9
 Dialogue: 1,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{=51}{\fscx100\fscy100\frz0\alpha&H40&\blur0.6\fs35\pos(579,175)}Palace
 Dialogue: 0,0:07:00.33,0:07:00.53,Sign-Map,,0,0,0,,{=54}{\frz0\alpha&H40&\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1095,194)\p1\c&HF9EFE2&}m -62 -75 l 64 -75 64 2 -62 2
@@ -2345,7 +2345,7 @@ Dialogue: 0,0:07:01.27,0:07:01.30,Sign-Map,,0,0,0,,{=78}{\frz0\alpha&H00&\an7\bl
 Dialogue: 1,0:07:01.27,0:07:01.30,Sign-Map,,0,0,0,,{=77}{\fscx98.74\fscy98.74\frz0\alpha&H00&\blur0.6\fs35\pos(840.99,658.06)}Gray \NTerminal
 Dialogue: 0,0:07:01.27,0:07:01.30,Sign-Map,,0,0,0,,{=76}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx97.93\fscy97.93\pos(1023.54,663.82)\p1\c&HFCFCFD&}m -83 -62 l 65 -62 65 14 -83 14
 Dialogue: 1,0:07:01.27,0:07:01.30,Sign-Map,,0,0,0,,{=75}{\fscx97.93\fscy97.93\frz0\alpha&H00&\blur0.6\fs35\pos(1013.64,674.63)}Foosha\NVillage
-Dialogue: 3,0:07:01.30,0:07:05.97,Narrator,,0,0,200,,雖然名義上是王國的一部分，\N實際上是個被遺忘的偏僻之地。
+Dialogue: 3,0:07:01.30,0:07:05.97,Narrator,,0,0,0,,{is the part of the kingdom, even\Nthough it's}is a forgotten backwater,\N{despite}though it is technically part of the kingdom.
 Dialogue: 0,0:07:01.30,0:07:01.33,Sign-Map,,0,0,0,,{=52}{\fscx98.95\fscy98.95\frz0\alpha&H00&\an7\blur1\c&HFDFDFF&\pos(577.85,180.04)\p1}m -58 -57 l 64 -57 64 9 -58 9
 Dialogue: 1,0:07:01.30,0:07:01.33,Sign-Map,,0,0,0,,{=51}{\fscx98.95\fscy98.95\frz0\alpha&H00&\blur0.6\fs35\pos(579.82,177.07)}Palace
 Dialogue: 0,0:07:01.30,0:07:01.33,Sign-Map,,0,0,0,,{=54}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx98.87\fscy98.87\pos(1089.96,195.85)\p1\c&HFDFDFF&}m -62 -75 l 64 -75 64 2 -62 2
@@ -5678,8 +5678,8 @@ Dialogue: 0,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{=78}{\frz0\alpha&H00&\an7\bl
 Dialogue: 1,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{=77}{\fscx87.57\fscy87.57\frz0\alpha&H00&\blur0.6\fs35\pos(818.98,625.36)}Gray \NTerminal
 Dialogue: 0,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{=76}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx86.77\fscy86.77\pos(981.65,630.23)\p1\c&HFDFDFF&}m -83 -62 l 65 -62 65 14 -83 14
 Dialogue: 1,0:07:09.21,0:07:09.24,Sign-Map,,0,0,0,,{=75}{\fscx86.77\fscy86.77\frz0\alpha&H00&\blur0.6\fs35\pos(972.31,640.04)}Foosha\NVillage
-Dialogue: 0,0:07:09.24,0:07:12.31,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(450,0)\bord1.5\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}中城區
-Dialogue: 1,0:07:09.24,0:07:12.31,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(450,0)\bord0\4a&HFF&}中城區
+Dialogue: 0,0:07:09.24,0:07:12.31,Captions,,0,0,0,,{\blur0.6\fad(450,0)\pos(640,535)\bord1.5\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Midtown
+Dialogue: 1,0:07:09.24,0:07:12.31,Captions,,0,0,0,,{\blur0.6\fad(450,0)\pos(640,535)\bord0\4a&HFF&}Midtown
 Dialogue: 0,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\blur0.6\pos(617,293)\fax0.13\c&H0B284C&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
 Dialogue: 1,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,249,1141,250)\pos(617,293)\bord0\blur0.8\fax0.13\4a&HFF&\c&H1E5179&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
 Dialogue: 1,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,250,1141,251)\pos(617,293)\bord0\blur0.8\fax0.13\4a&HFF&\c&H21567D&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
@@ -5727,31 +5727,31 @@ Dialogue: 2,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,291,1141,292
 Dialogue: 2,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,292,1141,293)\pos(617,293)\bord0\blur0.8\fax0.13\4a&HFF&\c&H245A82&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
 Dialogue: 2,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,293,1141,294)\pos(617,293)\bord0\blur0.8\fax0.13\4a&HFF&\c&H21567D&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
 Dialogue: 2,0:07:12.31,0:07:13.88,Sign-FineDining,,0,0,0,,{\clip(87,294,1141,295)\pos(617,293)\bord0\blur0.8\fax0.13\4a&HFF&\c&H1E5179&}F{\fax0.13}i{\fax0.12}n{\fax0.12}e {\fax0.11}D{\fax0.11}i{\fax0.1}n{\fax0.1}i{\fax0.09}n{\fax0.09}g                                     {\fax-0.06}E{\fax-0.07}i{\fax-0.07}i{\fax-0.07}c{\fax-0.08}h{\fax-0.08}i{\fax-0.09}r{\fax-0.09}o
-Dialogue: 0,0:07:15.51,0:07:18.22,Main,,0,0,0,,三碗拉麵來了！\N讓你們久等了！
-Dialogue: 0,0:07:18.52,0:07:20.09,Main,,0,0,0,,請慢用！
-Dialogue: 0,0:07:21.99,0:07:23.82,Main,,0,0,0,,這就是拉麵？！
-Dialogue: 0,0:07:23.82,0:07:25.99,Main,,0,0,0,,看起來好好吃！
-Dialogue: 0,0:07:27.43,0:07:28.89,Main,,0,0,0,,嗯，嚐嚐看吧。
-Dialogue: 0,0:07:30.70,0:07:32.26,Main,,0,0,0,,好吃好吃！
-Dialogue: 0,0:07:34.20,0:07:35.93,Main,,0,0,0,,嗯，真的很好吃！
-Dialogue: 0,0:07:39.87,0:07:40.94,Main,,0,0,0,,再來一碗！
-Dialogue: 0,0:07:42.87,0:07:46.91,Main,,0,0,0,,我要再點三碗拉麵！
-Dialogue: 0,0:07:46.91,0:07:48.78,Main,,0,0,0,,好的！馬上來！
-Dialogue: 0,0:07:48.78,0:07:49.88,Main,,0,0,0,,打擾了。
-Dialogue: 0,0:07:58.36,0:08:00.09,Main,,0,0,0,,經⋯⋯經理！
-Dialogue: 0,0:08:00.09,0:08:01.70,Main,,0,0,0,,你確定嗎？！
-Dialogue: 0,0:08:03.13,0:08:05.26,Main,,0,0,0,,先生，我們需要談談！
-Dialogue: 0,0:08:05.60,0:08:07.99,Main,,0,0,0,,– 糟了，被發現了！\N– 快跑！
-Dialogue: 0,0:08:08.90,0:08:10.67,Main,,0,0,0,,他們沒付錢！
-Dialogue: 0,0:08:10.67,0:08:12.84,Main,,0,0,0,,快抓住他們！
-Dialogue: 0,0:08:14.04,0:08:17.34,Main,,0,0,0,,– 拉麵真好吃！\N– 我就說吧！
-Dialogue: 0,0:08:17.94,0:08:20.91,Main,,0,0,0,,– 抓住他們？！\N– 他們只是小孩啊！
-Dialogue: 0,0:08:23.92,0:08:29.19,Main,,0,0,0,,又⋯⋯又是他們！真是煩人！\N店裡為什麼讓他們進來的？！
-Dialogue: 0,0:08:29.19,0:08:34.56,Main,,0,0,0,,別讓他們跑了！\N誰去抓住那三個人！
-Dialogue: 0,0:08:35.76,0:08:39.03,Main,,0,0,0,,他們竟然\N從窗戶跳出去了，真不敢相信！
-Dialogue: 0,0:08:39.03,0:08:41.83,Main,,0,0,0,,這可是四樓！
-Dialogue: 0,0:08:41.83,0:08:46.04,Main,,0,0,0,,我們虧了26碗拉麵還有一扇窗戶！
-Dialogue: 0,0:08:46.47,0:08:50.04,Main,,0,0,0,,經⋯⋯經理！他們留了張紙條！
+Dialogue: 0,0:07:15.51,0:07:18.22,Main,,0,0,0,,Here are {3}three bowls of ramen{ noodle bowls}!\N{Thank}Sorry to keep you {for }waiting!
+Dialogue: 0,0:07:18.52,0:07:20.09,Main,,0,0,0,,Enjoy your meal!
+Dialogue: 0,0:07:21.99,0:07:23.82,Main,,0,0,0,,This is ramen?!
+Dialogue: 0,0:07:23.82,0:07:25.99,Main,,0,0,0,,It looks good!
+Dialogue: 0,0:07:27.43,0:07:28.89,Main,,0,0,0,,Well, try it.
+Dialogue: 0,0:07:30.70,0:07:32.26,Main,,0,0,0,,Yum-yum!
+Dialogue: 0,0:07:34.20,0:07:35.93,Main,,0,0,0,,Yeah, it is good!
+Dialogue: 0,0:07:39.87,0:07:40.94,Main,,0,0,0,,{I want}Gimme more!
+Dialogue: 0,0:07:42.87,0:07:46.91,Main,,0,0,0,,I{ need more}'d like to order three more bowls of ramen{ noodles}!
+Dialogue: 0,0:07:46.91,0:07:48.78,Main,,0,0,0,,Yes, sir! Here they are!
+Dialogue: 0,0:07:48.78,0:07:49.88,Main,,0,0,0,,{May I come in?}Pardon the intrusion.
+Dialogue: 0,0:07:58.36,0:08:00.09,Main,,0,0,0,,M-Manager!
+Dialogue: 0,0:08:00.09,0:08:01.70,Main,,0,0,0,,Are you sure?!
+Dialogue: 0,0:08:03.13,0:08:05.26,Main,,0,0,0,,Sir, we need to talk!
+Dialogue: 0,0:08:05.60,0:08:07.99,Main,,0,0,0,,– Damn, they found out!\N– Let's {go}bail!
+Dialogue: 0,0:08:08.90,0:08:10.67,Main,,0,0,0,,They didn't pay!
+Dialogue: 0,0:08:10.67,0:08:12.84,Main,,0,0,0,,Somebody catch them{, somebody}!
+Dialogue: 0,0:08:14.04,0:08:17.34,Main,,0,0,0,,– The ramen {noodles were}was great!\N– I told you!
+Dialogue: 0,0:08:17.94,0:08:20.91,Main,,0,0,0,,– Catch them?!\N– They're only kids!
+Dialogue: 0,0:08:23.92,0:08:29.19,Main,,0,0,0,,I-It's them again! They're such pests! \NWhy'd {were they let in?!}the shop let them in?!
+Dialogue: 0,0:08:29.19,0:08:34.56,Main,,0,0,0,,Don't let them {run}get away!\NSomebody catch those {3 kids}three!
+Dialogue: 0,0:08:35.76,0:08:39.03,Main,,0,0,0,,I can't believe that they\Njumped out of the window!
+Dialogue: 0,0:08:39.03,0:08:41.83,Main,,0,0,0,,This is the {4th}fourth floor!
+Dialogue: 0,0:08:41.83,0:08:46.04,Main,,0,0,0,,{We lost}We're out 26 bowls of ramen {noodles }and a window!
+Dialogue: 0,0:08:46.47,0:08:50.04,Main,,0,0,0,,M-Manager! They left a note!
 Dialogue: 0,0:08:52.41,0:08:52.44,Sign-Independent,,0,0,0,,{\fscx100\fscy100\an3\c&H0C0C0F&\frz351.8\blur4\pos(718,1122)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:52.44,0:08:52.48,Sign-Independent,,0,0,0,,{\fscx77.4\fscy77.4\an3\c&H0C0C0F&\frz351.8\pos(696.59,910.71)\fax-0.2\blur3.467}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:52.48,0:08:52.51,Sign-Independent,,0,0,0,,{\fscx60.96\fscy60.96\an3\c&H0C0C0F&\frz351.8\pos(680.98,757.15)\fax-0.2\blur2.933}PUT IT ON MY \NTREASURE TAB \N- LUFFY
@@ -5801,7 +5801,7 @@ Dialogue: 0,0:08:53.91,0:08:53.95,Sign-Independent,,0,0,0,,{\fscx32.93\fscy32.93
 Dialogue: 0,0:08:53.95,0:08:53.98,Sign-Independent,,0,0,0,,{\fscx32.92\fscy32.92\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.22,494.89)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:53.98,0:08:54.01,Sign-Independent,,0,0,0,,{\fscx32.91\fscy32.91\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.22,494.78)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:54.01,0:08:54.05,Sign-Independent,,0,0,0,,{\fscx32.89\fscy32.89\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.2,494.65)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
-Dialogue: 0,0:08:54.03,0:08:56.24,Main,,0,0,0,,「寶藏記帳」？！
+Dialogue: 0,0:08:54.03,0:08:56.24,Main,,0,0,0,,"Treasure tab"?!
 Dialogue: 0,0:08:54.05,0:08:54.08,Sign-Independent,,0,0,0,,{\fscx32.88\fscy32.88\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.17,494.52)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:54.08,0:08:54.11,Sign-Independent,,0,0,0,,{\fscx32.86\fscy32.86\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.15,494.38)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:54.11,0:08:54.15,Sign-Independent,,0,0,0,,{\fscx32.85\fscy32.85\an3\c&H0C0C0F&\frz351.8\blur1\pos(654.13,494.25)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
@@ -5931,161 +5931,161 @@ Dialogue: 0,0:08:58.22,0:08:58.25,Sign-Independent,,0,0,0,,{\fscx31.28\fscy31.28
 Dialogue: 0,0:08:58.25,0:08:58.28,Sign-Independent,,0,0,0,,{\fscx31.26\fscy31.26\an3\c&H0C0C0F&\frz351.8\blur1\pos(652.59,479.55)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:58.28,0:08:58.32,Sign-Independent,,0,0,0,,{\fscx31.26\fscy31.26\an3\c&H0C0C0F&\frz351.8\blur1\pos(652.59,479.53)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
 Dialogue: 0,0:08:58.32,0:08:58.35,Sign-Independent,,0,0,0,,{\fscx31.26\fscy31.26\an3\c&H0C0C0F&\frz351.8\blur1\pos(652.6,479.51)\fax-0.2}PUT IT ON MY \NTREASURE TAB \N- LUFFY
-Dialogue: 0,0:09:02.62,0:09:04.19,Main,,0,0,0,,薩波？
-Dialogue: 0,0:09:04.19,0:09:06.83,Main,,0,0,0,,是薩波！等等！
-Dialogue: 0,0:09:06.83,0:09:09.03,Main,,0,0,0,,你還活著！
-Dialogue: 0,0:09:09.96,0:09:11.36,Main,,0,0,0,,跟我回家吧！
-Dialogue: 0,0:09:12.73,0:09:15.47,Main,,0,0,0,,喂，薩波！他在叫你啊！
-Dialogue: 0,0:09:15.47,0:09:16.23,Main,,0,0,0,,那是誰？
-Dialogue: 0,0:09:17.60,0:09:19.94,Main,,0,0,0,,他認錯人了。走吧！
-Dialogue: 0,0:09:22.24,0:09:24.01,Main,,0,0,0,,等⋯⋯等一下！
-Dialogue: 0,0:09:35.35,0:09:36.76,Main,,0,0,0,,薩波⋯⋯
-Dialogue: 0,0:09:37.72,0:09:41.53,Main,,0,0,0,,「我們決定今年春天\N拜訪貴國」？
-Dialogue: 0,0:09:41.53,0:09:45.50,Main,,0,0,0,,多格拉！瑪格拉！\N「哥雅」是哪裡啊？！
-Dialogue: 0,0:09:45.83,0:09:50.50,Main,,0,0,0,,可爾波山、不確定物的終點站、\N還有風車村⋯⋯
-Dialogue: 0,0:09:50.50,0:09:52.87,Main,,0,0,0,,好像都是哥雅的一部分。
-Dialogue: 0,0:09:52.87,0:09:54.44,Main,,0,0,0,,我也是這麼想的。
-Dialogue: 0,0:09:54.44,0:09:56.48,Main,,0,0,0,,放輕鬆，老大。
-Dialogue: 0,0:09:56.48,0:10:01.98,Main,,0,0,0,,你竟然在看報紙，太陽打西邊出來了。
-Dialogue: 0,0:10:01.98,0:10:03.38,Main,,0,0,0,,好痛！
-Dialogue: 0,0:10:03.88,0:10:06.75,Main,,0,0,0,,有人要來這個王國？！
-Dialogue: 0,0:10:06.75,0:10:10.29,Main,,0,0,0,,都上頭條了⋯⋯
-Dialogue: 0,0:10:11.02,0:10:14.19,Main,,0,0,0,,到底怎麼回事？\N那些人有那麼了不起嗎？
-Dialogue: 0,0:10:14.86,0:10:17.20,Main,,0,0,0,,天龍人？
-Dialogue: 0,0:10:15.23,0:10:15.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,14.44)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.26,0:10:15.29,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,28.18)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.29,0:10:15.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,41.28)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.33,0:10:15.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,53.69)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.36,0:10:15.39,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,65.46)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.39,0:10:15.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,76.61)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.43,0:10:15.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,87.1)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.46,0:10:15.49,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,97.05)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.49,0:10:15.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,106.37)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.53,0:10:15.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,115.11)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.56,0:10:15.59,Captions,,0,0,0,,{=5}{\frx8\blur0.6\bord0\c&H3A276B&\pos(629.01,123.23)}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.59,0:10:15.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,130.88)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.63,0:10:15.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,137.9)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.66,0:10:15.69,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,144.43)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.69,0:10:15.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,150.4)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.73,0:10:15.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,155.91)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.76,0:10:15.79,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,161.06)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.79,0:10:15.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,165.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.83,0:10:15.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,170.13)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.86,0:10:15.89,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,174.13)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.89,0:10:15.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,177.81)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.93,0:10:15.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,181.21)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.96,0:10:15.99,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,184.36)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:15.99,0:10:16.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,187.25)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.03,0:10:16.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,189.89)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.06,0:10:16.09,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,192.36)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.09,0:10:16.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,194.72)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.13,0:10:16.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,196.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.16,0:10:16.19,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,198.77)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.19,0:10:16.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,200.54)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.23,0:10:16.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,202.29)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.26,0:10:16.29,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,203.84)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.29,0:10:16.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,205.32)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.33,0:10:16.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,206.67)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.36,0:10:16.39,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,207.96)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.39,0:10:16.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,209.14)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.43,0:10:16.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,210.28)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.46,0:10:16.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,211.29)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.50,0:10:16.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,212.28)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.53,0:10:16.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,213.14)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.56,0:10:16.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,214)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.60,0:10:16.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,214.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.63,0:10:16.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,215.54)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.66,0:10:16.70,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,216.25)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.70,0:10:16.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,216.95)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.73,0:10:16.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,217.54)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.76,0:10:16.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,218.12)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.80,0:10:16.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,218.66)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.83,0:10:16.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,219.19)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.86,0:10:16.90,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,219.64)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.90,0:10:16.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.11)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.93,0:10:16.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.52)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:16.96,0:10:17.00,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.92)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.00,0:10:17.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.27)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.03,0:10:17.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.62)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.06,0:10:17.10,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.96)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.10,0:10:17.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,222.28)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.13,0:10:17.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,222.6)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.16,0:10:17.20,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,222.89)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.20,0:10:17.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.14)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.23,0:10:17.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.38)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.26,0:10:17.30,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.65)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.30,0:10:17.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.84)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.33,0:10:17.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,224.03)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.36,0:10:17.40,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.23)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.40,0:10:17.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.42)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.43,0:10:17.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.6)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.46,0:10:17.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.75)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.50,0:10:17.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.91)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.53,0:10:17.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,225.07)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.56,0:10:17.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,225.2)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.60,0:10:17.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.32)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.63,0:10:17.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.45)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.66,0:10:17.70,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.57)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.70,0:10:17.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.66)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.73,0:10:17.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.75)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.76,0:10:17.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.85)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.80,0:10:17.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.94)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.83,0:10:17.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.02)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.86,0:10:17.90,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.1)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.90,0:10:17.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.17)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.93,0:10:17.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.25)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:17.96,0:10:18.00,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.3)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.00,0:10:18.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.35)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.03,0:10:18.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.39)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.06,0:10:18.10,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.44)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.10,0:10:18.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.48)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.13,0:10:18.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.52)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.16,0:10:18.20,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.56)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.20,0:10:18.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.61)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.23,0:10:18.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.64)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.26,0:10:18.30,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.65)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.30,0:10:18.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.66)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.33,0:10:18.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.69)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.36,0:10:18.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.71)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.43,0:10:18.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.73)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.46,0:10:18.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.74)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.50,0:10:18.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.75)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.53,0:10:18.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.76)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.56,0:10:18.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.77)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.60,0:10:18.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.78)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.66,0:10:18.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.80,0:10:18.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.02,226.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:18.86,0:10:21.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.79)\frx8}天龍人即將{\frz359}蒞臨{\frz359} {\frz358}造訪
-Dialogue: 0,0:10:28.01,0:10:30.44,Main,,0,0,0,,什麼？！我才沒有隱瞞！
-Dialogue: 0,0:10:32.08,0:10:34.11,Main,,0,0,0,,喔，是嗎？
-Dialogue: 0,0:10:34.88,0:10:37.95,Main,,0,0,0,,你明明有！快告訴我們，薩波！
-Dialogue: 0,0:10:39.22,0:10:42.22,Main,,0,0,0,,我們之間不能有秘密！
-Dialogue: 0,0:10:44.09,0:10:45.16,Main,,0,0,0,,– 快說！\N– 快說！
-Dialogue: 0,0:10:49.06,0:10:51.43,Main,,0,0,0,,我說了我沒有隱瞞⋯⋯
-Dialogue: 0,0:10:51.73,0:10:54.83,Main,,0,0,0,,快說啊，混蛋！不然我揍你！
-Dialogue: 0,0:10:56.50,0:10:58.70,Main,,0,0,0,,好吧，我告訴你們！
-Dialogue: 0,0:11:02.61,0:11:04.41,Main,,0,0,0,,貴族的兒子？！
-Dialogue: 0,0:11:06.34,0:11:07.61,Main,,0,0,0,,– 誰是？\N– 誰是？
-Dialogue: 0,0:11:07.61,0:11:08.51,Main,,0,0,0,,我啊！
-Dialogue: 0,0:11:11.25,0:11:12.15,Main,,0,0,0,,– 然後呢？\N– 然後呢？
-Dialogue: 0,0:11:12.15,0:11:14.39,Main,,0,0,0,,明明是你們問我的！
-Dialogue: 0,0:11:17.72,0:11:21.16,Main,,0,0,0,,其實我的父母都還在。
-Dialogue: 0,0:11:21.59,0:11:26.00,Main,,0,0,0,,我不是孤兒，\N也不是在不確定物的終點站長大的。
-Dialogue: 0,0:11:26.70,0:11:29.37,Main,,0,0,0,,今天叫住我的那個人是⋯⋯
-Dialogue: 0,0:11:30.64,0:11:31.97,Main,,0,0,0,,我父親。
-Dialogue: 0,0:11:33.77,0:11:38.34,Main,,0,0,0,,我一直騙你們。對不起。
-Dialogue: 0,0:11:38.34,0:11:41.25,Main,,0,0,0,,他都說「對不起」了，\N我們就得原諒他。
-Dialogue: 0,0:11:41.25,0:11:43.98,Main,,0,0,0,,那得看情況。我搞不懂了。
-Dialogue: 0,0:11:44.55,0:11:48.62,Main,,0,0,0,,你明明是貴族家的孩子，\N為什麼住在那裡？
-Dialogue: 0,0:11:52.02,0:11:54.09,Main,,0,0,0,,我是因為逃出來的⋯⋯
-Dialogue: 0,0:11:59.30,0:12:01.67,Flashbacks,,0,0,0,,聽好了，薩波。
-Dialogue: 0,0:12:03.37,0:12:07.97,Flashbacks,,0,0,0,,你必須培養與貴族身份相稱的\N智慧和禮儀⋯⋯
-Dialogue: 0,0:12:07.97,0:12:11.84,Flashbacks,,0,0,0,,將來好迎娶公主。
-Dialogue: 0,0:12:11.84,0:12:16.48,Flashbacks,,0,0,0,,這樣的話，我們家的地位就能穩固。\N你也一定會幸福的！
-Dialogue: 0,0:12:20.49,0:12:22.62,Flashbacks,,0,0,0,,喂？！喂？！
-Dialogue: 0,0:12:22.62,0:12:23.99,Flashbacks,,0,0,0,,該死！
-Dialogue: 0,0:12:24.86,0:12:27.69,Flashbacks,,0,0,0,,真是巨大的損失！天啊！
-Dialogue: 0,0:12:30.06,0:12:31.46,Flashbacks,,0,0,0,,爸爸！
+Dialogue: 0,0:09:02.62,0:09:04.19,Main,,0,0,0,,Sabo?
+Dialogue: 0,0:09:04.19,0:09:06.83,Main,,0,0,0,,That's {must be }Sabo! Wait!
+Dialogue: 0,0:09:06.83,0:09:09.03,Main,,0,0,0,,You're alive!
+Dialogue: 0,0:09:09.96,0:09:11.36,Main,,0,0,0,,{Let's }Come home with me!
+Dialogue: 0,0:09:12.73,0:09:15.47,Main,,0,0,0,,Hey, Sabo! He's {calling}talking to you!
+Dialogue: 0,0:09:15.47,0:09:16.23,Main,,0,0,0,,Who's that?
+Dialogue: 0,0:09:17.60,0:09:19.94,Main,,0,0,0,,He's confus{ed}ing me with someone else. Let's go!
+Dialogue: 0,0:09:22.24,0:09:24.01,Main,,0,0,0,,W-Wait right there!
+Dialogue: 0,0:09:35.35,0:09:36.76,Main,,0,0,0,,Sabo...
+Dialogue: 0,0:09:37.72,0:09:41.53,Main,,0,0,0,,"We {will have a visit this spring}have decided to call upon your country this spring"?
+Dialogue: 0,0:09:41.53,0:09:45.50,Main,,0,0,0,,Dogra! Magra! \NWhere's {the country called Goa?!}this “Goa” place?!
+Dialogue: 0,0:09:45.83,0:09:50.50,Main,,0,0,0,,Mount Colubo, {the }Gray Terminal, and {Windmill}Foosha Village...
+Dialogue: 0,0:09:50.50,0:09:52.87,Main,,0,0,0,,are apparently part of Goa{ supposedly}.
+Dialogue: 0,0:09:52.87,0:09:54.44,Main,,0,0,0,,That's what I thought.
+Dialogue: 0,0:09:54.44,0:09:56.48,Main,,0,0,0,,{Easy, easy}Take it easy, Boss.
+Dialogue: 0,0:09:56.48,0:10:01.98,Main,,0,0,0,,It's rare to see you reading a newspaper. \NHell must be freezing over.
+Dialogue: 0,0:10:01.98,0:10:03.38,Main,,0,0,0,,Ouch!
+Dialogue: 0,0:10:03.88,0:10:06.75,Main,,0,0,0,,Somebody's gonna visit the kingdom?!
+Dialogue: 0,0:10:06.75,0:10:10.29,Main,,0,0,0,,It's making the headlines...
+Dialogue: 0,0:10:11.02,0:10:14.19,Main,,0,0,0,,What's going on here?\NAre they that big a deal?
+Dialogue: 0,0:10:14.86,0:10:17.20,Main,,0,0,0,,These Celestial Dragons?
+Dialogue: 0,0:10:15.23,0:10:15.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,14.44)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.26,0:10:15.29,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,28.18)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.29,0:10:15.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,41.28)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.33,0:10:15.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,53.69)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.36,0:10:15.39,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,65.46)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.39,0:10:15.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,76.61)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.43,0:10:15.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,87.1)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.46,0:10:15.49,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,97.05)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.49,0:10:15.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,106.37)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.53,0:10:15.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,115.11)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.56,0:10:15.59,Captions,,0,0,0,,{=5}{\frx8\blur0.6\bord0\c&H3A276B&\pos(629.01,123.23)}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.59,0:10:15.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,130.88)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.63,0:10:15.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,137.9)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.66,0:10:15.69,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,144.43)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.69,0:10:15.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,150.4)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.73,0:10:15.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,155.91)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.76,0:10:15.79,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,161.06)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.79,0:10:15.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,165.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.83,0:10:15.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,170.13)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.86,0:10:15.89,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,174.13)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.89,0:10:15.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,177.81)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.93,0:10:15.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,181.21)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.96,0:10:15.99,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,184.36)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:15.99,0:10:16.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,187.25)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.03,0:10:16.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,189.89)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.06,0:10:16.09,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,192.36)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.09,0:10:16.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,194.72)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.13,0:10:16.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,196.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.16,0:10:16.19,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,198.77)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.19,0:10:16.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,200.54)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.23,0:10:16.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,202.29)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.26,0:10:16.29,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,203.84)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.29,0:10:16.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,205.32)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.33,0:10:16.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,206.67)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.36,0:10:16.39,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,207.96)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.39,0:10:16.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,209.14)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.43,0:10:16.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,210.28)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.46,0:10:16.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,211.29)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.50,0:10:16.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,212.28)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.53,0:10:16.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,213.14)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.56,0:10:16.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,214)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.60,0:10:16.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,214.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.63,0:10:16.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,215.54)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.66,0:10:16.70,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,216.25)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.70,0:10:16.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,216.95)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.73,0:10:16.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,217.54)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.76,0:10:16.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,218.12)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.80,0:10:16.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,218.66)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.83,0:10:16.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,219.19)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.86,0:10:16.90,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,219.64)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.90,0:10:16.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.11)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.93,0:10:16.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.52)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:16.96,0:10:17.00,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,220.92)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.00,0:10:17.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.27)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.03,0:10:17.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.62)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.06,0:10:17.10,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,221.96)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.10,0:10:17.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,222.28)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.13,0:10:17.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,222.6)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.16,0:10:17.20,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,222.89)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.20,0:10:17.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.14)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.23,0:10:17.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.38)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.26,0:10:17.30,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.65)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.30,0:10:17.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,223.84)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.33,0:10:17.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,224.03)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.36,0:10:17.40,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.23)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.40,0:10:17.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.42)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.43,0:10:17.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.6)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.46,0:10:17.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.75)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.50,0:10:17.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,224.91)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.53,0:10:17.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,225.07)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.56,0:10:17.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(628.99,225.2)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.60,0:10:17.63,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.32)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.63,0:10:17.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.45)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.66,0:10:17.70,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.57)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.70,0:10:17.73,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.66)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.73,0:10:17.76,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.75)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.76,0:10:17.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.85)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.80,0:10:17.83,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,225.94)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.83,0:10:17.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.02)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.86,0:10:17.90,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.1)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.90,0:10:17.93,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.17)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.93,0:10:17.96,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.25)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:17.96,0:10:18.00,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.3)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.00,0:10:18.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.35)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.03,0:10:18.06,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.39)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.06,0:10:18.10,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.44)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.10,0:10:18.13,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.48)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.13,0:10:18.16,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.52)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.16,0:10:18.20,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.56)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.20,0:10:18.23,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.61)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.23,0:10:18.26,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.64)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.26,0:10:18.30,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.65)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.30,0:10:18.33,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.66)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.33,0:10:18.36,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.69)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.36,0:10:18.43,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.71)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.43,0:10:18.46,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.73)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.46,0:10:18.50,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.74)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.50,0:10:18.53,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629,226.75)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.53,0:10:18.56,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.76)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.56,0:10:18.60,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.77)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.60,0:10:18.66,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.78)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.66,0:10:18.80,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.80,0:10:18.86,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.02,226.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:18.86,0:10:21.03,Captions,,0,0,0,,{=5}{\blur0.6\bord0\c&H3A276B&\pos(629.01,226.79)\frx8}A {*\frz359.867}C{*\frz359.8}E{*\frz359.733}L{*\frz359.667}E{*\frz359.6}S{*\frz359.533}T{*\frz359.467}I{*\frz359.4}A{*\frz359.333}L {*\frz359.2}D{*\frz359.133}R{*\frz359.067}A{\frz359}GON WILL{\frz359} {\frz358}VISIT
+Dialogue: 0,0:10:28.01,0:10:30.44,Main,,0,0,0,,What?! I'm not hiding anything!
+Dialogue: 0,0:10:32.08,0:10:34.11,Main,,0,0,0,,Oh, you aren't?
+Dialogue: 0,0:10:34.88,0:10:37.95,Main,,0,0,0,,Yes, you are! Tell us, Sabo!
+Dialogue: 0,0:10:39.22,0:10:42.22,Main,,0,0,0,,We can't have secrets among us!
+Dialogue: 0,0:10:44.09,0:10:45.16,Main,,0,0,0,,– Tell us!\N– Tell us!
+Dialogue: 0,0:10:49.06,0:10:51.43,Main,,0,0,0,,I said that I'm not hiding...
+Dialogue: 0,0:10:51.73,0:10:54.83,Main,,0,0,0,,Tell us, you bastard! Or I'll beat you up!
+Dialogue: 0,0:10:56.50,0:10:58.70,Main,,0,0,0,,Alright, I'll tell you!
+Dialogue: 0,0:11:02.61,0:11:04.41,Main,,0,0,0,,The son of a noble?!
+Dialogue: 0,0:11:06.34,0:11:07.61,Main,,0,0,0,,– Who is{ it}?\N– Who is{ it}?
+Dialogue: 0,0:11:07.61,0:11:08.51,Main,,0,0,0,,I am!
+Dialogue: 0,0:11:11.25,0:11:12.15,Main,,0,0,0,,– And?\N– And?
+Dialogue: 0,0:11:12.15,0:11:14.39,Main,,0,0,0,,You two asked me{ first}!
+Dialogue: 0,0:11:17.72,0:11:21.16,Main,,0,0,0,,The truth is{,} both of my parents are alive.
+Dialogue: 0,0:11:21.59,0:11:26.00,Main,,0,0,0,,{So }I'm not an orphan,\Nand I didn't grow up in {the }Gray Terminal.
+Dialogue: 0,0:11:26.70,0:11:29.37,Main,,0,0,0,,The man who called out to me today was...
+Dialogue: 0,0:11:30.64,0:11:31.97,Main,,0,0,0,,my father.
+Dialogue: 0,0:11:33.77,0:11:38.34,Main,,0,0,0,,I was lying to you guys. I'm sorry.
+Dialogue: 0,0:11:38.34,0:11:41.25,Main,,0,0,0,,He said "sorry" so we gotta forgive him.
+Dialogue: 0,0:11:41.25,0:11:43.98,Main,,0,0,0,,It depends. I'm confused.{Let's hold off on forgiveness -\Nit all depends on your motive.}{To tell you the truth, I am shocked}
+Dialogue: 0,0:11:44.55,0:11:48.62,Main,,0,0,0,,Why were you living there if\Nyou are from a noble family?
+Dialogue: 0,0:11:52.02,0:11:54.09,Main,,0,0,0,,{The reason }I ran away {was...}because...
+Dialogue: 0,0:11:59.30,0:12:01.67,Flashbacks,,0,0,0,,Listen, Sabo.
+Dialogue: 0,0:12:03.37,0:12:07.97,Flashbacks,,0,0,0,,You must {acquire}develop the intelligence and {knowledge}manners {that you'll need as}becoming of a noble...
+Dialogue: 0,0:12:07.97,0:12:11.84,Flashbacks,,0,0,0,,{and become a man that can}to eventually marry a {woman from the royal family}princess.
+Dialogue: 0,0:12:11.84,0:12:16.48,Flashbacks,,0,0,0,,{Then, we will live in security and\NI'm sure that you will live happily!}If you do, our family's position will be secure.\NYou will surely be happy, as well!
+Dialogue: 0,0:12:20.49,0:12:22.62,Flashbacks,,0,0,0,,Hello?! Hello?!
+Dialogue: 0,0:12:22.62,0:12:23.99,Flashbacks,,0,0,0,,{– Clank.\N}Damn!
+Dialogue: 0,0:12:24.86,0:12:27.69,Flashbacks,,0,0,0,,Such a great loss! {By thunder}My word!
+Dialogue: 0,0:12:30.06,0:12:31.46,Flashbacks,,0,0,0,,Dad!
 Dialogue: 0,0:12:31.46,0:12:31.50,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(823.11,729.56)}DAD
 Dialogue: 0,0:12:31.50,0:12:31.53,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(803.11,688.22)}DAD
 Dialogue: 0,0:12:31.53,0:12:31.56,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(786.43,646.66)}DAD
@@ -6107,7 +6107,7 @@ Dialogue: 0,0:12:32.03,0:12:32.06,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.2
 Dialogue: 0,0:12:32.06,0:12:32.10,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(584.9,145.36)}DAD
 Dialogue: 0,0:12:32.10,0:12:32.13,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(579.06,130.87)}DAD
 Dialogue: 0,0:12:32.13,0:12:32.16,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(574.38,119.29)}DAD
-Dialogue: 4,0:12:32.14,0:12:34.70,Flashbacks,,0,0,0,,你看！我畫的！
+Dialogue: 4,0:12:32.14,0:12:34.70,Flashbacks,,0,0,0,,Look at this! I drew it!
 Dialogue: 0,0:12:32.16,0:12:32.20,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(571,110.81)}DAD
 Dialogue: 0,0:12:32.20,0:12:32.23,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(568.91,105.58)}DAD
 Dialogue: 0,0:12:32.23,0:12:32.30,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(568.22,103.89)}DAD
@@ -6117,420 +6117,420 @@ Dialogue: 0,0:12:32.80,0:12:32.83,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.2
 Dialogue: 0,0:12:32.83,0:12:34.13,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(568.22,103.89)}DAD
 Dialogue: 0,0:12:34.13,0:12:34.17,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(568.21,103.89)}DAD
 Dialogue: 0,0:12:34.17,0:12:34.70,Sign-Dad,,0,0,0,,{=8}{\blur0.8\frz11.46\fax0.21\pos(568.22,103.89)}DAD
-Dialogue: 0,0:12:42.01,0:12:44.78,Flashbacks,,0,0,0,,薩波，我工作累得要死了。
-Dialogue: 0,0:12:45.08,0:12:48.38,Flashbacks,,0,0,0,,你有空畫這種東西，\N不如去唸書。
+Dialogue: 0,0:12:42.01,0:12:44.78,Flashbacks,,0,0,0,,I'm exhausted from work, Sabo.
+Dialogue: 0,0:12:45.08,0:12:48.38,Flashbacks,,0,0,0,,If you have time to draw this,\Nyou ought to be studying instead.
 Dialogue: 0,0:12:49.71,0:12:52.65,Sign-Dad,,0,0,0,,{\fad(0,940)\fs40\blur0.8\fax0.6\frz357.5\pos(806,174)}DAD
-Dialogue: 0,0:12:58.99,0:13:00.59,Flashbacks,,0,0,0,,喂，你！
-Dialogue: 0,0:13:01.86,0:13:06.56,Flashbacks,,0,0,0,,我可是皇族！\N也就是跟國王有親緣關係的！
-Dialogue: 0,0:13:06.56,0:13:08.60,Flashbacks,,0,0,0,,背著我回家！
-Dialogue: 0,0:13:14.64,0:13:16.37,Flashbacks,,0,0,0,,住手，你這無禮的豬！
-Dialogue: 0,0:13:16.37,0:13:19.88,Flashbacks,,0,0,0,,喂，你敢無視皇族的命令？！
-Dialogue: 0,0:13:20.28,0:13:22.38,Flashbacks,,0,0,0,,放開我！
-Dialogue: 0,0:13:28.85,0:13:31.52,Flashbacks,,0,0,0,,你只不過是貴族家的兒子！
-Dialogue: 0,0:13:31.92,0:13:33.49,Flashbacks,,0,0,0,,我要教訓你！
-Dialogue: 0,0:13:35.06,0:13:37.46,Flashbacks,,0,0,0,,住手！
-Dialogue: 0,0:13:43.10,0:13:47.87,Flashbacks,,0,0,0,,竟然敢傷害皇族的孩子，\N這是不可原諒的！
-Dialogue: 0,0:13:47.87,0:13:51.98,Flashbacks,,0,0,0,,薩波！你真的跟這個\N皇族的孩子打架了？！
-Dialogue: 0,0:13:51.98,0:13:54.65,Flashbacks,,0,0,0,,是的。我受傷了。
-Dialogue: 0,0:13:54.65,0:13:57.95,Flashbacks,,0,0,0,,他突然拿刀衝向我⋯⋯
-Dialogue: 0,0:14:03.46,0:14:08.96,Flashbacks,,0,0,0,,對不起！他沒有受傷吧？！
-Dialogue: 0,0:14:08.96,0:14:11.20,Flashbacks,,0,0,0,,太對不起了！
-Dialogue: 0,0:14:11.53,0:14:15.23,Flashbacks,,0,0,0,,我們帶他去看醫生\N檢查一下吧！
-Dialogue: 0,0:14:15.23,0:14:19.50,Flashbacks,,0,0,0,,能不能私了？！
-Dialogue: 0,0:14:20.57,0:14:26.11,Main,,0,0,0,,他們只愛能維護自身地位\N和保護財產的人。
-Dialogue: 0,0:14:29.55,0:14:30.55,Main,,0,0,0,,不是愛我！
-Dialogue: 0,0:14:33.85,0:14:37.72,Main,,0,0,0,,如果我不能娶皇族的女人，\N我就毫無價值！
-Dialogue: 0,0:14:37.72,0:14:40.89,Main,,0,0,0,,所以他們逼我念書、上禮儀課。
-Dialogue: 0,0:14:41.46,0:14:45.33,Main,,0,0,0,,而且因為我學得不好，\N他們每天都在吵架。
-Dialogue: 0,0:14:46.16,0:14:48.57,Main,,0,0,0,,在那個家裡我根本沒有容身之處！
-Dialogue: 0,0:14:49.40,0:14:53.74,Main,,0,0,0,,你們也有各自的苦衷，\N但我就算有父母也一樣是孤獨的！
-Dialogue: 0,0:14:55.64,0:15:00.15,Flashbacks,,0,0,0,,我聽說你偶爾會\N偷跑出去。
-Dialogue: 0,0:15:00.91,0:15:06.22,Flashbacks,,0,0,0,,雖然你應該不會，但絕對\N不准靠近不確定物的終點站！
-Dialogue: 0,0:15:06.72,0:15:11.42,Flashbacks,,0,0,0,,我們貴族有幸住在上城區，\N和國王與皇族比鄰而居。
-Dialogue: 0,0:15:11.42,0:15:17.06,Flashbacks,,0,0,0,,住在那裡的人跟我們是不同世界的人！
-Dialogue: 0,0:15:19.70,0:15:23.80,Main,,0,0,0,,貴族看不起不確定物的終點站，
-Dialogue: 0,0:15:23.80,0:15:26.70,Main,,0,0,0,,但比起那個令人窒息的上城區，
-Dialogue: 0,0:15:26.70,0:15:30.24,Main,,0,0,0,,那裡好多了！在上城區，\N人生未來幾十年都被安排好了！
-Dialogue: 0,0:15:32.38,0:15:33.65,Main,,0,0,0,,原來如此。
-Dialogue: 0,0:15:34.58,0:15:36.25,Main,,0,0,0,,艾斯！魯夫！
-Dialogue: 0,0:15:37.45,0:15:40.32,Main,,0,0,0,,我們總有一天要出海！
-Dialogue: 0,0:15:40.75,0:15:43.82,Main,,0,0,0,,離開這個國家，獲得自由！
-Dialogue: 0,0:15:43.82,0:15:48.46,Main,,0,0,0,,我想看看外面的世界，\N然後寫一本書！
-Dialogue: 0,0:15:48.46,0:15:51.23,Main,,0,0,0,,如果是關於航海的知識，\N我很樂意學習！
-Dialogue: 0,0:15:51.23,0:15:54.53,Main,,0,0,0,,變得更強，\N有一天成為海賊吧！
-Dialogue: 0,0:16:00.91,0:16:04.24,Main,,0,0,0,,那本來就是我的計畫！\N不用你說！
-Dialogue: 0,0:16:04.24,0:16:10.08,Main,,0,0,0,,我要成為海賊，\N打敗所有人，成為世界上最惡名昭彰的海賊！
-Dialogue: 0,0:16:10.65,0:16:13.65,Main,,0,0,0,,只有這樣才能證明我活過！
-Dialogue: 0,0:16:14.55,0:16:20.16,Main,,0,0,0,,就算全世界排斥我、\N鄙視我都無所謂，
-Dialogue: 0,0:16:20.89,0:16:23.49,Main,,0,0,0,,我要成為偉大的海賊，\N讓他們看看我的實力！
-Dialogue: 0,0:16:24.33,0:16:27.33,Main,,0,0,0,,我不會逃避任何人，\N也不會輸給任何人！
-Dialogue: 0,0:16:27.33,0:16:30.27,Main,,0,0,0,,不管是被人害怕還是怎樣；
-Dialogue: 0,0:16:30.27,0:16:32.37,Main,,0,0,0,,我要讓全世界都知道我的名字！
-Dialogue: 0,0:16:34.37,0:16:37.36,Main,,0,0,0,,原來如此！好吧！
-Dialogue: 0,0:16:39.38,0:16:42.88,Main,,0,0,0,,我要成為⋯⋯
-Dialogue: 0,0:16:49.92,0:16:53.26,Main,,0,0,0,,真是的，我還在想\N你會說什麼。
-Dialogue: 0,0:16:56.06,0:16:58.20,Main,,0,0,0,,你真有趣，魯夫！
-Dialogue: 0,0:16:58.20,0:17:01.40,Main,,0,0,0,,真期待你將來會變成什麼樣！
-Dialogue: 0,0:17:02.50,0:17:05.64,Main,,0,0,0,,我們都可以當海賊，
-Dialogue: 0,0:17:05.64,0:17:09.24,Main,,0,0,0,,但我們都想當船長，\N這不是個問題嗎？
-Dialogue: 0,0:17:10.17,0:17:12.01,Main,,0,0,0,,我沒想到這點。
-Dialogue: 0,0:17:12.01,0:17:15.75,Main,,0,0,0,,薩波，我以為你會想\N當我船上的航海士。
-Dialogue: 0,0:17:15.75,0:17:18.02,Main,,0,0,0,,你們上我的船就好了！
-Dialogue: 0,0:17:18.02,0:17:19.25,Main,,0,0,0,,– 才不要！\N– 才不要！
-Dialogue: 0,0:17:21.55,0:17:24.19,Main,,0,0,0,,算了，等到時候再說吧。
-Dialogue: 0,0:17:24.72,0:17:28.03,Main,,0,0,0,,也許我們各自獨立出海。
-Dialogue: 0,0:17:29.13,0:17:31.76,Main,,0,0,0,,啊，你從達坦那裡偷的！
-Dialogue: 0,0:17:32.66,0:17:34.20,Main,,0,0,0,,你們聽說了嗎？
-Dialogue: 0,0:17:35.90,0:17:39.00,Main,,0,0,0,,交換酒杯的話，就能成為兄弟。
-Dialogue: 0,0:17:40.17,0:17:42.61,Main,,0,0,0,,兄弟？真的嗎？！
-Dialogue: 0,0:17:43.01,0:17:47.61,Main,,0,0,0,,當了海賊之後，\N我們可能不會在同一條船上，
-Dialogue: 0,0:17:47.61,0:17:50.72,Main,,0,0,0,,但兄弟的牽絆會一直在！
-Dialogue: 0,0:17:51.05,0:17:54.49,Main,,0,0,0,,不管我們在哪裡、做什麼，\N這份羈絆永遠不會斷！
-Dialogue: 0,0:17:57.82,0:17:59.99,Main,,0,0,0,,從今天開始，
-Dialogue: 0,0:18:00.79,0:18:02.06,Main,,0,0,0,,我們就是兄弟了！
-Dialogue: 0,0:18:08.87,0:18:10.80,Main,,0,0,0,,嗯！
+Dialogue: 0,0:12:58.99,0:13:00.59,Flashbacks,,0,0,0,,Hey, you!
+Dialogue: 0,0:13:01.86,0:13:06.56,Flashbacks,,0,0,0,,I'm {from the royal family}royalty!\N{Which}That means I'm related to the king! {I know this is stupid and redundant, but this kid's an idiot, so it suits him.}
+Dialogue: 0,0:13:06.56,0:13:08.60,Flashbacks,,0,0,0,,Carry me {by }piggyback to my house!
+Dialogue: 0,0:13:14.64,0:13:16.37,Flashbacks,,0,0,0,,Stop, you {rude jerk}insolent swine!
+Dialogue: 0,0:13:16.37,0:13:19.88,Flashbacks,,0,0,0,,Hey, are you gonna ignore {my}a royal order?!
+Dialogue: 0,0:13:20.28,0:13:22.38,Flashbacks,,0,0,0,,Let me go!
+Dialogue: 0,0:13:28.85,0:13:31.52,Flashbacks,,0,0,0,,You're just the son of some noble family!
+Dialogue: 0,0:13:31.92,0:13:33.49,Flashbacks,,0,0,0,,I'll teach you a lesson!
+Dialogue: 0,0:13:35.06,0:13:37.46,Flashbacks,,0,0,0,,{Don't}Stop it!
+Dialogue: 0,0:13:43.10,0:13:47.87,Flashbacks,,0,0,0,,It's unforgivable to harm \Na child of the royal family!
+Dialogue: 0,0:13:47.87,0:13:51.98,Flashbacks,,0,0,0,,Sabo! Did you really have \Na fight with this royal boy?!
+Dialogue: 0,0:13:51.98,0:13:54.65,Flashbacks,,0,0,0,,Yes. {, I did!}I got hurt.
+Dialogue: 0,0:13:54.65,0:13:57.95,Flashbacks,,0,0,0,,{Because }He suddenly {attacked}came at me with a knife{ all of a sudden}...
+Dialogue: 0,0:14:03.46,0:14:08.96,Flashbacks,,0,0,0,,I'm sorry! {Did you get hurt?! Did he get hurt?!}He's not injured, is he?!
+Dialogue: 0,0:14:08.96,0:14:11.20,Flashbacks,,0,0,0,,I'm so sorry!
+Dialogue: 0,0:14:11.53,0:14:15.23,Flashbacks,,0,0,0,,Let's take him to a doctor\Nto get checked out!
+Dialogue: 0,0:14:15.23,0:14:19.50,Flashbacks,,0,0,0,,Can we please settle this matter peacefully?!
+Dialogue: 0,0:14:20.57,0:14:26.11,Main,,0,0,0,,They love those who can maintain their\Nstatus and defend their property.
+Dialogue: 0,0:14:29.55,0:14:30.55,Main,,0,0,0,,Not me!
+Dialogue: 0,0:14:33.85,0:14:37.72,Main,,0,0,0,,If I can't marry a woman from\Nthe royal family, I'm worthless!
+Dialogue: 0,0:14:37.72,0:14:40.89,Main,,0,0,0,,That's why they made me study\Nand take culture lessons.
+Dialogue: 0,0:14:41.46,0:14:45.33,Main,,0,0,0,,And they were arguing everyday\Nbecause I wasn't doing well.
+Dialogue: 0,0:14:46.16,0:14:48.57,Main,,0,0,0,,I had no place {to be }in that family!
+Dialogue: 0,0:14:49.40,0:14:53.74,Main,,0,0,0,,I'm sorry for both of you,\Nbut I was {all by myself even if I had parents!}on my own even with parents!
+Dialogue: 0,0:14:55.64,0:15:00.15,Flashbacks,,0,0,0,,I heard that you sneak out and \Ngo somewhere {sometimes}now and then.
+Dialogue: 0,0:15:00.91,0:15:06.22,Flashbacks,,0,0,0,,I {don't think you do}doubt you would, but don't ever go anywhere near {to }the Gray Terminal!
+Dialogue: 0,0:15:06.72,0:15:11.42,Flashbacks,,0,0,0,,We nobles are privileged to live in High Town \Nwith the king and his family.
+Dialogue: 0,0:15:11.42,0:15:17.06,Flashbacks,,0,0,0,,{Those residents there and we nobles\Nare living in different worlds!}Those who live there are from a different world than we are!
+Dialogue: 0,0:15:19.70,0:15:23.80,Main,,0,0,0,,Nobles have a low opinion\Nof the Gray Terminal,
+Dialogue: 0,0:15:23.80,0:15:26.70,Main,,0,0,0,,but it's better than th{e}at stifling High Town,
+Dialogue: 0,0:15:26.70,0:15:30.24,Main,,0,0,0,,{where your life has been\Narranged for years to come!}where they decide your whole life for decades to come!
+Dialogue: 0,0:15:32.38,0:15:33.65,Main,,0,0,0,,I see.
+Dialogue: 0,0:15:34.58,0:15:36.25,Main,,0,0,0,,Ace! Luffy!
+Dialogue: 0,0:15:37.45,0:15:40.32,Main,,0,0,0,,We gotta set out to sea someday!
+Dialogue: 0,0:15:40.75,0:15:43.82,Main,,0,0,0,,Let's get out of this country and {live freely}be free!
+Dialogue: 0,0:15:43.82,0:15:48.46,Main,,0,0,0,,I wanna see the world out there\Nand write a book about it!
+Dialogue: 0,0:15:48.46,0:15:51.23,Main,,0,0,0,,I'm happy to study if it's about sailing!
+Dialogue: 0,0:15:51.23,0:15:54.53,Main,,0,0,0,,Let's become stronger and\Nbecome pirates someday!
+Dialogue: 0,0:16:00.91,0:16:04.24,Main,,0,0,0,,{I'm gonna become one; you don't have to tell me to! }That was my plan anyway!\N You don't have to tell me!
+Dialogue: 0,0:16:04.24,0:16:10.08,Main,,0,0,0,,{I'm gonna become a pirate and\Ndefeat others and become infamous!}I'm gonna be a pirate and beat everyone 'til I'm the most notorious pirate in the world!
+Dialogue: 0,0:16:10.65,0:16:13.65,Main,,0,0,0,,{It'll be the only proof of my life!}That's the only way I'll prove that I lived!
+Dialogue: 0,0:16:14.55,0:16:20.16,Main,,0,0,0,,It doesn't matter if {all the people in \Nthe}the whole world rejects {me }or despises me,
+Dialogue: 0,0:16:20.89,0:16:23.49,Main,,0,0,0,,I'll become a great pirate and \Nshow them what I can do!
+Dialogue: 0,0:16:24.33,0:16:27.33,Main,,0,0,0,,I won't run from anybody or lose to anyone!
+Dialogue: 0,0:16:27.33,0:16:30.27,Main,,0,0,0,,{Because I'm feared or hated or whatever,}I don't care whether I'm feared or whatever;
+Dialogue: 0,0:16:30.27,0:16:32.37,Main,,0,0,0,,{my name will be known all over!}I'll make my name known worldwide!
+Dialogue: 0,0:16:34.37,0:16:37.36,Main,,0,0,0,,I {got it}see! Alright then!
+Dialogue: 0,0:16:39.38,0:16:42.88,Main,,0,0,0,,I'm gonna be{come...!}...
+Dialogue: 0,0:16:49.92,0:16:53.26,Main,,0,0,0,,{You fool...}Sheesh, I was wondering\Nwhat you'd have to say.
+Dialogue: 0,0:16:56.06,0:16:58.20,Main,,0,0,0,,You're funny, Luffy!
+Dialogue: 0,0:16:58.20,0:17:01.40,Main,,0,0,0,,I can't wait to see how you turn out{ in the future}!
+Dialogue: 0,0:17:02.50,0:17:05.64,Main,,0,0,0,,We can all be{come} pirates, {but...}
+Dialogue: 0,0:17:05.64,0:17:09.24,Main,,0,0,0,,but isn't it a problem that we all wanna be{come} captain?
+Dialogue: 0,0:17:10.17,0:17:12.01,Main,,0,0,0,,{I wasn't expecting that.}That's a hitch I didn't think of.
+Dialogue: 0,0:17:12.01,0:17:15.75,Main,,0,0,0,,Sabo, I thought that you'd wanna\Nbe navigator on my ship.
+Dialogue: 0,0:17:15.75,0:17:18.02,Main,,0,0,0,,You guys can come aboard my ship!
+Dialogue: 0,0:17:18.02,0:17:19.25,Main,,0,0,0,,– No {thanks}way!\N– No {thanks}way!
+Dialogue: 0,0:17:21.55,0:17:24.19,Main,,0,0,0,,Well, let's just leave it until the time comes.
+Dialogue: 0,0:17:24.72,0:17:28.03,Main,,0,0,0,,Maybe we'll set out independently.
+Dialogue: 0,0:17:29.13,0:17:31.76,Main,,0,0,0,,Oh, you stole that from Dadan!
+Dialogue: 0,0:17:32.66,0:17:34.20,Main,,0,0,0,,{Didn't ya know?}Have ya heard?
+Dialogue: 0,0:17:35.90,0:17:39.00,Main,,0,0,0,,{When you exchange sake cups, \Nyou become brothers.}We can be brothers if we exchange sake cups.
+Dialogue: 0,0:17:40.17,0:17:42.61,Main,,0,0,0,,Brothers? Really?!
+Dialogue: 0,0:17:43.01,0:17:47.61,Main,,0,0,0,,When we're{ become} pirates, \Nwe might not be on the same ship,
+Dialogue: 0,0:17:47.61,0:17:50.72,Main,,0,0,0,,but {our brotherhood will always be with us!}we'll always have our connection as brothers!
+Dialogue: 0,0:17:51.05,0:17:54.49,Main,,0,0,0,,No matter where we are or what we do, this bond will never be broken.
+Dialogue: 0,0:17:57.82,0:17:59.99,Main,,0,0,0,,From today onward,
+Dialogue: 0,0:18:00.79,0:18:02.06,Main,,0,0,0,,we're brothers!
+Dialogue: 0,0:18:08.87,0:18:10.80,Main,,0,0,0,,Yeah!
 Dialogue: 0,0:19:16.20,0:19:18.07,Sign-Independent,,0,0,0,,{\blur0.6\bord0\c&H020314&\pos(637,443)\fs39}We're going independent.
-Dialogue: 0,0:19:54.21,0:19:55.44,Main,,0,0,0,,把他還給我！
-Dialogue: 0,0:19:55.44,0:19:59.51,Main,,0,0,0,,什麼叫「還給你」？\N薩波是我兒子。
-Dialogue: 0,0:19:59.51,0:20:01.98,Main,,0,0,0,,孩子必須聽從父母的話⋯⋯
-Dialogue: 0,0:20:01.98,0:20:03.78,Main,,0,0,0,,因為是父母把他帶到這世上的。
-Dialogue: 0,0:20:03.78,0:20:07.89,Main,,0,0,0,,你們兩個怎麼敢慫恿\N薩波離家出走？！
-Dialogue: 0,0:20:07.89,0:20:10.35,Main,,0,0,0,,你們這些想當流氓的小鬼！
-Dialogue: 0,0:20:10.35,0:20:12.66,Main,,0,0,0,,你們是不是在打我錢的主意？！
-Dialogue: 0,0:20:12.66,0:20:14.16,Main,,0,0,0,,你說什麼？！
-Dialogue: 0,0:20:16.66,0:20:20.97,Main,,0,0,0,,喂，海賊！打小孩注意點分寸！
-Dialogue: 0,0:20:20.97,0:20:23.77,Main,,0,0,0,,那傢伙的血沾到我了！
-Dialogue: 0,0:20:25.10,0:20:26.20,Main,,0,0,0,,艾斯！
-Dialogue: 0,0:20:26.94,0:20:27.91,Main,,0,0,0,,呃！喂！
-Dialogue: 0,0:20:28.54,0:20:32.01,Main,,0,0,0,,住手！沒有人慫恿我！
-Dialogue: 0,0:20:32.48,0:20:34.31,Main,,0,0,0,,我是自己跑出去的！
-Dialogue: 0,0:20:34.61,0:20:36.71,Main,,0,0,0,,你閉嘴！帶走他。
-Dialogue: 0,0:20:38.72,0:20:41.09,Main,,0,0,0,,剩下的就交給你了，海賊。
-Dialogue: 0,0:20:41.09,0:20:44.99,Main,,0,0,0,,當然，大人。\N您已經付過錢了。
-Dialogue: 0,0:20:45.46,0:20:50.90,Main,,0,0,0,,我們會確保這兩個不再來打擾您兒子。
-Dialogue: 0,0:20:52.13,0:20:57.24,Main,,0,0,0,,等等，乘傑姆！\N爸爸，夠了！我明白了！
-Dialogue: 0,0:20:58.04,0:21:00.17,Main,,0,0,0,,你明白什麼了？
-Dialogue: 0,0:21:01.67,0:21:02.74,Main,,0,0,0,,薩波，別這樣！
-Dialogue: 0,0:21:04.38,0:21:10.11,Main,,0,0,0,,我會聽你的話。\N你想怎樣我就怎樣，所以⋯⋯
-Dialogue: 0,0:21:10.11,0:21:14.82,Main,,0,0,0,,請不要傷害他們兩個！
-Dialogue: 0,0:21:15.12,0:21:16.55,Main,,0,0,0,,求你了。
-Dialogue: 0,0:21:17.12,0:21:19.82,Main,,0,0,0,,他們對我很重要；\N他們是我的兄弟。
-Dialogue: 0,0:21:20.96,0:21:22.16,Main,,0,0,0,,薩波！
-Dialogue: 0,0:21:23.23,0:21:26.96,Main,,0,0,0,,那就馬上回家。
-Dialogue: 0,0:21:26.96,0:21:30.67,Main,,0,0,0,,你應該停止扮海賊了。\N那只是浪費時間。
-Dialogue: 0,0:21:32.64,0:21:34.67,Main,,0,0,0,,喂！別走！
-Dialogue: 0,0:21:34.81,0:21:36.31,Main,,0,0,0,,閉嘴！
-Dialogue: 0,0:21:36.31,0:21:40.44,Main,,0,0,0,,薩波，快跑！不用擔心我們！
-Dialogue: 0,0:21:40.85,0:21:43.31,Main,,0,0,0,,你說過想跟我們一起自由的！
-Dialogue: 0,0:21:43.31,0:21:45.82,Main,,0,0,0,,薩波，別走！
-Dialogue: 0,0:21:46.18,0:21:48.72,Main,,0,0,0,,你想這樣結束嗎？！
-Dialogue: 0,0:21:49.15,0:21:50.32,Main,,0,0,0,,薩波！
-Dialogue: 0,0:21:53.49,0:21:54.86,Main,,0,0,0,,薩波！
-Dialogue: 0,0:21:59.73,0:22:01.97,Main,,0,0,0,,薩波！
-Dialogue: 0,0:22:08.11,0:22:10.68,Main,,0,0,0,,船長！這兩個小鬼怎麼辦？
-Dialogue: 0,0:22:11.78,0:22:14.45,Main,,0,0,0,,– 帶到我們的據點去。\N– 是。
-Dialogue: 0,0:22:15.41,0:22:17.68,Main,,0,0,0,,混蛋！把我鬆綁！
-Dialogue: 0,0:22:17.68,0:22:20.69,Main,,0,0,0,,再跟我打一場！這次我不會輸的！
-Dialogue: 0,0:22:21.04,0:22:26.02,Main,,0,0,0,,當貴族一定很爽吧，\N你們說是不是啊，小鬼？
-Dialogue: 0,0:22:26.49,0:22:29.76,Main,,0,0,0,,他們把別人當垃圾看，\N對所有人頤指氣使。
-Dialogue: 0,0:22:29.76,0:22:32.66,Main,,0,0,0,,真是輕鬆的人生。
-Dialogue: 0,0:22:32.66,0:22:35.23,Main,,0,0,0,,那不是很好嗎？
-Dialogue: 0,0:22:35.70,0:22:37.74,Main,,0,0,0,,你到底想說什麼？！
-Dialogue: 0,0:22:37.74,0:22:41.81,Main,,0,0,0,,當海賊好太多了！\N薩波就是這麼說的！
-Dialogue: 0,0:22:41.81,0:22:46.98,Main,,0,0,0,,真為你們感到可惜。\N喂，鬆綁。
-Dialogue: 0,0:22:46.98,0:22:47.91,Main,,0,0,0,,是。
-Dialogue: 0,0:22:47.91,0:22:51.58,Main,,0,0,0,,你們想想，\N一個貴族家的孩子為什麼⋯⋯
-Dialogue: 0,0:22:51.58,0:22:53.92,Main,,0,0,0,,逃到不確定物的終點站\N那種地方？
-Dialogue: 0,0:22:55.12,0:23:01.09,Main,,0,0,0,,肯定是來嘲笑那裡的人的，\N貴族都這樣。
-Dialogue: 0,0:23:01.09,0:23:04.66,Main,,0,0,0,,我敢打賭他也看不起你們。
-Dialogue: 0,0:23:04.66,0:23:07.87,Main,,0,0,0,,才不是那樣！薩波不是那種人！
-Dialogue: 0,0:23:07.87,0:23:10.37,Main,,0,0,0,,他說的對！我們是兄弟！
-Dialogue: 0,0:23:10.37,0:23:13.40,Main,,0,0,0,,是嗎？好吧，抱歉。
-Dialogue: 0,0:23:14.21,0:23:18.91,Main,,0,0,0,,但你們不會去找那小子的麻煩吧？
-Dialogue: 0,0:23:18.91,0:23:20.71,Main,,0,0,0,,如果你們打算那麼做的話，
-Dialogue: 0,0:23:20.71,0:23:23.75,Main,,0,0,0,,我現在就得殺了你們。
-Dialogue: 0,0:23:23.75,0:23:27.59,Main,,0,0,0,,如果你們把他當兄弟，\N最好別去打擾他。
-Dialogue: 0,0:23:29.09,0:23:31.92,Thoughts,,0,0,0,,為了薩波好？
-Dialogue: 0,0:23:31.92,0:23:34.33,Main,,0,0,0,,可是薩波討厭上城區啊！
-Dialogue: 0,0:23:34.63,0:23:39.43,Main,,0,0,0,,如果你們真的在乎他，\N就該放手。
-Dialogue: 0,0:23:39.43,0:23:42.27,Main,,0,0,0,,等你們長大了就會懂的。
-Dialogue: 0,0:23:42.63,0:23:47.20,Main,,0,0,0,,話說回來，波齊米的事\N我一直記著呢。
-Dialogue: 0,0:23:47.51,0:23:52.08,Main,,0,0,0,,不過算了。\N你們表現出來的骨氣我倒是挺欣賞的。
-Dialogue: 0,0:23:52.08,0:23:56.65,Main,,0,0,0,,所以我想問你們件事。\N我覺得你們會有興趣。
-Dialogue: 0,0:23:56.65,0:24:03.15,Main,,0,0,0,,我現在缺人手。\N你們想幫我做事嗎？
-Dialogue: 0,0:24:03.15,0:24:08.16,Main,,0,0,0,,是很簡單的工作。\N一點都不危險。
-Dialogue: 0,0:24:08.46,0:24:11.16,Main,,0,0,0,,這裡有一張不確定物終點站的地圖。
-Dialogue: 0,0:24:11.16,0:24:15.37,Main,,0,0,0,,你們只需要把箱子搬到\N地圖上標記的地方就行了。
-Dialogue: 0,0:24:15.37,0:24:16.63,Main,,0,0,0,,怎麼樣？幹不幹？
-Dialogue: 0,0:24:16.63,0:24:17.97,Main,,0,0,0,,好吧。
-Dialogue: 0,0:24:19.27,0:24:20.44,Main,,0,0,0,,給多少錢？
-Dialogue: 0,0:24:25.21,0:24:29.28,Main,,0,0,0,,艾斯，沒有薩波\N我覺得好不習慣。
-Dialogue: 0,0:24:29.28,0:24:33.32,Main,,0,0,0,,忍著。我也不喜歡。\N我也想救薩波。
-Dialogue: 0,0:24:34.25,0:24:38.62,Main,,0,0,0,,但我不知道什麼\N才是真正對他好的。
-Dialogue: 0,0:24:39.36,0:24:42.43,Main,,0,0,0,,先看看情況吧。他沒事的。
-Dialogue: 0,0:24:42.43,0:24:45.76,Main,,0,0,0,,如果他真的受不了，\N回來就是了。
-Dialogue: 0,0:24:46.43,0:24:50.30,Main,,0,0,0,,我們先存海賊基金的錢吧，\N以備不時之需。
-Dialogue: 0,0:24:52.07,0:24:54.87,Main,,0,0,0,,我不能說。\N不是艾斯和魯夫的錯。
-Dialogue: 0,0:24:54.87,0:24:58.04,Main,,0,0,0,,你為什麼不說實話？！
-Dialogue: 0,0:24:58.04,0:25:03.45,Main,,0,0,0,,是不是他們威脅你\N不准說的？
-Dialogue: 0,0:25:03.45,0:25:06.02,Main,,0,0,0,,他們才不是那種人！
-Dialogue: 0,0:25:06.02,0:25:11.06,Main,,0,0,0,,你要是有前科，會損害家族聲譽。
-Dialogue: 0,0:25:11.06,0:25:12.96,Main,,0,0,0,,你就進不了上城區了。
-Dialogue: 0,0:25:12.96,0:25:15.73,Main,,0,0,0,,你是被那兩個人引誘的，
-Dialogue: 0,0:25:15.73,0:25:19.20,Main,,0,0,0,,不得不捲入暴力事件的，
-Dialogue: 0,0:25:19.70,0:25:21.10,Main,,0,0,0,,對吧，薩波？
-Dialogue: 0,0:25:23.77,0:25:25.10,Main,,0,0,0,,薩波。
-Dialogue: 0,0:25:25.10,0:25:28.61,Main,,0,0,0,,你在不確定物終點站的那些朋友⋯⋯
-Dialogue: 0,0:25:28.61,0:25:30.41,Main,,0,0,0,,他們的命掌握在那些海賊手裡。
-Dialogue: 0,0:25:30.41,0:25:32.94,Main,,0,0,0,,而我可以向他們下命令。
-Dialogue: 0,0:25:32.94,0:25:35.48,Main,,0,0,0,,如果他們對你這麼重要，
-Dialogue: 0,0:25:35.48,0:25:37.98,Main,,0,0,0,,好好想想你該怎麼做。
-Dialogue: 0,0:25:40.82,0:25:45.22,Main,,0,0,0,,你是聰明的孩子。\N你知道該怎麼做。
-Dialogue: 0,0:25:46.09,0:25:49.66,Main,,0,0,0,,你答應過不會傷害他們的！
-Dialogue: 0,0:25:49.66,0:25:52.30,Main,,0,0,0,,我就是因為這樣才回來的！
-Dialogue: 0,0:25:52.30,0:25:56.80,Main,,0,0,0,,犯罪就是犯罪！\N我們是出於自己的意願做的。
-Dialogue: 0,0:25:59.74,0:26:01.57,Main,,0,0,0,,真的！
-Dialogue: 0,0:26:02.41,0:26:06.14,Main,,0,0,0,,有這麼笨的兒子真讓我傷心！
-Dialogue: 0,0:26:07.11,0:26:09.28,Main,,0,0,0,,你就不能理解\N我的苦衷嗎？
-Dialogue: 0,0:26:09.28,0:26:12.62,Main,,0,0,0,,唉，你一定很辛苦。
-Dialogue: 0,0:26:13.35,0:26:15.82,Main,,0,0,0,,手續我來辦。
-Dialogue: 0,0:26:19.06,0:26:21.46,Main,,0,0,0,,歡迎回來，老爺。
-Dialogue: 0,0:26:21.96,0:26:26.36,Main,,0,0,0,,好了薩波，我們走吧。\N你離開很久了。
-Dialogue: 0,0:26:26.36,0:26:30.10,Main,,0,0,0,,啊，先別進去，你太髒了。
-Dialogue: 0,0:26:30.10,0:26:32.74,Main,,0,0,0,,先在院子裡洗淨消毒。
-Dialogue: 0,0:26:32.74,0:26:34.24,Main,,0,0,0,,然後再去洗澡。
-Dialogue: 0,0:26:34.87,0:26:37.74,Main,,0,0,0,,您平安回來太好了，少爺。
-Dialogue: 0,0:26:38.21,0:26:42.54,Main,,0,0,0,,薩波！你回來了。長大了呢。
-Dialogue: 0,0:26:44.01,0:26:44.92,Main,,0,0,0,,媽媽。
-Dialogue: 0,0:26:44.92,0:26:47.75,Main,,0,0,0,,史乘利，跟你哥哥打個招呼。
-Dialogue: 0,0:26:48.12,0:26:52.82,Main,,0,0,0,,初次見面，哥哥！\N我叫史乘利，今年8歲。
-Dialogue: 0,0:26:53.56,0:26:54.79,Thoughts,,0,0,0,,他是誰？
-Dialogue: 0,0:26:56.29,0:27:00.06,Main,,0,0,0,,我們收養了他。是個\N來自貴族家庭的聰明孩子。
-Dialogue: 0,0:27:00.06,0:27:04.40,Main,,0,0,0,,但不知為什麼，\N他的父母變得疏於照顧。
-Dialogue: 0,0:27:04.77,0:27:07.91,Main,,0,0,0,,因為他很有前途，我們就收留了他。
-Dialogue: 0,0:27:08.44,0:27:12.58,Main,,0,0,0,,萬一你不能成為我的接班人⋯⋯
-Dialogue: 0,0:27:13.81,0:27:16.38,Main,,0,0,0,,不，我說太多了。
-Dialogue: 0,0:27:16.88,0:27:18.28,Main,,0,0,0,,回你房間去。
-Dialogue: 0,0:27:18.28,0:27:20.52,Main,,0,0,0,,{\fad(0,250)}明天你就得開始讀書了。
-Dialogue: 0,0:27:29.83,0:27:32.35,Flashbacks,,0,0,0,,你想這樣結束嗎？！
-Dialogue: 0,0:27:35.53,0:27:39.84,Main,,0,0,0,,嘿，哥哥！我聽說\N你笨得很呢。
-Dialogue: 0,0:27:40.87,0:27:44.41,Main,,0,0,0,,爸爸和媽媽\N總是在背後說你。
-Dialogue: 0,0:27:44.74,0:27:47.18,Main,,0,0,0,,你的運氣可真好啊。
-Dialogue: 0,0:27:47.18,0:27:49.78,Main,,0,0,0,,明天晚上他們就要處理\N那些易燃物了。
-Dialogue: 0,0:27:50.78,0:27:53.62,Main,,0,0,0,,要是你還留在不確定物的終點站，
-Dialogue: 0,0:27:54.79,0:27:57.42,Main,,0,0,0,,你就沒命了。
-Dialogue: 0,0:27:58.52,0:28:01.96,Main,,0,0,0,,嗯，如果是我的話⋯⋯
-Dialogue: 0,0:28:01.96,0:28:04.40,Main,,0,0,0,,他們的親生兒子不回來更好。
-Dialogue: 0,0:28:05.00,0:28:08.90,Main,,0,0,0,,你⋯⋯你⋯⋯你在幹嘛？！\N我要告訴爸爸！
-Dialogue: 0,0:28:08.90,0:28:11.64,Main,,0,0,0,,你在說什麼？！
-Dialogue: 0,0:28:11.64,0:28:13.94,Main,,0,0,0,,發生了什麼事？給我全部說出來！
-Dialogue: 0,0:28:13.94,0:28:19.01,Main,,0,0,0,,明⋯⋯明天不確定物的終點站\N會有一場大火。
-Dialogue: 0,0:28:19.41,0:28:21.48,Main,,0,0,0,,– 大火？！\N– 對。
-Dialogue: 0,0:28:21.48,0:28:24.75,Main,,0,0,0,,你不在所以不知道。
-Dialogue: 0,0:28:24.75,0:28:27.38,Main,,0,0,0,,但他們幾個月前就決定了。
-Dialogue: 0,0:28:27.99,0:28:29.85,Main,,0,0,0,,你知道世界政府⋯⋯
-Dialogue: 0,0:28:29.85,0:28:32.42,Main,,0,0,0,,派了一批視察團\N在東海各地巡視嗎？
-Dialogue: 0,0:28:33.19,0:28:36.66,Main,,0,0,0,,他們三天後就要到達哥雅了！
-Dialogue: 0,0:28:37.26,0:28:40.23,Main,,0,0,0,,這次有世界貴族、也就是天龍人，
-Dialogue: 0,0:28:40.23,0:28:43.37,Main,,0,0,0,,也跟著一起來！\N所以大家都慌了！
-Dialogue: 0,0:28:43.37,0:28:48.34,Main,,0,0,0,,皇族無論如何都不想讓他看到\N我國的恥辱，
-Dialogue: 0,0:28:48.34,0:28:52.18,Main,,0,0,0,,所以他們決定燒掉不確定物的終點站。
-Dialogue: 0,0:28:52.61,0:28:55.75,Main,,0,0,0,,這樣國家就乾淨了！
-Dialogue: 0,0:28:55.75,0:29:00.88,Main,,0,0,0,,你在說什麼？\N他們不能那麼做！
-Dialogue: 0,0:29:00.88,0:29:04.46,Main,,0,0,0,,那裡住著很多人！
-Dialogue: 0,0:29:04.46,0:29:06.99,Main,,0,0,0,,他們不能奪走別人的家園！
-Dialogue: 0,0:29:06.99,0:29:07.73,Main,,0,0,0,,放開我！
-Dialogue: 0,0:29:08.46,0:29:11.23,Main,,0,0,0,,你沒在聽嗎？
-Dialogue: 0,0:29:13.10,0:29:17.10,Main,,0,0,0,,他們要燒掉給這個國家抹黑的污點。
-Dialogue: 0,0:29:17.74,0:29:19.94,Main,,0,0,0,,你是說，連人一起？
-Dialogue: 0,0:29:26.71,0:29:27.71,Main,,0,0,0,,喂⋯⋯喂！
-Dialogue: 0,0:29:29.91,0:29:31.35,Main,,0,0,0,,你要去哪？
-Dialogue: 0,0:29:35.85,0:29:37.52,Main,,0,0,0,,你不能就這麼跳下去⋯⋯
-Dialogue: 0,0:29:41.83,0:29:44.09,Main,,0,0,0,,這⋯⋯這跟我無關。
-Dialogue: 0,0:29:44.50,0:29:46.93,Thoughts,,0,0,0,,是騙人的！他一定在騙我！
-Dialogue: 0,0:29:46.93,0:29:51.00,Thoughts,,0,0,0,,不可能燒掉\N那麼大的一片地方！
-Dialogue: 0,0:29:55.47,0:29:57.54,Thoughts,,0,0,0,,今天下午他們還在那裡。
-Dialogue: 0,0:29:59.01,0:30:02.85,Main,,0,0,0,,明天的準備做好了嗎？\N不能有任何失誤。
-Dialogue: 0,0:30:02.85,0:30:06.68,Main,,0,0,0,,準備好了，問題在那些海賊身上。
-Dialogue: 0,0:30:06.68,0:30:09.32,Main,,0,0,0,,他們必須按照計畫放火。
-Dialogue: 0,0:30:10.22,0:30:13.76,Main,,0,0,0,,乘傑姆的手下一直在\N不確定物終點站各處⋯⋯
-Dialogue: 0,0:30:13.76,0:30:17.80,Main,,0,0,0,,擺放裝著油和炸藥的箱子，\N直到明天約定的時間。
-Dialogue: 0,0:30:18.76,0:30:22.43,Thoughts,,0,0,0,,乘傑姆也有參與？\N那就是真的了！
-Dialogue: 0,0:30:22.43,0:30:24.33,Thoughts,,0,0,0,,但這太荒謬了！
-Dialogue: 0,0:30:35.15,0:30:37.51,Main,,0,0,0,,不知道薩波過得怎麼樣。
-Dialogue: 0,0:30:37.88,0:30:40.02,Main,,0,0,0,,閉嘴，快睡吧。
-Dialogue: 0,0:30:41.02,0:30:44.12,Main,,0,0,0,,我們說好了暫時放下薩波的事。
-Dialogue: 0,0:30:44.69,0:30:45.42,Main,,0,0,0,,好吧。
-Dialogue: 0,0:30:46.49,0:30:49.46,Main,,0,0,0,,這樣對他可能比較好。
-Dialogue: 0,0:30:54.60,0:30:56.63,Thoughts,,0,0,0,,從鎮上的人的反應就能\N知道到底會不會有火災⋯⋯
-Dialogue: 0,0:30:56.63,0:30:59.37,Thoughts,,0,0,0,,就看大家怎麼行動了。
-Dialogue: 0,0:31:03.37,0:31:06.48,Main,,0,0,0,,– 嗨，早安！\N– 早安！
-Dialogue: 0,0:31:06.48,0:31:09.91,Main,,0,0,0,,– 今天天氣真好。\N– 是啊。
-Dialogue: 0,0:31:09.91,0:31:13.75,Main,,0,0,0,,太好了！沒什麼異狀！
-Dialogue: 0,0:31:14.15,0:31:15.99,Main,,0,0,0,,我去鎮上各處看看。
-Dialogue: 0,0:31:18.52,0:31:20.69,Main,,0,0,0,,今天風好大。
-Dialogue: 0,0:31:20.69,0:31:24.03,Main,,0,0,0,,是的，陛下。
-Dialogue: 0,0:31:24.03,0:31:29.33,Main,,0,0,0,,這種天氣很容易發生\N意外，尤其是火災。
-Dialogue: 0,0:31:29.33,0:31:33.04,Main,,0,0,0,,您說的是，陛下。
-Dialogue: 0,0:31:33.34,0:31:36.17,Main,,0,0,0,,薩波不在？！
-Dialogue: 0,0:31:36.17,0:31:38.28,Main,,0,0,0,,那個被寵壞的小鬼！
-Dialogue: 0,0:31:38.28,0:31:42.58,Main,,0,0,0,,他不唸書，\N還想繼續玩海賊遊戲嗎？！
-Dialogue: 0,0:31:43.11,0:31:44.98,Main,,0,0,0,,搜索整個上城區！
-Dialogue: 0,0:31:45.32,0:31:47.99,Main,,0,0,0,,他不可能那麼容易\N離開上城區！
-Dialogue: 0,0:31:49.25,0:31:52.12,Main,,0,0,0,,– 那個，打擾一下。\N– 什麼事？
-Dialogue: 0,0:31:52.46,0:31:56.36,Main,,0,0,0,,你知道今晚不確定物的終點站\N會有一場火災嗎？
-Dialogue: 0,0:31:56.36,0:32:00.30,Main,,0,0,0,,當然知道了。怎麼了？
-Dialogue: 0,0:32:01.00,0:32:02.07,Thoughts,,0,0,0,,他知道？
-Dialogue: 0,0:32:02.07,0:32:04.67,Main,,0,0,0,,你是哪家的孩子？
-Dialogue: 0,0:32:05.07,0:32:07.54,Thoughts,,0,0,0,,果然是真的！
-Dialogue: 0,0:32:09.11,0:32:10.24,Main,,0,0,0,,喂，小孩！
-Dialogue: 0,0:32:10.41,0:32:13.31,Thoughts,,0,0,0,,這是怎麼回事？\N每個人都知道？
-Dialogue: 0,0:32:13.64,0:32:16.51,Thoughts,,0,0,0,,大家都知道，\N卻表現得一切正常？！
-Dialogue: 0,0:32:16.51,0:32:20.54,Thoughts,,0,0,0,,難道沒有人在乎\N不確定物終點站的火災嗎？！
-Dialogue: 0,0:32:24.42,0:32:27.29,Main,,0,0,0,,喔，你們來了，小傢伙們。
-Dialogue: 0,0:32:27.29,0:32:29.56,Main,,0,0,0,,今天還有箱子要搬嗎？
-Dialogue: 0,0:32:29.56,0:32:32.86,Main,,0,0,0,,有，今晚我還有個大活要給你們。
-Dialogue: 0,0:32:32.86,0:32:34.60,Main,,0,0,0,,待會兒再跟你們說。
-Dialogue: 0,0:32:34.60,0:32:36.77,Main,,0,0,0,,是，我知道。
-Dialogue: 0,0:32:36.77,0:32:41.91,Main,,0,0,0,,為什麼這個鎮上的人，\N包括你，看起來都不擔心？
-Dialogue: 0,0:32:41.91,0:32:44.04,Main,,0,0,0,,為什麼沒人試著阻止？
-Dialogue: 0,0:32:46.38,0:32:50.61,Main,,0,0,0,,你聽起來倒是個善良的孩子。
-Dialogue: 0,0:32:50.61,0:32:53.28,Main,,0,0,0,,不過，聽清楚了。
-Dialogue: 0,0:32:53.28,0:32:56.62,Main,,0,0,0,,我們所有人都必須\N對這個計畫守口如瓶！
-Dialogue: 0,0:32:56.62,0:33:01.46,Main,,0,0,0,,萬一上城區外面的人知道了怎麼辦？
-Dialogue: 0,0:33:01.93,0:33:05.93,Main,,0,0,0,,我們是特別的！如果你是貴族⋯⋯
-Dialogue: 0,0:33:07.50,0:33:08.53,Main,,0,0,0,,喂，你！
-Dialogue: 0,0:33:09.93,0:33:12.00,Thoughts,,0,0,0,,艾斯！魯夫！
-Dialogue: 0,0:33:12.00,0:33:15.34,Thoughts,,0,0,0,,這個鎮有問題！\N所有人都瘋了！
-Dialogue: 0,0:33:15.74,0:33:17.67,Thoughts,,0,0,0,,他們知道會有人死，
-Dialogue: 0,0:33:17.67,0:33:20.51,Thoughts,,0,0,0,,卻表現得若無其事，甚至面帶微笑！
-Dialogue: 0,0:33:21.21,0:33:25.55,Thoughts,,0,0,0,,我不想待在這裡！\N我得馬上告訴他們！
-Dialogue: 0,0:33:27.55,0:33:31.05,Thoughts,,0,0,0,,為什麼偏偏今天有風？！
-Dialogue: 0,0:33:31.05,0:33:33.22,Main,,0,0,0,,在那裡！那個不就是他嗎？！
-Dialogue: 0,0:33:33.66,0:33:36.09,Main,,0,0,0,,沒錯！就是那個逃跑的孩子！
-Dialogue: 0,0:33:36.73,0:33:38.83,Main,,0,0,0,,喂你，站住！
-Dialogue: 0,0:33:38.83,0:33:41.93,Thoughts,,0,0,0,,今晚，這個國家的人\N計畫要放火⋯⋯
-Dialogue: 0,0:33:41.93,0:33:44.10,Thoughts,,0,0,0,,燒掉他們的國恥！
-Dialogue: 0,0:33:44.84,0:33:48.41,Thoughts,,0,0,0,,你們必須離開不確定物的終點站！\N艾斯！魯夫！
-Dialogue: 0,0:33:48.87,0:33:52.44,Main,,0,0,0,,快跑！艾斯！魯夫！
-Dialogue: 0,0:33:54.31,0:33:55.71,Main,,0,0,0,,你為什麼要那麼做？！
-Dialogue: 0,0:33:55.71,0:34:01.45,Main,,0,0,0,,笨蛋！小聲點！\N不能讓別人知道這件事！
-Dialogue: 0,0:34:01.45,0:34:04.19,Main,,0,0,0,,事情很嚴重！\N我得告訴所有人！
-Dialogue: 0,0:34:04.19,0:34:06.16,Main,,0,0,0,,果然是個壞孩子！
-Dialogue: 0,0:34:06.16,0:34:09.89,Main,,0,0,0,,我叫你別叫了。\N喂，按住他們。
-Dialogue: 0,0:34:11.30,0:34:13.66,Main,,0,0,0,,我不是主謀。
-Dialogue: 0,0:34:16.00,0:34:18.60,Main,,0,0,0,,你們昨天和今天搬的那些箱子裡⋯⋯
-Dialogue: 0,0:34:18.94,0:34:21.17,Main,,0,0,0,,裝的就是油和炸藥。
-Dialogue: 0,0:34:21.17,0:34:26.34,Main,,0,0,0,,即將發生的大火，\N沒有人能逃得掉。
-Dialogue: 0,0:34:26.34,0:34:28.71,Main,,0,0,0,,– 你怎麼能這樣？\N– 你瘋了嗎？
-Dialogue: 0,0:34:30.15,0:34:33.52,Main,,0,0,0,,連你們這些小鬼\N都嚇成這樣了？
-Dialogue: 0,0:34:34.08,0:34:37.59,Main,,0,0,0,,但你們現在知道了計畫。
-Dialogue: 0,0:34:37.99,0:34:41.86,Main,,0,0,0,,不能放你們走了。
-Dialogue: 0,0:34:41.86,0:34:45.80,Main,,0,0,0,,大火之前我想問你們件事。
-Dialogue: 0,0:34:46.63,0:34:52.20,Main,,0,0,0,,你們兩個，是不是\N藏了什麼寶藏？
-Dialogue: 0,0:35:16.49,0:35:20.16,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}邊緣鎮
-Dialogue: 1,0:35:16.49,0:35:20.16,Captions,,0,0,100,,{\an8\pos(640,100)\bord0\blur0.6\fad(500,0)\4a&HFF&}邊緣鎮
-Dialogue: 0,0:35:21.26,0:35:22.53,Main,,0,0,0,,閉嘴！
-Dialogue: 0,0:35:23.53,0:35:25.70,Main,,0,0,0,,喂⋯⋯喂！看那邊！
-Dialogue: 0,0:35:30.07,0:35:32.81,Main,,0,0,0,,不確定物的終點站好像有什麼事。
-Dialogue: 0,0:35:32.81,0:35:34.38,Main,,0,0,0,,是著火了嗎？
-Dialogue: 0,0:35:39.55,0:35:42.12,Main,,0,0,0,,這是我玩過最棒的遊戲了！
-Dialogue: 0,0:35:42.12,0:35:45.92,Main,,0,0,0,,老⋯⋯老⋯⋯老大！老大！你快看！
-Dialogue: 0,0:35:46.22,0:35:47.82,Main,,0,0,0,,你在嚷什麼？
-Dialogue: 0,0:35:47.82,0:35:50.59,Main,,0,0,0,,– 北邊的天空，快看！\N– 是城鎮嗎？！
-Dialogue: 0,0:35:50.93,0:35:55.74,Main,,0,0,0,,不，比那更近！\N一定是不確定物的終點站！\N著火了！
-Dialogue: 0,0:35:57.13,0:35:59.90,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(600,0)\bord1.5\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)}中城區
-Dialogue: 1,0:35:57.13,0:35:59.90,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(600,0)\bord0\4a&HFF&}中城區
-Dialogue: 0,0:35:57.53,0:35:59.90,Main,,0,0,0,,怎麼回事？像是野火一樣！
-Dialogue: 0,0:35:59.90,0:36:03.47,Main,,0,0,0,,不確定物的終點站\N從沒著過火啊！
-Dialogue: 0,0:36:05.01,0:36:07.74,Main,,0,0,0,,太危險了，疏散邊緣鎮！
-Dialogue: 0,0:36:07.74,0:36:10.38,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(500,0)\bord1.5\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}邊緣鎮 - 大門
-Dialogue: 1,0:36:07.74,0:36:10.38,Captions,,0,0,100,,{\an8\pos(640,100)\blur0.6\fad(500,0)\bord0\4a&HFF&}邊緣鎮 - 大門
-Dialogue: 0,0:36:07.74,0:36:10.38,Main,,0,0,0,,所有居民往中城區撤退！
-Dialogue: 0,0:36:10.81,0:36:15.12,Main,,0,0,0,,救人和滅火\N交給我們軍隊處理！
-Dialogue: 0,0:36:18.69,0:36:21.83,Main,,0,0,0,,– 大家快起來！\N– 我們得離開這裡！
-Dialogue: 0,0:36:24.39,0:36:28.60,Main,,0,0,0,,– 火勢到處蔓延！\N– 我們不能留在這裡！
-Dialogue: 0,0:36:28.60,0:36:31.87,Main,,0,0,0,,沒辦法了，放棄吧！\N你得離開家了！
-Dialogue: 0,0:36:34.94,0:36:37.81,Main,,0,0,0,,糟了！火已經燒到海岸了！
-Dialogue: 0,0:36:37.81,0:36:40.54,Main,,0,0,0,,通往森林的路也著火了！
-Dialogue: 0,0:36:40.54,0:36:43.48,Main,,0,0,0,,可惡！我們該往哪裡去？！\N被困住了！
-Dialogue: 0,0:36:47.22,0:36:50.92,Main,,0,0,0,,全部燒了，弟兄們！
-Dialogue: 0,0:36:52.99,0:36:55.29,Main,,0,0,0,,完成這個任務之後，
-Dialogue: 0,0:36:55.29,0:36:58.50,Main,,0,0,0,,我長年的夢想就能實現了！
-Dialogue: 0,0:36:59.90,0:37:01.03,Flashbacks,,0,0,0,,你說的對。
-Dialogue: 0,0:37:01.03,0:37:04.94,Flashbacks,,0,0,0,,我們才不管\N這裡住的其他人。
-Dialogue: 0,0:37:04.94,0:37:07.30,Flashbacks,,0,0,0,,但不管這地方再怎麼爛，
-Dialogue: 0,0:37:07.30,0:37:11.11,Flashbacks,,0,0,0,,當我們的巢穴還是夠用的，陛下。
-Dialogue: 0,0:37:11.11,0:37:14.24,Flashbacks,,0,0,0,,我知道，乘傑姆。
-Dialogue: 0,0:37:14.24,0:37:18.52,Flashbacks,,0,0,0,,但事成之後，\N你們就不需要再躲藏了。
-Dialogue: 0,0:37:18.52,0:37:22.99,Flashbacks,,0,0,0,,我會用我的權力讓你們全部成為貴族。
-Dialogue: 0,0:37:24.82,0:37:27.06,Flashbacks,,0,0,0,,您說真的？！
-Dialogue: 0,0:37:27.89,0:37:31.39,Main,,0,0,0,,國王會冊封我們，
-Dialogue: 0,0:37:31.39,0:37:35.40,Main,,0,0,0,,我們將以貴族的身份\N住進上城區享受特權！
-Dialogue: 0,0:37:42.34,0:37:45.98,Main,,0,0,0,,我們也動起來吧。
-Dialogue: 0,0:37:46.31,0:37:49.55,Main,,0,0,0,,往大門走！軍隊在等著。
-Dialogue: 0,0:37:49.55,0:37:52.25,Main,,0,0,0,,船長，那兩個小鬼\N還留在據點裡。
-Dialogue: 0,0:37:52.25,0:37:57.12,Main,,0,0,0,,不管他們了。要是肯告訴我\N寶藏在哪裡，原本可以加入我船團的。
-Dialogue: 0,0:37:59.59,0:38:02.56,Main,,0,0,0,,蠢蛋活不長。
-Dialogue: 0,0:38:05.36,0:38:08.10,Main,,0,0,0,,船長，門關著！
-Dialogue: 0,0:38:08.10,0:38:12.74,Main,,0,0,0,,別慌。他們只是不想\N讓其他人逃出去。
-Dialogue: 0,0:38:12.74,0:38:16.14,Main,,0,0,0,,計畫是我發出暗號，\N他們就會開門。
-Dialogue: 0,0:38:17.11,0:38:19.61,Main,,0,0,0,,是我，乘傑姆。開門。
-Dialogue: 0,0:38:23.21,0:38:25.15,Main,,0,0,0,,喂！你們聽到了嗎？！
-Dialogue: 0,0:38:28.59,0:38:29.69,Main,,0,0,0,,這⋯⋯
-Dialogue: 0,0:38:30.89,0:38:33.26,Main,,0,0,0,,船長，難道⋯⋯
-Dialogue: 0,0:38:34.62,0:38:40.06,Main,,0,0,0,,喂，你們幹什麼？！\N快開門！
-Dialogue: 0,0:38:40.06,0:38:44.07,Main,,0,0,0,,計畫不是說好讓我們\N從這裡撤離的嗎？！
-Dialogue: 0,0:38:44.07,0:38:47.70,Main,,0,0,0,,說好的不是這樣啊！你們這些混蛋！
-Dialogue: 0,0:38:47.70,0:38:50.27,Main,,0,0,0,,你的承諾呢，陛下？！
-Dialogue: 0,0:38:50.27,0:38:53.58,Main,,0,0,0,,你說過要讓我們成為貴族⋯⋯
-Dialogue: 0,0:38:54.88,0:38:58.08,Main,,0,0,0,,你算計我們？混蛋！
-Dialogue: 0,0:38:58.08,0:39:00.62,Main,,0,0,0,,該死！
-Dialogue: 0,0:39:01.32,0:39:02.42,Main,,0,0,0,,你們聽說了嗎？
-Dialogue: 0,0:39:02.42,0:39:07.29,Main,,0,0,0,,不確定物終點站那個叫乘傑姆的\N海賊放的火。
-Dialogue: 0,0:39:07.29,0:39:11.03,Main,,0,0,0,,我就知道！\N除了他沒人會幹這種事。
-Dialogue: 0,0:39:11.03,0:39:15.77,Main,,0,0,0,,他想趕走世界政府\N的視察團才這麼做的。
-Dialogue: 0,0:39:15.77,0:39:17.63,Main,,0,0,0,,太可怕了！
-Dialogue: 0,0:39:21.54,0:39:24.74,Main,,0,0,0,,好熱！好燙！
-Dialogue: 0,0:39:24.74,0:39:25.98,Main,,0,0,0,,是的！
-Dialogue: 0,0:39:25.98,0:39:28.45,Main,,0,0,0,,該死！被捲進了可怕的事！
-Dialogue: 0,0:39:30.01,0:39:32.68,Main,,0,0,0,,逃不出去了！我不想死！
-Dialogue: 0,0:39:32.68,0:39:34.68,Main,,0,0,0,,你再哭哭啼啼的\N我就丟下你了！
-Dialogue: 0,0:39:35.39,0:39:36.62,Main,,0,0,0,,不熱。
-Dialogue: 0,0:39:38.22,0:39:40.49,Main,,0,0,0,,哇好燙！不，不熱。
-Dialogue: 0,0:39:40.49,0:39:41.76,Main,,0,0,0,,外面到處都是火！
-Dialogue: 0,0:39:42.63,0:39:44.09,Main,,0,0,0,,我喘不過氣了。
-Dialogue: 0,0:39:44.09,0:39:45.73,Main,,0,0,0,,不，我可以！
-Dialogue: 0,0:39:45.73,0:39:47.63,Main,,0,0,0,,空氣好燙！
-Dialogue: 0,0:39:47.63,0:39:49.10,Main,,0,0,0,,不，不燙。
-Dialogue: 0,0:39:49.10,0:39:53.30,Main,,0,0,0,,會沒事的！有我在呢！
-Dialogue: 0,0:39:53.30,0:39:56.34,Main,,0,0,0,,你在幹嘛？！快撤離啊！
-Dialogue: 0,0:39:56.81,0:39:58.38,Main,,0,0,0,,把門打開！
-Dialogue: 0,0:39:58.38,0:39:59.91,Main,,0,0,0,,你在說什麼？！
-Dialogue: 0,0:40:00.84,0:40:02.08,Main,,0,0,0,,這臭小鬼！
-Dialogue: 0,0:40:02.08,0:40:03.28,Main,,0,0,0,,把他帶走！
-Dialogue: 0,0:40:05.15,0:40:07.12,Main,,0,0,0,,艾斯！魯夫！
-Dialogue: 0,0:40:07.12,0:40:08.15,Main,,0,0,0,,快跑！
-Dialogue: 0,0:40:12.79,0:40:15.59,Main,,0,0,0,,退後！離鎖遠一點！
-Dialogue: 0,0:40:15.99,0:40:17.66,Main,,0,0,0,,不要！
-Dialogue: 0,0:40:19.00,0:40:20.13,Main,,0,0,0,,艾斯！
-Dialogue: 0,0:40:20.43,0:40:22.13,Main,,0,0,0,,魯夫！
-Dialogue: 0,0:40:30.34,0:40:33.51,Main,,0,0,0,,– 乖乖的快去避難！\N– 別給我們添麻煩！
-Dialogue: 0,0:40:37.41,0:40:40.25,Main,,0,0,0,,艾⋯⋯艾斯。魯夫。
-Dialogue: 0,0:41:02.67,0:41:04.64,Main,,0,0,0,,你怎麼了，孩子？
-Dialogue: 0,0:41:10.75,0:41:12.32,Main,,0,0,0,,老⋯⋯老爹⋯⋯
-Dialogue: 0,0:41:15.39,0:41:20.59,Main,,0,0,0,,皇族和貴族⋯⋯\N是他們在放火背後操控⋯⋯
-Dialogue: 0,0:41:23.49,0:41:25.23,Main,,0,0,0,,你一定要相信我！
-Dialogue: 0,0:41:26.76,0:41:32.07,Main,,0,0,0,,這個鎮比不確定物的終點站\N還要臭。
-Dialogue: 0,0:41:32.64,0:41:36.44,Main,,0,0,0,,是腐爛的人的臭味！
-Dialogue: 0,0:41:38.64,0:41:43.58,Main,,0,0,0,,如果我留在這裡，\N我永遠不會自由！
-Dialogue: 0,0:41:45.65,0:41:46.95,Main,,0,0,0,,我⋯⋯
-Dialogue: 0,0:41:46.95,0:41:49.89,Main,,0,0,0,,為自己身為貴族而感到羞恥！
-Dialogue: 0,0:41:50.45,0:41:55.69,Thoughts,,0,0,0,,哥雅，你逼得這個孩子\N說出這種話了！
-Dialogue: 0,0:41:57.39,0:42:01.90,Main,,0,0,0,,我能理解你的感受。\N我也是在這裡出生的。
-Dialogue: 0,0:42:02.87,0:42:08.54,Main,,0,0,0,,但我現在還沒有\N足夠的力量去改變它。
-Dialogue: 0,0:42:08.54,0:42:12.34,Main,,0,0,0,,老爹，你真的\N在聽我說話嗎？
-Dialogue: 0,0:42:12.81,0:42:15.15,Main,,0,0,0,,是的，我永遠不會忘記。
+Dialogue: 0,0:19:54.21,0:19:55.44,Main,,0,0,0,,Give him back!
+Dialogue: 0,0:19:55.44,0:19:59.51,Main,,0,0,0,,What do you mean "give him back"? \NSabo is my son.
+Dialogue: 0,0:19:59.51,0:20:01.98,Main,,0,0,0,,{Kids have to}Children must live as their parents say...
+Dialogue: 0,0:20:01.98,0:20:03.78,Main,,0,0,0,,because their parents brought them into the world.
+Dialogue: 0,0:20:03.78,0:20:07.89,Main,,0,0,0,,How dare you two tempt Sabo to run away!?
+Dialogue: 0,0:20:07.89,0:20:10.35,Main,,0,0,0,,You thug-wannabe brats!
+Dialogue: 0,0:20:10.35,0:20:12.66,Main,,0,0,0,,Are you after my money?!
+Dialogue: 0,0:20:12.66,0:20:14.16,Main,,0,0,0,,What'{ di}d you say?!
+Dialogue: 0,0:20:16.66,0:20:20.97,Main,,0,0,0,,Hey, pirate! {Be careful about}Watch how you hit{ting a kid!} these kids!
+Dialogue: 0,0:20:20.97,0:20:23.77,Main,,0,0,0,,I've got that {trashy kid's}vermin's blood {all over}on me!
+Dialogue: 0,0:20:25.10,0:20:26.20,Main,,0,0,0,,Ace!
+Dialogue: 0,0:20:26.94,0:20:27.91,Main,,0,0,0,,Ack! Hey!
+Dialogue: 0,0:20:28.54,0:20:32.01,Main,,0,0,0,,Stop it! Nobody tempted me!
+Dialogue: 0,0:20:32.48,0:20:34.31,Main,,0,0,0,,I ran away of my own free will!
+Dialogue: 0,0:20:34.61,0:20:36.71,Main,,0,0,0,,You stay out of this! {Hey.}Take him.
+Dialogue: 0,0:20:38.72,0:20:41.09,Main,,0,0,0,,I'll leave the rest up to you, pirates.
+Dialogue: 0,0:20:41.09,0:20:44.99,Main,,0,0,0,,Of course, my lord {mister}. \NYou've already paid us{ for this}.
+Dialogue: 0,0:20:45.46,0:20:50.90,Main,,0,0,0,,We'{ will take care of}ll make sure these two {so\Nthey }won't bother your boy again.
+Dialogue: 0,0:20:52.13,0:20:57.24,Main,,0,0,0,,Wait a minute, Bluejam!\NDad, that's enough! I understand!
+Dialogue: 0,0:20:58.04,0:21:00.17,Main,,0,0,0,,What do you understand?
+Dialogue: 0,0:21:01.67,0:21:02.74,Main,,0,0,0,,Don't do it, Sabo!
+Dialogue: 0,0:21:04.38,0:21:10.11,Main,,0,0,0,,I'll do as you say. \NI'll live as you want, so...
+Dialogue: 0,0:21:10.11,0:21:14.82,Main,,0,0,0,,please don't hurt these two!
+Dialogue: 0,0:21:15.12,0:21:16.55,Main,,0,0,0,,I'm begging you.
+Dialogue: 0,0:21:17.12,0:21:19.82,Main,,0,0,0,,They're very important to me; \N they're my brothers.
+Dialogue: 0,0:21:20.96,0:21:22.16,Main,,0,0,0,,Sabo!
+Dialogue: 0,0:21:23.23,0:21:26.96,Main,,0,0,0,,Then go straight home{ right now}.
+Dialogue: 0,0:21:26.96,0:21:30.67,Main,,0,0,0,,You should stop playing pirate.\NIt's just a waste of time.
+Dialogue: 0,0:21:32.64,0:21:34.67,Main,,0,0,0,,Hey! Don't go!
+Dialogue: 0,0:21:34.81,0:21:36.31,Main,,0,0,0,,Be quiet!
+Dialogue: 0,0:21:36.31,0:21:40.44,Main,,0,0,0,,Sabo, run! You don't have to worry about us!
+Dialogue: 0,0:21:40.85,0:21:43.31,Main,,0,0,0,,You said you wanna {live freely}be free with us!
+Dialogue: 0,0:21:43.31,0:21:45.82,Main,,0,0,0,,Sabo, don't go!
+Dialogue: 0,0:21:46.18,0:21:48.72,Main,,0,0,0,,{Are you gonna put an end to your dream?!}Is this how you want it to end?!
+Dialogue: 0,0:21:49.15,0:21:50.32,Main,,0,0,0,,Sabo!
+Dialogue: 0,0:21:53.49,0:21:54.86,Main,,0,0,0,,Sabo!
+Dialogue: 0,0:21:59.73,0:22:01.97,Main,,0,0,0,,Sabo!
+Dialogue: 0,0:22:08.11,0:22:10.68,Main,,0,0,0,,Captain! What should we do with these kids?
+Dialogue: 0,0:22:11.78,0:22:14.45,Main,,0,0,0,,– Take them to our hideout.\N– Yes, sir.
+Dialogue: 0,0:22:15.41,0:22:17.68,Main,,0,0,0,,You bastard! Untie me!
+Dialogue: 0,0:22:17.68,0:22:20.69,Main,,0,0,0,,Fight me again! I'm not gonna lose this time!
+Dialogue: 0,0:22:21.04,0:22:26.02,Main,,0,0,0,,It must be nice to be a noble,\Ndon't you think so, brats?
+Dialogue: 0,0:22:26.49,0:22:29.76,Main,,0,0,0,,They look down on others as if they're\Ntrash and boss everyone around.
+Dialogue: 0,0:22:29.76,0:22:32.66,Main,,0,0,0,,It's such an easy life.
+Dialogue: 0,0:22:32.66,0:22:35.23,Main,,0,0,0,,{Don't you think it's}Wouldn't that be {nice}grand?
+Dialogue: 0,0:22:35.70,0:22:37.74,Main,,0,0,0,,What are you getting at?!
+Dialogue: 0,0:22:37.74,0:22:41.81,Main,,0,0,0,,Being a pirate is way better!\NThat's what Sabo said!
+Dialogue: 0,0:22:41.81,0:22:46.98,Main,,0,0,0,,{I'm feeling}I feel bad for you guys. \NHey, untie them.
+Dialogue: 0,0:22:46.98,0:22:47.91,Main,,0,0,0,,Yes, sir.
+Dialogue: 0,0:22:47.91,0:22:51.58,Main,,0,0,0,,Why do you think a kid from a noble family...
+Dialogue: 0,0:22:51.58,0:22:53.92,Main,,0,0,0,,escaped to a place like the Gray Terminal?
+Dialogue: 0,0:22:55.12,0:23:01.09,Main,,0,0,0,,No doubt {H}he did it {as a mockery of}to mock the people here, just like all noble{ adults do}s.
+Dialogue: 0,0:23:01.09,0:23:04.66,Main,,0,0,0,,I bet he {was looking}looked down on you guys, too.
+Dialogue: 0,0:23:04.66,0:23:07.87,Main,,0,0,0,,That's not true! Sabo{ wouldn't do that!}'s not like that!
+Dialogue: 0,0:23:07.87,0:23:10.37,Main,,0,0,0,,He's right! We're brothers!
+Dialogue: 0,0:23:10.37,0:23:13.40,Main,,0,0,0,,Yeah? Alright, I'm sorry.
+Dialogue: 0,0:23:14.21,0:23:18.91,Main,,0,0,0,,But you're not gonna bother that brat, are you?
+Dialogue: 0,0:23:18.91,0:23:20.71,Main,,0,0,0,,If you're planning on doing that,
+Dialogue: 0,0:23:20.71,0:23:23.75,Main,,0,0,0,,I'd have to kill you both{ of you} right here.
+Dialogue: 0,0:23:23.75,0:23:27.59,Main,,0,0,0,,If you think of him as your brother,\Nit's best to leave him alone.
+Dialogue: 0,0:23:29.09,0:23:31.92,Thoughts,,0,0,0,,For Sabo's good?
+Dialogue: 0,0:23:31.92,0:23:34.33,Main,,0,0,0,,But Sabo hates High Town!
+Dialogue: 0,0:23:34.63,0:23:39.43,Main,,0,0,0,,You have to let him go{ of him}, if you really care about him.
+Dialogue: 0,0:23:39.43,0:23:42.27,Main,,0,0,0,,You'll understand when you get older. {And...}
+Dialogue: 0,0:23:42.63,0:23:47.20,Main,,0,0,0,,By the way, I had an axe to grind with you about {what you did to }Porchemy.
+Dialogue: 0,0:23:47.51,0:23:52.08,Main,,0,0,0,,But we can forget about it. \NI rather liked your show of strength.
+Dialogue: 0,0:23:52.08,0:23:56.65,Main,,0,0,0,,That's why I wanted to ask you something.\NI think you might be interested.
+Dialogue: 0,0:23:56.65,0:24:03.15,Main,,0,0,0,,I'm short-handed now.\NDo you guys wanna work for me?
+Dialogue: 0,0:24:03.15,0:24:08.16,Main,,0,0,0,,Well, it's an easy task.\NIt's not dangerous at all.
+Dialogue: 0,0:24:08.46,0:24:11.16,Main,,0,0,0,,There is a map of the Gray Terminal.
+Dialogue: 0,0:24:11.16,0:24:15.37,Main,,0,0,0,,{And you just have to carry packages\Nto the locations marked on the map.}All you have to do is carry packages to the places marked on the map.
+Dialogue: 0,0:24:15.37,0:24:16.63,Main,,0,0,0,,{Do you wanna do it?}What'dya say? Are ya in?
+Dialogue: 0,0:24:16.63,0:24:17.97,Main,,0,0,0,,Alright.
+Dialogue: 0,0:24:19.27,0:24:20.44,Main,,0,0,0,,How much will you pay?
+Dialogue: 0,0:24:25.21,0:24:29.28,Main,,0,0,0,,Ace, I don't like it when Sabo is not around.
+Dialogue: 0,0:24:29.28,0:24:33.32,Main,,0,0,0,,Live with it. I don't like it, either. \NI wanna rescue Sabo.
+Dialogue: 0,0:24:34.25,0:24:38.62,Main,,0,0,0,,But I don't know what{ is}'s really best for him.
+Dialogue: 0,0:24:39.36,0:24:42.43,Main,,0,0,0,,Let's see how things go. He's fine.{He's strong}
+Dialogue: 0,0:24:42.43,0:24:45.76,Main,,0,0,0,,If he can't take it there,\Nhe can just come back.
+Dialogue: 0,0:24:46.43,0:24:50.30,Main,,0,0,0,,Let's make some money for {the\Npirate savings for that occasion.}our pirate stash, just in case.
+Dialogue: 0,0:24:52.07,0:24:54.87,Main,,0,0,0,,I can't say{ it}. \NIt's not Ace and Luffy's fault.
+Dialogue: 0,0:24:54.87,0:24:58.04,Main,,0,0,0,,Why can't you tell the truth?!
+Dialogue: 0,0:24:58.04,0:25:03.45,Main,,0,0,0,,Is it because they warned\Nyou not to say anything?
+Dialogue: 0,0:25:03.45,0:25:06.02,Main,,0,0,0,,They're not {those kinds of people!}like that!
+Dialogue: 0,0:25:06.02,0:25:11.06,Main,,0,0,0,,If you have a criminal record, it will {affect the}harm your family's reputation{ of your family}.
+Dialogue: 0,0:25:11.06,0:25:12.96,Main,,0,0,0,,You won't be able to enter High {land}Town.
+Dialogue: 0,0:25:12.96,0:25:15.73,Main,,0,0,0,,You were tempted by those two,
+Dialogue: 0,0:25:15.73,0:25:19.20,Main,,0,0,0,,having no choice but to\Nget involved in violence,
+Dialogue: 0,0:25:19.70,0:25:21.10,Main,,0,0,0,,weren't you, Sabo?
+Dialogue: 0,0:25:23.77,0:25:25.10,Main,,0,0,0,,Sabo.
+Dialogue: 0,0:25:25.10,0:25:28.61,Main,,0,0,0,,The fate of your friends in the Gray Terminal...
+Dialogue: 0,0:25:28.61,0:25:30.41,Main,,0,0,0,,is in the hands of those pirates.
+Dialogue: 0,0:25:30.41,0:25:32.94,Main,,0,0,0,,And I can give them an order.
+Dialogue: 0,0:25:32.94,0:25:35.48,Main,,0,0,0,,If they're that important to you,
+Dialogue: 0,0:25:35.48,0:25:37.98,Main,,0,0,0,,think about what you have to do.
+Dialogue: 0,0:25:40.82,0:25:45.22,Main,,0,0,0,,You're a smart boy.\NYou know what you should do.
+Dialogue: 0,0:25:46.09,0:25:49.66,Main,,0,0,0,,You promised that you wouldn't hurt them!
+Dialogue: 0,0:25:49.66,0:25:52.30,Main,,0,0,0,,That's why I came back here!
+Dialogue: 0,0:25:52.30,0:25:56.80,Main,,0,0,0,,A crime is a crime! \NWe did it of our own free will.
+Dialogue: 0,0:25:59.74,0:26:01.57,Main,,0,0,0,,Honestly!
+Dialogue: 0,0:26:02.41,0:26:06.14,Main,,0,0,0,,It's so sad to have such a stupid son!
+Dialogue: 0,0:26:07.11,0:26:09.28,Main,,0,0,0,,Can't you understand my dilemma?
+Dialogue: 0,0:26:09.28,0:26:12.62,Main,,0,0,0,,Oh, it must be so hard.
+Dialogue: 0,0:26:13.35,0:26:15.82,Main,,0,0,0,,I'll take care of the papers.
+Dialogue: 0,0:26:19.06,0:26:21.46,Main,,0,0,0,,Welcome back, sir.
+Dialogue: 0,0:26:21.96,0:26:26.36,Main,,0,0,0,,Okay, Sabo, let's go. \NIt's been a long while since you left.
+Dialogue: 0,0:26:26.36,0:26:30.10,Main,,0,0,0,,Oh, don't go in yet; you're filthy.
+Dialogue: 0,0:26:30.10,0:26:32.74,Main,,0,0,0,,Wash and disinfect your body in the yard first.
+Dialogue: 0,0:26:32.74,0:26:34.24,Main,,0,0,0,,Then take a bath.
+Dialogue: 0,0:26:34.87,0:26:37.74,Main,,0,0,0,,I'm glad that you're safe, Young Master.
+Dialogue: 0,0:26:38.21,0:26:42.54,Main,,0,0,0,,Oh, Sabo! You're back. You got bigger.
+Dialogue: 0,0:26:44.01,0:26:44.92,Main,,0,0,0,,Mom.
+Dialogue: 0,0:26:44.92,0:26:47.75,Main,,0,0,0,,Now Sterry, say "hi" to your older brother.
+Dialogue: 0,0:26:48.12,0:26:52.82,Main,,0,0,0,,It's a pleasure{Nice} to meet you, Brother!\NMy name is Sterry. {and }I'm 8.
+Dialogue: 0,0:26:53.56,0:26:54.79,Thoughts,,0,0,0,,Who{ is}'s he?
+Dialogue: 0,0:26:56.29,0:27:00.06,Main,,0,0,0,,We adopted him. He's a smart\Nboy from a noble family.
+Dialogue: 0,0:27:00.06,0:27:04.40,Main,,0,0,0,,But for some reason, \Nhis parents became negligent.
+Dialogue: 0,0:27:04.77,0:27:07.91,Main,,0,0,0,,{And we}We took him in since he's full of promise.
+Dialogue: 0,0:27:08.44,0:27:12.58,Main,,0,0,0,,If you don't work out to be my successor...
+Dialogue: 0,0:27:13.81,0:27:16.38,Main,,0,0,0,,No, {I'm telling you}I've said too much.
+Dialogue: 0,0:27:16.88,0:27:18.28,Main,,0,0,0,,Go to your room now.
+Dialogue: 0,0:27:18.28,0:27:20.52,Main,,0,0,0,,{\fad(0,250)}Tomorrow, you have to start studying{ tomorrow}.
+Dialogue: 0,0:27:29.83,0:27:32.35,Flashbacks,,0,0,0,,{Are you gonna put an end to your dream?!}Is this how you want it to end?!
+Dialogue: 0,0:27:35.53,0:27:39.84,Main,,0,0,0,,Hey, Brother! I heard that\Nyou're pretty stupid.
+Dialogue: 0,0:27:40.87,0:27:44.41,Main,,0,0,0,,Mother and Father {were}are always{\Nsaying that behind the curtain.} implying that.
+Dialogue: 0,0:27:44.74,0:27:47.18,Main,,0,0,0,,{But you}You sure have the devil's luck.
+Dialogue: 0,0:27:47.18,0:27:49.78,Main,,0,0,0,,{as t}They're gonna take care of the burnables tomorrow night.
+Dialogue: 0,0:27:50.78,0:27:53.62,Main,,0,0,0,,If you had stayed in the Gray Terminal,
+Dialogue: 0,0:27:54.79,0:27:57.42,Main,,0,0,0,,{you would've died tomorrow.}you'd be dead.
+Dialogue: 0,0:27:58.52,0:28:01.96,Main,,0,0,0,,Well, it would've been better for me...
+Dialogue: 0,0:28:01.96,0:28:04.40,Main,,0,0,0,,if their real son didn't come home.
+Dialogue: 0,0:28:05.00,0:28:08.90,Main,,0,0,0,,W-W-What are you doing?! I'll tell Father!
+Dialogue: 0,0:28:08.90,0:28:11.64,Main,,0,0,0,,What {were}are you talking about?!
+Dialogue: 0,0:28:11.64,0:28:13.94,Main,,0,0,0,,What's going on? Tell me everything!
+Dialogue: 0,0:28:13.94,0:28:19.01,Main,,0,0,0,,Th-There's gonna be a fire in\Nthe Gray Terminal tomorrow.
+Dialogue: 0,0:28:19.41,0:28:21.48,Main,,0,0,0,,– A fire?!\N– Yeah.
+Dialogue: 0,0:28:21.48,0:28:24.75,Main,,0,0,0,,You don't know about it \Nbecause you weren't here.
+Dialogue: 0,0:28:24.75,0:28:27.38,Main,,0,0,0,,But they decided it months ago.
+Dialogue: 0,0:28:27.99,0:28:29.85,Main,,0,0,0,,Did you know that the World Government...
+Dialogue: 0,0:28:29.85,0:28:32.42,Main,,0,0,0,,has sent a group of observers\Nto go around the East Blue?
+Dialogue: 0,0:28:33.19,0:28:36.66,Main,,0,0,0,,{They're gonna arrive in Goa \Nfinally 3 days from now!}They're finally gonna arrive in Goa in three days!
+Dialogue: 0,0:28:37.26,0:28:40.23,Main,,0,0,0,,{And they have a World Noble,}This time, a world noble, a Celestial Dragon,
+Dialogue: 0,0:28:40.23,0:28:43.37,Main,,0,0,0,,{a Celestial Dragon,}is traveling with them.{\NSo people are panicking!} Everyone's in a panic!
+Dialogue: 0,0:28:43.37,0:28:48.34,Main,,0,0,0,,The {members of the }royal family {don't want him to see our stigma,}doesn't want him to see that stain on our country no matter what,
+Dialogue: 0,0:28:48.34,0:28:52.18,Main,,0,0,0,,so they decided to burn down the Gray Terminal.
+Dialogue: 0,0:28:52.61,0:28:55.75,Main,,0,0,0,,{Then this country will be clean!}That oughta clean up this country!
+Dialogue: 0,0:28:55.75,0:29:00.88,Main,,0,0,0,,What are you talking about? \N{That's impossible!}They can't do that!
+Dialogue: 0,0:29:00.88,0:29:04.46,Main,,0,0,0,,{There are a lot of people living there!}A lot of people live there!
+Dialogue: 0,0:29:04.46,0:29:06.99,Main,,0,0,0,,They can't take away their home!
+Dialogue: 0,0:29:06.99,0:29:07.73,Main,,0,0,0,,Let go of me!
+Dialogue: 0,0:29:08.46,0:29:11.23,Main,,0,0,0,,Weren't you listening to me?
+Dialogue: 0,0:29:13.10,0:29:17.10,Main,,0,0,0,,{They're gonna burn up all\Nthe shame of this country.}They're gonna burn out the taint that shames this country.
+Dialogue: 0,0:29:17.74,0:29:19.94,Main,,0,0,0,,You mean, the people, too?
+Dialogue: 0,0:29:26.71,0:29:27.71,Main,,0,0,0,,H-Hey!
+Dialogue: 0,0:29:29.91,0:29:31.35,Main,,0,0,0,,Where are you going?
+Dialogue: 0,0:29:35.85,0:29:37.52,Main,,0,0,0,,You can't just jump down...{What floor do you think we're on?}
+Dialogue: 0,0:29:41.83,0:29:44.09,Main,,0,0,0,,T-This has nothing to do with me.
+Dialogue: 0,0:29:44.50,0:29:46.93,Thoughts,,0,0,0,,It's a lie! He must be lying!
+Dialogue: 0,0:29:46.93,0:29:51.00,Thoughts,,0,0,0,,It's not possible to burn\Ndown an area so large!
+Dialogue: 0,0:29:55.47,0:29:57.54,Thoughts,,0,0,0,,They were {from}there this afternoon.
+Dialogue: 0,0:29:59.01,0:30:02.85,Main,,0,0,0,,Are we ready for tomorrow?\NThere can't be any miscalculation.
+Dialogue: 0,0:30:02.85,0:30:06.68,Main,,0,0,0,,We're ready, but the {unknown\Nfactor}problem is the pirates.
+Dialogue: 0,0:30:06.68,0:30:09.32,Main,,0,0,0,,They have to {burn the trash precisely.}set the fires according to plan.
+Dialogue: 0,0:30:10.22,0:30:13.76,Main,,0,0,0,,Bluejam's crew is setting\Nboxes of oil and explosives...
+Dialogue: 0,0:30:13.76,0:30:17.80,Main,,0,0,0,,all over the Gray Terminal up until \Nthe appointed time tomorrow.
+Dialogue: 0,0:30:18.76,0:30:22.43,Thoughts,,0,0,0,,Bluejam has a hand in this?\NThen it must be true!
+Dialogue: 0,0:30:22.43,0:30:24.33,Thoughts,,0,0,0,,But it's so ridiculous!
+Dialogue: 0,0:30:35.15,0:30:37.51,Main,,0,0,0,,I wonder how Sabo's doing.
+Dialogue: 0,0:30:37.88,0:30:40.02,Main,,0,0,0,,Shut up and go to sleep.
+Dialogue: 0,0:30:41.02,0:30:44.12,Main,,0,0,0,,We agreed to let go of Sabo for now.
+Dialogue: 0,0:30:44.69,0:30:45.42,Main,,0,0,0,,Alright.
+Dialogue: 0,0:30:46.49,0:30:49.46,Main,,0,0,0,,This could be better for him.
+Dialogue: 0,0:30:54.60,0:30:56.63,Thoughts,,0,0,0,,I can figure out if there'll be a fire or not...
+Dialogue: 0,0:30:56.63,0:30:59.37,Thoughts,,0,0,0,,{by the look of people in the town.}based on how everyone in town acts.
+Dialogue: 0,0:31:03.37,0:31:06.48,Main,,0,0,0,,– Hi, good morning!\N– Good morning!
+Dialogue: 0,0:31:06.48,0:31:09.91,Main,,0,0,0,,– Isn't it a lovely morning.\N– Yes, it is.
+Dialogue: 0,0:31:09.91,0:31:13.75,Main,,0,0,0,,Oh great! There is nothing wrong!
+Dialogue: 0,0:31:14.15,0:31:15.99,Main,,0,0,0,,I'll {walk around the town.}have a look throughout town.
+Dialogue: 0,0:31:18.52,0:31:20.69,Main,,0,0,0,,Today is windy.
+Dialogue: 0,0:31:20.69,0:31:24.03,Main,,0,0,0,,Yes, indeed, Your Majesty.
+Dialogue: 0,0:31:24.03,0:31:29.33,Main,,0,0,0,,Accidents could easily happen on \Na day like this; especially fires.
+Dialogue: 0,0:31:29.33,0:31:33.04,Main,,0,0,0,,You're right, Your Majesty.
+Dialogue: 0,0:31:33.34,0:31:36.17,Main,,0,0,0,,Sabo is not {in the house}here?!
+Dialogue: 0,0:31:36.17,0:31:38.28,Main,,0,0,0,,{He's such a}That spoiled brat!
+Dialogue: 0,0:31:38.28,0:31:42.58,Main,,0,0,0,,He still wants to keep playing pirate without studying?!
+Dialogue: 0,0:31:43.11,0:31:44.98,Main,,0,0,0,,Search {the entire High\NTown!}all of High Town!
+Dialogue: 0,0:31:45.32,0:31:47.99,Main,,0,0,0,,{He can't have gotten out \Nof High\NTown so easily!}He couldn't have left High Town that easily!
+Dialogue: 0,0:31:49.25,0:31:52.12,Main,,0,0,0,,– Excuse me, mister.\N– What do you want?
+Dialogue: 0,0:31:52.46,0:31:56.36,Main,,0,0,0,,Do you know that there'll be a fire \Nin the Gray Terminal tonight?
+Dialogue: 0,0:31:56.36,0:32:00.30,Main,,0,0,0,,Of course, I know. What about it?
+Dialogue: 0,0:32:01.00,0:32:02.07,Thoughts,,0,0,0,,He knows?
+Dialogue: 0,0:32:02.07,0:32:04.67,Main,,0,0,0,,{Which}Whose family are you from?
+Dialogue: 0,0:32:05.07,0:32:07.54,Thoughts,,0,0,0,,So it's true!
+Dialogue: 0,0:32:09.11,0:32:10.24,Main,,0,0,0,,Hey, kid!
+Dialogue: 0,0:32:10.41,0:32:13.31,Thoughts,,0,0,0,,What's going on here?\NEverybody knows about it?
+Dialogue: 0,0:32:13.64,0:32:16.51,Thoughts,,0,0,0,,They all know about it,\N{and}yet they're acting normally?!
+Dialogue: 0,0:32:16.51,0:32:20.54,Thoughts,,0,0,0,,Doesn't anyone care about \Nthe fire in the Gray Terminal?!
+Dialogue: 0,0:32:24.42,0:32:27.29,Main,,0,0,0,,Oh, there you are, {you brats}little ones.
+Dialogue: 0,0:32:27.29,0:32:29.56,Main,,0,0,0,,{Do you want us to carry the boxes?}Are there more boxes to carry today?
+Dialogue: 0,0:32:29.56,0:32:32.86,Main,,0,0,0,,Yeah, and {there will be}I have a big task for you tonight.
+Dialogue: 0,0:32:32.86,0:32:34.60,Main,,0,0,0,,I'll tell you about it later. {.}
+Dialogue: 0,0:32:34.60,0:32:36.77,Main,,0,0,0,,Yes, I know.
+Dialogue: 0,0:32:36.77,0:32:41.91,Main,,0,0,0,,Why doesn't anyone in this town,\Nincluding you, look concerned?
+Dialogue: 0,0:32:41.91,0:32:44.04,Main,,0,0,0,,Why does no one try to prevent it?
+Dialogue: 0,0:32:46.38,0:32:50.61,Main,,0,0,0,,You sound like you're a kind boy.
+Dialogue: 0,0:32:50.61,0:32:53.28,Main,,0,0,0,,But, listen carefully.
+Dialogue: 0,0:32:53.28,0:32:56.62,Main,,0,0,0,,We all have to keep quiet about the plan!
+Dialogue: 0,0:32:56.62,0:33:01.46,Main,,0,0,0,,What if someone outside \N{the town}High Town finds out about it?
+Dialogue: 0,0:33:01.93,0:33:05.93,Main,,0,0,0,,We're special! If you're from a noble family...
+Dialogue: 0,0:33:07.50,0:33:08.53,Main,,0,0,0,,Hey, you!
+Dialogue: 0,0:33:09.93,0:33:12.00,Thoughts,,0,0,0,,Ace! Luffy!
+Dialogue: 0,0:33:12.00,0:33:15.34,Thoughts,,0,0,0,,There's something wrong with this town! \NEverybody's crazy!
+Dialogue: 0,0:33:15.74,0:33:17.67,Thoughts,,0,0,0,,{Even though }They know that people will {die soon,}die,
+Dialogue: 0,0:33:17.67,0:33:20.51,Thoughts,,0,0,0,,but they act normally and even smile!
+Dialogue: 0,0:33:21.21,0:33:25.55,Thoughts,,0,0,0,,I don't wanna stay here!\NI gotta tell them {quickly}immediately!
+Dialogue: 0,0:33:27.55,0:33:31.05,Thoughts,,0,0,0,,{Today of all days, it's windy!}Why'd it have to be windy today of all days?!
+Dialogue: 0,0:33:31.05,0:33:33.22,Main,,0,0,0,,There he is! Isn't {it}that him?!
+Dialogue: 0,0:33:33.66,0:33:36.09,Main,,0,0,0,,There's no doubt! That's the runaway boy!
+Dialogue: 0,0:33:36.73,0:33:38.83,Main,,0,0,0,,Hey you, stop!
+Dialogue: 0,0:33:38.83,0:33:41.93,Thoughts,,0,0,0,,{The people in this country\Nare planning to burn up...}Tonight, the people of this country are planning to set fire...
+Dialogue: 0,0:33:41.93,0:33:44.10,Thoughts,,0,0,0,,to their national shame{ tonight}!
+Dialogue: 0,0:33:44.84,0:33:48.41,Thoughts,,0,0,0,,You have to get out of {the\N}Gray Terminal! Ace! Luffy!
+Dialogue: 0,0:33:48.87,0:33:52.44,Main,,0,0,0,,Run! Ace! Luffy!
+Dialogue: 0,0:33:54.31,0:33:55.71,Main,,0,0,0,,Why {are you doing that?!}would you do that?!
+Dialogue: 0,0:33:55.71,0:34:01.45,Main,,0,0,0,,{You fool! Don't scream! }Idiot! Keep your voice down!\NWe can't let anyone else know about this!
+Dialogue: 0,0:34:01.45,0:34:04.19,Main,,0,0,0,,This is serious! I gotta tell everybody!
+Dialogue: 0,0:34:04.19,0:34:06.16,Main,,0,0,0,,He's a bad guy, just as I thought!
+Dialogue: 0,0:34:06.16,0:34:09.89,Main,,0,0,0,,I told you to not to scream.\NHey, hold them down.
+Dialogue: 0,0:34:11.30,0:34:13.66,Main,,0,0,0,,I'm not the mastermind.
+Dialogue: 0,0:34:16.00,0:34:18.60,Main,,0,0,0,,{There was }Oil and explosives were in the boxes...
+Dialogue: 0,0:34:18.94,0:34:21.17,Main,,0,0,0,,that you guys carried yesterday and today.
+Dialogue: 0,0:34:21.17,0:34:26.34,Main,,0,0,0,,{And there's gonna be a massive\Nfire that no one can escape from.}No one will escape the massive fire that's about to happen.
+Dialogue: 0,0:34:26.34,0:34:28.71,Main,,0,0,0,,– {No...}How could you?\N– Are you out of your mind?
+Dialogue: 0,0:34:30.15,0:34:33.52,Main,,0,0,0,,Even punk kids like you two are freaking out?
+Dialogue: 0,0:34:34.08,0:34:37.59,Main,,0,0,0,,But now you know about the plan.
+Dialogue: 0,0:34:37.99,0:34:41.86,Main,,0,0,0,,We can't let you go.
+Dialogue: 0,0:34:41.86,0:34:45.80,Main,,0,0,0,,I want to ask you something before the fire.
+Dialogue: 0,0:34:46.63,0:34:52.20,Main,,0,0,0,,Say, you two, do you have a\Ntreasure hidden away somewhere?
+Dialogue: 0,0:35:16.49,0:35:20.16,Captions,,0,0,0,,{\blur0.6\fad(500,0)\pos(640,529)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town
+Dialogue: 1,0:35:16.49,0:35:20.16,Captions,,0,0,0,,{\bord0\blur0.6\fad(500,0)\pos(640,529)\4a&HFF&}Edge Town
+Dialogue: 0,0:35:21.26,0:35:22.53,Main,,0,0,0,,Shut up!
+Dialogue: 0,0:35:23.53,0:35:25.70,Main,,0,0,0,,H-Hey! Look {at that}over there!
+Dialogue: 0,0:35:30.07,0:35:32.81,Main,,0,0,0,,Something's wrong {with the}in Gray Terminal.
+Dialogue: 0,0:35:32.81,0:35:34.38,Main,,0,0,0,,{Isn't it burning?}Is it on fire?
+Dialogue: 0,0:35:39.55,0:35:42.12,Main,,0,0,0,,This is the best game I've ever played!
+Dialogue: 0,0:35:42.12,0:35:45.92,Main,,0,0,0,,B-B-Boss! Boss! You gotta see this!
+Dialogue: 0,0:35:46.22,0:35:47.82,Main,,0,0,0,,What are you screaming about?
+Dialogue: 0,0:35:47.82,0:35:50.59,Main,,0,0,0,,– The sky in the north, look!\N– Is {it}that the town?!
+Dialogue: 0,0:35:50.93,0:35:55.74,Main,,0,0,0,,No, closer than that! \NMust be the Gray Terminal! It's on fire!
+Dialogue: 0,0:35:57.13,0:35:59.90,Captions,,0,0,0,,{\blur0.6\fad(600,0)\pos(640,530)\bord1.5\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)}Midtown
+Dialogue: 1,0:35:57.13,0:35:59.90,Captions,,0,0,0,,{\blur0.6\fad(600,0)\pos(640,530)\bord0\4a&HFF&}Midtown
+Dialogue: 0,0:35:57.53,0:35:59.90,Main,,0,0,0,,What's going on? It's like a wildfire!
+Dialogue: 0,0:35:59.90,0:36:03.47,Main,,0,0,0,,{It's never happened before!}Gray Terminal has never caught fire before!
+Dialogue: 0,0:36:05.01,0:36:07.74,Main,,0,0,0,,It's dangerous; evacuate Edge Town!
+Dialogue: 0,0:36:07.74,0:36:10.38,Captions,,0,0,0,,{\blur0.6\fad(500,0)\pos(640,531)\bord1.5\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town - Great Gate
+Dialogue: 1,0:36:07.74,0:36:10.38,Captions,,0,0,0,,{\blur0.6\fad(500,0)\pos(640,531)\bord0\4a&HFF&}Edge Town - Great Gate
+Dialogue: 0,0:36:07.74,0:36:10.38,Main,,0,0,0,,All residents must head to Midtown!
+Dialogue: 0,0:36:10.81,0:36:15.12,Main,,0,0,0,,Leave the lifesaving and fire\Nextinguishing to us, the military! {.}
+Dialogue: 0,0:36:18.69,0:36:21.83,Main,,0,0,0,,– Everybody, wake up!\N– {You}We gotta {run}get outta here!
+Dialogue: 0,0:36:24.39,0:36:28.60,Main,,0,0,0,,– The fire is spreading all around!\N– We can't stay here!
+Dialogue: 0,0:36:28.60,0:36:31.87,Main,,0,0,0,,It's no use, give it up!\NYou gotta flee your home!
+Dialogue: 0,0:36:34.94,0:36:37.81,Main,,0,0,0,,Oh no! The fire has {gotten to the shore already!}already reached the shore!
+Dialogue: 0,0:36:37.81,0:36:40.54,Main,,0,0,0,,The {entrance}way to the forest is {ablaze}on fire, too!
+Dialogue: 0,0:36:40.54,0:36:43.48,Main,,0,0,0,,Damn! Where should we go?! We're stuck!
+Dialogue: 0,0:36:47.22,0:36:50.92,Main,,0,0,0,,{Burn everything, guys!}Set it all ablaze, guys!
+Dialogue: 0,0:36:52.99,0:36:55.29,Main,,0,0,0,,When we complete this task,
+Dialogue: 0,0:36:55.29,0:36:58.50,Main,,0,0,0,,my long-cherished dream will come true!
+Dialogue: 0,0:36:59.90,0:37:01.03,Flashbacks,,0,0,0,,You're right.
+Dialogue: 0,0:37:01.03,0:37:04.94,Flashbacks,,0,0,0,,We don't give a damn about \Nthe other people living here.
+Dialogue: 0,0:37:04.94,0:37:07.30,Flashbacks,,0,0,0,,But {even if this place is so crappy,}no matter how crappy this place is,
+Dialogue: 0,0:37:07.30,0:37:11.11,Flashbacks,,0,0,0,,it's good enough for {us to hide in}our hideout, {King}Your Majesty.
+Dialogue: 0,0:37:11.11,0:37:14.24,Flashbacks,,0,0,0,,I'm aware of that, Bluejam.
+Dialogue: 0,0:37:14.24,0:37:18.52,Flashbacks,,0,0,0,,But when this is over, \Nyou no longer need to hide.
+Dialogue: 0,0:37:18.52,0:37:22.99,Flashbacks,,0,0,0,,{I will make you and your friends\Nnobles by my authority.}I will use my authority to make you all nobles.
+Dialogue: 0,0:37:24.82,0:37:27.06,Flashbacks,,0,0,0,,Will you really?!
+Dialogue: 0,0:37:27.89,0:37:31.39,Main,,0,0,0,,The king will give us titles,
+Dialogue: 0,0:37:31.39,0:37:35.40,Main,,0,0,0,,and we'll live in High Town as privileged nobles!
+Dialogue: 0,0:37:42.34,0:37:45.98,Main,,0,0,0,,We better get moving.
+Dialogue: 0,0:37:46.31,0:37:49.55,Main,,0,0,0,,Let's get to the great gate!\NThe military is waiting.
+Dialogue: 0,0:37:49.55,0:37:52.25,Main,,0,0,0,,Captain, we left the brats in the hideout.
+Dialogue: 0,0:37:52.25,0:37:57.12,Main,,0,0,0,,Forget 'em. They could've joined my crew,\Nif they'd told me where the treasure was. {.}
+Dialogue: 0,0:37:59.59,0:38:02.56,Main,,0,0,0,,Fools {can't}don't live long anyway.
+Dialogue: 0,0:38:05.36,0:38:08.10,Main,,0,0,0,,{But}Hey Captain, it's closed{, Captain}!
+Dialogue: 0,0:38:08.10,0:38:12.74,Main,,0,0,0,,Don't panic. They just don't\Nwant other people to get away.
+Dialogue: 0,0:38:12.74,0:38:16.14,Main,,0,0,0,,The plan is for me to give them a sign,\Nthen they'll open the gate.
+Dialogue: 0,0:38:17.11,0:38:19.61,Main,,0,0,0,,It's me, Bluejam. Open up.
+Dialogue: 0,0:38:23.21,0:38:25.15,Main,,0,0,0,,Hey! {Don't}Do you hear me?!
+Dialogue: 0,0:38:28.59,0:38:29.69,Main,,0,0,0,,Is this...
+Dialogue: 0,0:38:30.89,0:38:33.26,Main,,0,0,0,,Captain, could it be...
+Dialogue: 0,0:38:34.62,0:38:40.06,Main,,0,0,0,,Hey, you guys, what are you doing?! \NOpen the gate!
+Dialogue: 0,0:38:40.06,0:38:44.07,Main,,0,0,0,,The plan was you let us\Nevacuate from here, right?!
+Dialogue: 0,0:38:44.07,0:38:47.70,Main,,0,0,0,,This is not what we agreed to! You bastards!
+Dialogue: 0,0:38:47.70,0:38:50.27,Main,,0,0,0,,What happened to your promise, {King}Your Majesty?!
+Dialogue: 0,0:38:50.27,0:38:53.58,Main,,0,0,0,,You said that you'd make us nobles...
+Dialogue: 0,0:38:54.88,0:38:58.08,Main,,0,0,0,,You set us up? {King}You bastard!
+Dialogue: 0,0:38:58.08,0:39:00.62,Main,,0,0,0,,Dammit!
+Dialogue: 0,0:39:01.32,0:39:02.42,Main,,0,0,0,,Did you hear?
+Dialogue: 0,0:39:02.42,0:39:07.29,Main,,0,0,0,,Bluejam, a pirate in the Gray Terminal, started the fire.
+Dialogue: 0,0:39:07.29,0:39:11.03,Main,,0,0,0,,That's what I thought!\NNo one else would do that.
+Dialogue: 0,0:39:11.03,0:39:15.77,Main,,0,0,0,,He did it to try to keep the observers\Nfrom the World Government away.
+Dialogue: 0,0:39:15.77,0:39:17.63,Main,,0,0,0,,{How terrible he is!}How terrible!
+Dialogue: 0,0:39:21.54,0:39:24.74,Main,,0,0,0,,It's hot! {It's}So hot!
+Dialogue: 0,0:39:24.74,0:39:25.98,Main,,0,0,0,,Yes!
+Dialogue: 0,0:39:25.98,0:39:28.45,Main,,0,0,0,,Damn! {We didn't wanna be involved in this!}We got dragged into something horrible!
+Dialogue: 0,0:39:30.01,0:39:32.68,Main,,0,0,0,,We can't get away! I don't wanna die!
+Dialogue: 0,0:39:32.68,0:39:34.68,Main,,0,0,0,,I'll leave you behind if you don't stop complaining!
+Dialogue: 0,0:39:35.39,0:39:36.62,Main,,0,0,0,,It's not hot.
+Dialogue: 0,0:39:38.22,0:39:40.49,Main,,0,0,0,,Whoa, it's hot! No, it's not.
+Dialogue: 0,0:39:40.49,0:39:41.76,Main,,0,0,0,,The fire is everywhere outside!
+Dialogue: 0,0:39:42.63,0:39:44.09,Main,,0,0,0,,I can't breathe.
+Dialogue: 0,0:39:44.09,0:39:45.73,Main,,0,0,0,,Yes, I can!
+Dialogue: 0,0:39:45.73,0:39:47.63,Main,,0,0,0,,The air is hot!
+Dialogue: 0,0:39:47.63,0:39:49.10,Main,,0,0,0,,No, it's not.
+Dialogue: 0,0:39:49.10,0:39:53.30,Main,,0,0,0,,It's gonna be alright! I'm here with you!
+Dialogue: 0,0:39:53.30,0:39:56.34,Main,,0,0,0,,What are you doing?! You have to evacuate!
+Dialogue: 0,0:39:56.81,0:39:58.38,Main,,0,0,0,,Open the gate!
+Dialogue: 0,0:39:58.38,0:39:59.91,Main,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:40:00.84,0:40:02.08,Main,,0,0,0,,You brat!
+Dialogue: 0,0:40:02.08,0:40:03.28,Main,,0,0,0,,Take him away!
+Dialogue: 0,0:40:05.15,0:40:07.12,Main,,0,0,0,,Ace! Luffy!
+Dialogue: 0,0:40:07.12,0:40:08.15,Main,,0,0,0,,Run!
+Dialogue: 0,0:40:12.79,0:40:15.59,Main,,0,0,0,,Stay away! Stay away from the lock!
+Dialogue: 0,0:40:15.99,0:40:17.66,Main,,0,0,0,,No!
+Dialogue: 0,0:40:19.00,0:40:20.13,Main,,0,0,0,,Ace!
+Dialogue: 0,0:40:20.43,0:40:22.13,Main,,0,0,0,,Luffy!
+Dialogue: 0,0:40:30.34,0:40:33.51,Main,,0,0,0,,– Be a good kid and evacuate!\N– Don't give us any trouble!
+Dialogue: 0,0:40:37.41,0:40:40.25,Main,,0,0,0,,A-Ace. Luffy.
+Dialogue: 0,0:41:02.67,0:41:04.64,Main,,0,0,0,,What happened to you, boy?
+Dialogue: 0,0:41:10.75,0:41:12.32,Main,,0,0,0,,O-Old man...
+Dialogue: 0,0:41:15.39,0:41:20.59,Main,,0,0,0,,The royalty and {nobles}nobility are... \Nbehind the fire...
+Dialogue: 0,0:41:23.49,0:41:25.23,Main,,0,0,0,,You gotta believe me!{Believe me...}
+Dialogue: 0,0:41:26.76,0:41:32.07,Main,,0,0,0,,This town smells worse than the Gray Terminal.
+Dialogue: 0,0:41:32.64,0:41:36.44,Main,,0,0,0,,It smells like rotten people!
+Dialogue: 0,0:41:38.64,0:41:43.58,Main,,0,0,0,,If I stay here, I'll never be free!
+Dialogue: 0,0:41:45.65,0:41:46.95,Main,,0,0,0,,I'm...
+Dialogue: 0,0:41:46.95,0:41:49.89,Main,,0,0,0,,ashamed of being born a noble!
+Dialogue: 0,0:41:50.45,0:41:55.69,Thoughts,,0,0,0,,{They finally made a kid say this! Goa!}Look what you've made this boy say, Goa!
+Dialogue: 0,0:41:57.39,0:42:01.90,Main,,0,0,0,,I know how you feel. \NI was born {in this country}here, too.
+Dialogue: 0,0:42:02.87,0:42:08.54,Main,,0,0,0,,But I still don't have enough power to change {the country}it.
+Dialogue: 0,0:42:08.54,0:42:12.34,Main,,0,0,0,,Old man, you really are\Nlistening to me, aren't you?
+Dialogue: 0,0:42:12.81,0:42:15.15,Main,,0,0,0,,Yes, and I'll never forget.
 Comment: 0,0:00:00.00,0:00:00.00,Copy of Karaoke,,0,0,0,template char noblank,!retime("syl",0,500)!{\fad(0,50)\an5\blur2\3c&HFFFFFF&\1a&HFF&\move($scenter,$middle,!$scenter+math.random(-4000,-3500)!,!$smiddle+math.random(-500,500)!,0,15000)\t(0,10000,\frz!math.random(-5000,5000)!\frx!math.random(-5000,5000)!\fry!math.random(-5000,5000)!)}
 Comment: 0,0:00:00.00,0:00:00.00,Karaoke,,0,0,0,template noblank notext,!retime("start2syl",-500,line.duration)!{\fad(0,100)\c&HFFFFFF&\3c&HFEA32F&\fscx2\fscy2\an5\shad0\bord4\blur7\move($scenter,$middle,!$scenter+math.random(-100,100)!,!$smiddle+math.random(-60,60)!)\t(0,200,\fscx2\fscy2\p1}m 0 24 b 0 -8 50 -8 50 24 b 50 56 0 56 0 24 "
 Comment: 0,0:00:00.00,0:00:00.00,Karaoke,,0,0,0,template noblank notext,!retime("start2syl",-500,line.duration)!{\fad(0,100)\c&HFFFFFF&\3c&HCD9982&\fscx2\fscy2\an5\shad0\bord4\blur7\move($scenter,$middle,!$scenter+math.random(-100,100)!,!$smiddle+math.random(-60,60)!)\t(0,200,\fscx10\fscy10\p1}m 0 24 b 0 -8 50 -8 50 24 b 50 56 0 56 0 24 "
