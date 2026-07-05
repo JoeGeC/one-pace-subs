@@ -336,8 +336,8 @@ Dialogue: 5,0:21:51.75,0:21:54.04,Main-207+,,0,0,0,,一切照計畫進行……{
 Dialogue: 5,0:21:54.04,0:21:55.50,Main-207+,,0,0,0,,真的嗎?!
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=28}===============================DIALOGUE============================
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=31}============================SIGNS AND TITLE=========================
-Dialogue: 2,0:01:55.80,0:02:01.18,Title-207+,,0,0,200,,{\an8\fscx110\fscy110\bord0\c&HE5E5E5&\blur1\fad(942,893)}直達司法之島\N本島特快車
-Dialogue: 1,0:01:55.80,0:02:01.18,Title-207+,,0,0,200,,{\an8\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur1\bord2.2\fad(942,893)\t(900,942,\1a&H00&)\t(4487,4529,\1a&HFF&)}直達司法之島\N本島特快車
+Dialogue: 2,0:01:55.80,0:02:01.18,Title-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\c&HE5E5E5&\blur1\fad(942,893)}直達司法之島\N本島特快車
+Dialogue: 1,0:01:55.80,0:02:01.18,Title-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur1\bord2.2\fad(942,893)\t(900,942,\1a&H00&)\t(4487,4529,\1a&HFF&)}直達司法之島\N本島特快車
 Comment: 0,0:03:51.50,0:03:55.84,Captions-207+,,0,0,0,,{=39}Power Level
 Dialogue: 1,0:03:51.50,0:03:54.84,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\c&H080707&\blur1\fad(315,0)\p1}m 920 620 l 1640 620 1640 920 920 920
 Dialogue: 1,0:03:51.50,0:03:54.84,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\c&HF2F2F2&\blur1\fad(315,0)\p1}m 938 637 l 1625 637 1625 899 938 899
@@ -357,146 +357,146 @@ Comment: 0,0:03:51.50,0:03:55.84,Captions-207+,,0,0,0,,{=40}Power Level
 Dialogue: 0,0:05:54.54,0:05:56.88,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fnKnorke\1a&HFF&\fad(398,0)\t(356,398,\1a&H00&)\blur0.8\bord3\fscx125\fscy125\c&HF2F2F2&\3c&HF2F2F2&}Gatherine
 Dialogue: 1,0:05:54.54,0:05:56.88,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fnKnorke\fad(398,0)\blur0.8\bord0\fscx125\fscy125\c&H000001&}Gatherine
 Comment: 0,0:15:17.56,0:15:20.86,Captions-207+,,0,0,0,,{=9}Main Gate
-Dialogue: 1,0:15:17.56,0:15:17.72,Captions-207+,,0,0,100,,{\an8\pos(1224.64,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx71.99\fscy71.99}正門
-Dialogue: 1,0:15:17.72,0:15:17.77,Captions-207+,,0,0,100,,{\an8\pos(1224.91,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.02\fscy72.02}正門
-Dialogue: 1,0:15:17.77,0:15:17.81,Captions-207+,,0,0,100,,{\an8\pos(1225.16,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.21\fscy72.21}正門
-Dialogue: 1,0:15:17.81,0:15:17.85,Captions-207+,,0,0,100,,{\an8\pos(1225.19,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.23\fscy72.23}正門
-Dialogue: 1,0:15:17.85,0:15:17.89,Captions-207+,,0,0,100,,{\an8\pos(1225.5,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.28\fscy72.28}正門
-Dialogue: 1,0:15:17.89,0:15:17.93,Captions-207+,,0,0,100,,{\an8\pos(1225.76,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.29\fscy72.29}正門
-Dialogue: 1,0:15:17.93,0:15:17.98,Captions-207+,,0,0,100,,{\an8\pos(1226.29,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.48\fscy72.48}正門
-Dialogue: 1,0:15:17.98,0:15:18.02,Captions-207+,,0,0,100,,{\an8\pos(1226.75,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.57\fscy72.57}正門
-Dialogue: 1,0:15:18.02,0:15:18.06,Captions-207+,,0,0,100,,{\an8\pos(1227.24,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.7\fscy72.7}正門
-Dialogue: 1,0:15:18.06,0:15:18.10,Captions-207+,,0,0,100,,{\an8\pos(1227.8,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.8\fscy72.8}正門
-Dialogue: 1,0:15:18.10,0:15:18.14,Captions-207+,,0,0,100,,{\an8\pos(1228.51,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.07\fscy73.07}正門
-Dialogue: 1,0:15:18.14,0:15:18.18,Captions-207+,,0,0,100,,{\an8\pos(1228.52,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.07\fscy73.07}正門
-Dialogue: 1,0:15:18.18,0:15:18.23,Captions-207+,,0,0,100,,{\an8\pos(1229.03,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.17\fscy73.17}正門
-Dialogue: 1,0:15:18.23,0:15:18.27,Captions-207+,,0,0,100,,{\an8\pos(1229.7,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.35\fscy73.35}正門
-Dialogue: 1,0:15:18.27,0:15:18.31,Captions-207+,,0,0,100,,{\an8\pos(1230.43,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.56\fscy73.56}正門
-Dialogue: 1,0:15:18.31,0:15:18.35,Captions-207+,,0,0,100,,{\an8\pos(1231.15,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.77\fscy73.77}正門
-Dialogue: 1,0:15:18.35,0:15:18.39,Captions-207+,,0,0,100,,{\an8\pos(1231.8,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.92\fscy73.92}正門
-Dialogue: 1,0:15:18.39,0:15:18.43,Captions-207+,,0,0,100,,{\an8\pos(1232.58,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx74.12\fscy74.12}正門
-Dialogue: 1,0:15:18.43,0:15:18.48,Captions-207+,,0,0,100,,{\an8\pos(1233.44,100)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx74.4\fscy74.4}正門
-Dialogue: 1,0:15:18.48,0:15:18.52,Captions-207+,,0,0,100,,{\an8\pos(1234.14,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.54\fscy74.54}正門
-Dialogue: 1,0:15:18.52,0:15:18.56,Captions-207+,,0,0,100,,{\an8\pos(1234.14,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.54\fscy74.54}正門
-Dialogue: 1,0:15:18.56,0:15:18.60,Captions-207+,,0,0,100,,{\an8\pos(1235.02,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.82\fscy74.82}正門
-Dialogue: 1,0:15:18.60,0:15:18.64,Captions-207+,,0,0,100,,{\an8\pos(1235.88,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.05\fscy75.05}正門
-Dialogue: 1,0:15:18.64,0:15:18.68,Captions-207+,,0,0,100,,{\an8\pos(1236.73,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.26\fscy75.26}正門
-Dialogue: 1,0:15:18.68,0:15:18.73,Captions-207+,,0,0,100,,{\an8\pos(1237.63,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.53\fscy75.53}正門
-Dialogue: 1,0:15:18.73,0:15:18.77,Captions-207+,,0,0,100,,{\an8\pos(1238.38,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.73\fscy75.73}正門
-Dialogue: 1,0:15:18.77,0:15:18.81,Captions-207+,,0,0,100,,{\an8\pos(1239.22,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.88\fscy75.88}正門
-Dialogue: 1,0:15:18.81,0:15:18.89,Captions-207+,,0,0,100,,{\an8\pos(1240.2,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.21\fscy76.21}正門
-Dialogue: 1,0:15:18.89,0:15:18.93,Captions-207+,,0,0,100,,{\an8\pos(1241.07,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.4\fscy76.4}正門
-Dialogue: 1,0:15:18.93,0:15:18.98,Captions-207+,,0,0,100,,{\an8\pos(1242.08,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.68\fscy76.68}正門
-Dialogue: 1,0:15:18.98,0:15:19.02,Captions-207+,,0,0,100,,{\an8\pos(1243,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.93\fscy76.93}正門
-Dialogue: 1,0:15:19.02,0:15:19.06,Captions-207+,,0,0,100,,{\an8\pos(1244.12,100)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx77.31\fscy77.31}正門
-Dialogue: 1,0:15:19.06,0:15:19.10,Captions-207+,,0,0,100,,{\an8\pos(1244.98,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx77.53\fscy77.53}正門
-Dialogue: 1,0:15:19.10,0:15:19.14,Captions-207+,,0,0,100,,{\an8\pos(1245.99,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx77.78\fscy77.78}正門
-Dialogue: 1,0:15:19.14,0:15:19.18,Captions-207+,,0,0,100,,{\an8\pos(1246.9,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78\fscy78}正門
-Dialogue: 1,0:15:19.18,0:15:19.27,Captions-207+,,0,0,100,,{\an8\pos(1248,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.34\fscy78.34}正門
-Dialogue: 1,0:15:19.27,0:15:19.31,Captions-207+,,0,0,100,,{\an8\pos(1249.1,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.63\fscy78.63}正門
-Dialogue: 1,0:15:19.31,0:15:19.35,Captions-207+,,0,0,100,,{\an8\pos(1250.05,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.86\fscy78.86}正門
-Dialogue: 1,0:15:19.35,0:15:19.39,Captions-207+,,0,0,100,,{\an8\pos(1251.18,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.2\fscy79.2}正門
-Dialogue: 1,0:15:19.39,0:15:19.44,Captions-207+,,0,0,100,,{\an8\pos(1252.17,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.42\fscy79.42}正門
-Dialogue: 1,0:15:19.44,0:15:19.48,Captions-207+,,0,0,100,,{\an8\pos(1253.22,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.71\fscy79.71}正門
-Dialogue: 1,0:15:19.48,0:15:19.52,Captions-207+,,0,0,100,,{\an8\pos(1254.44,100)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx80.08\fscy80.08}正門
-Dialogue: 1,0:15:19.52,0:15:19.60,Captions-207+,,0,0,100,,{\an8\pos(1255.58,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx80.43\fscy80.43}正門
-Dialogue: 1,0:15:19.60,0:15:19.64,Captions-207+,,0,0,100,,{\an8\pos(1256.6,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx80.64\fscy80.64}正門
-Dialogue: 1,0:15:19.64,0:15:19.69,Captions-207+,,0,0,100,,{\an8\pos(1257.9,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.04\fscy81.04}正門
-Dialogue: 1,0:15:19.69,0:15:19.73,Captions-207+,,0,0,100,,{\an8\pos(1259.01,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.35\fscy81.35}正門
-Dialogue: 1,0:15:19.73,0:15:19.77,Captions-207+,,0,0,100,,{\an8\pos(1260.18,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.66\fscy81.66}正門
-Dialogue: 1,0:15:19.77,0:15:19.81,Captions-207+,,0,0,100,,{\an8\pos(1261.28,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.9\fscy81.9}正門
-Dialogue: 1,0:15:19.81,0:15:19.85,Captions-207+,,0,0,100,,{\an8\pos(1262.46,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.21\fscy82.21}正門
-Dialogue: 1,0:15:19.85,0:15:19.94,Captions-207+,,0,0,100,,{\an8\pos(1263.71,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.58\fscy82.58}正門
-Dialogue: 1,0:15:19.94,0:15:19.98,Captions-207+,,0,0,100,,{\an8\pos(1264.99,100)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.96\fscy82.96}正門
-Dialogue: 1,0:15:19.98,0:15:20.02,Captions-207+,,0,0,100,,{\an8\pos(1266.19,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.27\fscy83.27}正門
-Dialogue: 1,0:15:20.02,0:15:20.06,Captions-207+,,0,0,100,,{\an8\pos(1267.46,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.61\fscy83.61}正門
-Dialogue: 1,0:15:20.06,0:15:20.10,Captions-207+,,0,0,100,,{\an8\pos(1268.75,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.96\fscy83.96}正門
-Dialogue: 1,0:15:20.10,0:15:20.14,Captions-207+,,0,0,100,,{\an8\pos(1270.01,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx84.29\fscy84.29}正門
-Dialogue: 1,0:15:20.14,0:15:20.19,Captions-207+,,0,0,100,,{\an8\pos(1271.31,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx84.64\fscy84.64}正門
-Dialogue: 1,0:15:20.19,0:15:20.23,Captions-207+,,0,0,100,,{\an8\pos(1272.67,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.01\fscy85.01}正門
-Dialogue: 1,0:15:20.23,0:15:20.31,Captions-207+,,0,0,100,,{\an8\pos(1273.97,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.38\fscy85.38}正門
-Dialogue: 1,0:15:20.31,0:15:20.35,Captions-207+,,0,0,100,,{\an8\pos(1275.34,100)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.75\fscy85.75}正門
-Dialogue: 1,0:15:20.35,0:15:20.39,Captions-207+,,0,0,100,,{\an8\pos(1276.49,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.03\fscy86.03}正門
-Dialogue: 1,0:15:20.39,0:15:20.44,Captions-207+,,0,0,100,,{\an8\pos(1278.12,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.63\fscy86.63}正門
-Dialogue: 1,0:15:20.44,0:15:20.48,Captions-207+,,0,0,100,,{\an8\pos(1279.29,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.76\fscy86.76}正門
-Dialogue: 1,0:15:20.48,0:15:20.52,Captions-207+,,0,0,100,,{\an8\pos(1280.75,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx87.17\fscy87.17}正門
-Dialogue: 1,0:15:20.52,0:15:20.56,Captions-207+,,0,0,100,,{\an8\pos(1282.09,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx87.53\fscy87.53}正門
-Dialogue: 1,0:15:20.56,0:15:20.64,Captions-207+,,0,0,100,,{\an8\pos(1283.72,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx88.05\fscy88.05}正門
-Dialogue: 1,0:15:20.64,0:15:20.69,Captions-207+,,0,0,100,,{\an8\pos(1285.13,100)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx88.37\fscy88.37}正門
-Dialogue: 1,0:15:20.69,0:15:20.73,Captions-207+,,0,0,100,,{\an8\pos(1286.5,100)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx88.8\fscy88.8}正門
-Dialogue: 1,0:15:20.73,0:15:20.77,Captions-207+,,0,0,100,,{\an8\pos(1287.92,100)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx89.13\fscy89.13}正門
-Dialogue: 1,0:15:20.77,0:15:20.81,Captions-207+,,0,0,100,,{\an8\pos(1289.42,100)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx89.52\fscy89.52}正門
-Dialogue: 1,0:15:20.81,0:15:20.85,Captions-207+,,0,0,100,,{\an8\pos(1291,100)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx90\fscy90}正門
-Dialogue: 0,0:15:17.56,0:15:17.72,Captions-207+,,0,0,100,,{\an8\pos(1224.64,100)\fnRoboto\b1\bord2.4\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx71.99\fscy71.99}正門
-Dialogue: 0,0:15:17.72,0:15:17.77,Captions-207+,,0,0,100,,{\an8\pos(1224.91,100)\fnRoboto\b1\bord2.4\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.02\fscy72.02}正門
-Dialogue: 0,0:15:17.77,0:15:17.81,Captions-207+,,0,0,100,,{\an8\pos(1225.16,100)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.21\fscy72.21}正門
-Dialogue: 0,0:15:17.81,0:15:17.85,Captions-207+,,0,0,100,,{\an8\pos(1225.19,100)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.23\fscy72.23}正門
-Dialogue: 0,0:15:17.85,0:15:17.89,Captions-207+,,0,0,100,,{\an8\pos(1225.5,100)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.28\fscy72.28}正門
-Dialogue: 0,0:15:17.89,0:15:17.93,Captions-207+,,0,0,100,,{\an8\pos(1225.76,100)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.29\fscy72.29}正門
-Dialogue: 0,0:15:17.93,0:15:17.98,Captions-207+,,0,0,100,,{\an8\pos(1226.29,100)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.48\fscy72.48}正門
-Dialogue: 0,0:15:17.98,0:15:18.02,Captions-207+,,0,0,100,,{\an8\pos(1226.75,100)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.57\fscy72.57}正門
-Dialogue: 0,0:15:18.02,0:15:18.06,Captions-207+,,0,0,100,,{\an8\pos(1227.24,100)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.7\fscy72.7}正門
-Dialogue: 0,0:15:18.06,0:15:18.10,Captions-207+,,0,0,100,,{\an8\pos(1227.8,100)\fnRoboto\b1\bord2.43\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.8\fscy72.8}正門
-Dialogue: 0,0:15:18.10,0:15:18.14,Captions-207+,,0,0,100,,{\an8\pos(1228.51,100)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.07\fscy73.07}正門
-Dialogue: 0,0:15:18.14,0:15:18.18,Captions-207+,,0,0,100,,{\an8\pos(1228.52,100)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.07\fscy73.07}正門
-Dialogue: 0,0:15:18.18,0:15:18.23,Captions-207+,,0,0,100,,{\an8\pos(1229.03,100)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.17\fscy73.17}正門
-Dialogue: 0,0:15:18.23,0:15:18.27,Captions-207+,,0,0,100,,{\an8\pos(1229.7,100)\fnRoboto\b1\bord2.45\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.35\fscy73.35}正門
-Dialogue: 0,0:15:18.27,0:15:18.31,Captions-207+,,0,0,100,,{\an8\pos(1230.43,100)\fnRoboto\b1\bord2.45\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.56\fscy73.56}正門
-Dialogue: 0,0:15:18.31,0:15:18.35,Captions-207+,,0,0,100,,{\an8\pos(1231.15,100)\fnRoboto\b1\bord2.46\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.77\fscy73.77}正門
-Dialogue: 0,0:15:18.35,0:15:18.39,Captions-207+,,0,0,100,,{\an8\pos(1231.8,100)\fnRoboto\b1\bord2.46\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.92\fscy73.92}正門
-Dialogue: 0,0:15:18.39,0:15:18.43,Captions-207+,,0,0,100,,{\an8\pos(1232.58,100)\fnRoboto\b1\bord2.47\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx74.12\fscy74.12}正門
-Dialogue: 0,0:15:18.43,0:15:18.48,Captions-207+,,0,0,100,,{\an8\pos(1233.44,100)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx74.4\fscy74.4}正門
-Dialogue: 0,0:15:18.48,0:15:18.52,Captions-207+,,0,0,100,,{\an8\pos(1234.14,100)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.54\fscy74.54}正門
-Dialogue: 0,0:15:18.52,0:15:18.56,Captions-207+,,0,0,100,,{\an8\pos(1234.14,100)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.54\fscy74.54}正門
-Dialogue: 0,0:15:18.56,0:15:18.60,Captions-207+,,0,0,100,,{\an8\pos(1235.02,100)\fnRoboto\b1\bord2.49\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.82\fscy74.82}正門
-Dialogue: 0,0:15:18.60,0:15:18.64,Captions-207+,,0,0,100,,{\an8\pos(1235.88,100)\fnRoboto\b1\bord2.5\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.05\fscy75.05}正門
-Dialogue: 0,0:15:18.64,0:15:18.68,Captions-207+,,0,0,100,,{\an8\pos(1236.73,100)\fnRoboto\b1\bord2.51\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.26\fscy75.26}正門
-Dialogue: 0,0:15:18.68,0:15:18.73,Captions-207+,,0,0,100,,{\an8\pos(1237.63,100)\fnRoboto\b1\bord2.52\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.53\fscy75.53}正門
-Dialogue: 0,0:15:18.73,0:15:18.77,Captions-207+,,0,0,100,,{\an8\pos(1238.38,100)\fnRoboto\b1\bord2.52\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.73\fscy75.73}正門
-Dialogue: 0,0:15:18.77,0:15:18.81,Captions-207+,,0,0,100,,{\an8\pos(1239.22,100)\fnRoboto\b1\bord2.53\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.88\fscy75.88}正門
-Dialogue: 0,0:15:18.81,0:15:18.89,Captions-207+,,0,0,100,,{\an8\pos(1240.2,100)\fnRoboto\b1\bord2.54\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.21\fscy76.21}正門
-Dialogue: 0,0:15:18.89,0:15:18.93,Captions-207+,,0,0,100,,{\an8\pos(1241.07,100)\fnRoboto\b1\bord2.55\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.4\fscy76.4}正門
-Dialogue: 0,0:15:18.93,0:15:18.98,Captions-207+,,0,0,100,,{\an8\pos(1242.08,100)\fnRoboto\b1\bord2.56\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.68\fscy76.68}正門
-Dialogue: 0,0:15:18.98,0:15:19.02,Captions-207+,,0,0,100,,{\an8\pos(1243,100)\fnRoboto\b1\bord2.56\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.93\fscy76.93}正門
-Dialogue: 0,0:15:19.02,0:15:19.06,Captions-207+,,0,0,100,,{\an8\pos(1244.12,100)\fnRoboto\b1\bord2.58\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx77.31\fscy77.31}正門
-Dialogue: 0,0:15:19.06,0:15:19.10,Captions-207+,,0,0,100,,{\an8\pos(1244.98,100)\fnRoboto\b1\bord2.58\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx77.53\fscy77.53}正門
-Dialogue: 0,0:15:19.10,0:15:19.14,Captions-207+,,0,0,100,,{\an8\pos(1245.99,100)\fnRoboto\b1\bord2.59\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx77.78\fscy77.78}正門
-Dialogue: 0,0:15:19.14,0:15:19.18,Captions-207+,,0,0,100,,{\an8\pos(1246.9,100)\fnRoboto\b1\bord2.6\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78\fscy78}正門
-Dialogue: 0,0:15:19.18,0:15:19.27,Captions-207+,,0,0,100,,{\an8\pos(1248,100)\fnRoboto\b1\bord2.61\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.34\fscy78.34}正門
-Dialogue: 0,0:15:19.27,0:15:19.31,Captions-207+,,0,0,100,,{\an8\pos(1249.1,100)\fnRoboto\b1\bord2.62\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.63\fscy78.63}正門
-Dialogue: 0,0:15:19.31,0:15:19.35,Captions-207+,,0,0,100,,{\an8\pos(1250.05,100)\fnRoboto\b1\bord2.63\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.86\fscy78.86}正門
-Dialogue: 0,0:15:19.35,0:15:19.39,Captions-207+,,0,0,100,,{\an8\pos(1251.18,100)\fnRoboto\b1\bord2.64\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.2\fscy79.2}正門
-Dialogue: 0,0:15:19.39,0:15:19.44,Captions-207+,,0,0,100,,{\an8\pos(1252.17,100)\fnRoboto\b1\bord2.65\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.42\fscy79.42}正門
-Dialogue: 0,0:15:19.44,0:15:19.48,Captions-207+,,0,0,100,,{\an8\pos(1253.22,100)\fnRoboto\b1\bord2.66\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.71\fscy79.71}正門
-Dialogue: 0,0:15:19.48,0:15:19.52,Captions-207+,,0,0,100,,{\an8\pos(1254.44,100)\fnRoboto\b1\bord2.67\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx80.08\fscy80.08}正門
-Dialogue: 0,0:15:19.52,0:15:19.60,Captions-207+,,0,0,100,,{\an8\pos(1255.58,100)\fnRoboto\b1\bord2.68\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx80.43\fscy80.43}正門
-Dialogue: 0,0:15:19.60,0:15:19.64,Captions-207+,,0,0,100,,{\an8\pos(1256.6,100)\fnRoboto\b1\bord2.69\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx80.64\fscy80.64}正門
-Dialogue: 0,0:15:19.64,0:15:19.69,Captions-207+,,0,0,100,,{\an8\pos(1257.9,100)\fnRoboto\b1\bord2.7\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.04\fscy81.04}正門
-Dialogue: 0,0:15:19.69,0:15:19.73,Captions-207+,,0,0,100,,{\an8\pos(1259.01,100)\fnRoboto\b1\bord2.71\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.35\fscy81.35}正門
-Dialogue: 0,0:15:19.73,0:15:19.77,Captions-207+,,0,0,100,,{\an8\pos(1260.18,100)\fnRoboto\b1\bord2.72\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.66\fscy81.66}正門
-Dialogue: 0,0:15:19.77,0:15:19.81,Captions-207+,,0,0,100,,{\an8\pos(1261.28,100)\fnRoboto\b1\bord2.73\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.9\fscy81.9}正門
-Dialogue: 0,0:15:19.81,0:15:19.85,Captions-207+,,0,0,100,,{\an8\pos(1262.46,100)\fnRoboto\b1\bord2.74\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.21\fscy82.21}正門
-Dialogue: 0,0:15:19.85,0:15:19.94,Captions-207+,,0,0,100,,{\an8\pos(1263.71,100)\fnRoboto\b1\bord2.75\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.58\fscy82.58}正門
-Dialogue: 0,0:15:19.94,0:15:19.98,Captions-207+,,0,0,100,,{\an8\pos(1264.99,100)\fnRoboto\b1\bord2.77\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.96\fscy82.96}正門
-Dialogue: 0,0:15:19.98,0:15:20.02,Captions-207+,,0,0,100,,{\an8\pos(1266.19,100)\fnRoboto\b1\bord2.78\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.27\fscy83.27}正門
-Dialogue: 0,0:15:20.02,0:15:20.06,Captions-207+,,0,0,100,,{\an8\pos(1267.46,100)\fnRoboto\b1\bord2.79\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.61\fscy83.61}正門
-Dialogue: 0,0:15:20.06,0:15:20.10,Captions-207+,,0,0,100,,{\an8\pos(1268.75,100)\fnRoboto\b1\bord2.8\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.96\fscy83.96}正門
-Dialogue: 0,0:15:20.10,0:15:20.14,Captions-207+,,0,0,100,,{\an8\pos(1270.01,100)\fnRoboto\b1\bord2.81\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx84.29\fscy84.29}正門
-Dialogue: 0,0:15:20.14,0:15:20.19,Captions-207+,,0,0,100,,{\an8\pos(1271.31,100)\fnRoboto\b1\bord2.82\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx84.64\fscy84.64}正門
-Dialogue: 0,0:15:20.19,0:15:20.23,Captions-207+,,0,0,100,,{\an8\pos(1272.67,100)\fnRoboto\b1\bord2.83\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.01\fscy85.01}正門
-Dialogue: 0,0:15:20.23,0:15:20.31,Captions-207+,,0,0,100,,{\an8\pos(1273.97,100)\fnRoboto\b1\bord2.85\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.38\fscy85.38}正門
-Dialogue: 0,0:15:20.31,0:15:20.35,Captions-207+,,0,0,100,,{\an8\pos(1275.34,100)\fnRoboto\b1\bord2.86\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.75\fscy85.75}正門
-Dialogue: 0,0:15:20.35,0:15:20.39,Captions-207+,,0,0,100,,{\an8\pos(1276.49,100)\fnRoboto\b1\bord2.87\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.03\fscy86.03}正門
-Dialogue: 0,0:15:20.39,0:15:20.44,Captions-207+,,0,0,100,,{\an8\pos(1278.12,100)\fnRoboto\b1\bord2.89\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.63\fscy86.63}正門
-Dialogue: 0,0:15:20.44,0:15:20.48,Captions-207+,,0,0,100,,{\an8\pos(1279.29,100)\fnRoboto\b1\bord2.89\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.76\fscy86.76}正門
-Dialogue: 0,0:15:20.48,0:15:20.52,Captions-207+,,0,0,100,,{\an8\pos(1280.75,100)\fnRoboto\b1\bord2.91\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx87.17\fscy87.17}正門
-Dialogue: 0,0:15:20.52,0:15:20.56,Captions-207+,,0,0,100,,{\an8\pos(1282.09,100)\fnRoboto\b1\bord2.92\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx87.53\fscy87.53}正門
-Dialogue: 0,0:15:20.56,0:15:20.64,Captions-207+,,0,0,100,,{\an8\pos(1283.72,100)\fnRoboto\b1\bord2.94\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx88.05\fscy88.05}正門
-Dialogue: 0,0:15:20.64,0:15:20.69,Captions-207+,,0,0,100,,{\an8\pos(1285.13,100)\fnRoboto\b1\bord2.95\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx88.37\fscy88.37}正門
-Dialogue: 0,0:15:20.69,0:15:20.73,Captions-207+,,0,0,100,,{\an8\pos(1286.5,100)\fnRoboto\b1\bord2.96\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx88.8\fscy88.8}正門
-Dialogue: 0,0:15:20.73,0:15:20.77,Captions-207+,,0,0,100,,{\an8\pos(1287.92,100)\fnRoboto\b1\bord2.97\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx89.13\fscy89.13}正門
-Dialogue: 0,0:15:20.77,0:15:20.81,Captions-207+,,0,0,100,,{\an8\pos(1289.42,100)\fnRoboto\b1\bord2.98\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx89.52\fscy89.52}正門
-Dialogue: 0,0:15:20.81,0:15:20.85,Captions-207+,,0,0,100,,{\an8\pos(1291,100)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx90\fscy90}正門
+Dialogue: 1,0:15:17.56,0:15:17.72,Captions-207+,,0,0,100,,{=128}{\an8\pos(1224.64,364.03)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx71.99\fscy71.99}正門
+Dialogue: 1,0:15:17.72,0:15:17.77,Captions-207+,,0,0,100,,{=128}{\an8\pos(1224.91,364.02)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.02\fscy72.02}正門
+Dialogue: 1,0:15:17.77,0:15:17.81,Captions-207+,,0,0,100,,{=128}{\an8\pos(1225.16,363.99)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.21\fscy72.21}正門
+Dialogue: 1,0:15:17.81,0:15:17.85,Captions-207+,,0,0,100,,{=128}{\an8\pos(1225.19,363.98)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.23\fscy72.23}正門
+Dialogue: 1,0:15:17.85,0:15:17.89,Captions-207+,,0,0,100,,{=128}{\an8\pos(1225.5,363.74)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.28\fscy72.28}正門
+Dialogue: 1,0:15:17.89,0:15:17.93,Captions-207+,,0,0,100,,{=128}{\an8\pos(1225.76,363.47)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.29\fscy72.29}正門
+Dialogue: 1,0:15:17.93,0:15:17.98,Captions-207+,,0,0,100,,{=128}{\an8\pos(1226.29,363.18)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.48\fscy72.48}正門
+Dialogue: 1,0:15:17.98,0:15:18.02,Captions-207+,,0,0,100,,{=128}{\an8\pos(1226.75,362.84)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.57\fscy72.57}正門
+Dialogue: 1,0:15:18.02,0:15:18.06,Captions-207+,,0,0,100,,{=128}{\an8\pos(1227.24,362.48)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.7\fscy72.7}正門
+Dialogue: 1,0:15:18.06,0:15:18.10,Captions-207+,,0,0,100,,{=128}{\an8\pos(1227.8,362.11)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx72.8\fscy72.8}正門
+Dialogue: 1,0:15:18.10,0:15:18.14,Captions-207+,,0,0,100,,{=128}{\an8\pos(1228.51,361.7)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.07\fscy73.07}正門
+Dialogue: 1,0:15:18.14,0:15:18.18,Captions-207+,,0,0,100,,{=128}{\an8\pos(1228.52,361.7)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.07\fscy73.07}正門
+Dialogue: 1,0:15:18.18,0:15:18.23,Captions-207+,,0,0,100,,{=128}{\an8\pos(1229.03,361.28)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.17\fscy73.17}正門
+Dialogue: 1,0:15:18.23,0:15:18.27,Captions-207+,,0,0,100,,{=128}{\an8\pos(1229.7,360.84)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.35\fscy73.35}正門
+Dialogue: 1,0:15:18.27,0:15:18.31,Captions-207+,,0,0,100,,{=128}{\an8\pos(1230.43,360.39)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.56\fscy73.56}正門
+Dialogue: 1,0:15:18.31,0:15:18.35,Captions-207+,,0,0,100,,{=128}{\an8\pos(1231.15,359.95)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.77\fscy73.77}正門
+Dialogue: 1,0:15:18.35,0:15:18.39,Captions-207+,,0,0,100,,{=128}{\an8\pos(1231.8,359.46)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx73.92\fscy73.92}正門
+Dialogue: 1,0:15:18.39,0:15:18.43,Captions-207+,,0,0,100,,{=128}{\an8\pos(1232.58,358.93)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx74.12\fscy74.12}正門
+Dialogue: 1,0:15:18.43,0:15:18.48,Captions-207+,,0,0,100,,{=128}{\an8\pos(1233.44,358.41)\fnRoboto\b1\bord0\c&H000000&\blur0.74\fscx74.4\fscy74.4}正門
+Dialogue: 1,0:15:18.48,0:15:18.52,Captions-207+,,0,0,100,,{=128}{\an8\pos(1234.14,357.91)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.54\fscy74.54}正門
+Dialogue: 1,0:15:18.52,0:15:18.56,Captions-207+,,0,0,100,,{=128}{\an8\pos(1234.14,357.9)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.54\fscy74.54}正門
+Dialogue: 1,0:15:18.56,0:15:18.60,Captions-207+,,0,0,100,,{=128}{\an8\pos(1235.02,357.32)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx74.82\fscy74.82}正門
+Dialogue: 1,0:15:18.60,0:15:18.64,Captions-207+,,0,0,100,,{=128}{\an8\pos(1235.88,356.78)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.05\fscy75.05}正門
+Dialogue: 1,0:15:18.64,0:15:18.68,Captions-207+,,0,0,100,,{=128}{\an8\pos(1236.73,356.21)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.26\fscy75.26}正門
+Dialogue: 1,0:15:18.68,0:15:18.73,Captions-207+,,0,0,100,,{=128}{\an8\pos(1237.63,355.65)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.53\fscy75.53}正門
+Dialogue: 1,0:15:18.73,0:15:18.77,Captions-207+,,0,0,100,,{=128}{\an8\pos(1238.38,355.06)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.73\fscy75.73}正門
+Dialogue: 1,0:15:18.77,0:15:18.81,Captions-207+,,0,0,100,,{=128}{\an8\pos(1239.22,354.45)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx75.88\fscy75.88}正門
+Dialogue: 1,0:15:18.81,0:15:18.89,Captions-207+,,0,0,100,,{=128}{\an8\pos(1240.2,353.88)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.21\fscy76.21}正門
+Dialogue: 1,0:15:18.89,0:15:18.93,Captions-207+,,0,0,100,,{=128}{\an8\pos(1241.07,353.31)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.4\fscy76.4}正門
+Dialogue: 1,0:15:18.93,0:15:18.98,Captions-207+,,0,0,100,,{=128}{\an8\pos(1242.08,352.64)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.68\fscy76.68}正門
+Dialogue: 1,0:15:18.98,0:15:19.02,Captions-207+,,0,0,100,,{=128}{\an8\pos(1243,351.95)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx76.93\fscy76.93}正門
+Dialogue: 1,0:15:19.02,0:15:19.06,Captions-207+,,0,0,100,,{=128}{\an8\pos(1244.12,351.34)\fnRoboto\b1\bord0\c&H000000&\blur0.75\fscx77.31\fscy77.31}正門
+Dialogue: 1,0:15:19.06,0:15:19.10,Captions-207+,,0,0,100,,{=128}{\an8\pos(1244.98,350.67)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx77.53\fscy77.53}正門
+Dialogue: 1,0:15:19.10,0:15:19.14,Captions-207+,,0,0,100,,{=128}{\an8\pos(1245.99,349.97)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx77.78\fscy77.78}正門
+Dialogue: 1,0:15:19.14,0:15:19.18,Captions-207+,,0,0,100,,{=128}{\an8\pos(1246.9,349.39)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78\fscy78}正門
+Dialogue: 1,0:15:19.18,0:15:19.27,Captions-207+,,0,0,100,,{=128}{\an8\pos(1248,348.68)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.34\fscy78.34}正門
+Dialogue: 1,0:15:19.27,0:15:19.31,Captions-207+,,0,0,100,,{=128}{\an8\pos(1249.1,347.97)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.63\fscy78.63}正門
+Dialogue: 1,0:15:19.31,0:15:19.35,Captions-207+,,0,0,100,,{=128}{\an8\pos(1250.05,347.32)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx78.86\fscy78.86}正門
+Dialogue: 1,0:15:19.35,0:15:19.39,Captions-207+,,0,0,100,,{=128}{\an8\pos(1251.18,346.61)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.2\fscy79.2}正門
+Dialogue: 1,0:15:19.39,0:15:19.44,Captions-207+,,0,0,100,,{=128}{\an8\pos(1252.17,345.9)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.42\fscy79.42}正門
+Dialogue: 1,0:15:19.44,0:15:19.48,Captions-207+,,0,0,100,,{=128}{\an8\pos(1253.22,345.19)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx79.71\fscy79.71}正門
+Dialogue: 1,0:15:19.48,0:15:19.52,Captions-207+,,0,0,100,,{=128}{\an8\pos(1254.44,344.38)\fnRoboto\b1\bord0\c&H000000&\blur0.76\fscx80.08\fscy80.08}正門
+Dialogue: 1,0:15:19.52,0:15:19.60,Captions-207+,,0,0,100,,{=128}{\an8\pos(1255.58,343.68)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx80.43\fscy80.43}正門
+Dialogue: 1,0:15:19.60,0:15:19.64,Captions-207+,,0,0,100,,{=128}{\an8\pos(1256.6,342.95)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx80.64\fscy80.64}正門
+Dialogue: 1,0:15:19.64,0:15:19.69,Captions-207+,,0,0,100,,{=128}{\an8\pos(1257.9,342.14)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.04\fscy81.04}正門
+Dialogue: 1,0:15:19.69,0:15:19.73,Captions-207+,,0,0,100,,{=128}{\an8\pos(1259.01,341.37)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.35\fscy81.35}正門
+Dialogue: 1,0:15:19.73,0:15:19.77,Captions-207+,,0,0,100,,{=128}{\an8\pos(1260.18,340.62)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.66\fscy81.66}正門
+Dialogue: 1,0:15:19.77,0:15:19.81,Captions-207+,,0,0,100,,{=128}{\an8\pos(1261.28,339.8)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx81.9\fscy81.9}正門
+Dialogue: 1,0:15:19.81,0:15:19.85,Captions-207+,,0,0,100,,{=128}{\an8\pos(1262.46,339.02)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.21\fscy82.21}正門
+Dialogue: 1,0:15:19.85,0:15:19.94,Captions-207+,,0,0,100,,{=128}{\an8\pos(1263.71,338.24)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.58\fscy82.58}正門
+Dialogue: 1,0:15:19.94,0:15:19.98,Captions-207+,,0,0,100,,{=128}{\an8\pos(1264.99,337.41)\fnRoboto\b1\bord0\c&H000000&\blur0.77\fscx82.96\fscy82.96}正門
+Dialogue: 1,0:15:19.98,0:15:20.02,Captions-207+,,0,0,100,,{=128}{\an8\pos(1266.19,336.6)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.27\fscy83.27}正門
+Dialogue: 1,0:15:20.02,0:15:20.06,Captions-207+,,0,0,100,,{=128}{\an8\pos(1267.46,335.75)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.61\fscy83.61}正門
+Dialogue: 1,0:15:20.06,0:15:20.10,Captions-207+,,0,0,100,,{=128}{\an8\pos(1268.75,334.92)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx83.96\fscy83.96}正門
+Dialogue: 1,0:15:20.10,0:15:20.14,Captions-207+,,0,0,100,,{=128}{\an8\pos(1270.01,334.04)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx84.29\fscy84.29}正門
+Dialogue: 1,0:15:20.14,0:15:20.19,Captions-207+,,0,0,100,,{=128}{\an8\pos(1271.31,333.16)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx84.64\fscy84.64}正門
+Dialogue: 1,0:15:20.19,0:15:20.23,Captions-207+,,0,0,100,,{=128}{\an8\pos(1272.67,332.3)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.01\fscy85.01}正門
+Dialogue: 1,0:15:20.23,0:15:20.31,Captions-207+,,0,0,100,,{=128}{\an8\pos(1273.97,331.36)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.38\fscy85.38}正門
+Dialogue: 1,0:15:20.31,0:15:20.35,Captions-207+,,0,0,100,,{=128}{\an8\pos(1275.34,330.48)\fnRoboto\b1\bord0\c&H000000&\blur0.78\fscx85.75\fscy85.75}正門
+Dialogue: 1,0:15:20.35,0:15:20.39,Captions-207+,,0,0,100,,{=128}{\an8\pos(1276.49,329.61)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.03\fscy86.03}正門
+Dialogue: 1,0:15:20.39,0:15:20.44,Captions-207+,,0,0,100,,{=128}{\an8\pos(1278.12,328.76)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.63\fscy86.63}正門
+Dialogue: 1,0:15:20.44,0:15:20.48,Captions-207+,,0,0,100,,{=128}{\an8\pos(1279.29,327.78)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx86.76\fscy86.76}正門
+Dialogue: 1,0:15:20.48,0:15:20.52,Captions-207+,,0,0,100,,{=128}{\an8\pos(1280.75,326.85)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx87.17\fscy87.17}正門
+Dialogue: 1,0:15:20.52,0:15:20.56,Captions-207+,,0,0,100,,{=128}{\an8\pos(1282.09,325.85)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx87.53\fscy87.53}正門
+Dialogue: 1,0:15:20.56,0:15:20.64,Captions-207+,,0,0,100,,{=128}{\an8\pos(1283.72,324.9)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx88.05\fscy88.05}正門
+Dialogue: 1,0:15:20.64,0:15:20.69,Captions-207+,,0,0,100,,{=128}{\an8\pos(1285.13,323.93)\fnRoboto\b1\bord0\c&H000000&\blur0.79\fscx88.37\fscy88.37}正門
+Dialogue: 1,0:15:20.69,0:15:20.73,Captions-207+,,0,0,100,,{=128}{\an8\pos(1286.5,323.08)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx88.8\fscy88.8}正門
+Dialogue: 1,0:15:20.73,0:15:20.77,Captions-207+,,0,0,100,,{=128}{\an8\pos(1287.92,322.04)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx89.13\fscy89.13}正門
+Dialogue: 1,0:15:20.77,0:15:20.81,Captions-207+,,0,0,100,,{=128}{\an8\pos(1289.42,321.05)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx89.52\fscy89.52}正門
+Dialogue: 1,0:15:20.81,0:15:20.85,Captions-207+,,0,0,100,,{=128}{\an8\pos(1291,320)\fnRoboto\b1\bord0\c&H000000&\blur0.8\fscx90\fscy90}正門
+Dialogue: 0,0:15:17.56,0:15:17.72,Captions-207+,,0,0,100,,{=56=127}{\an8\pos(1224.64,364.03)\fnRoboto\b1\bord2.4\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx71.99\fscy71.99}正門
+Dialogue: 0,0:15:17.72,0:15:17.77,Captions-207+,,0,0,100,,{=127=129}{\an8\pos(1224.91,364.02)\fnRoboto\b1\bord2.4\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.02\fscy72.02}正門
+Dialogue: 0,0:15:17.77,0:15:17.81,Captions-207+,,0,0,100,,{=127=130}{\an8\pos(1225.16,363.99)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.21\fscy72.21}正門
+Dialogue: 0,0:15:17.81,0:15:17.85,Captions-207+,,0,0,100,,{=127=131}{\an8\pos(1225.19,363.98)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.23\fscy72.23}正門
+Dialogue: 0,0:15:17.85,0:15:17.89,Captions-207+,,0,0,100,,{=127=132}{\an8\pos(1225.5,363.74)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.28\fscy72.28}正門
+Dialogue: 0,0:15:17.89,0:15:17.93,Captions-207+,,0,0,100,,{=127=133}{\an8\pos(1225.76,363.47)\fnRoboto\b1\bord2.41\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.29\fscy72.29}正門
+Dialogue: 0,0:15:17.93,0:15:17.98,Captions-207+,,0,0,100,,{=127=134}{\an8\pos(1226.29,363.18)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.48\fscy72.48}正門
+Dialogue: 0,0:15:17.98,0:15:18.02,Captions-207+,,0,0,100,,{=127=135}{\an8\pos(1226.75,362.84)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.57\fscy72.57}正門
+Dialogue: 0,0:15:18.02,0:15:18.06,Captions-207+,,0,0,100,,{=127=136}{\an8\pos(1227.24,362.48)\fnRoboto\b1\bord2.42\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.7\fscy72.7}正門
+Dialogue: 0,0:15:18.06,0:15:18.10,Captions-207+,,0,0,100,,{=127=137}{\an8\pos(1227.8,362.11)\fnRoboto\b1\bord2.43\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx72.8\fscy72.8}正門
+Dialogue: 0,0:15:18.10,0:15:18.14,Captions-207+,,0,0,100,,{=127=138}{\an8\pos(1228.51,361.7)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.07\fscy73.07}正門
+Dialogue: 0,0:15:18.14,0:15:18.18,Captions-207+,,0,0,100,,{=127=139}{\an8\pos(1228.52,361.7)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.07\fscy73.07}正門
+Dialogue: 0,0:15:18.18,0:15:18.23,Captions-207+,,0,0,100,,{=127=140}{\an8\pos(1229.03,361.28)\fnRoboto\b1\bord2.44\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.17\fscy73.17}正門
+Dialogue: 0,0:15:18.23,0:15:18.27,Captions-207+,,0,0,100,,{=127=141}{\an8\pos(1229.7,360.84)\fnRoboto\b1\bord2.45\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.35\fscy73.35}正門
+Dialogue: 0,0:15:18.27,0:15:18.31,Captions-207+,,0,0,100,,{=127=142}{\an8\pos(1230.43,360.39)\fnRoboto\b1\bord2.45\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.56\fscy73.56}正門
+Dialogue: 0,0:15:18.31,0:15:18.35,Captions-207+,,0,0,100,,{=127=143}{\an8\pos(1231.15,359.95)\fnRoboto\b1\bord2.46\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.77\fscy73.77}正門
+Dialogue: 0,0:15:18.35,0:15:18.39,Captions-207+,,0,0,100,,{=127=144}{\an8\pos(1231.8,359.46)\fnRoboto\b1\bord2.46\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx73.92\fscy73.92}正門
+Dialogue: 0,0:15:18.39,0:15:18.43,Captions-207+,,0,0,100,,{=127=145}{\an8\pos(1232.58,358.93)\fnRoboto\b1\bord2.47\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx74.12\fscy74.12}正門
+Dialogue: 0,0:15:18.43,0:15:18.48,Captions-207+,,0,0,100,,{=127=146}{\an8\pos(1233.44,358.41)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.74\fscx74.4\fscy74.4}正門
+Dialogue: 0,0:15:18.48,0:15:18.52,Captions-207+,,0,0,100,,{=127=147}{\an8\pos(1234.14,357.91)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.54\fscy74.54}正門
+Dialogue: 0,0:15:18.52,0:15:18.56,Captions-207+,,0,0,100,,{=127=148}{\an8\pos(1234.14,357.9)\fnRoboto\b1\bord2.48\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.54\fscy74.54}正門
+Dialogue: 0,0:15:18.56,0:15:18.60,Captions-207+,,0,0,100,,{=127=149}{\an8\pos(1235.02,357.32)\fnRoboto\b1\bord2.49\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx74.82\fscy74.82}正門
+Dialogue: 0,0:15:18.60,0:15:18.64,Captions-207+,,0,0,100,,{=127=150}{\an8\pos(1235.88,356.78)\fnRoboto\b1\bord2.5\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.05\fscy75.05}正門
+Dialogue: 0,0:15:18.64,0:15:18.68,Captions-207+,,0,0,100,,{=127=151}{\an8\pos(1236.73,356.21)\fnRoboto\b1\bord2.51\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.26\fscy75.26}正門
+Dialogue: 0,0:15:18.68,0:15:18.73,Captions-207+,,0,0,100,,{=127=152}{\an8\pos(1237.63,355.65)\fnRoboto\b1\bord2.52\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.53\fscy75.53}正門
+Dialogue: 0,0:15:18.73,0:15:18.77,Captions-207+,,0,0,100,,{=127=153}{\an8\pos(1238.38,355.06)\fnRoboto\b1\bord2.52\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.73\fscy75.73}正門
+Dialogue: 0,0:15:18.77,0:15:18.81,Captions-207+,,0,0,100,,{=127=154}{\an8\pos(1239.22,354.45)\fnRoboto\b1\bord2.53\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx75.88\fscy75.88}正門
+Dialogue: 0,0:15:18.81,0:15:18.89,Captions-207+,,0,0,100,,{=127=155}{\an8\pos(1240.2,353.88)\fnRoboto\b1\bord2.54\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.21\fscy76.21}正門
+Dialogue: 0,0:15:18.89,0:15:18.93,Captions-207+,,0,0,100,,{=127=156}{\an8\pos(1241.07,353.31)\fnRoboto\b1\bord2.55\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.4\fscy76.4}正門
+Dialogue: 0,0:15:18.93,0:15:18.98,Captions-207+,,0,0,100,,{=127=157}{\an8\pos(1242.08,352.64)\fnRoboto\b1\bord2.56\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.68\fscy76.68}正門
+Dialogue: 0,0:15:18.98,0:15:19.02,Captions-207+,,0,0,100,,{=127=158}{\an8\pos(1243,351.95)\fnRoboto\b1\bord2.56\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx76.93\fscy76.93}正門
+Dialogue: 0,0:15:19.02,0:15:19.06,Captions-207+,,0,0,100,,{=127=159}{\an8\pos(1244.12,351.34)\fnRoboto\b1\bord2.58\c&HFFFFFF&\3c&HFFFFFF&\blur0.75\fscx77.31\fscy77.31}正門
+Dialogue: 0,0:15:19.06,0:15:19.10,Captions-207+,,0,0,100,,{=127=160}{\an8\pos(1244.98,350.67)\fnRoboto\b1\bord2.58\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx77.53\fscy77.53}正門
+Dialogue: 0,0:15:19.10,0:15:19.14,Captions-207+,,0,0,100,,{=127=161}{\an8\pos(1245.99,349.97)\fnRoboto\b1\bord2.59\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx77.78\fscy77.78}正門
+Dialogue: 0,0:15:19.14,0:15:19.18,Captions-207+,,0,0,100,,{=127=162}{\an8\pos(1246.9,349.39)\fnRoboto\b1\bord2.6\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78\fscy78}正門
+Dialogue: 0,0:15:19.18,0:15:19.27,Captions-207+,,0,0,100,,{=127=163}{\an8\pos(1248,348.68)\fnRoboto\b1\bord2.61\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.34\fscy78.34}正門
+Dialogue: 0,0:15:19.27,0:15:19.31,Captions-207+,,0,0,100,,{=127=164}{\an8\pos(1249.1,347.97)\fnRoboto\b1\bord2.62\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.63\fscy78.63}正門
+Dialogue: 0,0:15:19.31,0:15:19.35,Captions-207+,,0,0,100,,{=127=165}{\an8\pos(1250.05,347.32)\fnRoboto\b1\bord2.63\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx78.86\fscy78.86}正門
+Dialogue: 0,0:15:19.35,0:15:19.39,Captions-207+,,0,0,100,,{=127=166}{\an8\pos(1251.18,346.61)\fnRoboto\b1\bord2.64\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.2\fscy79.2}正門
+Dialogue: 0,0:15:19.39,0:15:19.44,Captions-207+,,0,0,100,,{=127=167}{\an8\pos(1252.17,345.9)\fnRoboto\b1\bord2.65\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.42\fscy79.42}正門
+Dialogue: 0,0:15:19.44,0:15:19.48,Captions-207+,,0,0,100,,{=127=168}{\an8\pos(1253.22,345.19)\fnRoboto\b1\bord2.66\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx79.71\fscy79.71}正門
+Dialogue: 0,0:15:19.48,0:15:19.52,Captions-207+,,0,0,100,,{=127=169}{\an8\pos(1254.44,344.38)\fnRoboto\b1\bord2.67\c&HFFFFFF&\3c&HFFFFFF&\blur0.76\fscx80.08\fscy80.08}正門
+Dialogue: 0,0:15:19.52,0:15:19.60,Captions-207+,,0,0,100,,{=127=170}{\an8\pos(1255.58,343.68)\fnRoboto\b1\bord2.68\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx80.43\fscy80.43}正門
+Dialogue: 0,0:15:19.60,0:15:19.64,Captions-207+,,0,0,100,,{=127=171}{\an8\pos(1256.6,342.95)\fnRoboto\b1\bord2.69\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx80.64\fscy80.64}正門
+Dialogue: 0,0:15:19.64,0:15:19.69,Captions-207+,,0,0,100,,{=127=172}{\an8\pos(1257.9,342.14)\fnRoboto\b1\bord2.7\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.04\fscy81.04}正門
+Dialogue: 0,0:15:19.69,0:15:19.73,Captions-207+,,0,0,100,,{=127=173}{\an8\pos(1259.01,341.37)\fnRoboto\b1\bord2.71\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.35\fscy81.35}正門
+Dialogue: 0,0:15:19.73,0:15:19.77,Captions-207+,,0,0,100,,{=127=174}{\an8\pos(1260.18,340.62)\fnRoboto\b1\bord2.72\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.66\fscy81.66}正門
+Dialogue: 0,0:15:19.77,0:15:19.81,Captions-207+,,0,0,100,,{=127=175}{\an8\pos(1261.28,339.8)\fnRoboto\b1\bord2.73\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx81.9\fscy81.9}正門
+Dialogue: 0,0:15:19.81,0:15:19.85,Captions-207+,,0,0,100,,{=127=176}{\an8\pos(1262.46,339.02)\fnRoboto\b1\bord2.74\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.21\fscy82.21}正門
+Dialogue: 0,0:15:19.85,0:15:19.94,Captions-207+,,0,0,100,,{=127=177}{\an8\pos(1263.71,338.24)\fnRoboto\b1\bord2.75\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.58\fscy82.58}正門
+Dialogue: 0,0:15:19.94,0:15:19.98,Captions-207+,,0,0,100,,{=127=178}{\an8\pos(1264.99,337.41)\fnRoboto\b1\bord2.77\c&HFFFFFF&\3c&HFFFFFF&\blur0.77\fscx82.96\fscy82.96}正門
+Dialogue: 0,0:15:19.98,0:15:20.02,Captions-207+,,0,0,100,,{=127=179}{\an8\pos(1266.19,336.6)\fnRoboto\b1\bord2.78\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.27\fscy83.27}正門
+Dialogue: 0,0:15:20.02,0:15:20.06,Captions-207+,,0,0,100,,{=127=180}{\an8\pos(1267.46,335.75)\fnRoboto\b1\bord2.79\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.61\fscy83.61}正門
+Dialogue: 0,0:15:20.06,0:15:20.10,Captions-207+,,0,0,100,,{=127=181}{\an8\pos(1268.75,334.92)\fnRoboto\b1\bord2.8\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx83.96\fscy83.96}正門
+Dialogue: 0,0:15:20.10,0:15:20.14,Captions-207+,,0,0,100,,{=127=182}{\an8\pos(1270.01,334.04)\fnRoboto\b1\bord2.81\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx84.29\fscy84.29}正門
+Dialogue: 0,0:15:20.14,0:15:20.19,Captions-207+,,0,0,100,,{=127=183}{\an8\pos(1271.31,333.16)\fnRoboto\b1\bord2.82\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx84.64\fscy84.64}正門
+Dialogue: 0,0:15:20.19,0:15:20.23,Captions-207+,,0,0,100,,{=127=184}{\an8\pos(1272.67,332.3)\fnRoboto\b1\bord2.83\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.01\fscy85.01}正門
+Dialogue: 0,0:15:20.23,0:15:20.31,Captions-207+,,0,0,100,,{=127=185}{\an8\pos(1273.97,331.36)\fnRoboto\b1\bord2.85\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.38\fscy85.38}正門
+Dialogue: 0,0:15:20.31,0:15:20.35,Captions-207+,,0,0,100,,{=127=186}{\an8\pos(1275.34,330.48)\fnRoboto\b1\bord2.86\c&HFFFFFF&\3c&HFFFFFF&\blur0.78\fscx85.75\fscy85.75}正門
+Dialogue: 0,0:15:20.35,0:15:20.39,Captions-207+,,0,0,100,,{=127=187}{\an8\pos(1276.49,329.61)\fnRoboto\b1\bord2.87\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.03\fscy86.03}正門
+Dialogue: 0,0:15:20.39,0:15:20.44,Captions-207+,,0,0,100,,{=127=188}{\an8\pos(1278.12,328.76)\fnRoboto\b1\bord2.89\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.63\fscy86.63}正門
+Dialogue: 0,0:15:20.44,0:15:20.48,Captions-207+,,0,0,100,,{=127=189}{\an8\pos(1279.29,327.78)\fnRoboto\b1\bord2.89\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx86.76\fscy86.76}正門
+Dialogue: 0,0:15:20.48,0:15:20.52,Captions-207+,,0,0,100,,{=127=190}{\an8\pos(1280.75,326.85)\fnRoboto\b1\bord2.91\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx87.17\fscy87.17}正門
+Dialogue: 0,0:15:20.52,0:15:20.56,Captions-207+,,0,0,100,,{=127=191}{\an8\pos(1282.09,325.85)\fnRoboto\b1\bord2.92\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx87.53\fscy87.53}正門
+Dialogue: 0,0:15:20.56,0:15:20.64,Captions-207+,,0,0,100,,{=127=192}{\an8\pos(1283.72,324.9)\fnRoboto\b1\bord2.94\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx88.05\fscy88.05}正門
+Dialogue: 0,0:15:20.64,0:15:20.69,Captions-207+,,0,0,100,,{=127=193}{\an8\pos(1285.13,323.93)\fnRoboto\b1\bord2.95\c&HFFFFFF&\3c&HFFFFFF&\blur0.79\fscx88.37\fscy88.37}正門
+Dialogue: 0,0:15:20.69,0:15:20.73,Captions-207+,,0,0,100,,{=127=194}{\an8\pos(1286.5,323.08)\fnRoboto\b1\bord2.96\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx88.8\fscy88.8}正門
+Dialogue: 0,0:15:20.73,0:15:20.77,Captions-207+,,0,0,100,,{=127=195}{\an8\pos(1287.92,322.04)\fnRoboto\b1\bord2.97\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx89.13\fscy89.13}正門
+Dialogue: 0,0:15:20.77,0:15:20.81,Captions-207+,,0,0,100,,{=127=196}{\an8\pos(1289.42,321.05)\fnRoboto\b1\bord2.98\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx89.52\fscy89.52}正門
+Dialogue: 0,0:15:20.81,0:15:20.85,Captions-207+,,0,0,100,,{=127=197}{\an8\pos(1291,320)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8\fscx90\fscy90}正門
 Comment: 1,0:15:17.56,0:15:20.86,Captions-207+,,0,0,0,,{=10}{\pos(1286.95,422.84)\blur0.75\fscx115.88\fscy115.88}Main Gate
 Dialogue: 0,0:12:21.14,0:12:25.89,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx150\fscy150\b600\bord3\3c&H0E0E11&\c&H0E0E11&\1a&HFF&\blur0.8\fad(476,0)\t(434,476,\1a&H00&)}法院 本島\N司法之島
 Dialogue: 1,0:12:21.14,0:12:25.89,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(476,0)\fscx150\fscy150\bord0\blur0.8\b600\c&HE6E6E6&}法院 本島\N司法之島
@@ -505,201 +505,201 @@ Comment: 0,0:12:34.78,0:12:40.24,Captions-207+,,0,0,0,,{=201}Baskerville
 Dialogue: 0,0:12:34.78,0:12:35.78,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\1a&HFF&\blur0.8\fad(975,0)\t(933,975,\1a&H00&)}「三頭」巴斯卡維爾\N首席法官 司法之島
 Dialogue: 1,0:12:34.78,0:12:35.78,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(975,0)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
 Dialogue: 1,0:12:34.78,0:12:35.78,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(975,0)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:35.77,0:12:35.81,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:35.81,0:12:35.90,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:35.90,0:12:36.02,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.02,0:12:36.06,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.06,0:12:36.11,Captions-207+,,0,0,200,,{\an8\pos(960.04,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.11,0:12:36.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.27,0:12:36.31,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.31,0:12:36.36,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.36,0:12:36.40,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.40,0:12:36.44,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.44,0:12:36.48,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.48,0:12:36.56,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.56,0:12:36.61,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.61,0:12:36.81,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.81,0:12:36.94,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.94,0:12:36.98,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:36.98,0:12:37.02,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.02,0:12:37.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.27,0:12:37.31,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.31,0:12:37.36,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.36,0:12:37.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.40,0:12:37.44,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.44,0:12:37.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.48,0:12:37.52,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.52,0:12:37.56,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.56,0:12:37.65,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.65,0:12:37.69,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.69,0:12:37.73,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.73,0:12:37.77,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.77,0:12:37.82,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.82,0:12:37.90,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.90,0:12:37.94,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:37.94,0:12:38.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.11,0:12:38.19,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.19,0:12:38.27,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.27,0:12:38.36,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.36,0:12:38.40,Captions-207+,,0,0,200,,{\an8\pos(960.03,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.40,0:12:38.48,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.48,0:12:38.57,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.57,0:12:38.61,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.61,0:12:38.77,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.77,0:12:38.82,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.82,0:12:38.94,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.94,0:12:38.98,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:38.98,0:12:39.02,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.02,0:12:39.15,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.15,0:12:39.19,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.19,0:12:39.23,Captions-207+,,0,0,200,,{\an8\pos(959.83,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.23,0:12:39.32,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.32,0:12:39.36,Captions-207+,,0,0,200,,{\an8\pos(960.02,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.36,0:12:39.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.40,0:12:39.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.48,0:12:39.53,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.53,0:12:39.61,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.61,0:12:39.65,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.65,0:12:39.69,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.69,0:12:39.73,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.73,0:12:39.82,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.82,0:12:39.90,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.90,0:12:39.98,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:39.98,0:12:40.03,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:40.03,0:12:40.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:40.11,0:12:40.15,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:40.15,0:12:40.19,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 0,0:12:40.19,0:12:40.23,Captions-207+,,0,0,200,,{\an8\pos(959.84,100)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.77,0:12:35.81,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.81,0:12:35.90,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.90,0:12:36.02,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.02,0:12:36.06,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.06,0:12:36.11,Captions-207+,,0,0,200,,{\an8\pos(960.04,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.11,0:12:36.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.27,0:12:36.31,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.31,0:12:36.36,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.36,0:12:36.40,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.40,0:12:36.44,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.44,0:12:36.48,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.48,0:12:36.56,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.56,0:12:36.61,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.61,0:12:36.81,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.81,0:12:36.94,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.94,0:12:36.98,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.98,0:12:37.02,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.02,0:12:37.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.27,0:12:37.31,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.31,0:12:37.36,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.36,0:12:37.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.40,0:12:37.44,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.44,0:12:37.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.48,0:12:37.52,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.52,0:12:37.56,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.56,0:12:37.65,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.65,0:12:37.69,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.69,0:12:37.73,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.73,0:12:37.77,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.77,0:12:37.82,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.82,0:12:37.90,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.90,0:12:37.94,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.94,0:12:38.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.11,0:12:38.19,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.19,0:12:38.27,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.27,0:12:38.36,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.36,0:12:38.40,Captions-207+,,0,0,200,,{\an8\pos(960.03,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.40,0:12:38.48,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.48,0:12:38.57,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.57,0:12:38.61,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.61,0:12:38.77,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.77,0:12:38.82,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.82,0:12:38.94,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.94,0:12:38.98,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.98,0:12:39.02,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.02,0:12:39.15,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.15,0:12:39.19,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.19,0:12:39.23,Captions-207+,,0,0,200,,{\an8\pos(959.83,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.23,0:12:39.32,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.32,0:12:39.36,Captions-207+,,0,0,200,,{\an8\pos(960.02,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.36,0:12:39.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.40,0:12:39.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.48,0:12:39.53,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.53,0:12:39.61,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.61,0:12:39.65,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.65,0:12:39.69,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.69,0:12:39.73,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.73,0:12:39.82,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.82,0:12:39.90,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.90,0:12:39.98,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.98,0:12:40.03,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.03,0:12:40.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.11,0:12:40.15,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.15,0:12:40.19,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.19,0:12:40.23,Captions-207+,,0,0,200,,{\an8\pos(959.84,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.77,0:12:35.81,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.81,0:12:35.90,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:35.90,0:12:36.02,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.02,0:12:36.06,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.06,0:12:36.11,Captions-207+,,0,0,200,,{\an8\pos(960.04,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.11,0:12:36.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.27,0:12:36.31,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.31,0:12:36.36,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.36,0:12:36.40,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.40,0:12:36.44,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.44,0:12:36.48,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.48,0:12:36.56,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.56,0:12:36.61,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.61,0:12:36.81,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.81,0:12:36.94,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.94,0:12:36.98,Captions-207+,,0,0,200,,{\an8\pos(959.99,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:36.98,0:12:37.02,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.02,0:12:37.27,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.27,0:12:37.31,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.31,0:12:37.36,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.36,0:12:37.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.40,0:12:37.44,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.44,0:12:37.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.48,0:12:37.52,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.52,0:12:37.56,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.56,0:12:37.65,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.65,0:12:37.69,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.69,0:12:37.73,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.73,0:12:37.77,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.77,0:12:37.82,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.82,0:12:37.90,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.90,0:12:37.94,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:37.94,0:12:38.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.11,0:12:38.19,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.19,0:12:38.27,Captions-207+,,0,0,200,,{\an8\pos(959.81,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.27,0:12:38.36,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.36,0:12:38.40,Captions-207+,,0,0,200,,{\an8\pos(960.03,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.40,0:12:38.48,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.48,0:12:38.57,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.57,0:12:38.61,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.61,0:12:38.77,Captions-207+,,0,0,200,,{\an8\pos(959.77,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.77,0:12:38.82,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.82,0:12:38.94,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.94,0:12:38.98,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:38.98,0:12:39.02,Captions-207+,,0,0,200,,{\an8\pos(959.8,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.02,0:12:39.15,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.15,0:12:39.19,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.19,0:12:39.23,Captions-207+,,0,0,200,,{\an8\pos(959.83,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.23,0:12:39.32,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.32,0:12:39.36,Captions-207+,,0,0,200,,{\an8\pos(960.02,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.36,0:12:39.40,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.40,0:12:39.48,Captions-207+,,0,0,200,,{\an8\pos(959.78,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.48,0:12:39.53,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.53,0:12:39.61,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.61,0:12:39.65,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.65,0:12:39.69,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.69,0:12:39.73,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.73,0:12:39.82,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.82,0:12:39.90,Captions-207+,,0,0,200,,{\an8\pos(960.01,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.90,0:12:39.98,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:39.98,0:12:40.03,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.03,0:12:40.11,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.11,0:12:40.15,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.15,0:12:40.19,Captions-207+,,0,0,200,,{\an8\pos(959.79,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
-Dialogue: 1,0:12:40.19,0:12:40.23,Captions-207+,,0,0,200,,{\an8\pos(959.84,100)\fscx110\fscy110\bord0\blur0.8\b600\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:35.77,0:12:35.81,Captions-207+,,0,0,0,,{=207}{\pos(960,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:35.81,0:12:35.90,Captions-207+,,0,0,0,,{=207}{\pos(959.81,590.01)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:35.90,0:12:36.02,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.02,0:12:36.06,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.06,0:12:36.11,Captions-207+,,0,0,0,,{=207}{\pos(960.04,590.23)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.11,0:12:36.27,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.27,0:12:36.31,Captions-207+,,0,0,0,,{=207}{\pos(960.01,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.31,0:12:36.36,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.36,0:12:36.40,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.40,0:12:36.44,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.44,0:12:36.48,Captions-207+,,0,0,0,,{=207}{\pos(959.99,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.48,0:12:36.56,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.56,0:12:36.61,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.61,0:12:36.81,Captions-207+,,0,0,0,,{=207}{\pos(959.77,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.81,0:12:36.94,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.94,0:12:36.98,Captions-207+,,0,0,0,,{=207}{\pos(959.99,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:36.98,0:12:37.02,Captions-207+,,0,0,0,,{=207}{\pos(959.77,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.02,0:12:37.27,Captions-207+,,0,0,0,,{=207}{\pos(959.78,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.27,0:12:37.31,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.31,0:12:37.36,Captions-207+,,0,0,0,,{=207}{\pos(960,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.36,0:12:37.40,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590.01)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.40,0:12:37.44,Captions-207+,,0,0,0,,{=207}{\pos(960.01,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.44,0:12:37.48,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.48,0:12:37.52,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.52,0:12:37.56,Captions-207+,,0,0,0,,{=207}{\pos(960,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.56,0:12:37.65,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.65,0:12:37.69,Captions-207+,,0,0,0,,{=207}{\pos(960,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.69,0:12:37.73,Captions-207+,,0,0,0,,{=207}{\pos(959.77,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.73,0:12:37.77,Captions-207+,,0,0,0,,{=207}{\pos(960,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.77,0:12:37.82,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.82,0:12:37.90,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.90,0:12:37.94,Captions-207+,,0,0,0,,{=207}{\pos(960.01,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:37.94,0:12:38.11,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.11,0:12:38.19,Captions-207+,,0,0,0,,{=207}{\pos(959.8,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.19,0:12:38.27,Captions-207+,,0,0,0,,{=207}{\pos(959.81,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.27,0:12:38.36,Captions-207+,,0,0,0,,{=207}{\pos(960.01,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.36,0:12:38.40,Captions-207+,,0,0,0,,{=207}{\pos(960.03,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.40,0:12:38.48,Captions-207+,,0,0,0,,{=207}{\pos(959.77,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.48,0:12:38.57,Captions-207+,,0,0,0,,{=207}{\pos(959.77,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.57,0:12:38.61,Captions-207+,,0,0,0,,{=207}{\pos(959.77,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.61,0:12:38.77,Captions-207+,,0,0,0,,{=207}{\pos(959.77,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.77,0:12:38.82,Captions-207+,,0,0,0,,{=207}{\pos(959.8,590.25)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.82,0:12:38.94,Captions-207+,,0,0,0,,{=207}{\pos(959.8,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.94,0:12:38.98,Captions-207+,,0,0,0,,{=207}{\pos(959.8,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:38.98,0:12:39.02,Captions-207+,,0,0,0,,{=207}{\pos(959.8,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.02,0:12:39.15,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.15,0:12:39.19,Captions-207+,,0,0,0,,{=207}{\pos(960.01,590.23)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.19,0:12:39.23,Captions-207+,,0,0,0,,{=207}{\pos(959.83,590.22)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.23,0:12:39.32,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.32,0:12:39.36,Captions-207+,,0,0,0,,{=207}{\pos(960.02,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.36,0:12:39.40,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590.24)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.40,0:12:39.48,Captions-207+,,0,0,0,,{=207}{\pos(959.78,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.48,0:12:39.53,Captions-207+,,0,0,0,,{=207}{\pos(960.01,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.53,0:12:39.61,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.61,0:12:39.65,Captions-207+,,0,0,0,,{=207}{\pos(960,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.65,0:12:39.69,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.69,0:12:39.73,Captions-207+,,0,0,0,,{=207}{\pos(960.01,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.73,0:12:39.82,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.82,0:12:39.90,Captions-207+,,0,0,0,,{=207}{\pos(960.01,590.23)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.90,0:12:39.98,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:39.98,0:12:40.03,Captions-207+,,0,0,0,,{=207}{\pos(959.79,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:40.03,0:12:40.11,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:40.11,0:12:40.15,Captions-207+,,0,0,0,,{=207}{\pos(960,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:40.15,0:12:40.19,Captions-207+,,0,0,0,,{=207}{\pos(959.79,590)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 0,0:12:40.19,0:12:40.23,Captions-207+,,0,0,0,,{=207}{\pos(959.84,589.99)\fscx110\fscy110\b600\bord2.5\shad1\4c&H0E0E11&\3c&H0E0E11&\c&H0E0E11&\blur0.8}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.77,0:12:35.81,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.81,0:12:35.90,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.81,590.01)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.90,0:12:36.02,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.02,0:12:36.06,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.06,0:12:36.11,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.04,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.11,0:12:36.27,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.27,0:12:36.31,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.31,0:12:36.36,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.36,0:12:36.40,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.40,0:12:36.44,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.44,0:12:36.48,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.99,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.48,0:12:36.56,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.56,0:12:36.61,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.61,0:12:36.81,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.81,0:12:36.94,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.94,0:12:36.98,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.99,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.98,0:12:37.02,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.02,0:12:37.27,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.27,0:12:37.31,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.31,0:12:37.36,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.36,0:12:37.40,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.01)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.40,0:12:37.44,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.44,0:12:37.48,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.48,0:12:37.52,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.52,0:12:37.56,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.56,0:12:37.65,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.65,0:12:37.69,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.69,0:12:37.73,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.73,0:12:37.77,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.77,0:12:37.82,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.82,0:12:37.90,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.90,0:12:37.94,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.94,0:12:38.11,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.11,0:12:38.19,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.19,0:12:38.27,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.81,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.27,0:12:38.36,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.36,0:12:38.40,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.03,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.40,0:12:38.48,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.48,0:12:38.57,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.57,0:12:38.61,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.61,0:12:38.77,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.77,0:12:38.82,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590.25)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.82,0:12:38.94,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.94,0:12:38.98,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.98,0:12:39.02,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.02,0:12:39.15,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.15,0:12:39.19,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.19,0:12:39.23,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.83,590.22)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.23,0:12:39.32,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.32,0:12:39.36,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.02,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.36,0:12:39.40,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.40,0:12:39.48,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.48,0:12:39.53,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.53,0:12:39.61,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.61,0:12:39.65,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.65,0:12:39.69,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.69,0:12:39.73,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.73,0:12:39.82,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.82,0:12:39.90,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.90,0:12:39.98,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.98,0:12:40.03,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.03,0:12:40.11,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.11,0:12:40.15,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.15,0:12:40.19,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.19,0:12:40.23,Captions-207+,,0,0,0,,{=206}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.84,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.77,0:12:35.81,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.81,0:12:35.90,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.81,590.01)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:35.90,0:12:36.02,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.02,0:12:36.06,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.06,0:12:36.11,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.04,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.11,0:12:36.27,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.27,0:12:36.31,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.31,0:12:36.36,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.36,0:12:36.40,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.40,0:12:36.44,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.44,0:12:36.48,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.99,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.48,0:12:36.56,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.56,0:12:36.61,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.61,0:12:36.81,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.81,0:12:36.94,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.94,0:12:36.98,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.99,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:36.98,0:12:37.02,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.02,0:12:37.27,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.27,0:12:37.31,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.31,0:12:37.36,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.36,0:12:37.40,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.01)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.40,0:12:37.44,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.44,0:12:37.48,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.48,0:12:37.52,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.52,0:12:37.56,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.56,0:12:37.65,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.65,0:12:37.69,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.69,0:12:37.73,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.73,0:12:37.77,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.77,0:12:37.82,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.82,0:12:37.90,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.90,0:12:37.94,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:37.94,0:12:38.11,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.11,0:12:38.19,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.19,0:12:38.27,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.81,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.27,0:12:38.36,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.36,0:12:38.40,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.03,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.40,0:12:38.48,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.48,0:12:38.57,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.57,0:12:38.61,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.61,0:12:38.77,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.77,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.77,0:12:38.82,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590.25)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.82,0:12:38.94,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.94,0:12:38.98,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:38.98,0:12:39.02,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.8,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.02,0:12:39.15,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.15,0:12:39.19,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.19,0:12:39.23,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.83,590.22)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.23,0:12:39.32,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.32,0:12:39.36,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.02,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.36,0:12:39.40,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590.24)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.40,0:12:39.48,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.78,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.48,0:12:39.53,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.53,0:12:39.61,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.61,0:12:39.65,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.65,0:12:39.69,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.69,0:12:39.73,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.73,0:12:39.82,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.82,0:12:39.90,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960.01,590.23)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.90,0:12:39.98,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:39.98,0:12:40.03,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.03,0:12:40.11,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.11,0:12:40.15,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(960,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.15,0:12:40.19,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.79,590)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
+Dialogue: 1,0:12:40.19,0:12:40.23,Captions-207+,,0,0,0,,{=205}{\an2\fscx110\fscy110\bord0\blur0.8\b600\pos(959.84,589.99)\c&HFBFDFE&}「三頭」巴斯卡維爾\N首席法官 司法之島
 Comment: 0,0:12:34.78,0:12:40.24,Captions-207+,,0,0,0,,{=202}Baskerville
 Dialogue: 0,0:13:46.35,0:13:49.35,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fscx150\fscy150\b600\bord3\3c&H0E0E11&\c&H0E0E11&\1a&HFF&\blur0.8\fad(476,0)\t(434,476,\1a&H00&)}島門\N司法之島
 Dialogue: 1,0:13:46.35,0:13:49.35,Captions-207+,,0,0,200,,{\an8\pos(960,100)\fad(476,0)\fscx150\fscy150\bord0\blur0.8\b600\c&HE4E5E5&}島門\N司法之島
