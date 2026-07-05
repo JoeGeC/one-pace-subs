@@ -3121,3 +3121,176 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Carta (Donquixote soldier reporting Eastern district, ep40) | 卡爾塔 | coined phonetic; one-off reporting soldier. UNVERIFIED — no Fandom page found |
 | Lawland / Roland (dwarf-suffix nickname for Law, ep40) | 羅蘭 | coined; -蘭 suffix per Tontatta convention (cf. Luffyland 魯夫蘭). Mansherry's term for Law |
 | Room (Law ROOM shouted call "Room!", ep40) | 房間 | established (Punk Hazard/Dressrosa 房間 canonical); reused for shouted call |
+
+## Dressrosa Arc (ep41 [782-783])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| In My Way (ep41 title) | 擋在我的路上 | coined; Luffy's "you're in my way" (擋我的路) motif — Doflamingo & the Birdcage stand in Luffy's way |
+| Sterben (Law attack, "Blade of Death" Note gloss) | Sterben / 死亡之刃 | Sterben kept untranslated (German "to die", in-source styling like Mes/Room). Note-line gloss "Blade of Death" = 死亡之刃 |
+| Eagle Bazooka (Luffy attack, ep41) | 老鷹火箭炮 | coined; Eagle 老鷹 + Bazooka 火箭炮 (established Gum-Gum Bazooka 橡膠火箭炮). UNVERIFIED — VERIFY vs Fandom |
+| Athlete String (Doflamingo string attack, ep41) | 運動員絲線 | coined; Athlete 運動員 + String 絲線 (cf. Bullet String 子彈絲線 L2866). UNRESOLVED — no Fandom page found |
+| Sticky Stick (Trébol attack, ep41) | 黏黏棍 | matches established Sticky Stick... Meteor 黏黏棍……流星 (L2760); bare 黏黏棍 |
+| Sticky-Stick Launcher (Trébol attack, ep41) | 黏黏棍……發射器 | coined; extends 黏黏棍 (Sticky Stick) + Launcher 發射器 (cf. Sticky Launcher 黏黏發射器 L2117-family). UNVERIFIED |
+| Bullet String (Doflamingo string attack, ep41) | 子彈絲線 | kept — established (L2866) |
+| Hawk Whip (Luffy attack, ep41, split-line after Bullet String) | 鷹鞭 | coined; Hawk 鷹 (cf. Red Hawk 紅鷹, Hawk Gatling 鷹式機關槍 L3118) + Whip 鞭 (cf. Gum-Gum Whip 橡膠鞭腿). UNRESOLVED — no Fandom page |
+| Precious Metal Axe (Cavendish attack, ep41) | 貴金屬戰斧 | coined; Cavendish's sword strike. UNRESOLVED — no Fandom named-technique page found |
+| Grizzly Magnum (Luffy Gear Third attack, ep41) | 灰熊麥格農 | kept — established (L2438) |
+| Overheat (Doflamingo attack, ep41) | 過熱 | KEPT per prior-repo (過熱 established earlier in Dressrosa 13, 2x, predating ep41). NB: Fandom 線線果實 official name = 超荷鞭線 (超過鞭糸 オーバーヒート) — DIVERGENCE; repo continuity wins (would require also editing Dressrosa 13) |
+| Cien Fleur: Spider Net (Robin attack, ep41) | 百輪花：蜘蛛網 | kept — established (L1417/1913/3073). Note-gloss "Hundred Flower: Spider Net" = 百花：蜘蛛網 |
+| Watering Can (Mansherry's Heal-Heal healing implement, ep41) | 澆水壺 | VERIFIED Fandom 治癒果實 page: "憑空拿出一個能夠灑出魔法之水的澆水壺" — 澆水壺 confirmed |
+| Gear Fourth (Luffy technique, ep41, split-line "Gear...Fourth!") | 四檔 | coined; extends established Gear Second 二檔 / Gear Third 三檔 numbered convention. First appearance |
+| top commanders / current top commanders (Donquixote elite, Trebol's term) | 最高幹部 | coined; Trebol's term for the four executives (Trebol/Diamante/Pica/Vergo-era). Distinct from Elite Officer 精銳幹部 (L2691) / Officer 幹部 (L2692) — 最高 = "top/highest" |
+| chief of staff (Law's insult calling Trebol Doflamingo's staff officer, ep41) | 參謀長 | coined; Law mockingly casts Trebol as Doffy's staff officer/jester |
+| Robiland (dwarf-suffix nickname for Robin, ep41) | 羅賓蘭 | coined; -蘭 Tontatta suffix (cf. Luffyland 魯夫蘭, Lawland 羅蘭 L3122) |
+| Luffyland (dwarf-suffix nickname for Luffy, ep41) | 魯夫蘭 | kept — established Tontatta -蘭 convention |
+| Lawland (dwarf-suffix nickname for Law, ep41) | 羅蘭 | kept — established (L3122) |
+| Room (Law ROOM shouted call, ep41) | ROOM | used ROOM here matching established technique-name styling (L1888 ROOM, L2287 房間 — both exist; ROOM chosen for in-line technique consistency with Green-Bit/PH files). NB: ep40 used 房間 (L3123) — minor divergence, both attested |
+
+## Dressrosa Arc (ep42 [784-785])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Gear Fourth (ep42 title) | 四檔 | kept — established ep41 (L3141). Title-line, split-line "Gear...Fourth!" body |
+| Bound-Man (Luffy Gear Fourth form, ep42) | 彈簧人 | VERIFIED Fandom zh 橡膠果實/四檔招式 section header 彈簧人 (バウンドマン) |
+| Muscle Balloon (Luffy Gear Fourth inflation call, ep42) | 肌肉氣球 | coined; マッスル風船, standard semantic. Fandom "focus" line references 肌肉. UNVERIFIED exact-name |
+| Kong Gun (Luffy Boundman attack, ep42) | 猿王槍 | VERIFIED Fandom 橡膠猿王槍 (Kong Gun). Split-line "Rubber…Kong…Gun!" = 橡膠…猿王…槍！ |
+| Rhino Schneider (Luffy Boundman attack, ep42) | 犀角榴彈砲 | VERIFIED Fandom 橡膠犀角榴彈砲 (Rhino Schneider). "Rubber…Rhino Schneider!" = 橡膠…犀角榴彈砲！ |
+| Culverin (Luffy Boundman attack, ep42) | 大蛇砲 | VERIFIED Fandom 橡膠大蛇砲 (カルヴァリン Culverin). Split-line. Note: later JET version = 橡膠JET大蛇炮 |
+| Double Culverin (Luffy Boundman attack, ep42) | 雙重大蛇砲 | coined; extends VERIFIED 大蛇砲 (Culverin) + Double 雙重. Split-line "Rubber…Double…Culverin!" |
+| Leo Bazooka (Luffy Boundman attack, ep42) | 獅子火箭砲 | VERIFIED Fandom 橡膠獅子火箭砲 (Leo Bazooka). "Rubber…Leo Bazooka!" = 橡膠…獅子火箭砲！ |
+| Off-White / Off-White String (Doflamingo Awakening attack, ep42) | 盾白線 | VERIFIED Fandom 線線果實 lists 盾白線 (盾白糸 オフホワイト). "Off-White String!" rendered 盾白線！(String descriptor dropped) |
+| Billow White (Doflamingo Awakening attack, ep42) | 大海白浪 | VERIFIED Fandom 線線果實 大海白浪 (海原白波 エバーホワイト / Ever White = Billow White) |
+| Athlete String (Doflamingo string attack) | 運動員絲線 | kept — established ep41 (L3131). NB: Fandom 線線果實 lists 超荷鞭線/超過鞭糸 for Overheat — see below |
+| Overheat (Doflamingo attack) | 過熱 | ep41 coined 過熱 (L3138). Fandom 線線果實 published name is 超過鞭糸/超荷鞭線 (オーバーヒート) — DIVERGENCE noted; kept 過熱 for continuity with ep41. Not in ep42 dialogue |
+| Python (Doflamingo string, commanded to chase, ep42) | 蟒蛇 | coined; パイソン. Not documented on Fandom 線線果實 technique list. Semantic 蟒蛇 fits snake-string motif (cf. 大蛇砲). UNVERIFIED |
+| Awakening (Devil Fruit stage, Doflamingo explains, ep42) | 覺醒 | kept — established (L76) |
+| Bird cage / bird cage (Doflamingo's shrinking string cage, ep42) | 鳥籠 | kept — established (L2798/L3008) |
+| Royal Palace Grounds / Royal Plateau (Dressrosa location caption, ep42) | 王宮高地 | coined; caption "Royal Palace Grounds"=王宮高地, "Former Royal Plateau"=舊王宮高地. Matches per-prompt 王宮高地 |
+| Sunflower Field (Dressrosa location caption, ep42) | 向日葵田 | coined; location caption |
+| Fraland (Tontatta -land nickname for Franky, ep42) | 弗蘭得 | coined; Tontatta -land/-得 suffix (cf. Zoroland 索隆得, Topknotland 髮髻得 this ep). UNVERIFIED |
+| Zoroland (Tontatta nickname for Zoro, ep42) | 索隆得 | coined; Tontatta suffix. UNVERIFIED |
+| Topknotland (Tontatta nickname for Kin'emon, ep42) | 髮髻得 | coined; Topknot 髮髻 (Kin'emon's hair) + Tontatta suffix. UNVERIFIED |
+| Riku Dold the Third / King Riku (former king, ep42) | 利克·德爾多三世 / 利克國王 | kept — established (L2588/L2631) |
+| Viola (Doflamingo's clairvoyant, ep42) | 薇歐蕾特 | kept — established Violet 薇歐蕾特 (L2654). Called by father 一笑? No — addressed by her father as "Viola" |
+| Jesus Burgess (Blackbeard Pirates 1st ship captain, ep42) | 吉札士·伯吉斯 | kept — established (L379/L2555) |
+| Hack (Fishman warrior, ep42) | 哈克 | kept — established (L2557) |
+| Kin'emon (Wano samurai, ep42) | 錦右衛門 | kept — established (L2486) |
+| Galleon Lariat (Sabo attack, Dragon Claw style, ep43) | 加利恩臂鎖 | coined; Galleon (ガレオン)=加利恩 + Lariat=臂鎖. UNRESOLVED — checked Fandom 薩波 page + 龍爪拳 page (pageid 8321); Fandom lists only 龍鉤爪 / 龍之吐息 / 燃燒的龍爪拳·「火焰」龍王 for Sabo, no Galleon Lariat. Coinage kept. Split-line: 加利恩…/臂鎖！ |
+| Burning Dragon Claw Fist + Flame Dragon King (Sabo combined attack, Ryusoken+Mera Mera, ep43) | 燃燒的龍爪拳·「火焰」龍王 | VERIFIED Fandom 龍爪拳 & 火焰果實 pages: single technique 燃燒的龍爪拳·「火焰」龍王 (燃える竜爪拳·火炎竜王 / Moeru Ryūsōken: Kaen Ryūō). English sub splits it into two lines: "Burning Dragon Claw Fist!" = 燃燒的龍爪拳！(was 燃燒龍爪拳, add 的); "Flame Dragon King!" = 火焰龍王！(was 炎龍王 → 火焰龍王 per Fandom kanji, guillemets dropped in split-line body). NB: Fandom fruit name is 燒燒果實 but repo established 火火果實 (10x) — kept 火火果實 |
+| Champion Burgess (epithet, ep43) | 「冠軍」伯吉斯 | kept — established Jesus Burgess "Champion" 「冠軍」吉札士·伯吉斯 (L379) |
+| Paramount War (Marineford / ep43) | 頂上戰爭 | coined; the Whitebeard/Marineford war triggered by Ace's capture. VERIFY vs established war-name if one exists |
+| Smile Factory (ep43 caption) | SMILE工廠 | coined; SMILE (Doflamingo's business, L1875, kept English) + 工廠 factory |
+| Royal Grounds / New Royal Grounds (Doflamingo palace zone, ep43) | 王宮聖地 / 新王宮聖地 | matches established Royal Grounds 王宮聖地 (L2819); "New" = 新王宮聖地 |
+
+## Dressrosa Arc (ep44 [788-790])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Heaven and Earth (ep44 title) | 天與地 | coined; ep title |
+| King Kong Gun (Luffy Gear Fourth finisher, ep44) | 大猿王槍 | VERIFIED Fandom 橡膠果實/四檔招式: 橡膠大猿王槍 (キングコングガン). Split across lines: "King Kong…/…Gun!" = 大猿王…/…槍！ Note: 大猿王槍 also = Chinjao's Elephant Gun combo (L2622); same zh form. Distinct from Kong Gun 猿王槍 (L3157) |
+| Kong Gun (Luffy Boundman attack, ep44 flashback) | 猿王槍 | kept — established ep42 (L3157). VERIFIED Fandom 橡膠猿王槍 |
+| Everwhite / Billow White (Doflamingo Awakening attack, ep44) | 大海白浪 | VERIFIED Fandom 線線果實 大海白浪 (海原白波 エバーホワイト). kept — established ep42 Billow White (L3163) |
+| Thousand Arrows (Doflamingo string attack, ep44) | 千本之箭 | VERIFIED Fandom 線線果實: 千本の矢 (part of 「16發聖兇彈·神誅殺」lead-in; フラップスレッド combo). Rendered 千本之箭 |
+| Flapping Thread (Doflamingo string attack, ep44, split "Flapping…/Thread!") | 羽擊線 | VERIFIED Fandom 線線果實: 羽擊線 (羽撃糸 フラップスレッド). Split-line "Flapping…/Thread!" = 羽擊…/線！ |
+| Sixteen Holy Bullets (Doflamingo finisher part, ep44) | 16發聖兇彈 | VERIFIED Fandom 線線果實 full name「16發聖兇彈·神誅殺」(16発の聖なる凶弾 神誅殺 ゴッドスレッド). "Sixteen Holy Bullets!" = 16發聖兇彈！ |
+| God Thread (Doflamingo finisher, ep44) | 神誅殺 | VERIFIED Fandom 線線果實: 神誅殺 (ゴッドスレッド God Thread), the 「…·神誅殺」half of the 16發聖兇彈 combo. "God Thread!" = 神誅殺！ |
+| Spiderweb (Doflamingo string net, ep44) | 蜘蛛網 | VERIFIED — Fandom 線線果實 describes 蜘蛛網 defensive net (蛛牆網). Supersedes ep41 UNVERIFIED coinage (L3025); now VERIFIED |
+| Chambres (Law ROOM technique call, ep44) | Chambres | kept — French, left untranslated in-source (L2949/L3029) |
+| Armament (Luffy Haki-hardening call, ep44) | 武裝色 | matches established Armament Haki 武裝色霸氣 (L87); shouted-call form drops 霸氣 |
+| Gear Fourth (Luffy technique, ep44, split "Gear…Fourth!") | 四檔 | kept — established ep41/42 (L3141/L3155) |
+| Bound-Man (Luffy Gear Fourth form, ep44) | 彈簧人 | kept — VERIFIED ep42 (L3156) |
+| bird cage (Doflamingo's shrinking string cage, ep44) | 鳥籠 | kept — established (L2798/L3008) |
+| Dandehealion / Dandehealions (Mansherry's healing dandelions from tears, ep44) | 蒲公治花 | KEPT as coined pun (Dandelion+Heal 治). Fandom 治癒果實 page has no named technique — describes ability as producing 蒲公英花朵 (healing dandelion flowers). Pun coinage 蒲公治花 retained as creative rendering; no official term to conflict |
+| Luffyland (dwarf/Gatz nickname for Luffy, ep44) | 魯夫國度 | DIVERGENCE — Gatz's usage here rendered 魯夫國度 ("Luffy-land" as heroic realm, non-Tontatta context). NB: established Tontatta -蘭 suffix form is 魯夫蘭 (L2879/L3143). Gatz is announcer, not dwarf — chose descriptive 魯夫國度. VERIFY consistency |
+| Hundredth-Degree Hack (crowd's title for Hack, ep44) | 百級的哈克 | coined; "Hundredth-Degree" gladiator rank descriptor + Hack 哈克 (established L2557) |
+| God Usopp / five-star (Tontatta+crowd worship title, ep44) | 神之騙人布 / 五星 | kept — 神之騙人布 UNIFIED (L2931). "five-star" 五星 = his colosseum star-billing |
+| Army Commander Tank (Riku army officer, ep44) | 坦克軍團長 | coined; "Tank" 坦克 + Army Commander 軍團長. Riku Royal Army officer. UNVERIFIED — VERIFY vs Fandom |
+| Sevio (flashback/rally town caption, ep44) | 塞維歐 | kept — established (L2645, unverified). NB glossary also has Sebio 塞比歐 (L2785) — same セビオ, both unforced |
+| Town Center (Dressrosa location caption, ep44) | 市中心 | coined; location caption |
+| Vicinity of the Smile Factory / At the Bird Cage (caption, ep44) | SMILE工廠附近／鳥籠處 | coined; SMILE工廠 (L3182) + 附近 vicinity; 鳥籠 (established) + 處 |
+| Prostration (ep45 title) | 下跪 | coined; Fujitora's public prostration/apology = the episode's central act (下跪 = kneel to the ground) |
+| Great Defense of Dressrosa (Gatz's announcer framing, ep45) | 德雷斯羅薩大防衛戰 | coined; Gatz styles the whole battle as a "Great Defense" event; matches 德雷斯羅薩 (established) |
+| Luffyland (Gatz/crowd nickname for Luffy, ep45) | 魯夫蘭 | UNIFIED per user directive ep45: use Tontatta -蘭 suffix form 魯夫蘭 everywhere (魯夫蘭 whoever the speaker). SUPERSEDES ep44 divergence 魯夫國度 (L3203) |
+| Robiland (dwarf/crowd -land nickname for Robin, ep45) | 羅賓蘭 | kept — established ep41 (L3146); -蘭 Tontatta suffix |
+| Fraland (dwarf -land nickname for Franky, ep45) | 弗蘭得 | kept — established ep42 (L3168); Tontatta -得 suffix |
+| Applenine (island country near Dressrosa, ep45) | 艾普魯奈 | coined phonetic (アップルナイン Apple-nine); UNRESOLVED — no Fandom zh page found; coinage kept |
+| Surveillance Snail / Video Den Den Mushi (broadcast device, ep45) | 監視電話蟲 | KEPT per prior-repo (監視電話蟲 used 12x across Impel Down, Punk Hazard, Dressrosa). NB: Fandom 電話蟲 page lists type as 監視用電話蟲 (surveillance) / 映像電話蟲 (video) — DIVERGENCE; repo consistency wins |
+| Maynard (Navy HQ Vice Admiral, ep45 broadcaster) | 梅納德 | matches established Maynard the Pursuer 追緝者梅納德; here as 梅納德中將 (Vice Admiral) |
+| Sabo (Revolutionary Army, ep45) | 薩波 | kept — VERIFIED Fandom 薩波; reused. Burgess 伯吉斯 chased Luffy |
+| Koala (Revolutionary Army officer, ep45) | 可亞拉 | kept — VERIFIED Fandom 可亞拉; "Koala-san" = 可亞拉小姐 |
+| Hack (Fishman warrior w/ Revolutionaries underground, ep45) | 哈克 | kept — established (L2557) |
+| Burgess / Jesus Burgess (Blackbeard Pirates, chased Luffy, ep45) | 伯吉斯 | kept — established 「冠軍」吉札士·伯吉斯 (L379); short form 伯吉斯 |
+| Miracle King, Riku Dold (King Riku epithet, ep45) | 奇蹟之王，利克·德爾多 | coined epithet; uses established Riku Dold 利克·德爾多三世 (L2588) |
+| Prodence Kingdom / King of Prodence (Elizabello, ep45) | 普羅丹斯王國 / 普羅丹斯王國的國王 | kept — established Prodence Kingdom 普羅丹斯王國. Elizabello = 伊力薩貝羅 (established L-Elizabello) |
+| Elizabello (Fighting King, ep45) | 伊力薩貝羅 | kept — established Elizabello II 伊力薩貝羅二世 (established) |
+| Little Army of King Riku / Special Anti-Doflamingo Forces (ep45) | 利克國王的小小軍隊／反多佛朗明哥特別部隊 | coined; Riku's disbanded resistance unit. Matches 反多佛朗明哥組織 (established) |
+| Tank (Tank Lepanto, addressed by King Riku, ep45) | 譚克 | kept — established Tank Lepanto 譚克·勒潘陀. Riku's "Tank!" address = 譚克！ |
+| Five Elder Stars / Five Elders (Gorosei, ep45) | 五老星 | kept — established (L383) |
+| Sakazuki (Akainu) / Fleet Admiral (ep45) | 薩卡斯基（赤犬）| kept — established Sakazuki 薩卡斯基 + Akainu 赤犬 (Fleet Admiral 元帥) |
+| Cipher Pol (ep45, Elders' agents behind cover-up) | Cipher Pol | kept — established Cipher Pol left in English (cf. CP-0 etc.) |
+| Kuzan (ex-Admiral now w/ Blackbeard, ep45) | 庫贊 | kept — established (L-Kuzan) |
+| Celestial Yaksha / Heavenly Demon Doflamingo (ep45) | 天夜叉 | kept — established Doflamingo epithet 天夜叉 (established) |
+| Bonney / Jewelry Bonney "The Glutton" (ep45 caption) | 「大胃女」珠寶莉·波妮 | kept — established (L-Bonney) |
+| Bonney Pirates (ep45 caption) | 波妮海賊團 | VERIFIED Fandom search — 波妮海賊團 is the official crew page title |
+| Urouge "Mad Monk" / High Priest Urouge (ep45) | 「怪僧」烏魯基 / 烏魯基僧正 | CORRECTED — 大主教 → 僧正. Fandom 烏魯基 page occupation = 僧正 (High Priest); repo already uses 僧正 elsewhere. "High Priest" address = 僧正. 怪僧 epithet VERIFIED |
+| Fallen Monk Pirates (Urouge's crew, ep45 caption) | 破戒僧海賊團 | CORRECTED — was coined 墮落修士海賊團; Fandom 烏魯基 page affiliation = 破戒僧海賊團 (official). Urouge occupation = 僧正 (High Priest); epithet 怪僧 (matches) |
+| Capone "Gang" Bege / Fire Tank Pirates (ep45) | 卡波涅「大哥」貝基 / 火戰車海賊團 | Bege kept established; Fire Tank Pirates CORRECTED 火焰坦克海賊團 → 火戰車海賊團 (Fandom official crew name, search confirmed). "Father!" (crew address) = Father！(kept, Bege's mafia-don style) |
+| Eustass "Captain" Kid / Kid Pirates (ep45) | 尤斯塔斯「船長」基德 / 基德海賊團 | kept — established |
+| Basil Hawkins "The Magician" / Hawkins Pirates (ep45) | 「魔術師」巴茲爾·霍金斯 / 霍金斯海賊團 | kept — established |
+| Scratchmen Apoo "Roar of the Sea"→"Roaring Tide" / On-Air Pirates (ep45) | 「海鳴」斯克拉奇曼·亞普 / 播報海賊團 | kept — established Apoo 斯克拉奇曼·亞普, epithet 海鳴, On-Air Pirates 播報海賊團 |
+| Killer "Soldier of Slaughter"→"Massacre Soldier" (ep45 caption) | 「殺戮武人」奇拉 | kept — established Killer 「殺戮武人」奇拉 |
+| "Beast King" Kaidou / Kaido of the Beasts (ep45) | 「百獸」凱多 | kept — established Kaido 凱多 / 百獸的凱多; caption epithet 百獸 |
+| X-Drake "Red Flag" / Drake Pirates (ep45) | 「赤旗」X德雷克 / 德雷克海賊團 | KEPT per prior-repo (德雷克 used 16x). NB: Fandom uses 多雷古 (X·多雷古 / 多雷古海賊團) — DIVERGENCE; repo consistency wins per project rule |
+| Longarm Tribe (Apoo's origin, ep45 caption) | 長手族 | kept — established (L-Longarm) |
+| Vegapunk / Megapants gag (Bonney kids mispronounce, ep45) | 貝卡帕庫 / 梅加胖子 | Vegapunk kept established 貝卡帕庫 (Dr. Vegapunk 貝卡帕庫博士). "Megapants" mis-hearing gag rendered 梅加胖子 (coined phonetic-comic; Mega 梅加 + 胖子 fat-guy) |
+| Captain-chan (Bonney kids' address, ep45) | 船長醬 | coined; Captain 船長 + affectionate -醬 (-chan) |
+| Tsuru-chan / Inspector General (Sengoku's title, ep45) | 鶴婆婆 / 大教官 | Tsuru kept established 鶴; "-chan" affectionate = 鶴婆婆 (granny-Tsuru). "Inspector General" CORRECTED 總監察官 → 大教官 (Fandom 戰國 page occupation field = 大教官, SBS 68; this is Sengoku's post-war title, addressed to him by Tsuru). No prior-repo precedent (1 occurrence) |
+| King Riku / Riku Family (ep45) | 利克國王 / 利克家族 | kept — established (L2588) |
+| Isshou-san / Fujitora (Admiral, ep45) | 一笑大人 / 藤虎 | kept — established per user directive: Isshou-san = 一笑大人, Fujitora = 藤虎 |
+| Fire Fist Ace (ep45 flashback/Blackbeard crew) | 火拳艾斯 | kept — established Fire Fist 火拳 + Ace 艾斯. "Fire Fist!" call = 火拳！. Ace's death caption = 火拳艾斯之死 |
+| Banaro Island (ep45, where Ace fought Blackbeard) | 巴基洛島 | kept — established (L-Banaro) |
+| Sheepshead (Beasts Pirates Headliner, ep46) | 席浦斯赫德 | VERIFIED Fandom zh page 席浦斯赫德 (opensearch). Sheep-SMILE user, Zou arc antagonist |
+| Ginrummy (Beasts Pirates Headliner, ep46) | 金菈彌 | VERIFIED Fandom zh page 金菈彌 (opensearch). Female Headliner giving retreat orders |
+| Beasts Pirates (Kaidou's crew, ep46) | 百獸海賊團 | VERIFIED Fandom zh 百獸海賊團 |
+| Sheep's Horn (Sheepshead attack, ep46) | 羊群號角 | VERIFIED Fandom 席浦斯赫德 招式: 羊群號角 (シープスホーン Shīpusu Hōn) |
+| Diable Mouton Shot (Sanji attack, ep46, split "…羊肉/SHOT!") | 惡魔風腳 羊肉SHOT | VERIFIED Fandom 席浦斯赫德 page: Sanji beats him with 「惡魔風腳 羊肉SHOT」. Uses established 惡魔風腳 (Diable Jambe) + 羊肉(Mouton) + SHOT kept. Split-line: 惡魔風腳 羊肉…／SHOT！ |
+| Soul Parade (Brook attack, ep46) | 靈魂歌謠 | CORRECTED 靈魂遊行 → 靈魂歌謠. VERIFIED Fandom 魂之喪劍 page: 「靈魂歌謠」(魂の(ソウル)パラード, Souru Parādo, Soul Parade), Brook's defensive block/freeze move, first used vs Sheepshead (ch795/ep739 = One Pace ep46). Fix ep46 subtitle |
+| Chop'emon / Chopperemon (Chopper's samurai alias, ep46) | 喬巴衛門 | KEPT — prior-repo established in existing zh-TW subtitle files (「家臣：喬巴衛門」). Kin'emon-style -衛門 suffix. Not on Fandom alias page but repo-consistent |
+| Twirly Hat Pirates (Kin'emon's joke name for SH/Law alliance, ep46 caption) | 捲捲帽海賊團 | coined; Twirly 捲捲 + Hat 帽 + 海賊團. Kin'emon's comedic naming. UNRESOLVED — searched Fandom (草帽大船團/同盟夥伴, 錦右衛門 pages), no established zh form for this one-off gag name. Coinage retained |
+| Rain-Ruption (Zou's periodic downpour phenomenon, ep46) | 噴火雨 | CORRECTED 降雨爆發 → 噴火雨. VERIFIED Fandom 佐烏 page: Zunesha's trunk-shower is called by residents 「噴火雨」, sweeps sea life onto Zou for food/irrigation. Fix ep46 subtitle |
+| Balloon Terminal (sky island ruins where Kaidou jumped, ep46 caption) | 氣球終點站 | coined; Balloon 氣球 + Terminal 終點站. UNRESOLVED — searched Fandom (海道/佐烏), no established zh form. Coinage retained |
+| Kaidou of the Beasts / "mightiest being alive" (ep46 narration) | 百獸的凱多／現存最強生物 | kept — established 百獸的凱多 (L2404). "mightiest creature/being alive" = 現存最強生物 |
+| Onami (Kin'emon's respectful form for Nami, ep46) | 御娜美 | coined; honorific 御 + 娜美 (established Nami). Samurai-speech quirk |
+| Soldier-san's Conviction (ep47 title) | 士兵先生的信念 | coined title; Soldier-san 士兵先生 (established L2706) + Conviction 信念 |
+| Sengoku the Buddha / Inspector General (ep47 caption) | 「佛」戰國／海軍本部大教官 | kept — 「佛」戰國 (L375) + Inspector General 大教官 (L3245, Fandom occupation field). Caption: 海軍本部大教官 「佛」戰國 |
+| Great Advisor Tsuru / Vice Admiral (ep47 caption) | 智謀·鶴／海軍本部中將 | kept — Master Tactician/Great Advisor 智謀 (L376) + Tsuru 鶴. Caption: 海軍本部中將 智謀·鶴 |
+| Sakazuki (Admiral, Fujitora's spat, ep47) | 薩卡斯基 (recommended) / 赤犬 (current) | English source says the given name "Sakazuki" = Fandom/repo canonical 薩卡斯基 (widely used: Marineford, Punk Hazard 22, Dressrosa 45/46). ep47 subtitle currently renders 赤犬 (Akainu epithet) — same person, understandable, but for name-fidelity 薩卡斯基 preferred. OPTIONAL correction |
+| Dande-donor / Dandehealion donor (ep47, Mansherry healing-blood donation drive) | 蒲公治捐贈者 | coined; extends Dandehealion 蒲公治花 (L3201) + donor 捐贈者. Marine "become Dande-donors!" healing-blood drive |
+| Mousey (Mansherry's Tontatta aide, ep47) | 姆吉 | kept — matches established Mouji/Mousey 姆吉 (L2893/L3094); same aide, alt romanization |
+| Scarlett (Rebecca's mother, Viola's sister, ep47) | 絲卡蕾特 | kept — VERIFIED Fandom 絲卡蕾特 (L2729) |
+| Riku Family return to throne (ep47) | 利克家族重返王位 | kept — established Riku Family 利克家族 (L2588) |
+| Celestial Yaksha / Heavenly Demon (Doflamingo transport, ep47) | 天夜叉 | kept — established Doflamingo epithet 天夜叉 (L2728/L3230) |
+| Tank (Riku servant, addressed by King Riku, ep47) | 譚克 | kept — established Tank Lepanto 譚克·勒潘陀 (L2531/L3225) |
+| soba noodles (Sengoku's order, ep47) | 蕎麥麵 | coined; standard rendering of soba |
+
+## Characters & Terms (Dressrosa 48 / Arc Finale, ep798-800)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Father and Sons (ep48 title) | 父與子 | coined title; the father-and-son (親子盃) sake-cup vow forming the Grand Fleet |
+| Grand Fleet / Straw Hat Fleet / allied fleet (Straw Hat Grand Fleet) | 草帽大船團 | user directive: Grand Fleet = 草帽大船團. In-dialogue "grand fleet" 大船團, "Straw Hat Fleet" 草帽船團, generic "allied fleet" 聯合艦隊 |
+| The Yonta Maria (Great Yonta Maria Fleet flagship) | 約瑪利亞號 | uses established Yonta Maria Great Fleet 約瑪利亞大船團 (L2701) + 號 (ship suffix); flagship of Orlumbus |
+| Elephant Gun (Luffy "Gomu Gomu no… Elephant Gun!", ep48) | 橡膠象槍 | kept — established 象槍 (L2882 Fandom canonical 橡膠象槍). Split call: 橡膠…/象槍！ |
+| Hawk Bullet (Luffy "Gomu Gomu no… Hawk Bullet!", ep48) | 鷹彈 | UNRESOLVED — not listed on Fandom 橡膠果實/二檔招式 (only Red Hawk 橡膠火拳槍 documented). Coinage 鷹彈 retained (consistent with Hawk 鷹 series: Hawk Gatling 鷹式機關槍 L3118, Hawk Whip 鷹鞭 L3135) |
+| Hawk Axe (Luffy "Gomu Gomu no… Hawk Axe!", ep48) | 鷹斧 | UNRESOLVED — not listed on Fandom Gear Second technique page. Coinage 鷹斧 retained (Hawk 鷹 + Axe 斧, cf. Battle Axe 橡膠戰斧 L102) |
+| Gravity Sword (Fujitora attack, ep48) | 重力刀 | VERIFIED Fandom 一笑 page 招式能力: full technique is 「重力刀·猛虎」(Gravity Blade: Raging Tiger). "Gravity Sword" = 重力刀. Split call in ep48. Supersedes ep29 coinage 重力刀刃 (see below) |
+| Raging Tiger (Fujitora gravity attack, ep48) | 猛虎 | VERIFIED Fandom 一笑 page: 「重力刀·猛虎」. "Raging Tiger" = 猛虎. NB L2926 has 狂猛虎 for a Sabo Raging Tiger — DIFFERENT character/attack; Fujitora's is 猛虎 |
+| Gravity Blade (Fujitora attack, ep29) — UNIFY | 重力刀 | CORRECTED 重力刀刃 → 重力刀. VERIFIED Fandom 一笑 page uses 重力刀 (in 重力刀·猛虎); ep29 coined 重力刀刃 should unify to Fandom-canonical 重力刀. Fix ep29 subtitle |
+| Columbus (Yonta Maria Fleet officer, given command, ep48) | 哥倫布斯 | UNRESOLVED — Fandom 歐隆拜斯/約瑪利亞 pages mention 哥倫布 only as the real-world explorer namesake (Christopher Columbus), no dedicated page for a Yonta Maria officer named Columbus. Phonetic 哥倫布斯 retained; if this is the same as the namesake 哥倫布, consider dropping the trailing 斯 |
+| Fighting Fish Steak (banquet main dish, ep48) | 鬥魚牛排 | coined; Fighting Fish 鬥魚 (established L2560) + Steak 牛排 |
+| Sons' Cups / parent's cup / father-and-son vow (親子盃, ep48) | 子之杯／父之杯 | coined; the yakuza-style oyabun-kobun sake vow. "Sons' Cups" = 子之杯 (the followers' cups), "parent's cup" = 父之杯 (the boss's cup); "father-and-son vow" 父子之杯/結為父子 |
+| Big Boss / big boss (Straw Hat as Grand Fleet boss, ep48 Note) | 大老大 | coined; Note gloss for 親分 (oyabun/big boss). Followers = 部下 |
+| Happo / Happou (ep48 Note, Happou Navy) | 八寶 | kept — established Happou Navy 八寶水軍 (L2832); Note gloss 八寶 |
+| Massacre Ruler (Orlumbus epithet, ep48 caption) | 殺戮支配者 | CORRECTED 大屠殺統帥 → 殺戮支配者. VERIFIED Fandom 歐隆拜斯/約瑪利亞 pages: 「殺戮支配者歐隆拜斯」. Fix ep48 subtitle. (NB Orlumbus's other epithet on Fandom: 「狡詐的冒險殺人狂」) |
+| Long Arm Tribe (Ideo's race, ep48 caption) | 長手族 | CORRECTED 長臂族 → 長手族. VERIFIED Fandom (草帽大船團 page: 「長手族和長腳族之間…衝突」; 魂之喪劍 page: 「委託長手族磨礪劍把」). Long Leg = 長腳族 (matches L2842). Fix ep48 subtitle |
+| Gnome Tribe / Dwarves (Tontatta race gloss, ep48 caption) | 矮人族 | KEPT (prior-repo rule). Fandom canonical race name is 小人族 (Dwarves), but repo has consistently used 矮人族 across Dressrosa eps 07/23/26/38/45/48 — self-consistent, prior-repo usage governs. Do NOT change. Tontatta 頓達塔 established (L2576; Fandom variant 咚塔塔) |
+| Tonta Corps / Tontattan Tonta Corps (Leo's unit, ep48 caption) | 頓達部隊 | CORRECTED 頓達軍團 → 頓達部隊. VERIFIED Fandom 雷奧 page: Leo's occupation is 頓達部隊長 (Tonta Corps commander). No prior-repo usage of 頓達軍團, so Fandom form adopted. Fix ep48 subtitle (2 occurrences) |
+| XXX Gym Martial Arts Alliance (Ideo's group, ep48 caption) | XXX健身房格鬥聯合 | CORRECTED XXX拳館武術聯盟/XXX拳館鬥士聯盟 → XXX健身房格鬥聯合. VERIFIED Fandom 伊迪歐海賊團 page: 原團隊名稱 「XXX健身房格鬥聯合」(XXXジム格闘連合, XXX Gym Martial Arts Alliance), Ideo's crew, Grand Fleet 4th squad. Fix ep48 subtitle (both occurrences) |
+| Class-A War Criminal (Suleiman caption, Dias Naval Battle, ep48) | A級戰犯 | coined; Class-A 甲級/A級 war criminal; uses established Dias 迪亞斯 (L2700) + Suleiman 蘇萊曼 (L2535) |

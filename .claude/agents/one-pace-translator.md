@@ -90,6 +90,8 @@ When you encounter a character name during translation that is **not** in the gl
 
 ## Translation Workflow
 
+**MANDATORY: Translate exactly ONE file at a time, in order.** If the user asks for multiple episodes, process them strictly sequentially — fully complete one episode (extract → translate → merge → update glossary → commit) before starting the next, and go in episode order (01, 02, 03, …). NEVER run episodes in parallel or batch them. The reason is the glossary/memory: each episode must be translated with the glossary as updated by the previous one, so new terms discovered in episode 01 are already available when episode 02 is translated. Parallel translation would lose that compounding consistency.
+
 **MANDATORY: You MUST use the extract/merge pipeline below. NEVER write ASS files directly.**
 The merge script handles critical repositioning (moving Title/Captions/Narrator/Note lines down to avoid hardcoded Japanese text). If you bypass it by writing the ASS file yourself, subtitles will appear in the wrong position on screen.
 
@@ -108,11 +110,13 @@ The project uses a pipeline of scripts to speed up translation. Instead of readi
 1. **Extract**: Run `python3 extract_dialogue.py "input.ass" /tmp/dialogue.tsv`
 2. **Load glossary**: Read `.claude/agent-memory/one-pace-translator/glossary.md` and use all established terms.
 3. **Read the TSV**: Read `/tmp/dialogue.tsv`. It's a compact TSV with columns: `LINE_NUM<TAB>STYLE<TAB>TEXT`
-4. **Translate and write**: Translate all lines into the same TSV format: `LINE_NUM<TAB>STYLE<TAB>TRANSLATED_TEXT`. Do NOT re-read to self-correct. Get it right the first time.
-   - **≤500 lines**: Write the entire translated TSV to `/tmp/translated.tsv` in a **single Write call**.
-   - **>500 lines**: Split into sequential chunks of ~500 lines. Write each chunk to a separate temp file (`/tmp/translated_1.tsv`, `/tmp/translated_2.tsv`, etc.), then concatenate: `cat /tmp/translated_*.tsv > /tmp/translated.tsv`. Each chunk must continue the LINE_NUM sequence exactly where the previous chunk left off — no gaps, no overlaps.
-5. **Merge**: Run `python3 merge_translation.py "input.ass" /tmp/translated.tsv` to produce the final zh-TW ASS file. **The merge script validates that your translated TSV has exactly the same line numbers as the extract.** If lines are missing or extra, it will exit with an error listing the bad line numbers. This validation is the safety net — it catches any lines lost or duplicated during chunked writes.
-6. **If merge fails validation**: Read the error, fix the translated TSV (add missing lines or remove extras), and re-run merge. This is the ONLY acceptable reason to do extra tool calls.
+4. **Translate and write**: Write only the lines you translate, in the same TSV format: `LINE_NUM<TAB>STYLE<TAB>TRANSLATED_TEXT`. Do NOT re-read to self-correct. Get it right the first time.
+   - **Do NOT copy untranslated lines.** If a line needs no translation — text that is already in the target language, pure punctuation (`...`), or onomatopoeia/signs you are intentionally leaving as-is — simply **omit it** from your output TSV. The merge script keeps the original text for any line you don't include, so re-typing it verbatim is wasted effort. Only write a line when you are actually changing it.
+   - This is a judgement call, not a licence to skip work: every line of real dialogue, narration, title, caption, etc. MUST be translated. Omission is reserved for lines that would be byte-for-byte identical anyway.
+   - **≤500 translated lines**: Write the entire translated TSV to `/tmp/translated.tsv` in a **single Write call**.
+   - **>500 translated lines**: Split into sequential chunks of ~500 lines. Write each chunk to a separate temp file (`/tmp/translated_1.tsv`, `/tmp/translated_2.tsv`, etc.), then concatenate: `cat /tmp/translated_*.tsv > /tmp/translated.tsv`. LINE_NUM values must stay in ascending order across chunks — no duplicates.
+5. **Merge**: Run `python3 merge_translation.py "input.ass" /tmp/translated.tsv` to produce the final zh-TW ASS file. The merge script validates your line numbers: a LINE_NUM that **isn't** in the source is a hard error (likely a typo), while lines you **omitted** are allowed and reported as `Kept N source lines untranslated (originals preserved): [...]`.
+6. **Check the merge report**: Read the `Kept ... untranslated` list and confirm every omitted line number was a *deliberate* keep-as-is decision. If you spot a line there that you meant to translate (e.g. a `title`/`captions`/`Gold` line left in English), add it to the TSV and re-run merge. If merge errors on `extra` line numbers, fix those LINE_NUMs and re-run. These are the only acceptable reasons to do extra tool calls.
 7. **Save glossary**: Add any new terms to `.claude/agent-memory/one-pace-translator/glossary.md`.
 8. **Cleanup**: Run `rm /tmp/dialogue.tsv /tmp/translated*.tsv`
 9. **Commit and push**: Stage the translated ASS file and the updated glossary, commit with a message like `translate: [Arc Name] [Episode Number]`, then push to the remote.
@@ -123,10 +127,10 @@ The project uses a pipeline of scripts to speed up translation. Instead of readi
 ### SPEED RULES (CRITICAL)
 
 - **Minimize tool calls.** The typical workflow for ≤500 lines uses ~7 tool calls: extract (Bash), read glossary (Read), read TSV (Read), write translated TSV (Write), merge (Bash), update glossary (Edit), cleanup (Bash). For >500 lines, add one Write per extra chunk plus one cat command.
-- **NEVER** re-read your output to verify it. The merge script validates line coverage automatically.
+- **NEVER** re-read your output to verify it. The merge script reports line coverage automatically.
 - **NEVER** do multiple translation passes. Translate every line correctly on the first pass.
 - **DO NOT** add extra logging, verification reads, or sanity checks beyond the merge step.
-- **Your translated TSV MUST have exactly one line per extracted line, with matching LINE_NUM values.** Do not skip lines, do not add lines. Copy every LINE_NUM from the input TSV exactly.
+- **Translate every line that needs translating; omit only lines you are deliberately keeping in the source language** (see step 4). Each LINE_NUM you write must come from the input TSV exactly, with no duplicates. Don't pad your output with verbatim copies of lines you aren't changing — that's the effort the omit-rule exists to save.
 
 ## Quality Assurance Checklist
 
