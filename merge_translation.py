@@ -52,6 +52,32 @@ DEFAULT_RES_X = 1280      # fallback PlayResX for centering \an8 lines when stac
 # groups therefore KEEP their original \pos instead of being pinned.
 MAX_PINNED_CLUSTER = 3
 
+# Sidecar file of manual per-line position overrides. The stacking planner only
+# knows about caption-vs-caption collisions in TIME; it cannot see burned-in
+# content in the video frame (a hardcoded English caption or an in-frame sign
+# already occupying the top of the screen). Lines listed here are pinned to the
+# given (x, y) instead of the planner's choice. Format, tab-separated:
+#     <original .ass filename>	<line_num>	<x>	<y>
+# Lines starting with # are comments.
+OVERRIDES_PATH = Path(__file__).parent / "position_overrides.tsv"
+
+
+def _load_position_overrides(original_name):
+    """Return {line_num: (x, y)} overrides for this original file, if any."""
+    overrides = {}
+    if not OVERRIDES_PATH.exists():
+        return overrides
+    with open(OVERRIDES_PATH, "r", encoding="utf-8") as f:
+        for raw in f:
+            raw = raw.strip()
+            if not raw or raw.startswith("#"):
+                continue
+            parts = raw.split("\t")
+            if len(parts) != 4 or parts[0] != original_name:
+                continue
+            overrides[int(parts[1])] = (float(parts[2]), float(parts[3]))
+    return overrides
+
 
 def _parse_time(t):
     h, m, s = t.split(":")
@@ -229,6 +255,7 @@ def merge(original_path, translations, output_path):
             break
 
     top_pos = _plan_top_positions(raw_lines, translations, res_x)
+    top_pos.update(_load_position_overrides(Path(original_path).name))
 
     with open(output_path, "w", encoding=out_encoding) as fout:
         for line_num, line in enumerate(raw_lines, 1):

@@ -1,0 +1,11 @@
+# Manual position overrides for merge_translation.py — see OVERRIDES_PATH there.
+# Used when a top-pinned caption would sit on burned-in frame content (hardcoded
+# English text or an in-frame sign) that the time-based stacking planner can't see.
+# Format: <original .ass filename>	<line_num>	<x>	<y>
+# Dressrosa 26 line 260: hardcoded "New Royal Palace / First Step" occupies the
+# top band (~y 85-165) at 18:59-19:04 — drop the caption below it.
+[One Pace][750-751] Dressrosa 26 [720p].ass	260	640	210
+# Dressrosa 27 line 196: the anime's own sign box 4段目「ひまわり畑」 fills the top
+# of frame at 10:11-10:16, with hardcoded "Level 4 / The Sunflower Field" burned
+# below it down to ~y 296 — drop the caption below both.
+[One Pace][752-753] Dressrosa 27 [720p].ass	196	640	305
