@@ -3378,7 +3378,10 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Ginrummy (Beasts Pirates, Jack's female subordinate) | 金菈彌 | VERIFIED Fandom zh opensearch 金菈彌 |
 | Duke Inuarashi / "Day Ruler" (official ruler of Mokomo Dukedom) | 犬嵐公爵 / 晝之王 | uses established Inuarashi 犬嵐 (L3302) + Duke 公爵. Caption "Day Ruler" = 晝之王 (day-shift co-ruler). Cf. Nekomamushi "Night Ruler" 夜之王 |
 | Night Ruler (Nekomamushi's co-ruler title) | 夜之王 | caption title for Nekomamushi (night-shift co-ruler); cf. glossary 暗夜之王 (L3301) — 夜之王 used for the terse caption form. "Fool/Fool of the Night" (Nekomamushi's other title) = 夜之愚者 |
-| Garchu (Mink affectionate greeting/headbutt) | 咖啾 | coined phonetic (ガルチュー Garchu); the Minks' friendly greeting nuzzle. UNRESOLVED — no dedicated Fandom zh term found; coinage kept |
+| Garchu (Mink affectionate greeting/headbutt) | 嘎啾 | UNIFIED to 嘎啾 (matches earliest ep06 entry L3301). Earlier variants 咖啾/咖魯啾 superseded — use 嘎啾 project-wide. coined phonetic (ガルチュー); the Minks' friendly greeting nuzzle |
+| Torasaburo (Kanjuro's drawn tiger, Zou 07) | 寅三郎 | VERIFIED Fandom zh (寅三郎 opensearch → 霜月耕三郎 cross-ref uses 寅). Kanjuro's living-drawing tiger. 寅 = tiger zodiac char |
+| "tora = tiger" (Zou 07 Note on Torasaburo pun) | 寅即為虎 | Note-line gloss; 寅 (tiger zodiac) = 虎 (tiger) — Luffy doesn't realise the drawn animal is a tiger |
+| Bariete (Mink bell-ringer, Zou 07) | 巴利耶特 | UNIFIED to 巴利耶特 (matches glossary Zou-section entry). coined phonetic (バリエテ); UNVERIFIED |
 | Wolf Grip (Wanda attack, wolf-mink) | 狼咬 | coined; Wanda's hand transforms into a wolf's jaw. UNVERIFIED — VERIFY vs Fandom |
 | Bone-Bone Chop (Mink comedic chop, this ep) | 骨骨手刀 | coined; a Mink's "kanja/kanya" pun-chop gag while carrying patients. One-off |
 | kanja/kanya = patient (ninja/kanja homophone gag, Note) | 患者（發音近「忍者」） | Note-line gloss; Japanese 患者 (kanja) sounds like 忍者 (ninja) — the joke |
