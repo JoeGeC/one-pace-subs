@@ -68,10 +68,10 @@ Dialogue: 0,0:02:13.67,0:02:17.84,Jungle P lyrics,,0,0,0,,{\fad(50,0)}Get all th
 Dialogue: 0,0:02:18.01,0:02:20.18,Jungle P lyrics,,0,0,0,,while laughing out loud.
 Dialogue: 0,0:02:20.30,0:02:24.54,Jungle P lyrics,,0,0,0,,Give them all out at a big party
 Dialogue: 0,0:02:24.72,0:02:27.31,Jungle P lyrics,,0,0,0,,making a splash...
-Dialogue: 0,0:02:29.94,0:02:36.92,Title,,0,0,200,,{\an8\fad(2000,2000)}已經很消極了！\N騙人布的勇敢奮戰！
-Dialogue: 0,0:02:37.02,0:02:39.70,Captions,,0,0,100,,{\an8\pos(720,100)\fad(170,0)}Thriller Bark內部：桅杆大宅
+Dialogue: 0,0:02:29.94,0:02:36.92,Title,,0,0,200,,{\an8\pos(640,100)\fad(2000,2000)}已經很消極了！\N騙人布的勇敢奮戰！
+Dialogue: 0,0:02:37.02,0:02:39.70,Captions,,0,0,100,,{\an8\pos(640,320)\fad(170,0)}Thriller Bark內部：桅杆大宅
 Dialogue: 0,0:02:36.92,0:02:39.70,Captions small,Sign,0,0,100,,{\an8\pos(164,100)}{}莫利亞的舞廳
-Dialogue: 0,0:02:36.92,0:02:39.70,Captions small,Sign,0,0,100,,{\an8\pos(114,100)}{}培羅娜的房間
+Dialogue: 0,0:02:36.92,0:02:39.70,Captions small,Sign,0,0,100,,{\an8\pos(114,210)}{}培羅娜的房間
 Dialogue: 0,0:02:39.70,0:02:41.33,Main,Chopper,0,0,0,,騙人布和香吉士掉到下面去了…
 Dialogue: 0,0:02:41.33,0:02:43.41,Main,Chopper,0,0,0,,我們就這樣丟下他們嗎？
 Dialogue: 0,0:02:43.41,0:02:44.30,Main,Luffy,0,0,0,,對！
@@ -265,8 +265,8 @@ Dialogue: 0,0:13:50.39,0:13:52.74,Main,Usopp,0,0,0,,你們都給我聽好了…
 Dialogue: 0,0:13:52.74,0:13:56.14,Main,Usopp,0,0,0,,說到消極思考…
 Dialogue: 0,0:13:56.76,0:13:59.40,Main,Usopp,0,0,0,,沒有人能超越我！
 Dialogue: 0,0:14:00.63,0:14:03.07,Main,Wild Zombie,0,0,0,,對這麼沒用的事情充滿自信！
-Dialogue: 0,0:14:03.17,0:14:06.84,Captions,Sign,0,0,100,,{\an8\pos(720,100)\fad(280,0)}培羅娜的奇幻花園
-Dialogue: 0,0:14:03.07,0:14:06.84,Main,Zoro,0,0,600,,誰想得到騙人布的消極個性在這種地方能派上用場。
+Dialogue: 0,0:14:03.17,0:14:06.84,Captions,Sign,0,0,100,,{\an8\pos(640,210)\fad(280,0)}培羅娜的奇幻花園
+Dialogue: 0,0:14:03.07,0:14:06.84,Main,Zoro,0,0,100,,{\an8\pos(640,100)}誰想得到騙人布的消極個性在這種地方能派上用場。
 Dialogue: 0,0:14:06.84,0:14:11.43,Main,Franky,0,0,0,,如果他不在的話，我們現在已經死了。
 Dialogue: 0,0:14:12.14,0:14:14.77,Main,Zoro,0,0,0,,他的能力真是可怕。
 Dialogue: 0,0:14:14.77,0:14:18.48,Main,Sanji,0,0,0,,我把你留在這裡，我去娜美小姐那邊了。

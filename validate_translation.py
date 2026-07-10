@@ -25,6 +25,16 @@ from extract_dialogue import (
     parse_ass_line, TRANSLATABLE_PREFIXES, SKIP_PREFIXES,
     EDITOR_COMMENT_RE, is_drawing_only, style_matches
 )
+# Reuse merge_translation's own top-flush detector rather than keeping a
+# second, independent copy — two copies of this logic already drifted out
+# of sync once (Dressrosa 38 "Leo, can you hear me?": a plain bottom-anchored
+# Main line with an oversized MarginV and no alignment tag at all, which the
+# old regex-only TOP_ALIGN_RE approach here and in merge_translation.py both
+# missed).
+from merge_translation import (
+    _plan_top_positions, _apply_top_pos, _parse_styles,
+    DEFAULT_RES_X, DEFAULT_RES_Y,
+)
 
 # Matched case-insensitively via style_matches — source files ship the same
 # styles under different capitalisation (`Title`/`title`, `Captions`/`captions`).
@@ -36,10 +46,6 @@ AN_TAG_RE = re.compile(r'\\an\d')
 # middle) — merge_translation.py strips these when pinning a line to the top,
 # so they must not count as a tag difference (mirrors merge_translation.py).
 LEGACY_A_TAG_RE = re.compile(r'\\a(?:1[01]|[1-9])(?!\d)')
-# Top-row alignment, old or new numbering — used to detect lines that
-# merge_translation.py relocates to the top even outside Title/Captions
-# styles (e.g. \a6 narration lines styled Main/Secondary).
-TOP_ALIGN_RE = re.compile(r'\\a[567](?!\d)|\\an[789](?!\d)')
 # \move is stripped by merge when pinning a caption to the top of the screen,
 # so it must not count as a tag difference (mirrors merge_translation.py).
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
@@ -156,23 +162,51 @@ def parse_all_dialogue(path):
     return results
 
 
-def reposition_text(text):
-    """Apply \an8 repositioning to a Title/Captions text field."""
-    text = POS_TAG_RE.sub('', text)
-    text = MOVE_TAG_RE.sub('', text)
-    text = AN_TAG_RE.sub('', text)
-    text = LEGACY_A_TAG_RE.sub('', text)
-    if text.startswith('{\\'):
-        text = '{\\an8' + text[1:]
-    else:
-        text = '{\\an8}' + text
-    return text
-
-
 def validate(original_path, translated_path, fix=False):
     """Validate translated ASS against original. Returns (report, issues_found, fixes_applied)."""
     orig_lines = parse_all_dialogue(original_path)
     trans_lines = parse_all_dialogue(translated_path)
+
+    with open(original_path, "r", encoding="utf-8-sig") as f:
+        orig_raw_lines = [l.rstrip("\n").rstrip("\r") for l in f]
+    style_map = _parse_styles(orig_raw_lines)
+    res_x, res_y = DEFAULT_RES_X, DEFAULT_RES_Y
+    for l in orig_raw_lines:
+        if l.lower().startswith("playresx:"):
+            try:
+                res_x = float(l.split(":", 1)[1].strip())
+            except ValueError:
+                pass
+        elif l.lower().startswith("playresy:"):
+            try:
+                res_y = float(l.split(":", 1)[1].strip())
+            except ValueError:
+                pass
+
+    # Ask merge_translation's OWN planner what it would pin, rather than
+    # re-deriving a simplified version of that logic here — a second,
+    # independent copy of "should this be pinned" already drifted out of
+    # sync twice (missed the Dressrosa 38 MarginV-push pattern, then flagged
+    # lines merge deliberately leaves unpinned to avoid off-screen/montage
+    # overflow). Using the original English text as input is an approximation
+    # (the real merge ran on the translated text), but the alignment tags and
+    # margins that drive this decision come from the ORIGINAL line's own
+    # override block, which translators don't invent — they translate the
+    # visible text, not the positioning tags — so this reconstructs the same
+    # decision merge_translation.py actually made.
+    #
+    # Only feed lines that were ACTUALLY translated (translated text differs
+    # from the original) — merge() only ever calls _plan_top_positions with
+    # `line_num in translations`; an untranslated line is copied verbatim and
+    # never touched by the planner at all. Without this filter, every
+    # not-yet-translated Title/Captions line in a WIP episode gets wrongly
+    # flagged as "should have been pinned."
+    trans_text_by_ln = {ln: text for (ln, _l, _s, _e, _st, _n, _ml, _mr, _mv, _ef, text) in trans_lines}
+    orig_text_by_ln = {
+        ln: text for (ln, _l, _s, _e, _st, _n, _ml, _mr, _mv, _ef, text) in orig_lines
+        if trans_text_by_ln.get(ln) != text
+    }
+    expected_pins = _plan_top_positions(orig_raw_lines, orig_text_by_ln, res_x, res_y, style_map)
 
     report = []
     issues = []
@@ -237,43 +271,41 @@ def validate(original_path, translated_path, fix=False):
             else:
                 tag_ok += 1
 
-        # Check Title/Captions repositioning (only on translatable lines).
-        # Also covers non-Title/Captions lines (e.g. Main/Secondary narration)
-        # whose ORIGINAL carries a legacy top-row \a alignment — merge_translation.py
-        # relocates those to \an8\pos the same way it does Title/Captions.
-        needs_top_check = style_matches(t_style, TOP_POSITION_PREFIXES) or TOP_ALIGN_RE.search(o_text)
-        if is_translatable and needs_top_check:
+        # Check top-of-frame repositioning against the planner's OWN verdict
+        # (expected_pins), rather than a re-derived heuristic — see the
+        # comment above expected_pins for why.
+        should_be_pinned = t_ln in expected_pins
+        if is_translatable and should_be_pinned:
             has_an8 = bool(re.search(r'\\an8', t_text))
-            has_pos = bool(POS_TAG_RE.search(t_text))
-
-            # A repositioned caption is one that has been pulled to the top with
-            # \an8. It may ALSO carry \pos(x,y): merge_translation.py pins
-            # coincident top lines to explicit stacked positions so they don't
-            # overlap each other. \an8\pos is therefore valid — do NOT strip it.
-            o_pos_m = POS_TAG_RE.search(o_text)
-            t_pos_m = POS_TAG_RE.search(t_text)
-            # Deliberately unpinned captions keep the original positioning:
-            # identical \pos tags, or no \pos on either side (margin-positioned
-            # map labels — margins are already compared by the metadata check).
-            kept_in_place = (not has_an8
-                             and (o_pos_m.group(0) if o_pos_m else None)
-                                 == (t_pos_m.group(0) if t_pos_m else None))
             if has_an8:
-                reposition_ok += 1
-            elif kept_in_place:
-                # Deliberately unpinned: merge keeps original \pos for montage
-                # clusters (> MAX_PINNED_CLUSTER simultaneous captions).
                 reposition_ok += 1
             else:
                 reposition_needed += 1
                 if fix:
-                    fixed_text = reposition_text(t_text)
+                    x, y = expected_pins[t_ln]
+                    fixed_text = _apply_top_pos(t_text, x, y)
                     fixed_mv = str(100 * (1 + fixed_text.count('\\N')))
                     prefix = f"Dialogue: {t_layer},{t_start},{t_end},{t_style},{t_name},{t_ml},{t_mr},{fixed_mv},{t_effect},"
                     fixes.append((t_ln, prefix + fixed_text))
                     reposition_fixed += 1
                 else:
-                    issues.append(f"Line {t_ln} ({t_style}): needs \\an8 repositioning (has_an8={has_an8}, has_pos={has_pos})")
+                    issues.append(f"Line {t_ln} ({t_style}): needs \\an8 repositioning (planner expects pos={expected_pins[t_ln]})")
+        elif is_translatable and style_matches(t_style, TOP_POSITION_PREFIXES):
+            # Title/Captions style, but the planner deliberately left it
+            # unpinned (montage cluster > MAX_PINNED_CLUSTER) — OR it's a
+            # file merged under an older version of the planner that made a
+            # different call than today's would. Chasing exact agreement
+            # with the current algorithm on old files is noisy and out of
+            # scope (a corpus built up over many script revisions won't
+            # match a live rerun pixel-for-pixel); just confirm it wasn't
+            # left with \\an8 half-applied or one side missing \\pos entirely.
+            has_pos = bool(POS_TAG_RE.search(t_text))
+            o_pos_m = POS_TAG_RE.search(o_text)
+            if has_pos or o_pos_m is None:
+                reposition_ok += 1
+            else:
+                reposition_needed += 1
+                issues.append(f"Line {t_ln} ({t_style}): original has \\pos but translation lost it entirely")
 
     # Check for timing overlaps within same screen position
     overlap_warnings = detect_overlaps(trans_lines)

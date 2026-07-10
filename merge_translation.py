@@ -35,13 +35,27 @@ AN_TAG_RE = re.compile(r'\\an\d')
 # bottom, 5-7 top, 9-11 middle). Must not match \an — the (?!\d) guard plus
 # requiring a digit immediately after \a keeps it independent of AN_TAG_RE.
 LEGACY_A_TAG_RE = re.compile(r'\\a(?:1[01]|[1-9])(?!\d)')
-# Regex to detect TOP-row alignment specifically (old or new numbering), used
-# to decide whether a line needs relocating — old-style top row is 5/6/7,
-# new-style top row is 7/8/9.
-TOP_ALIGN_RE = re.compile(r'\\a[567](?!\d)|\\an[789](?!\d)')
+# Regex to find an explicit \an<N> or legacy \a<N> tag, to resolve which of
+# the 9 (or 11) alignment zones a line's OWN override claims — used by
+# _resolve_zone_and_margin below, which falls back to the style's default
+# Alignment field when neither tag is present.
+AN_TAG_SEARCH_RE = re.compile(r'\\an([1-9])(?!\d)')
+LEGACY_A_TAG_SEARCH_RE = re.compile(r'\\a(1[01]|[1-9])(?!\d)')
+STYLE_LINE_RE = re.compile(r'^style:\s*(.*)$', re.IGNORECASE)
 # Regex to strip \move(...) — a caption pinned to the top must be static;
 # leaving \move alongside the injected \pos is renderer-ambiguous.
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
+
+# A line renders "flush against the top" if its resolved on-screen anchor
+# lands within this many pixels of the top edge — regardless of whether that
+# came from an explicit top-alignment tag or from a plain bottom-anchored
+# line whose MarginV was cranked up to push it near the top (a pattern found
+# in Main/Secondary dialogue with no alignment tag at all, e.g. Dressrosa 38
+# "Leo, can you hear me?" at MarginV=660 on a 720-tall frame). Calibrated
+# against a corpus-wide scan: genuine top-flush lines cluster at 60-145px;
+# the next cluster (deliberate mid-frame "epitaph" captions like the Lao G/
+# Baby 5 name cards) starts at 213px+, so 150 sits cleanly in the gap.
+TOP_MARGIN_THRESHOLD = 150
 
 # Repositioning geometry. Top-positioned lines (Title/Captions, and \an8 dialogue)
 # are moved off the hardcoded English subs to the top of the screen. When several
@@ -136,6 +150,93 @@ def _num(v):
     return f"{v:.2f}".rstrip("0").rstrip(".")
 
 
+def _parse_styles(raw_lines):
+    """Return {style_name_lower: (alignment, marginV)} parsed from the [V4+ Styles] header."""
+    styles = {}
+    for line in raw_lines:
+        m = STYLE_LINE_RE.match(line.strip())
+        if not m:
+            continue
+        parts = m.group(1).split(",")
+        if len(parts) < 22:
+            continue
+        name = parts[0].strip().lower()
+        try:
+            alignment = int(parts[18])
+            marginv = float(parts[21])
+        except ValueError:
+            continue
+        styles[name] = (alignment, marginv)
+    return styles
+
+
+def _zone(alignment):
+    """Map a 1-9 numpad-style alignment (new \\an tag OR the style's own
+    Alignment field, which uses the same numbering) to top/middle/bottom."""
+    if alignment in (7, 8, 9):
+        return "top"
+    if alignment in (4, 5, 6):
+        return "middle"
+    return "bottom"
+
+
+def _legacy_zone(alignment):
+    """Map a 1-11 legacy \\a alignment (VSFilter numbering) to top/middle/bottom."""
+    if alignment in (5, 6, 7):
+        return "top"
+    if alignment in (9, 10, 11):
+        return "middle"
+    return "bottom"
+
+
+def _is_flush_top(text, style, dialogue_marginv, style_map, res_y):
+    """Return True if this line's resolved vertical anchor lands within
+    TOP_MARGIN_THRESHOLD of the top of the frame — whatever mechanism put it
+    there. Covers three cases uniformly:
+      1. Explicit top alignment (\\an7/8/9 or legacy \\a5/6/7) with a small
+         MarginV (the classic "burned-in top text" collision).
+      2. A plain bottom-anchored line (no alignment tag, or \\an1-3/\\a1-3)
+         whose MarginV was pushed up so far that its anchor sits near the
+         top anyway — no alignment tag involved at all.
+      3. Middle-anchored lines are never flagged; a moderate MarginV there
+         doesn't put text at the very top edge.
+    Lines that already carry an explicit \\pos(...) are skipped — their
+    position is art-directed (per-frame typesetting, animated calligraphy)
+    and MarginV is meaningless for them. Narrator/Note lines are also
+    skipped — those styles are top-aligned (Alignment=8) by design and
+    already get their own top-clearance treatment (a flat MarginV bump
+    elsewhere in merge()), not \\an8/\\pos pinning; sweeping them in here
+    would flag the entire Narrator/Note track as "needs repositioning"
+    even though they're already handled by a different, working mechanism.
+    """
+    if POS_TAG_RE.search(text):
+        return False
+    if style_matches(style, ("Narrator", "Note")):
+        return False
+
+    m = AN_TAG_SEARCH_RE.search(text)
+    if m:
+        zone = _zone(int(m.group(1)))
+    else:
+        m = LEGACY_A_TAG_SEARCH_RE.search(text)
+        if m:
+            zone = _legacy_zone(int(m.group(1)))
+        else:
+            alignment, style_marginv = style_map.get(style.strip().lower(), (2, 18.0))
+            zone = _zone(alignment)
+
+    if zone == "middle":
+        return False
+
+    if dialogue_marginv > 0:
+        marginv = dialogue_marginv
+    else:
+        _, marginv = style_map.get(style.strip().lower(), (2, 18.0))
+
+    y_from_top = marginv if zone == "top" else (res_y - marginv)
+    return y_from_top < TOP_MARGIN_THRESHOLD
+
+
 def _apply_top_pos(text, x, y):
     """Strip any existing \\pos/\\move/\\an/\\a from text and pin it to \\an8\\pos(x,y)."""
     text = POS_TAG_RE.sub("", text)
@@ -166,16 +267,16 @@ def load_translations(tsv_path):
     return translations
 
 
-def _plan_top_positions(raw_lines, translations, res_x, res_y):
+def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
     """Decide the final (x, y) for every top-positioned translated line.
 
     Top-positioned = Title/Captions (always relocated to the top of screen to
-    clear the hardcoded English subs) or any line whose text carries a
-    top-row alignment override — new-style \\an7/\\an8/\\an9 or legacy
-    \\a5/\\a6/\\a7 (VSFilter numbering, still used by narrator-style Main/
-    Secondary lines in some raws). Without this, those lines render at the
-    style's default MarginV — flush against the top edge — and collide with
-    whatever's burned into the top of the frame.
+    clear the hardcoded English subs) or any line whose RESOLVED on-screen
+    position lands near the top edge (see _is_flush_top) — whether that's
+    from an explicit top alignment tag or just a bottom-anchored line with
+    an oversized MarginV pushing it up there. Without this, those lines
+    render flush against the top edge and collide with whatever's burned
+    into the top of the frame.
     Several of these can be on screen at once — a location caption, a character
     label and a shouted line, say. If they all pin to the same y they overlap,
     so we assign each to a horizontal ROW and stack the rows downward.
@@ -204,8 +305,13 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y):
             continue
         style = parts[3]
         trans_text = translations[line_num]
+        try:
+            dialogue_marginv = float(parts[7])
+        except ValueError:
+            dialogue_marginv = 0.0
         is_caption = style_matches(style, TOP_POSITION_PREFIXES)
-        is_top_aligned = bool(TOP_ALIGN_RE.search(trans_text) or TOP_ALIGN_RE.search(parts[9]))
+        is_top_aligned = (_is_flush_top(trans_text, style, dialogue_marginv, style_map, res_y)
+                           or _is_flush_top(parts[9], style, dialogue_marginv, style_map, res_y))
         if not (is_caption or is_top_aligned):
             continue
         # Motion-tracked frames (Aegisub-Motion {=NN...} marker) are positioned
@@ -315,7 +421,8 @@ def merge(original_path, translations, output_path):
             except ValueError:
                 pass
 
-    top_pos = _plan_top_positions(raw_lines, translations, res_x, res_y)
+    style_map = _parse_styles(raw_lines)
+    top_pos = _plan_top_positions(raw_lines, translations, res_x, res_y, style_map)
     top_pos.update(_load_position_overrides(Path(original_path).name))
     margin_overrides = _load_margin_overrides(Path(original_path).name)
 
