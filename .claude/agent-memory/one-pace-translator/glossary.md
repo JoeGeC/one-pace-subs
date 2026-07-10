@@ -3282,7 +3282,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Kozuki Clan (Wano ruling family, ep06) | 光月家 | VERIFIED Fandom zh 光月家 |
 | Raizo (Kozuki ninja retainer, ep06) | 雷藏 | VERIFIED Fandom zh 雷藏 |
 | Wanda (mink, dog-type, ep06) | 萬妲 | VERIFIED Fandom zh 萬妲 |
-| Tristan (mink, Chopper's medical assistant, ep06) | 特莉絲坦 | coined phonetic; minor mink, no dedicated Fandom page found. トリスタン |
+| Tristan (mink, Chopper's medical assistant, ep06) | 崔斯坦 | CORRECTED 特莉絲坦 → 崔斯坦, 2026-07-10. Neither form has a dedicated Fandom zh page (both confirmed missing via direct API query) — standardized on 崔斯坦 (majority usage across Zou eps + earliest coinage + standard zh transliteration of "Tristan") |
 | BB / Roddy / Pastor Yomo (minor Guardian dogs, ep06) | BB／洛迪／尤摩牧師 | coined phonetic for one-off minks; no Fandom pages |
 | Pedro (Whale Forest Guardian, jaguar mink, ep06) | 佩特羅 | VERIFIED Fandom zh page 佩特羅 (jname ペドロ) |
 | Baron Corpse (dogs' affectionate nickname for Pedro, ep06) | 屍體男爵 | coined gag; Baron 男爵 + Corpse 屍體 |
@@ -3361,7 +3361,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Zunesha / Zunisha (giant elephant carrying Zou) | 象主 | VERIFIED Fandom zh 象主 (jname 象主 ruby ズニーシャ Zunīsha). Naturally rendered as "the elephant" 大象 in dialogue |
 | Pedro (Guardian, jaguar mink, Nox Pirates) | 佩特羅 | VERIFIED Fandom zh 佩特羅. Luffy/others mis-name him "Peropero" 佩羅佩羅 (gag) |
 | Wanda (Mink, wolf-mink, Kurau City) | 萬妲 | VERIFIED Fandom zh 萬妲 |
-| Tristan (Mink doctor, Chopper's assistant) | 崔斯坦 | VERIFIED Fandom zh (犬嵐銃士隊 page member) |
+| Tristan (Mink doctor, Chopper's assistant) | 崔斯坦 | NOT actually verified — direct API query confirms no 崔斯坦 page exists (prior "VERIFIED ...page member" claim was wrong). Standardized on 崔斯坦 anyway per majority usage; see L3285 |
 | Sicilian / Shishilian (Mink, Musketeer captain, lion-mink) | 西西里昂 | CORRECTED 西西里 → 西西里昂 (Zou 04). VERIFIED Fandom zh page title 西西里昂 (opensearch + page-title check both return 西西里昂; bare 西西里 is a shorter redirect/variant). Captain of Inuarashi's Musketeers. "Full Power Shishilian"/全力運轉 西西里昂 (caption). Noisy/boastful, hates sweet talk |
 | Carrot (Mink, rabbit-mink) | 凱洛特 | VERIFIED Fandom zh 凱洛特 (mentioned; later joins crew) |
 | Kozuki Clan (Wano ruling family) | 光月家 | VERIFIED Fandom zh 光月家 |
@@ -3434,7 +3434,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Wanda (dog mink, Nami's guide) | 萬妲 | VERIFIED Fandom zh 萬妲 page |
 | Carrot (rabbit mink) | 凱洛特 | VERIFIED Fandom zh 凱洛特 page |
 | Shishilian (lion mink, Musketeer) | 西西里昂 | VERIFIED Fandom zh 西西里昂 page |
-| Tristan (Mink doctor's assistant) | 崔斯坦 | VERIFIED Fandom zh 崔斯坦 page exists |
+| Tristan (Mink doctor's assistant) | 崔斯坦 | NOT actually verified — direct API query confirms no 崔斯坦 page exists (prior claim was wrong). Standardized on 崔斯坦 anyway; see L3285 |
 | Whale Forest (forest with the Whale Tree hiding the Road Poneglyph) | 鯨魚森林 | VERIFIED Fandom zh 佐烏 page: 鯨魚森林. "Whale Tree" = 鯨魚樹 |
 | Road Poneglyph (red Poneglyph pointing to Laugh Tale) | 路標歷史本文 | VERIFIED Fandom zh 佐烏 page: 紅色路標歷史本文. Uses established Poneglyph 歷史本文 |
 | Bariete (Mink bell-ringer) | 巴利耶特 | coined phonetic (バリエテ); no dedicated Fandom zh page. UNVERIFIED |
@@ -3460,18 +3460,18 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Master Nekomamushi / "King of the Night" | 貓蝮蛇師匠 / 「夜之王」 | VERIFIED Fandom 貓蝮蛇 + 師匠 (Master, NOT 宗師). Night King = 夜之王 (Fandom 夜之王 page) |
 | Nekozaemon (Nekomamushi's samurai-play alias) | 貓左衛門 | VERIFIED Fandom page 貓左衛門. Kin'emon-style -衛門 suffix; cf. Chopperemon 喬巴衛門 |
 | Pedro (Guardian, Nox Pirates captain) | 佩特羅 | VERIFIED Fandom exact page 佩特羅 (NOT 佩德羅) |
-| Wanda (Mink, Kurau City resident, guide) | 汪達 | VERIFIED Fandom exact page 汪達 (NOT 萬達) |
-| Tristan (Mink doctor's apprentice) | 崔斯坦 | VERIFIED Fandom page 崔斯坦 |
+| Wanda (Mink, Kurau City resident, guide) | 萬妲 | CORRECTED 汪達 → 萬妲, 2026-07-10. Direct API query confirms 汪達 page is MISSING (does not exist) despite prior "VERIFIED" claim — opensearch fuzzy-matched a nonexistent title. 萬妲 has a real page with full infobox (race: 純毛族, affiliation: 摩科莫公國/犬嵐銃士隊) |
+| Tristan (Mink doctor's apprentice) | 崔斯坦 | NOT actually verified — direct API query confirms no 崔斯坦 page exists (prior "VERIFIED" claim was wrong). Standardized on 崔斯坦 anyway per majority usage; see L3285 |
 | Dr. Miyagi (Mink doctor, kangaroo-hopping) | 宮城醫生 | coined; no dedicated Fandom zh page found. 宮城 = Miyagi |
 | Bariete (crow that rings the bell) | 巴力耶特 | VERIFIED Fandom page 巴力耶特 |
 | Warney (Inuarashi's mount) | 沃尼 | VERIFIED Fandom search → 沃尼 |
-| Mink Tribe | 毛皮族 | VERIFIED Fandom canonical page 毛皮族 (general Mink Tribe). NB: ep02 glossary used 純毛族 for "Mink Tribe" — 純毛族 is a DISTINCT/narrower page. Going forward use 毛皮族 for the tribe generally; RECONCILE ep02 if it recurs |
-| Monkey Mink / "lesser mink" (Minks' term for humans) | 猿猴毛皮族 / 稀薄毛皮 | coined descriptive; Wanda calls humans hairless Monkey Minks |
+| Mink Tribe | 純毛族 | CORRECTED 毛皮族 → 純毛族, 2026-07-10. Direct API query confirms 毛皮族 is a REDIRECT to 純毛族 (same page, 純毛族 is the canonical title) — prior claim that 毛皮族 is a distinct/preferred page was wrong. Do NOT use 毛皮族 |
+| Monkey Mink / "lesser mink" (Minks' term for humans) | 猿猴純毛族 / 稀薄毛皮 | coined descriptive; Wanda calls humans hairless Monkey Minks. Updated 毛皮族→純毛族 2026-07-10 for consistency, see L3468 |
 | Minkship (Mink affectionate physical greeting) | 毛皮族之情 | coined; VERIFY (Fandom search inconclusive) |
-| Garchu (Mink greeting, ~"hug/nuzzle") | 咖啾 | VERIFIED Fandom 咖啾 (cf. Skypiea Heso). Onomatopoeic Mink greeting |
+| Garchu (Mink greeting, ~"hug/nuzzle") | 嘎啾 | CORRECTED 咖啾 → 嘎啾, 2026-07-10. Direct API query confirms NEITHER 咖啾 nor 嘎啾 has a dedicated Fandom page (prior "VERIFIED" claim was wrong) — standardized project-wide on 嘎啾 per L3407 |
 | Mokomo Dukedom (Mink country on Zou) | 摩克摩公國 | VERIFIED Fandom page 摩克摩公國 (general "Mink Dukedom" descriptor = 毛皮族公國) |
 | Zunesha / Zunisha (the giant elephant Zou walks on) | 象主 | VERIFIED Fandom page 象主. "giant elephant" descriptor = 巨大的象 |
-| Rightflank Fortress (Zou hidden fortress) | 右腹要塞 | VERIFIED Fandom page 右腹要塞 (ch806). NB tension: ep02 coined "Rightflank Forest" 右脇之森 — but Fandom body-part region is 右腹森林 (VERIFIED page). Prefer 右腹 for the flank region; reconcile ep02 |
+| Rightflank Fortress (Zou hidden fortress) | 右脇要塞 | CORRECTED 右腹要塞 → 右脇要塞, 2026-07-10. Direct API query confirms NEITHER 右腹要塞 nor 右脇之森/右腹森林 has a dedicated Fandom page (prior "VERIFIED" claim was wrong). Standardized on 右脇 (matches earliest coinage, ep02 "Rightflank Forest" 右脇之森) — semantically "flank/side" (脇) fits the English "Rightflank" name better than "belly" (腹) |
 | Kurau City (main city of Mokomo Dukedom) | 庫勞市 | VERIFIED Fandom page 庫勞市 |
 | Whale Forest (sacred forest, Nekomamushi's domain) | 鯨魚森林 | VERIFIED Fandom title 鯨魚森林 |
 | Bear Forest (Zou region, Law/Heart Pirates) | 熊之森林 | coined descriptive; paired with 鯨魚森林 |
@@ -3488,7 +3488,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Gaon Cannon (Sunny weapon) | 咆哮大砲 | KEPT — established (L1851). Fandom canonical is 海牛炮; repo-established 咆哮大砲 governs (self-consistent) |
 | Poêle à Frire Spectre (Sanji Diable Jambe attack) | Poêle à Frire…Spectre | kept French untranslated (matches Sanji French-kick styling); Note glosses "Frying Pan"=煎鍋, "Spectrum"=光譜. No Fandom zh technique page |
 | Weather Egg (Nami Clima-Tact attack) | 天候蛋 | KEPT — established (L2462). Split call 天候…/…蛋！ |
-| Coup de Burst (Sunny escape) | 緊急噴射 | NB: repo-established elsewhere is 風來爆發 (L2066 etc.). Here rendered 緊急噴射 (Fandom Sunny-page canonical コーラ緊急噴射). MINOR DIVERGENCE — 風來爆發 is the dominant repo form; consider unifying. Both attested |
+| Coup de Burst (Sunny escape) | 風來爆發 | CORRECTED 緊急噴射 → 風來爆發, 2026-07-10. This is the dominant, long-established repo-wide form (used across dozens of pre-Zou episodes, e.g. L1466/L2066/L2255) — do not use per-arc alternates even if separately attested on Fandom |
 | Ninpo (ninja arts prefix) | 忍法 | VERIFIED Fandom 忍法. Techniques: Smoke Escape 煙隱術, Shadow Clone 分身之術, Flower Shuriken 花手裏劍 (all VERIFIED); Earth/Water/Fire Escape = 土遁術/水遁術/火遁術 |
 | -teia (Wanda's speech tic, ~"you-teia") | (rendered naturally as 你們這些傢伙) | Mink speech quirk; no fixed zh particle, absorbed into phrasing |
 | -saru (Bariete/monkey-mink speech tic) | 猿 (sentence-final) | rendered as sentence-final 猿 (matches monkey motif) |
