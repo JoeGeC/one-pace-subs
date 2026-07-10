@@ -1,0 +1,24 @@
+# Manual MarginV overrides for merge_translation.py — see MARGIN_OVERRIDES_PATH there.
+# Used when a Narrator/Note box's automatic margin (100 per our translated
+# text line) isn't enough to clear the hardcoded English narration burned into
+# the video above it — that English text's line count isn't visible to us, so
+# the formula can't predict it.
+# Format: <original .ass filename>	<line_num>	<marginV>
+# D36 line 1364: Note collides with 2-line burned-in English translation note
+[One Pace][770-771] Dressrosa 36 [720p].ass	1364	200
+# D43 line 1490: Narrator collides with 2-line burned-in English narration
+[One Pace][786-787] Dressrosa 43 [720p].ass	1490	200
+# D45: Narrator collides with 2-line burned-in English narration
+[One Pace][791-793] Dressrosa 45 [720p].ass	1312	200
+[One Pace][791-793] Dressrosa 45 [720p].ass	1478	200
+[One Pace][791-793] Dressrosa 45 [720p].ass	1481	200
+[One Pace][791-793] Dressrosa 45 [720p].ass	1547	200
+# D46: Narrator collides with 2-line burned-in English narration (Kaido monologue)
+[One Pace][794-795] Dressrosa 46 [720p].ass	1600	200
+[One Pace][794-795] Dressrosa 46 [720p].ass	1601	200
+[One Pace][794-795] Dressrosa 46 [720p].ass	1603	200
+[One Pace][794-795] Dressrosa 46 [720p].ass	1609	200
+[One Pace][794-795] Dressrosa 46 [720p].ass	1610	200
+[One Pace][794-795] Dressrosa 46 [720p].ass	1624	200
+# D47 line 1208: Narrator collides with 2-line burned-in English narration
+[One Pace][796-797] Dressrosa 47 [720p].ass	1208	200

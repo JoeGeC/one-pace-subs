@@ -56,7 +56,7 @@ Dialogue: 0,0:01:52.82,0:01:57.49,Rainbow Star lyrics,,0,0,0,,Destroy the sad re
 Dialogue: 0,0:01:57.82,0:02:02.78,Rainbow Star lyrics,,0,0,0,,Let's raise our wings, full of warmth.
 Dialogue: 0,0:02:02.78,0:02:04.70,Rainbow Star lyrics,,0,0,0,,Surreal fallen angels,
 Dialogue: 0,0:02:04.70,0:02:07.56,Rainbow Star lyrics,,0,0,0,,singing from our hearts.
-Dialogue: 0,0:02:29.87,0:02:38.27,Title,,0,0,200,,{\an8\fad(2000,2000)}流傳的懸賞金與\N巴基洛島的決鬥！
+Dialogue: 0,0:02:29.87,0:02:38.27,Title,,0,0,200,,{\an8\pos(640,100)\fad(2000,2000)}流傳的懸賞金與\N巴基洛島的決鬥！
 Dialogue: 0,0:02:38.72,0:02:41.64,Main,Zeff,0,0,0,,說到司法之島，
 Dialogue: 0,0:02:41.87,0:02:44.64,Main,Zeff,0,0,0,,在世界政府的門前引起了這麼大的騷動之後，
 Dialogue: 0,0:02:44.64,0:02:48.60,Main,Zeff,0,0,0,,不管是海軍還是海賊都不會保持沉默。
@@ -64,12 +64,12 @@ Dialogue: 0,0:02:49.02,0:02:53.15,Main,Zeff,0,0,0,,現在，草帽海賊團的�
 Dialogue: 0,0:02:53.15,0:02:55.13,Main,Zeff,0,0,0,,連帶著這張通緝令。
 Dialogue: 0,0:02:57.51,0:02:59.25,Main,Pattie,0,0,0,,香吉士是最棒的！
 Dialogue: 0,0:03:00.42,0:03:04.24,Captions small,TL,0,0,100,,{\an8\pos(638,100)\shad0\bord1.5\fad(700,0)\fs40}東海
-Dialogue: 0,0:03:00.42,0:03:04.24,Captions small,tl,0,0,100,,{\an8\pos(654,100)\shad0\bord1.5\fad(700,0)\fs40}海上餐廳巴拉蒂
+Dialogue: 0,0:03:00.42,0:03:04.24,Captions small,tl,0,0,100,,{\an8\pos(654,210)\shad0\bord1.5\fad(700,0)\fs40}海上餐廳巴拉蒂
 Dialogue: 0,0:03:00.82,0:03:02.84,Main,Chef,0,0,0,,很厲害吧，客人們？！
 Dialogue: 0,0:03:02.84,0:03:04.24,Main,Chef,0,0,0,,跟真人一模一樣！
 Dialogue: 0,0:03:04.24,0:03:09.07,Main,Pattie,0,0,0,,這裡就是七千七百萬貝里懸賞的黑腳香吉士的老家！
 Dialogue: 0,0:03:09.07,0:03:13.24,Main,Chef,0,0,0,,歡迎來到海上餐廳巴拉蒂！
-Dialogue: 0,0:03:13.25,0:03:17.16,Captions small,TL,0,0,100,,{\an8\pos(644,100)\shad0\bord1.5\fad(700,0)\fs40}東海
+Dialogue: 0,0:03:13.25,0:03:17.16,Captions small,TL,0,0,100,,{\an8\pos(644,210)\shad0\bord1.5\fad(700,0)\fs40}東海
 Dialogue: 0,0:03:13.24,0:03:17.16,Captions small,TL,0,0,100,,{\an8\pos(612,100)\shad0\bord1.5\fad(700,0)\fs40}風車村　　　魯夫的故鄉
 Dialogue: 0,0:03:14.68,0:03:16.36,Main,Citizen,0,0,0,,派對！
 Dialogue: 0,0:03:16.36,0:03:18.00,Main,Citizen,0,0,0,,今天開派對！
@@ -96,7 +96,7 @@ Dialogue: 0,0:04:12.87,0:04:14.72,Main,Woop Slap,0,0,0,,不知道達坦知不知
 Dialogue: 0,0:04:15.09,0:04:16.58,Main,Citizens,0,0,0,,乾杯！
 Dialogue: 0,0:04:16.58,0:04:18.18,Main,Woop Slap,0,0,0,,我說了安靜！
 Dialogue: 0,0:04:18.18,0:04:22.14,Captions small,TL,0,0,100,,{\an8\pos(640,100)\shad0\bord1.5\fad(700,0)\fs40}東海
-Dialogue: 0,0:04:18.18,0:04:22.14,Captions small,TL,0,0,100,,{\an8\pos(618,100)\shad0\bord1.5\fad(700,0)\fs40}西羅布村　　騙人布的故鄉
+Dialogue: 0,0:04:18.18,0:04:22.14,Captions small,TL,0,0,100,,{\an8\pos(618,210)\shad0\bord1.5\fad(700,0)\fs40}西羅布村　　騙人布的故鄉
 Dialogue: 0,0:04:22.99,0:04:24.96,Main,Kaya,0,0,0,,狙擊王，狙擊手之王……
 Dialogue: 0,0:04:24.96,0:04:25.94,Main,Kaya,0,0,0,,沒錯！
 Dialogue: 0,0:04:25.94,0:04:27.13,Main,Kaya,0,0,0,,毫無疑問！
@@ -135,7 +135,7 @@ Dialogue: 0,0:05:36.99,0:05:40.49,Thoughts,Koshiro,0,0,0,,索隆，看來你沒�
 Dialogue: 0,0:05:40.49,0:05:42.28,Thoughts,Koshiro,0,0,0,,無論你成為什麼樣的人，
 Dialogue: 0,0:05:42.28,0:05:45.56,Thoughts,Koshiro,0,0,0,,只要你珍惜你的劍道就好。
 Dialogue: 0,0:05:45.56,0:05:50.02,Captions small,TL,0,0,100,,{\an8\pos(644,100)\shad0\bord1.5\fad(700,0)\fs40}東海
-Dialogue: 0,0:05:45.56,0:05:50.02,Captions small,TL,0,0,100,,{\an8\pos(620,100)\shad0\bord1.5\fad(700,0)\fs40}可可亞西村　　娜美的故鄉
+Dialogue: 0,0:05:45.56,0:05:50.02,Captions small,TL,0,0,100,,{\an8\pos(620,210)\shad0\bord1.5\fad(700,0)\fs40}可可亞西村　　娜美的故鄉
 Dialogue: 0,0:05:48.35,0:05:50.02,Main,Nojiko,0,0,0,,源造先生！
 Dialogue: 0,0:05:50.02,0:05:51.48,Main,Nojiko,0,0,0,,橘子來了。
 Dialogue: 0,0:05:51.48,0:05:53.99,Main,Genzo,0,0,0,,什麼，你又拿來了，虹子？！
@@ -163,7 +163,7 @@ Dialogue: 0,0:06:45.13,0:06:47.20,Main,Genzo,0,0,0,,那是海賊的問題！
 Dialogue: 0,0:06:47.20,0:06:49.10,Main,Nojiko,0,0,0,,那你想要一張難看的照片嗎？
 Dialogue: 0,0:06:49.10,0:06:51.71,Main,Genzo,0,0,0,,不！那也不行！
 Dialogue: 0,0:06:51.71,0:06:56.67,Captions small,TL,0,0,100,,{\an8\pos(644,100)\shad0\bord1.5\fad(700,0)\fs40}偉大航道
-Dialogue: 0,0:06:51.71,0:06:56.67,Captions small,TL,0,0,100,,{\an8\pos(570,100)\shad0\bord1.5\fad(700,0)\fs40}櫻花王國　　　　　　喬巴的故鄉
+Dialogue: 0,0:06:51.71,0:06:56.67,Captions small,TL,0,0,100,,{\an8\pos(570,210)\shad0\bord1.5\fad(700,0)\fs40}櫻花王國　　　　　　喬巴的故鄉
 Dialogue: 0,0:07:07.37,0:07:08.60,Main,Dalton,0,0,0,,古蕾娃醫生。
 Dialogue: 0,0:07:09.15,0:07:11.81,Main,Kureha,0,0,0,,多爾頓，你叫我來幹什麼？
 Dialogue: 0,0:07:11.81,0:07:13.78,Main,Kureha,0,0,0,,我可是很忙的人！
@@ -182,8 +182,8 @@ Dialogue: 0,0:07:47.53,0:07:50.39,Main,Kureha,0,0,0,,能看到他的臉就好了
 Dialogue: 0,0:07:50.68,0:07:52.05,Main,Kureha,0,0,0,,是啊……
 Dialogue: 0,0:07:52.05,0:07:54.59,Main,Kureha,0,0,0,,這是我好一陣子以來聽到最好的消息了。
 Dialogue: 0,0:07:56.42,0:08:02.33,Captions small,TL,0,0,100,,{\an8\pos(644,100)\shad0\bord1.5\fad(700,0)\fs40}偉大航道
-Dialogue: 0,0:07:56.42,0:08:02.33,Captions small,TL,0,0,100,,{\an8\pos(748,100)\shad0\bord1.5\fad(700,0)\fs40}白土之島巴爾迪哥。
-Dialogue: 0,0:07:58.22,0:08:02.33,Main,Terry Gilteo,0,0,100,,{\an8}反抗軍在南海聖烏雷亞取得了勝利！
+Dialogue: 0,0:07:56.42,0:08:02.33,Captions small,TL,0,0,100,,{\an8\pos(748,210)\shad0\bord1.5\fad(700,0)\fs40}白土之島巴爾迪哥。
+Dialogue: 0,0:07:58.22,0:08:02.33,Main,Terry Gilteo,0,0,100,,{\an8\pos(640,320)}反抗軍在南海聖烏雷亞取得了勝利！
 Dialogue: 0,0:08:02.77,0:08:04.71,Main,Dragon,0,0,0,,又一個王國覆滅了……
 Dialogue: 0,0:08:04.96,0:08:06.14,Main,Rev Army Guy,0,0,0,,他們做到了！
 Dialogue: 0,0:08:06.14,0:08:07.73,Main,Rev Army Guy,0,0,0,,這樣一來，前幾天北海的消息……

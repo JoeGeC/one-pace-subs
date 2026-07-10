@@ -29,8 +29,16 @@ TOP_POSITION_PREFIXES = ("Title", "Captions")
 
 # Regex to strip \pos(...) tags from ASS override blocks
 POS_TAG_RE = re.compile(r'\\pos\(([^,]+),([^)]+)\)')
-# Regex to strip \an followed by a digit (existing alignment overrides)
+# Regex to strip \an followed by a digit (new-style alignment overrides)
 AN_TAG_RE = re.compile(r'\\an\d')
+# Regex to strip legacy \a<N> alignment overrides (VSFilter numbering: 1-3
+# bottom, 5-7 top, 9-11 middle). Must not match \an — the (?!\d) guard plus
+# requiring a digit immediately after \a keeps it independent of AN_TAG_RE.
+LEGACY_A_TAG_RE = re.compile(r'\\a(?:1[01]|[1-9])(?!\d)')
+# Regex to detect TOP-row alignment specifically (old or new numbering), used
+# to decide whether a line needs relocating — old-style top row is 5/6/7,
+# new-style top row is 7/8/9.
+TOP_ALIGN_RE = re.compile(r'\\a[567](?!\d)|\\an[789](?!\d)')
 # Regex to strip \move(...) — a caption pinned to the top must be static;
 # leaving \move alongside the injected \pos is renderer-ambiguous.
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
@@ -44,6 +52,7 @@ STACK_TOP = 100
 STACK_LINE_H = 55
 OVERLAP_EPS = 0.3         # seconds; ignore briefer overlaps (crossfades) when stacking
 DEFAULT_RES_X = 1280      # fallback PlayResX for centering \an8 lines when stacking
+DEFAULT_RES_Y = 720       # fallback PlayResY for keeping stacked rows on-screen
 
 # Montage screens (character-introduction recaps etc.) label many characters
 # at once, each \pos'd beside its character across the whole frame. Pinning
@@ -61,6 +70,16 @@ MAX_PINNED_CLUSTER = 3
 # Lines starting with # are comments.
 OVERRIDES_PATH = Path(__file__).parent / "position_overrides.tsv"
 
+# Sidecar file of manual per-line MarginV overrides. The automatic Narrator/Note
+# margin (100 per text line, see below) only accounts for OUR translated line
+# count — it can't know how many lines the hardcoded English narration burned
+# into the video occupies, so a short Chinese line can still collide with a
+# taller English one above it. Lines listed here get their MarginV pinned to
+# the given value instead of the formula's choice. Format, tab-separated:
+#     <original .ass filename>	<line_num>	<marginV>
+# Lines starting with # are comments.
+MARGIN_OVERRIDES_PATH = Path(__file__).parent / "margin_overrides.tsv"
+
 
 def _load_position_overrides(original_name):
     """Return {line_num: (x, y)} overrides for this original file, if any."""
@@ -76,6 +95,23 @@ def _load_position_overrides(original_name):
             if len(parts) != 4 or parts[0] != original_name:
                 continue
             overrides[int(parts[1])] = (float(parts[2]), float(parts[3]))
+    return overrides
+
+
+def _load_margin_overrides(original_name):
+    """Return {line_num: marginV} overrides for this original file, if any."""
+    overrides = {}
+    if not MARGIN_OVERRIDES_PATH.exists():
+        return overrides
+    with open(MARGIN_OVERRIDES_PATH, "r", encoding="utf-8") as f:
+        for raw in f:
+            raw = raw.strip()
+            if not raw or raw.startswith("#"):
+                continue
+            parts = raw.split("\t")
+            if len(parts) != 3 or parts[0] != original_name:
+                continue
+            overrides[int(parts[1])] = parts[2]
     return overrides
 
 
@@ -101,10 +137,11 @@ def _num(v):
 
 
 def _apply_top_pos(text, x, y):
-    """Strip any existing \\pos/\\move/\\an from text and pin it to \\an8\\pos(x,y)."""
+    """Strip any existing \\pos/\\move/\\an/\\a from text and pin it to \\an8\\pos(x,y)."""
     text = POS_TAG_RE.sub("", text)
     text = MOVE_TAG_RE.sub("", text)
     text = AN_TAG_RE.sub("", text)
+    text = LEGACY_A_TAG_RE.sub("", text)
     pos_tag = f"\\an8\\pos({_num(x)},{_num(y)})"
     # Insert into the existing leading override block (which may now be empty
     # after stripping \pos/\an), otherwise open a new one.
@@ -129,11 +166,16 @@ def load_translations(tsv_path):
     return translations
 
 
-def _plan_top_positions(raw_lines, translations, res_x):
+def _plan_top_positions(raw_lines, translations, res_x, res_y):
     """Decide the final (x, y) for every top-positioned translated line.
 
     Top-positioned = Title/Captions (always relocated to the top of screen to
-    clear the hardcoded English subs) or any line whose text carries \\an8.
+    clear the hardcoded English subs) or any line whose text carries a
+    top-row alignment override — new-style \\an7/\\an8/\\an9 or legacy
+    \\a5/\\a6/\\a7 (VSFilter numbering, still used by narrator-style Main/
+    Secondary lines in some raws). Without this, those lines render at the
+    style's default MarginV — flush against the top edge — and collide with
+    whatever's burned into the top of the frame.
     Several of these can be on screen at once — a location caption, a character
     label and a shouted line, say. If they all pin to the same y they overlap,
     so we assign each to a horizontal ROW and stack the rows downward.
@@ -163,8 +205,8 @@ def _plan_top_positions(raw_lines, translations, res_x):
         style = parts[3]
         trans_text = translations[line_num]
         is_caption = style_matches(style, TOP_POSITION_PREFIXES)
-        is_an8 = "\\an8" in trans_text or "\\an8" in parts[9]
-        if not (is_caption or is_an8):
+        is_top_aligned = bool(TOP_ALIGN_RE.search(trans_text) or TOP_ALIGN_RE.search(parts[9]))
+        if not (is_caption or is_top_aligned):
             continue
         # Motion-tracked frames (Aegisub-Motion {=NN...} marker) are positioned
         # per-frame to follow the camera — never pin them to the top.
@@ -205,7 +247,15 @@ def _plan_top_positions(raw_lines, translations, res_x):
         return {}
 
     # Uniform row height sized to the tallest caption so no two rows can touch.
+    # Some captions pad themselves with many blank \N lines purely to offset a
+    # second piece of text lower within their OWN box (a single-anchor
+    # two-tier name-card trick) — that isn't real stacked content, but it
+    # still inflates nlines, so row_h can be huge. Combined with several rows
+    # (multiple groups overlapping in time) that pushes far past the bottom
+    # of the frame. Rather than trying to detect the padding trick, just
+    # refuse to place anything past the frame — see max_y below.
     row_h = max(g["nlines"] for g in pinned) * STACK_LINE_H
+    max_y = res_y - STACK_LINE_H  # leave room for at least one line at the bottom
 
     slot_end = []  # slot_end[i] = end time of the group currently holding row i
     assignment = {}
@@ -219,9 +269,14 @@ def _plan_top_positions(raw_lines, translations, res_x):
         if slot is None:
             slot_end.append(g["end"])
             slot = len(slot_end) - 1
+        y = STACK_TOP + slot * row_h
+        if y > max_y:
+            # Stacking this row would push the group off-screen. Leave its
+            # original position untouched rather than making it invisible.
+            continue
         x = g["ox"] if g["ox"] is not None else res_x / 2
         for n in g["members"]:
-            assignment[n] = (x, STACK_TOP + slot * row_h)
+            assignment[n] = (x, y)
 
     return assignment
 
@@ -231,8 +286,9 @@ def merge(original_path, translations, output_path):
 
     For each line number in the translations dict, replace the text field
     of the corresponding Dialogue line. All other lines are copied as-is.
-    Top-positioned lines (Title/Captions and \\an8 dialogue) are relocated to
-    the top of the screen and stacked when several coincide in time.
+    Top-positioned lines (Title/Captions and top-aligned dialogue, old- or
+    new-style) are relocated to the top of the screen and stacked when
+    several coincide in time.
     """
     translated_count = 0
 
@@ -246,16 +302,22 @@ def merge(original_path, translations, output_path):
         raw_lines = [line.rstrip("\n").rstrip("\r") for line in fin]
 
     res_x = DEFAULT_RES_X
+    res_y = DEFAULT_RES_Y
     for line in raw_lines:
         if line.lower().startswith("playresx:"):
             try:
                 res_x = float(line.split(":", 1)[1].strip())
             except ValueError:
                 pass
-            break
+        elif line.lower().startswith("playresy:"):
+            try:
+                res_y = float(line.split(":", 1)[1].strip())
+            except ValueError:
+                pass
 
-    top_pos = _plan_top_positions(raw_lines, translations, res_x)
+    top_pos = _plan_top_positions(raw_lines, translations, res_x, res_y)
     top_pos.update(_load_position_overrides(Path(original_path).name))
+    margin_overrides = _load_margin_overrides(Path(original_path).name)
 
     with open(output_path, "w", encoding=out_encoding) as fout:
         for line_num, line in enumerate(raw_lines, 1):
@@ -270,7 +332,10 @@ def merge(original_path, translations, output_path):
                         text = _apply_top_pos(text, x, y)
 
                     if "\\an8" in text or style_matches(style, ("Narrator", "Note")):
-                        parts[7] = "200" if "\\N" in text else "100"
+                        parts[7] = str(100 * (1 + text.count("\\N")))
+
+                    if line_num in margin_overrides:
+                        parts[7] = margin_overrides[line_num]
 
                     prefix = ",".join(parts[:9]) + ","
                     fout.write(prefix + text + "\n")

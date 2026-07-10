@@ -9,3 +9,67 @@
 # of frame at 10:11-10:16, with hardcoded "Level 4 / The Sunflower Field" burned
 # below it down to ~y 296 — drop the caption below both.
 [One Pace][752-753] Dressrosa 27 [720p].ass	196	640	305
+# D31 line 1231: burned-in bilingual dialogue overlaps caption
+[One Pace][760-761] Dressrosa 31 [720p].ass	1231	640	160
+# D32: Celestial Dragon caption box + handwritten note calligraphy
+[One Pace][762-763] Dressrosa 32 [720p].ass	1455	640	260
+[One Pace][762-763] Dressrosa 32 [720p].ass	1570	640	300
+[One Pace][762-763] Dressrosa 32 [720p].ass	1573	640	300
+# D33 line 1342: overlaps burned-in Buddha character on partition screen
+[One Pace][764-765] Dressrosa 33 [720p].ass	1342	985	160
+# D35: location captions overlap in-frame scroll/sign boxes during palace-levels montage
+[One Pace][768-769] Dressrosa 35 [720p].ass	1230	580.8	260
+[One Pace][768-769] Dressrosa 35 [720p].ass	1244	797.11	260
+[One Pace][768-769] Dressrosa 35 [720p].ass	1245	243.71	300
+[One Pace][768-769] Dressrosa 35 [720p].ass	1262	609	260
+[One Pace][768-769] Dressrosa 35 [720p].ass	1277	387.26	350
+[One Pace][768-769] Dressrosa 35 [720p].ass	1290	640	300
+[One Pace][768-769] Dressrosa 35 [720p].ass	1335	734.71	300
+[One Pace][768-769] Dressrosa 35 [720p].ass	1368	877	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1369	877.01	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1370	877.01	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1371	877.02	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1372	877.23	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1373	877.76	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1374	878.7	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1375	879.98	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1376	881.58	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1377	883.58	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1378	885.86	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1379	888.57	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1380	891.53	320
+[One Pace][768-769] Dressrosa 35 [720p].ass	1459	961.63	320
+# D36: overlaps sound-effect bubble and character name-card boxes
+[One Pace][770-771] Dressrosa 36 [720p].ass	1513	640	550
+[One Pace][770-771] Dressrosa 36 [720p].ass	1521	640	550
+[One Pace][770-771] Dressrosa 36 [720p].ass	1526	640	550
+# D38 line 1242: overlaps own dialogue line 1243 (MarginV=660 pushes it near top)
+[One Pace][774-775] Dressrosa 38 [720p].ass	1242	640	170
+# D39: overlaps SMILE door text and Fourth Step caption box (PLAN 1/3/5 kinetic-typography bursts at lines 1526-1537,1734-1766,2980-3014,3949-3981 excluded - need original-pos restoration, not a y-shift; flagged separately)
+[One Pace][776-778] Dressrosa 39 [720p].ass	1208	640	460
+[One Pace][776-778] Dressrosa 39 [720p].ass	1437	640	260
+# D41 line 1207: overlaps Japanese title card centered on screen
+[One Pace][782-783] Dressrosa 41 [720p].ass	1207	640	480
+# D42: overlaps Corrida Colosseum / SMILE Factory caption boxes
+[One Pace][784-785] Dressrosa 42 [720p].ass	1333	640	460
+[One Pace][784-785] Dressrosa 42 [720p].ass	1339	615	460
+# D47: overlaps burned-in English dialogue / title card
+[One Pace][796-797] Dressrosa 47 [720p].ass	1207	640	175
+[One Pace][796-797] Dressrosa 47 [720p].ass	1212	640	40
+[One Pace][796-797] Dressrosa 47 [720p].ass	1218	640	175
+# D48: overlaps in-frame signage box / burned-in English captions
+[One Pace][798-800] Dressrosa 48 [720p].ass	1226	1152	340
+[One Pace][798-800] Dressrosa 48 [720p].ass	1263	214.4	260
+[One Pace][798-800] Dressrosa 48 [720p].ass	1549	640	140
+[One Pace][798-800] Dressrosa 48 [720p].ass	1577	640	150
+[One Pace][798-800] Dressrosa 48 [720p].ass	1578	640	150
+[One Pace][798-800] Dressrosa 48 [720p].ass	1593	640	150
+[One Pace][798-800] Dressrosa 48 [720p].ass	1594	640	150
+# D33 lines 1309-1310: rotated handwritten-note pieces overlap burned-in katakana/English note
+[One Pace][764-765] Dressrosa 33 [720p].ass	1309	450	320
+[One Pace][764-765] Dressrosa 33 [720p].ass	1310	790	430
+# D40: two-line title cards overlap "A few minutes ago"/"Now" + Royal Palace burned-in text
+[One Pace][779-781] Dressrosa 40 [720p].ass	1353	640	485
+[One Pace][779-781] Dressrosa 40 [720p].ass	1354	640	650
+[One Pace][779-781] Dressrosa 40 [720p].ass	1410	640	495
+[One Pace][779-781] Dressrosa 40 [720p].ass	1411	640	660

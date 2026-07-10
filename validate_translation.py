@@ -32,6 +32,14 @@ TOP_POSITION_PREFIXES = ("Title", "Captions")
 BOTTOM_POSITION_PREFIXES = ("Main", "Secondary", "Note", "Thoughts", "Flashback", "RogerMonologue", "Gold")
 POS_TAG_RE = re.compile(r'\\pos\([^)]*\)')
 AN_TAG_RE = re.compile(r'\\an\d')
+# Legacy \a<N> alignment (VSFilter numbering: 1-3 bottom, 5-7 top, 9-11
+# middle) — merge_translation.py strips these when pinning a line to the top,
+# so they must not count as a tag difference (mirrors merge_translation.py).
+LEGACY_A_TAG_RE = re.compile(r'\\a(?:1[01]|[1-9])(?!\d)')
+# Top-row alignment, old or new numbering — used to detect lines that
+# merge_translation.py relocates to the top even outside Title/Captions
+# styles (e.g. \a6 narration lines styled Main/Secondary).
+TOP_ALIGN_RE = re.compile(r'\\a[567](?!\d)|\\an[789](?!\d)')
 # \move is stripped by merge when pinning a caption to the top of the screen,
 # so it must not count as a tag difference (mirrors merge_translation.py).
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
@@ -114,6 +122,7 @@ def extract_format_tags(text):
         t = POS_TAG_RE.sub('', tag)
         t = MOVE_TAG_RE.sub('', t)
         t = AN_TAG_RE.sub('', t)
+        t = LEGACY_A_TAG_RE.sub('', t)
         t = KARAOKE_TAG_RE.sub('', t)
         t = FAX_TAG_RE.sub('', t)
         # Normalize shorthand toggle tags: \i} -> \i0}, \b} -> \b0}
@@ -152,6 +161,7 @@ def reposition_text(text):
     text = POS_TAG_RE.sub('', text)
     text = MOVE_TAG_RE.sub('', text)
     text = AN_TAG_RE.sub('', text)
+    text = LEGACY_A_TAG_RE.sub('', text)
     if text.startswith('{\\'):
         text = '{\\an8' + text[1:]
     else:
@@ -197,7 +207,7 @@ def validate(original_path, translated_path, fix=False):
             meta_issues.append(f"style: {o_style} vs {t_style}")
         if o_layer != t_layer:
             meta_issues.append(f"layer: {o_layer} vs {t_layer}")
-        has_an8_margin = ('\\an8' in t_text or style_matches(t_style, ("Narrator", "Note"))) and t_mv in ('100', '200')
+        has_an8_margin = ('\\an8' in t_text or style_matches(t_style, ("Narrator", "Note"))) and t_mv.isdigit() and int(t_mv) % 100 == 0 and int(t_mv) >= 100
         if o_ml != t_ml or o_mr != t_mr or (o_mv != t_mv and not has_an8_margin):
             meta_issues.append(f"margins: {o_ml},{o_mr},{o_mv} vs {t_ml},{t_mr},{t_mv}")
 
@@ -227,8 +237,12 @@ def validate(original_path, translated_path, fix=False):
             else:
                 tag_ok += 1
 
-        # Check Title/Captions repositioning (only on translatable lines)
-        if is_translatable and style_matches(t_style, TOP_POSITION_PREFIXES):
+        # Check Title/Captions repositioning (only on translatable lines).
+        # Also covers non-Title/Captions lines (e.g. Main/Secondary narration)
+        # whose ORIGINAL carries a legacy top-row \a alignment — merge_translation.py
+        # relocates those to \an8\pos the same way it does Title/Captions.
+        needs_top_check = style_matches(t_style, TOP_POSITION_PREFIXES) or TOP_ALIGN_RE.search(o_text)
+        if is_translatable and needs_top_check:
             has_an8 = bool(re.search(r'\\an8', t_text))
             has_pos = bool(POS_TAG_RE.search(t_text))
 
@@ -254,7 +268,7 @@ def validate(original_path, translated_path, fix=False):
                 reposition_needed += 1
                 if fix:
                     fixed_text = reposition_text(t_text)
-                    fixed_mv = '200' if '\\N' in fixed_text else '100'
+                    fixed_mv = str(100 * (1 + fixed_text.count('\\N')))
                     prefix = f"Dialogue: {t_layer},{t_start},{t_end},{t_style},{t_name},{t_ml},{t_mr},{fixed_mv},{t_effect},"
                     fixes.append((t_ln, prefix + fixed_text))
                     reposition_fixed += 1
