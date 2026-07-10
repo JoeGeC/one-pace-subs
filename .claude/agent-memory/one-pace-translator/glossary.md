@@ -3301,6 +3301,32 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Garchu (mink kiss/hug greeting, ep06) | 嘎啾 | coined phonetic (ガルチュー); mink friendship greeting |
 | Tea Party (Big Mom's summons, ep06) | 茶會 | descriptive; Big Mom's Tea Party 大媽的茶會 (cf L2046) |
 
+## Zou Arc (ep05 [810-811])
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Curly Hat Pirates (Sanji's advance group, ep05 title) | 捲毛帽海賊團 | coined gag on Straw Hat 草帽; Curly 捲毛 + Hat 帽. The Sanji-retrieval advance party name |
+| Elephant-Elephant Fruit, Ancient Zoan (Zunesha's fruit, ep05) | 象象果實 | VERIFIED Fandom zh 象象果實 (ancient version, ゾウゾウの実 古代種) |
+| "Jack the Drought" (Jack epithet, ep05 caption) | 「旱害」傑克 | KEPT — Jack established 傑克 (L2407); epithet 旱害 (旱害のジャック). Matches disaster-trio naming. Fandom real name 馬溫布汀 not used here |
+| Soul Parade (Brook attack, ep05) | 魂之喪劍 | VERIFIED Fandom zh opensearch → 魂之喪劍 (ソウルパレード, Soul Solid follow-up) |
+| Ice Burn (Caesar gas attack, ep05) | 冰燒 | coined; Caesar freezes/burns via gas. UNVERIFIED — VERIFY vs Fandom |
+| KORO (Caesar's mass-destruction poison gas, ep05) | 克洛 | coined phonetic (コロ, Fandom page title "KORO"); the gas weapon Caesar invented |
+| ROKO (Caesar's KORO-neutralizing gas, ep05) | 洛克 | coined; KORO reversed (ロコ). The antidote gas |
+| Chopperemon (Chopper's Wano-style alias, ep05) | 喬巴衛門 | coined; Chopper 喬巴 (established) + -emon 衛門 samurai-name suffix (cf 錦右衛門/勘十郎) |
+| Bonekichi (Brook's Wano-style alias, ep05) | 骨吉 | coined; Bone 骨 + kichi 吉 (ボンキチ). Brook's samurai-disguise name |
+| Kingsbird (mink office, aide to both kings, ep05) | 王之鳥 | coined descriptive; Wanda/Carrot's role, permitted to move between Day/Night kings. UNRESOLVED — no Fandom zh page |
+| Phantom Island (Zou's nature, living island, ep05) | 幻象島 | coined; Zou is a moving/living "Phantom Island" undetectable by Log Pose. VERIFY vs Fandom |
+| King of the Night (Nekomamushi's title, ep05) | 黑夜之王 | VERIFIED Fandom (Nekomamushi rules Whale Forest at night). Cf King of the Day (Inuarashi) 白日之王 |
+| King of the Day (Inuarashi's title, ep05) | 白日之王 | VERIFIED Fandom (Inuarashi rules Kurau at day). Pairs with 黑夜之王 |
+| Warney (mink riding-mount, ep05) | 瓦尼 | coined phonetic (ワーニー); the mounts Guardians/Musketeers ride |
+| Twirly Eyebrows (Nami's nickname for Sanji, ep05) | 捲眉毛 | coined; Sanji's curly-brow gag nickname |
+| Gassy (nickname for Caesar, ep05) | 瓦斯仔 | coined; Caesar's gas-man nickname (cf 瓦斯果實 L2328) |
+| "-teia" (mink speech quirk, Wanda/some minks, ep05) | 們啊/呀 (rendered as tone particle) | coined; mink verbal tag (-nya/-teia family, cf Nekomamushi's -saru 嘎歐 / Bepo -gara). Left as natural sentence-final tone |
+| Bepo (Heart Pirates navigator, bear mink, ep05) | 貝波 | kept — established (L1860) |
+| Caesar Clown (ep05) | 凱薩·克勞恩 | kept — established (L2302) |
+| Sheepshead (Beasts Pirates Headliner, ep05) | 席浦斯赫德 | kept — established/VERIFIED (L3250) |
+| Diable Mouton Shot (Sanji attack vs Sheepshead, ep05, split "惡魔·羊肉…/射擊！") | 惡魔·羊肉…射擊 | kept — established (L3254); here split across lines with 惡魔 (Diable) + 羊肉 (Mouton) + 射擊 (Shot) |
+| Big Mom / Emperor (Charlotte Linlin, ep05) | 大媽 | kept — established (L2038/L2045); "Mama" address = 媽媽 (L2408) |
+
 ## Characters & Terms (Dressrosa 48 / Arc Finale, ep798-800)
 | English | 繁體中文 | Notes |
 |---|---|---|
