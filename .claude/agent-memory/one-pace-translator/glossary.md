@@ -3423,3 +3423,70 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Rightflank Forest (Zou body-part forest region; ep804-805) | 右脇之森 | coined descriptive; paired with Rightrump 右臀之森. VERIFY |
 | Electro (Mink innate electric power; ep804-805) | 電擊 | rendered semantically (エレクトロ). Tong Li transliteration 伊雷特羅 exists — reconcile if it recurs |
 | Ushi/Moo Golova (Luffy headbutt; "Rubber…Bell"; ep804-805) | 牛頭 | coined; cattle-headbutt Ushi Golova, paired 橡膠 (Rubber) + 鐘 (Bell). VERIFY vs Fandom |
+
+## Characters & Terms (Zou 03, ep806-807)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Kozuki Oden (Momonosuke's father, late daimyo of Kuri) | 光月御田 | VERIFIED Fandom zh page 光月御田 |
+| Kozuki Family / Clan | 光月家 | VERIFIED Fandom zh page 光月家 (光月家族 redirects). "Kozuki" stem = 光月 |
+| Raizo / Raizo of the Mist (Wano ninja) | 雷藏 / 霧之雷藏 | VERIFIED Fandom zh page 雷藏 |
+| Duke Inuarashi / "King of the Day" (Mokomo ruler) | 犬嵐公爵 / 「晝之王」 | VERIFIED Fandom 犬嵐 + 公爵 (Duke). Day King = 晝之王 |
+| Master Nekomamushi / "King of the Night" | 貓蝮蛇師匠 / 「夜之王」 | VERIFIED Fandom 貓蝮蛇 + 師匠 (Master, NOT 宗師). Night King = 夜之王 (Fandom 夜之王 page) |
+| Nekozaemon (Nekomamushi's samurai-play alias) | 貓左衛門 | VERIFIED Fandom page 貓左衛門. Kin'emon-style -衛門 suffix; cf. Chopperemon 喬巴衛門 |
+| Pedro (Guardian, Nox Pirates captain) | 佩特羅 | VERIFIED Fandom exact page 佩特羅 (NOT 佩德羅) |
+| Wanda (Mink, Kurau City resident, guide) | 汪達 | VERIFIED Fandom exact page 汪達 (NOT 萬達) |
+| Tristan (Mink doctor's apprentice) | 崔斯坦 | VERIFIED Fandom page 崔斯坦 |
+| Dr. Miyagi (Mink doctor, kangaroo-hopping) | 宮城醫生 | coined; no dedicated Fandom zh page found. 宮城 = Miyagi |
+| Bariete (crow that rings the bell) | 巴力耶特 | VERIFIED Fandom page 巴力耶特 |
+| Warney (Inuarashi's mount) | 沃尼 | VERIFIED Fandom search → 沃尼 |
+| Mink Tribe | 毛皮族 | VERIFIED Fandom canonical page 毛皮族 (general Mink Tribe). NB: ep02 glossary used 純毛族 for "Mink Tribe" — 純毛族 is a DISTINCT/narrower page. Going forward use 毛皮族 for the tribe generally; RECONCILE ep02 if it recurs |
+| Monkey Mink / "lesser mink" (Minks' term for humans) | 猿猴毛皮族 / 稀薄毛皮 | coined descriptive; Wanda calls humans hairless Monkey Minks |
+| Minkship (Mink affectionate physical greeting) | 毛皮族之情 | coined; VERIFY (Fandom search inconclusive) |
+| Garchu (Mink greeting, ~"hug/nuzzle") | 咖啾 | VERIFIED Fandom 咖啾 (cf. Skypiea Heso). Onomatopoeic Mink greeting |
+| Mokomo Dukedom (Mink country on Zou) | 摩克摩公國 | VERIFIED Fandom page 摩克摩公國 (general "Mink Dukedom" descriptor = 毛皮族公國) |
+| Zunesha / Zunisha (the giant elephant Zou walks on) | 象主 | VERIFIED Fandom page 象主. "giant elephant" descriptor = 巨大的象 |
+| Rightflank Fortress (Zou hidden fortress) | 右腹要塞 | VERIFIED Fandom page 右腹要塞 (ch806). NB tension: ep02 coined "Rightflank Forest" 右脇之森 — but Fandom body-part region is 右腹森林 (VERIFIED page). Prefer 右腹 for the flank region; reconcile ep02 |
+| Kurau City (main city of Mokomo Dukedom) | 庫勞市 | VERIFIED Fandom page 庫勞市 |
+| Whale Forest (sacred forest, Nekomamushi's domain) | 鯨魚森林 | VERIFIED Fandom title 鯨魚森林 |
+| Bear Forest (Zou region, Law/Heart Pirates) | 熊之森林 | coined descriptive; paired with 鯨魚森林 |
+| Rain-Ruption (Zunesha's twice-daily seawater spray) | 噴火雨 | established ep46 (L3258), VERIFIED. Reused |
+| Monkey Wine (Mink forest liquor) | 猿猴酒 | VERIFIED Fandom search → 猿猴酒 |
+| Welcoming Bell / visitor's bell | 歡迎之鐘 | VERIFIED Fandom page 歡迎之鐘 |
+| Raiding Bell (seldom-heard invasion alarm) | 來襲之鐘 | VERIFIED Fandom page 來襲之鐘 |
+| Guardian(s) (Whale Forest protectors) | 守護者 | VERIFIED Fandom page 守護者 |
+| Road Poneglyph (red guide stone) | 路標歷史本文 | VERIFIED Fandom page 路標歷史本文 (distinct from 歷史本文 Poneglyph) |
+| Baron Corpse (Minks' affectionate name for Brook) | 殭屍男爵 | VERIFIED Fandom page 殭屍男爵 |
+| Whole Cake Island (Big Mom's home) | 萬國蛋糕島 | VERIFIED Fandom page 萬國蛋糕島 (short: 萬國) |
+| Ohara (Robin's home island, poneglyph readers) | 歐哈拉 | VERIFIED Fandom page 歐哈拉 |
+| Capone "Gang" Bege (Worst Gen, Big Mom subordinate) | 卡波涅「大哥」貝基 | KEPT — established (L1806/L3235). NB Fandom title is 卡朋·貝奇; repo-established 卡波涅「大哥」貝基 governs |
+| Gaon Cannon (Sunny weapon) | 咆哮大砲 | KEPT — established (L1851). Fandom canonical is 海牛炮; repo-established 咆哮大砲 governs (self-consistent) |
+| Poêle à Frire Spectre (Sanji Diable Jambe attack) | Poêle à Frire…Spectre | kept French untranslated (matches Sanji French-kick styling); Note glosses "Frying Pan"=煎鍋, "Spectrum"=光譜. No Fandom zh technique page |
+| Weather Egg (Nami Clima-Tact attack) | 天候蛋 | KEPT — established (L2462). Split call 天候…/…蛋！ |
+| Coup de Burst (Sunny escape) | 緊急噴射 | NB: repo-established elsewhere is 風來爆發 (L2066 etc.). Here rendered 緊急噴射 (Fandom Sunny-page canonical コーラ緊急噴射). MINOR DIVERGENCE — 風來爆發 is the dominant repo form; consider unifying. Both attested |
+| Ninpo (ninja arts prefix) | 忍法 | VERIFIED Fandom 忍法. Techniques: Smoke Escape 煙隱術, Shadow Clone 分身之術, Flower Shuriken 花手裏劍 (all VERIFIED); Earth/Water/Fire Escape = 土遁術/水遁術/火遁術 |
+| -teia (Wanda's speech tic, ~"you-teia") | (rendered naturally as 你們這些傢伙) | Mink speech quirk; no fixed zh particle, absorbed into phrasing |
+| -saru (Bariete/monkey-mink speech tic) | 猿 (sentence-final) | rendered as sentence-final 猿 (matches monkey motif) |
+
+## Characters & Terms (Zou 01 [801-803] — Dressrosa outro recap + Luffy's group climbing Zou)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Edward Weevil (Warlord, self-proclaimed "Whitebeard Jr.") | 艾德華·衛伯 | VERIFIED Fandom zh page 艾德華·衛伯. Caption "Whitebeard Jr." = 白鬍子二世; former bounty 480M = 四億八千萬貝里 |
+| Miss Bakkin (Weevil's mother, self-proclaimed "Whitebeard's Lover") | 白金漢小姐 | Fandom full page 白金漢·絲媖希 (jname バッキンガム・スタッセン); "Bakkin"=バッキン nickname → 白金漢. Caption "Whitebeard's Lover" = 白鬍子的戀人 |
+| A.O. Pirates (former Whitebeard subordinate crew, wiped out by Weevil) | A.O.海賊團 | coined; kept English initials A.O. per source |
+| Unclear Justice (wall graffiti behind Kizaru at Navy HQ, Note) | 模糊的正義 | coined Note-line gloss; the "Justice" 正義 wall with unclear character |
+| The Going Luffy-senpai (Barto Club's ship) | 前進魯夫前輩號 | coined; parody of Going Merry 前進梅利號 (L335) + Luffy-senpai 魯夫前輩. Barto Club 巴托俱樂部 (L2545) |
+| Luffy-senpai / -senpai (Barto Club reverent address for Straw Hats) | 魯夫前輩／…前輩 | -senpai kept as 前輩 for all Straw Hats (Barto Club worship) |
+| Divine Drops (Barto Club's name for Straw Hat autographs) | 神之聖水 | coined caption; autographs 簽名 treated as holy water/drops |
+| Rising Dragon / Appear, Rising Dragon (Kanjuro's drawn climbing dragon) | 升龍 | coined; Kanjuro draws a dragon to climb Zou. "Appear, Rising Dragon!" = 現身吧，升龍！ (dragon = Ryunosuke in non-recap portion) |
+| Phantom Island (Zou; moving elephant, not on Log Pose) | 幻象島 | VERIFIED Fandom zh 幻象島 (opensearch). Zou moves so 記錄指針 can't locate it |
+| Drunken Iron Ore (rare ore in Dressrosa-trafficked weapons) | 醉鐵礦 | coined; no Fandom page. Drunken 醉 + Iron Ore 鐵礦. Mineable in few nations |
+| Buggy's Delivery (Buggy's pirate-mercenary agency) | 巴基快遞 | coined; Buggy 巴基 + Delivery 快遞. "Pirate Mercenary Agency" = 海賊傭兵仲介公司; Director = 局長 |
+| False Brovado Island / "Buggy Town" (Buggy's base, New World) | 虛張聲勢島／巴基鎮 | coined caption; Buggy Town 巴基鎮 + bravado pun 虛張聲勢島 |
+| Star Clown Buggy (Warlord epithet) | 千兩道化 | kept — established Buggy epithet 千兩道化 (Star/Thousand-Ryo Clown). Uses Buggy 巴基 |
+| Aegis Zero / Cipher Pol Aigis 0 (CP-0, caption) | Cipher Pol，Aigis Zero | kept — established CP-0 (L2565/L2651); caption rendered "Cipher Pol，Aigis Zero" |
+| Shiliew of the Rain (Blackbeard Pirates 2nd ship captain) | 雨之矢龍 | kept — established (L2595). Caption "Captain of the Second Ship" = 第二船船長 |
+| Lafitte "Demon Sheriff" (Blackbeard Pirates 5th ship captain) | 拉飛特 | kept — established (L378). Epithet "Demon Sheriff" = 惡魔警長 |
+| Commodore Teach vs Captain Teach (Blackbeard rank gag) | 帝奇准將／帝奇船長 | uses established Teach 帝奇 (L30). Burgess says "Captain Teach" 帝奇船長; Lafitte corrects "Commodore Teach" 帝奇准將 (gag) |
+| Paramount War (Marco/Weevil mention) | 頂上戰爭 | CORRECTED this ep: draft used 頂點戰爭 → fixed to 頂上戰爭 (established L3328, VERIFIED Fandom). Do NOT use 頂點戰爭 |
+| Mink Tribe (Zou inhabitants) — arc consistency | 純毛族 | CORRECTED this ep: draft used old Alabasta-era 毛皮族 → fixed to 純毛族 (Zou-arc standard L3313/L3365). Do NOT use 毛皮族 |
+| Etetetete (Raizo/ninja running rhythm gag) | 欸得得得得 | coined onomatopoeia; ninja running sound "Ete" |
