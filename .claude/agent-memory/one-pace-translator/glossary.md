@@ -3524,3 +3524,19 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Marco Fandom-vs-repo note (not in ep09 real content) | 瑪爾科 (repo) vs 馬可 (Fandom) | Repo uses 瑪爾科 / 不死鳥瑪爾科 (L1439/L3291) throughout; Fandom page title is 馬可 / 不死鳥馬可. Repo self-consistent form 瑪爾科 governs. Logged to prevent future re-verification churn |
 | Kozuki Oden's dying pun ("Wano…Wa…Wa…" → oden food gag, ep09) | 關東…關…關…／關東煮不用滷就稱不上是關東煮 | The retainer chokes on saying "executed", stalling on 關東(Kanto/Wano); flashback Oden pun renders オランダ/oden→關東煮 (oden stew must be simmered). Localized to 關東煮 boil-pun |
 | Kozuki Family = stonemason clan / made the Poneglyphs (ep09) | 光月家（石匠家族） | uses established 光月家 (L3282). They quarried/carved stone for generations, invented the indestructible 歷史本文 800 yrs ago |
+
+## Characters & Terms (Zou 07 [814-815] — Sanji departure / Germa 66 / Pekoms & Heart Pirates)
+NOTE: An earlier pass MISALIGNED this episode's translation against the wrong source text (Raizo/Kozuki content, which is a LATER episode). The [814-815] Zou 07 file actually covers: the Nekomamushi song, the Sanji-married-to-Big-Mom discussion, arriving at Whale Forest, Pekoms & Pedro, and Law's Heart Pirates intro. Redone from clean re-extract and spot-checked line-by-line 2026-07-10.
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Germa 66 (Vinsmoke military organization) | 傑爾馬66 | VERIFIED Fandom zh opensearch ジェルマ66 -> 傑爾馬66 |
+| Warmongers (Germa 66's nickname) | 戰爭屋 | VERIFIED Fandom zh 戰爭屋; Germa's underworld byname |
+| Charlotte Family (Big Mom's family) | 夏洛特家族 | uses established Charlotte 夏洛特 (Big Mom = 夏洛特·莉莉). The political marriage links Vinsmoke <-> Charlotte families |
+| Mama (Big Mom, as Pekoms/crew call her) | 媽媽 | kept -- established. Pekoms refers to Big Mom as 媽媽 |
+| Heart Pirates (Law's crew) | 紅心海賊團 | established; Law introduces his 20-member crew here. Caption 紅心海賊團 |
+| Cedar (Caesar's alias while making meds, recap) | 凱薩爾 | kept -- established ep06 gag (near-homophone of Caesar 凱薩) |
+| Silver vine (matatabi; catnip-like plant Minks love) | 木天蓼 | standard rendering (マタタビ = silver vine/matatabi); cat-Minks react to it |
+| foxtail (grass, distracts Nekomamushi) | 狗尾草 | standard rendering; Chopper uses it to distract cat-Nekomamushi during the injection |
+| Treetop Pedro (Pedro's caption epithet, Whale Forest Guardians captain) | 樹梢的佩特羅 | uses established Pedro 佩特羅 + Treetop 樹梢 (宿り木/perched-in-trees). Jaguar mink 美洲豹毛皮族 |
+| Baron Corpse (mink's greeting, this ep) | 屍體男爵 | kept -- matches ep06 Zou coinage 屍體男爵. NOTE: separate VERIFIED Fandom 殭屍男爵 is specifically the Minks' name for BROOK -- do not conflate |
+| SAKE / PROTECT (background signboard captions, bath scene) | 酒 / 守護 | background-sign Caption lines; rendered literally |
