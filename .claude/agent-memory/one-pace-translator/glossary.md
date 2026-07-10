@@ -3414,3 +3414,9 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Onami (Nami's Wano-play name, used by Momonosuke) | 阿娜美 | established (L2569) — Momonosuke addresses Nami as Onami |
 | daimyo (Wano feudal lord) | 大名 | standard term; Oden = 九里的大名 (daimyo of Kuri) |
 | Watery/Water Escape Technique (Mink kids' ninja fantasy) | 水遁之術 | coined; ninja "water escape". Also Earth Escape 土遁之術, Shadow Clone 影分身之術, Smoke Escape 煙遁之術 (Raizo's real jutsu) — all standard ninja-jutsu renderings |
+| Ryunosuke (Kanjuro's drawn dragon, carries crew up Zou; ep804-805) | 龍之助 | coined; Kanjuro's drawing-come-to-life dragon (cf. Spring Sparrow 春天麻雀 L2888). Kanjuro himself = 勘十郎 (do NOT use 傳二郎). VERIFY if recurs |
+| Battlebeast Tribe (Mink warrior sub-designation, Wanda/Carrot; ep804-805) | 戰鬥獸族 | coined caption term; distinct from overall Mink Tribe 純毛族. VERIFY vs Fandom |
+| Rightrump Forest (Zou body-part forest region; ep804-805) | 右臀之森 | coined descriptive; region on the elephant's back. VERIFY |
+| Rightflank Forest (Zou body-part forest region; ep804-805) | 右脇之森 | coined descriptive; paired with Rightrump 右臀之森. VERIFY |
+| Electro (Mink innate electric power; ep804-805) | 電擊 | rendered semantically (エレクトロ). Tong Li transliteration 伊雷特羅 exists — reconcile if it recurs |
+| Ushi/Moo Golova (Luffy headbutt; "Rubber…Bell"; ep804-805) | 牛頭 | coined; cattle-headbutt Ushi Golova, paired 橡膠 (Rubber) + 鐘 (Bell). VERIFY vs Fandom |
