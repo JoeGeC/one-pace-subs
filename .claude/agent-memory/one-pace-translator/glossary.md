@@ -3306,7 +3306,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Pedro (Guardian, jaguar mink, Nox Pirates) | 佩特羅 | VERIFIED Fandom zh 佩特羅. Luffy/others mis-name him "Peropero" 佩羅佩羅 (gag) |
 | Wanda (Mink, wolf-mink, Kurau City) | 萬妲 | VERIFIED Fandom zh 萬妲 |
 | Tristan (Mink doctor, Chopper's assistant) | 崔斯坦 | VERIFIED Fandom zh (犬嵐銃士隊 page member) |
-| Sicilian / Shishilian (Mink, Musketeer, lion-mink) | 西西里 | VERIFIED Fandom zh 西西里 (Inuarashi Musketeer). Noisy/boastful speech |
+| Sicilian / Shishilian (Mink, Musketeer captain, lion-mink) | 西西里昂 | CORRECTED 西西里 → 西西里昂 (Zou 04). VERIFIED Fandom zh page title 西西里昂 (opensearch + page-title check both return 西西里昂; bare 西西里 is a shorter redirect/variant). Captain of Inuarashi's Musketeers. "Full Power Shishilian"/全力運轉 西西里昂 (caption). Noisy/boastful, hates sweet talk |
 | Carrot (Mink, rabbit-mink) | 凱洛特 | VERIFIED Fandom zh 凱洛特 (mentioned; later joins crew) |
 | Kozuki Clan (Wano ruling family) | 光月家 | VERIFIED Fandom zh 光月家 |
 | Kozuki Oden (Wano daimyo, Momonosuke's father) | 光月御田 | VERIFIED Fandom zh 光月御田. Referred to as Oden-sama 御田大人; caption spells O-D-E-N = 御田 |
@@ -3335,3 +3335,22 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Kaido / Kaidou (Yonko, Beasts) | 凱多 | kept — established (L2404). -san 先生 in radio scene |
 | Jack (Kaido subordinate, attacked Zou) | 傑克 | kept — established (L2407) |
 | Sanji Retrieval Team (Luffy's group) | 香吉士奪回隊 | coined; narration term for the Whole Cake Island rescue party |
+
+## Characters & Terms (Zou 04 [808-809] — Beasts Pirates / Jack's attack flashback)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Jack the Drought (Disaster, Mammoth captain, Beasts Pirates) | 乾旱傑克 | VERIFIED Fandom zh page 乾旱傑克 (also titled JACK). One of the three 災害/Disasters. Captain of the Mammoth. Uses established Jack 傑克 (L2407/L3336) for the bare name; full epithet = 乾旱傑克 |
+| Disasters / Three Disasters (Kaido's three top commanders) | 災害／三災 | VERIFIED Fandom 百獸海賊團 page: {{災害\|Disasters}}, 又被稱為「三災」, bounties over 1 billion. "one of the three henchmen called Disasters" = 被稱為「災害」的三名爪牙之一 |
+| Gifters (Beasts Pirates, SMILE success users) | 給賦者 | VERIFIED Fandom 百獸海賊團 page: 給賦者 (ギフターズ Gifters). Artificial Zoan SMILE-fruit users |
+| Pleasures (Beasts Pirates, SMILE failures) | 愉悅者 | VERIFIED Fandom 百獸海賊團 page: 愉悅者 (プレジャーズ Pleasures). SMILE-fruit failures |
+| Headliner(s) (Beasts Pirates elite officers under the Disasters) | 真打 | VERIFIED Fandom 百獸海賊團 page: 真打 (真打ち Headliners), direct subordinates of the three top commanders |
+| Sheepshead (Beasts Pirates Headliner, sheep-SMILE) | 席浦斯赫德 | kept — established (L3250) VERIFIED Fandom. Speech quirk "Mon(-ji)!" (sheep bleat) rendered 咩 |
+| Ginrummy (Beasts Pirates, Jack's female subordinate) | 金菈彌 | VERIFIED Fandom zh opensearch 金菈彌 |
+| Duke Inuarashi / "Day Ruler" (official ruler of Mokomo Dukedom) | 犬嵐公爵 / 晝之王 | uses established Inuarashi 犬嵐 (L3302) + Duke 公爵. Caption "Day Ruler" = 晝之王 (day-shift co-ruler). Cf. Nekomamushi "Night Ruler" 夜之王 |
+| Night Ruler (Nekomamushi's co-ruler title) | 夜之王 | caption title for Nekomamushi (night-shift co-ruler); cf. glossary 暗夜之王 (L3301) — 夜之王 used for the terse caption form. "Fool/Fool of the Night" (Nekomamushi's other title) = 夜之愚者 |
+| Garchu (Mink affectionate greeting/headbutt) | 咖啾 | coined phonetic (ガルチュー Garchu); the Minks' friendly greeting nuzzle. UNRESOLVED — no dedicated Fandom zh term found; coinage kept |
+| Wolf Grip (Wanda attack, wolf-mink) | 狼咬 | coined; Wanda's hand transforms into a wolf's jaw. UNVERIFIED — VERIFY vs Fandom |
+| Bone-Bone Chop (Mink comedic chop, this ep) | 骨骨手刀 | coined; a Mink's "kanja/kanya" pun-chop gag while carrying patients. One-off |
+| kanja/kanya = patient (ninja/kanja homophone gag, Note) | 患者（發音近「忍者」） | Note-line gloss; Japanese 患者 (kanja) sounds like 忍者 (ninja) — the joke |
+| -gara / -teia / -saru (Mink & Beasts-crew speech quirks) | 這傢伙／你這傢伙／…猿 (rendered naturally) | -gara/-teia are Mink sentence tags (Wanda/Pedro etc.), rendered naturally as 這傢伙/你們這些傢伙 rather than a forced tag; Jack's monkey-SMILE crew "-saru" rendered as trailing 猿 |
+| Amulet: protect (護符 Note, this ep) | 護身符：守護 | Note-line gloss on Nekomamushi's amulet |
