@@ -2473,7 +2473,7 @@ type: reference
 | Dressrosa (Country of Passion, Love, and Toys) | 德雷斯羅薩（激情、愛與玩具之國）|
 | Acacia (port town, Dressrosa) | 阿卡西亞 |
 | Green Bit (solitary island north of Dressrosa) | 格林比特 |
-| Zou (island sought by samurai, Law's crew location) | 卓武 |
+| Zou (island sought by samurai, Law's crew location) | 佐烏 | CORRECTED 卓武 → 佐烏, 2026-07-10. VERIFIED Fandom zh opensearch "Zou" → 佐烏/佐烏篇 pages; no 卓武 page exists |
 | Wano Country / Wano | 和之國 |
 | Trafalgar Law / "Surgeon of Death" | 托拉法爾加·羅 / 「死亡外科醫」 — CANONICAL (matches Punk Hazard files; do NOT use 特拉法爾加) |
 | Joker (Doflamingo's underworld alias) | 喬卡 |
@@ -3294,3 +3294,44 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Tonta Corps / Tontattan Tonta Corps (Leo's unit, ep48 caption) | 頓達部隊 | CORRECTED 頓達軍團 → 頓達部隊. VERIFIED Fandom 雷奧 page: Leo's occupation is 頓達部隊長 (Tonta Corps commander). No prior-repo usage of 頓達軍團, so Fandom form adopted. Fix ep48 subtitle (2 occurrences) |
 | XXX Gym Martial Arts Alliance (Ideo's group, ep48 caption) | XXX健身房格鬥聯合 | CORRECTED XXX拳館武術聯盟/XXX拳館鬥士聯盟 → XXX健身房格鬥聯合. VERIFIED Fandom 伊迪歐海賊團 page: 原團隊名稱 「XXX健身房格鬥聯合」(XXXジム格闘連合, XXX Gym Martial Arts Alliance), Ideo's crew, Grand Fleet 4th squad. Fix ep48 subtitle (both occurrences) |
 | Class-A War Criminal (Suleiman caption, Dias Naval Battle, ep48) | A級戰犯 | coined; Class-A 甲級/A級 war criminal; uses established Dias 迪亞斯 (L2700) + Suleiman 蘇萊曼 (L2535) |
+
+## Characters & Terms (Zou Arc)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Nekomamushi (Guardian, "King of Night") | 貓蝮蛇 | VERIFIED Fandom zh 貓蝮蛇. "Master of the Night"/暗夜之王, Mink cat-mink, former Roger crew (Oden retainer) |
+| Inuarashi (Guardian, "King of Day") | 犬嵐 | VERIFIED Fandom zh 犬嵐. "King of Day"/白晝之王, Mink dog-mink, former Roger crew |
+| Inuarashi Musketeers (Three Musketeers) | 犬嵐銃士隊 | VERIFIED Fandom zh 犬嵐銃士隊; "Three Inuarashi Musketeers" = 犬嵐三銃士 |
+| Raizo (Ninja of Wano, Kozuki retainer) | 雷藏 | VERIFIED Fandom zh 雷藏. -dono/-sama honorifics kept (雷藏大人/雷藏先生) |
+| Zunesha / Zunisha (giant elephant carrying Zou) | 象主 | VERIFIED Fandom zh 象主 (jname 象主 ruby ズニーシャ Zunīsha). Naturally rendered as "the elephant" 大象 in dialogue |
+| Pedro (Guardian, jaguar mink, Nox Pirates) | 佩特羅 | VERIFIED Fandom zh 佩特羅. Luffy/others mis-name him "Peropero" 佩羅佩羅 (gag) |
+| Wanda (Mink, wolf-mink, Kurau City) | 萬妲 | VERIFIED Fandom zh 萬妲 |
+| Tristan (Mink doctor, Chopper's assistant) | 崔斯坦 | VERIFIED Fandom zh (犬嵐銃士隊 page member) |
+| Sicilian / Shishilian (Mink, Musketeer, lion-mink) | 西西里 | VERIFIED Fandom zh 西西里 (Inuarashi Musketeer). Noisy/boastful speech |
+| Carrot (Mink, rabbit-mink) | 凱洛特 | VERIFIED Fandom zh 凱洛特 (mentioned; later joins crew) |
+| Kozuki Clan (Wano ruling family) | 光月家 | VERIFIED Fandom zh 光月家 |
+| Kozuki Oden (Wano daimyo, Momonosuke's father) | 光月御田 | VERIFIED Fandom zh 光月御田. Referred to as Oden-sama 御田大人; caption spells O-D-E-N = 御田 |
+| Mink Tribe (Zou inhabitants) | 純毛族 | VERIFIED Fandom zh 純毛族. Do NOT use 毛皮族 |
+| Mokomo Dukedom (Mink nation on Zou) | 摩科莫公國 | VERIFIED Fandom zh 摩科莫公國 |
+| Kurau City (capital of Mokomo Dukedom) | 克勞市 | coined; no standalone Fandom page. Kurau 克勞 (matches 克勞恩/凱薩·克勞 phonetic) + 市 city |
+| Whale Forest (Guardians' home region on Zou) | 鯨魚森林 | VERIFIED Fandom zh 佐烏 page: 鯨魚森林 (whale-shaped trees) |
+| Guardians (Whale Forest Mink warriors) | 俠客團 | VERIFIED Fandom zh 俠客團. "Guardians' dwelling/residence" = 俠客團居所/居住區 |
+| Stronghold / fortress (Minks' forest citadel) | 城寨 | VERIFIED Fandom zh 佐烏 page: 純毛族於森林搭建的城寨 |
+| Pekomamushi (Nekomamushi's mocking name for Pekoms) | 乘蝮蛇 | coined portmanteau; Pekoms 乘高斯 + -mamushi 蝮蛇 (from Nekomamushi). Nekomamushi mixing up their names (gag) |
+| Turtle-Mamushi (further mangled Pekoms name) | 烏龜蝮蛇 | coined; Nekomamushi mistaking turtle-shelled Pekoms for "Turtle-Mamushi". Extends 乘蝮蛇 gag |
+| Turtle-Turtle Fruit (Pekoms' Devil Fruit) | 龜龜果實 | coined; Pekoms' Zoan (turtle). No Fandom named-page checked; standard X-X Fruit pattern |
+| Yomo / Pastor Yomo (Mink, priest) | 尤莫牧師 | coined phonetic 尤莫 + 牧師 (Pastor); no standalone Fandom page. VERIFY if recurs |
+| Baron Corpse (Yomo's dog-mink chew-toy joke) | 屍體男爵 | coined comedic; Baron 男爵 + Corpse 屍體. Dog-mink bone-chewing gag |
+| BB / Roddy (Mink minor names, this ep) | BB / 羅迪 | coined phonetic; minor Mink names shouted in crowd scene |
+| Master (Inuarashi/Nekomamushi, Musketeers' address) | 主人 | matches established Master 主人 (used generically); here Musketeers addressing Inuarashi |
+| Road Poneglyph (points to Laugh Tale) | 路標歷史本文 | VERIFIED Fandom zh 歷史本文 page: 4個「路標歷史本文」記載四個地點. Do NOT use mixed "road歷史本文" |
+| Marineford (Navy HQ, Paramount War site) | 馬林福特 | CORRECTED 瑪林福德 → 馬林福特. VERIFIED Fandom zh event page 馬林福特頂上戰爭. Supersedes glossary L1603 瑪林福德 |
+| Paramount War (Marineford War) | 頂上戰爭 | VERIFIED Fandom zh 頂上戰爭 (event 馬林福特頂上戰爭). Do NOT use 頂點戰爭 |
+| Grudge War / Payback War (Marco vs Blackbeard, 1 yr post-Marineford) | 怨恨戰爭 | VERIFIED Fandom zh 頂點戰爭篇/戰後篇 context; the Whitebeard remnants vs Blackbeard clash. Rendered 怨恨戰爭 |
+| Whole Cake Island (Big Mom's territory) | 圓蛋糕島 | VERIFIED Fandom zh 圓蛋糕島 (arc = 蛋糕島篇) |
+| Sorcerer's Climate Baton (Nami's upgraded weapon) | 魔法師天候棒 | coined; extends established Climate Baton 天候棒 (L122). "magic wand" 魔杖 |
+| Mirage Tempo (Nami attack) | 海市蜃樓節拍 | coined; extends Nami Tempo-attack pattern (節拍). VERIFY vs Fandom |
+| Strong Right (Franky attack) | 強力右拳 | VERIFIED Fandom zh 強力右手/右拳. Rendered 強力右拳 (right fist) |
+| I-love-you Technique / Ninpo (Raizo ninja gag) | 我愛你之術 / 忍法 | coined; Ninpo 忍法 (ninja arts) + comedic 我愛你之術 |
+| Kaido / Kaidou (Yonko, Beasts) | 凱多 | kept — established (L2404). -san 先生 in radio scene |
+| Jack (Kaido subordinate, attacked Zou) | 傑克 | kept — established (L2407) |
+| Sanji Retrieval Team (Luffy's group) | 香吉士奪回隊 | coined; narration term for the Whole Cake Island rescue party |
