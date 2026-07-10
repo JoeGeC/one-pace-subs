@@ -3270,6 +3270,36 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Celestial Yaksha / Heavenly Demon (Doflamingo transport, ep47) | 天夜叉 | kept — established Doflamingo epithet 天夜叉 (L2728/L3230) |
 | Tank (Riku servant, addressed by King Riku, ep47) | 譚克 | kept — established Tank Lepanto 譚克·勒潘陀 (L2531/L3225) |
 | soba noodles (Sengoku's order, ep47) | 蕎麥麵 | coined; standard rendering of soba |
+| Nekomamushi (Guardian, night unit leader, Zou, ep06) | 貓蝮蛇 | VERIFIED Fandom zh page 貓蝮蛇 |
+| Inuarashi (Musketeer Squad leader, day unit, Zou, ep06) | 犬嵐 | VERIFIED Fandom zh page 犬嵐 |
+| Inuarashi Musketeer Squad (day defence force) / Guardians (night, 俠客團) (ep06) | 犬嵐銃士隊 / 俠客團 | VERIFIED Fandom 犬嵐銃士隊 page; Nekomamushi's night force 俠客團 (Guardians) |
+| Shishilian (Musketeer Squad captain, ep06) | 西西里昂 | VERIFIED Fandom zh 西西里昂 (also 月獅子) |
+| Zunesha / Zunisha (millennium elephant carrying Zou, ep06) | 象主 | VERIFIED Fandom zh 象主 |
+| Mink Tribe (fur-covered warrior race of Zou, ep06) | 純毛族 | VERIFIED Fandom zh 純毛族 |
+| Mokomo Dukedom (mink nation atop Zunesha, ep06) | 摩科莫公國 | VERIFIED Fandom zh 摩科莫公國 |
+| Kurau City (capital district of Mokomo Dukedom, ep06 caption) | 克勞市 | coined; Kurau 克勞 + 市. UNRESOLVED — no dedicated Fandom zh page hit; coinage retained |
+| Whale Forest (Guardians' district, Zou, ep06 caption) | 鯨魚森林 | coined/descriptive; Pedro's affiliation 鯨魚森林俠客團 per Fandom infobox |
+| Kozuki Clan (Wano ruling family, ep06) | 光月家 | VERIFIED Fandom zh 光月家 |
+| Raizo (Kozuki ninja retainer, ep06) | 雷藏 | VERIFIED Fandom zh 雷藏 |
+| Wanda (mink, dog-type, ep06) | 萬妲 | VERIFIED Fandom zh 萬妲 |
+| Tristan (mink, Chopper's medical assistant, ep06) | 特莉絲坦 | coined phonetic; minor mink, no dedicated Fandom page found. トリスタン |
+| BB / Roddy / Pastor Yomo (minor Guardian dogs, ep06) | BB／洛迪／尤摩牧師 | coined phonetic for one-off minks; no Fandom pages |
+| Pedro (Whale Forest Guardian, jaguar mink, ep06) | 佩特羅 | VERIFIED Fandom zh page 佩特羅 (jname ペドロ) |
+| Baron Corpse (dogs' affectionate nickname for Pedro, ep06) | 屍體男爵 | coined gag; Baron 男爵 + Corpse 屍體 |
+| Oden (Kozuki Oden, Wano daimyo, ep06) | 御田 | kept — caption 御田; matches established Wano-lord usage |
+| Voice of All Things (Momo hears Zunesha, ep06) | 萬物之聲 | VERIFIED Fandom zh 萬物之聲 (万物の声) — used descriptively in-episode |
+| Marco the Phoenix (former WB 1st div commander, ep06) | 不死鳥瑪爾科 | kept — established Marco 瑪爾科 (L1439) + Phoenix 不死鳥 |
+| Grudge War / Payback War (WB remnants vs Blackbeard, ep06) | 宿怨之戰 | coined; the post-Marineford WB-vs-BB war. UNVERIFIED — VERIFY vs Fandom |
+| Vinsmoke Family / Vinsmoke (Sanji's birth family, ep06) | 賓什莫克家族 / 賓什莫克 | VERIFIED Fandom zh 賓什莫克家族; Sanji = 賓什莫克·香吉士 |
+| Charlotte Pudding (Big Mom's 35th daughter, Sanji's bride, ep06) | 夏洛特·普琳 | VERIFIED Fandom zh 夏洛特·普琳 |
+| Capone "Gang" Bege (Firetank Pirates captain, ep06) | 卡波涅「大哥」貝基 | kept — established (L1806/L3235) |
+| Firetank Pirates (ep06) | 火戰車海賊團 | kept — established (L3235, Fandom crew name) |
+| Vito "Phantom Gun" (Firetank Pirates advisor, ep06) | 「幻槍」比特 | VERIFIED Fandom zh 比特; epithet Phantom Gun = 幻槍. Speech quirk -rero = 咧摟 |
+| Castle-Castle Fruit (Shiro Shiro no Mi, Bege's devil fruit) / castle human (ep06) | 堅城果實／城堡人 | VERIFIED Fandom zh 堅城果實 |
+| Castle Tank (Bege escape technique, ep06) | 城堡坦克 | coined; Bege rolls off as a mobile tank. UNVERIFIED — VERIFY vs Fandom |
+| Cedar (Caesar's insisted alias while making meds, ep06 pun on Caesar) | 凱薩爾 | coined near-homophone of Caesar 凱薩 (L2302) to carry the "not Caesar, Cedar" gag |
+| Garchu (mink kiss/hug greeting, ep06) | 嘎啾 | coined phonetic (ガルチュー); mink friendship greeting |
+| Tea Party (Big Mom's summons, ep06) | 茶會 | descriptive; Big Mom's Tea Party 大媽的茶會 (cf L2046) |
 
 ## Characters & Terms (Dressrosa 48 / Arc Finale, ep798-800)
 | English | 繁體中文 | Notes |
@@ -3354,3 +3384,33 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | kanja/kanya = patient (ninja/kanja homophone gag, Note) | 患者（發音近「忍者」） | Note-line gloss; Japanese 患者 (kanja) sounds like 忍者 (ninja) — the joke |
 | -gara / -teia / -saru (Mink & Beasts-crew speech quirks) | 這傢伙／你這傢伙／…猿 (rendered naturally) | -gara/-teia are Mink sentence tags (Wanda/Pedro etc.), rendered naturally as 這傢伙/你們這些傢伙 rather than a forced tag; Jack's monkey-SMILE crew "-saru" rendered as trailing 猿 |
 | Amulet: protect (護符 Note, this ep) | 護身符：守護 | Note-line gloss on Nekomamushi's amulet |
+
+## Characters & Terms (Zou 08 [816-817] — Raizo reveal / Kozuki crest)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Raizo of the Mist (Wano ninja hidden in Whale Forest) | 霧之雷藏 | VERIFIED Fandom zh opensearch "Raizo" → 雷藏. English "Raizo of the Mist" = 霧之雷藏 (title/caption). Bare name 雷藏 |
+| Kozuki Clan / Kozuki Family (Wano lord family Minks are sworn to) | 光月一族 | VERIFIED Fandom zh 佐烏/純毛族 pages: 光月一族 (also 光月家). "Kozuki crest" = 光月一族家紋 |
+| Kozuki Oden (great daimyo of Kuri; Momonosuke's father) | 光月御田 | VERIFIED Fandom zh opensearch "Oden" → 光月御田. Bare/honorific in dialogue: 御田 / 御田大人 |
+| Kozuki Momonosuke (Oden's heir, the Minks' lord) | 光月桃之助 | uses established Momonosuke 桃之助 (L2260/L2487) + clan 光月. Luffy's teasing "Momo/Momo-chan" = 桃子/桃桃 |
+| Mink Tribe (Zou's half-human half-animal inhabitants) | 純毛族 | VERIFIED Fandom zh 純毛族 page (also 水貂族/毛皮族). Minks call humans "hairless tribe" 無毛族 |
+| Mokomo Dukedom (Mink nation on Zou) | 摩科莫公國 | VERIFIED Fandom zh 摩科莫公國 page |
+| Zou (elephant island) | 佐烏 | VERIFIED Fandom (also glossary L2476). The island = elephant's back |
+| Zunesha (millennium-old elephant carrying Zou) | 象主 | VERIFIED Fandom zh 象主 page (ズニーシャ). Do NOT phonetically transliterate to 茲尼薩 |
+| Nekomamushi / Cat Viper ("Night Ruler", Guardians leader) | 貓蝮蛇 | VERIFIED Fandom zh 貓蝮蛇 page. Luffy's teasing turtle pun "Turtle-Mamushi" this ep not present; "cat monster" (Inuarashi's insult) = 貓怪物 |
+| Inuarashi / "Dog King" ("Day Ruler", Musketeers leader) | 犬嵐 | VERIFIED Fandom zh 犬嵐 page (also glossary L3302). Jack's mockery "Dog King" = 犬王 |
+| King of the Day / King of the Night | 白晝之王 / 黑夜之王 | Mink co-ruler titles; cf. Zou04 terse caption forms 晝之王/夜之王. Full narration forms used this ep |
+| Guardians (Nekomamushi's night unit) | 俠客團 | VERIFIED Fandom zh 犬嵐銃士隊 page cross-ref: 貓蝮蛇's night unit 俠客團 paired with Inuarashi's day unit 犬嵐銃士隊 |
+| Inuarashi Musketeer Squad / Three Musketeers | 犬嵐銃士隊 / 犬嵐三銃士 | VERIFIED Fandom zh 犬嵐銃士隊 page. Leaders: Carrot 凱洛特, Inuarashi 犬嵐, Shishilian 西西里昂 |
+| Pedro (Guardian, jaguar mink) | 佩特羅 | VERIFIED Fandom zh 佩特羅 page. Pekoms mis-says "Peropero" = 佩羅佩羅 (gag) |
+| Wanda (dog mink, Nami's guide) | 萬妲 | VERIFIED Fandom zh 萬妲 page |
+| Carrot (rabbit mink) | 凱洛特 | VERIFIED Fandom zh 凱洛特 page |
+| Shishilian (lion mink, Musketeer) | 西西里昂 | VERIFIED Fandom zh 西西里昂 page |
+| Tristan (Mink doctor's assistant) | 崔斯坦 | VERIFIED Fandom zh 崔斯坦 page exists |
+| Whale Forest (forest with the Whale Tree hiding the Road Poneglyph) | 鯨魚森林 | VERIFIED Fandom zh 佐烏 page: 鯨魚森林. "Whale Tree" = 鯨魚樹 |
+| Road Poneglyph (red Poneglyph pointing to Laugh Tale) | 路標歷史本文 | VERIFIED Fandom zh 佐烏 page: 紅色路標歷史本文. Uses established Poneglyph 歷史本文 |
+| Bariete (Mink bell-ringer) | 巴利耶特 | coined phonetic (バリエテ); no dedicated Fandom zh page. UNVERIFIED |
+| Warney (Inuarashi's riding animal) | 沃尼 | coined phonetic (ワーニー); Duke's mount. UNVERIFIED — no Fandom zh page |
+| Dr. Miyagi (Mink doctor, this ep) | 米亞基醫生 | coined phonetic (ミヤギ); no dedicated Fandom zh page. UNVERIFIED |
+| Onami (Nami's Wano-play name, used by Momonosuke) | 阿娜美 | established (L2569) — Momonosuke addresses Nami as Onami |
+| daimyo (Wano feudal lord) | 大名 | standard term; Oden = 九里的大名 (daimyo of Kuri) |
+| Watery/Water Escape Technique (Mink kids' ninja fantasy) | 水遁之術 | coined; ninja "water escape". Also Earth Escape 土遁之術, Shadow Clone 影分身之術, Smoke Escape 煙遁之術 (Raizo's real jutsu) — all standard ninja-jutsu renderings |

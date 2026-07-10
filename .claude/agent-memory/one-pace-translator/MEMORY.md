@@ -1,1 +1,2 @@
 - [Translation Glossary](glossary.md) — Complete EN→zh-TW glossary: characters, attacks, locations, devil fruits, terms
+- [Verify TSV content before translating](feedback_verify_tsv_content.md) — stale /tmp read once caused a whole-episode mistranslation; sanity-check LINE_NUM range + topic
