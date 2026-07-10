@@ -3490,3 +3490,11 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Paramount War (Marco/Weevil mention) | 頂上戰爭 | CORRECTED this ep: draft used 頂點戰爭 → fixed to 頂上戰爭 (established L3328, VERIFIED Fandom). Do NOT use 頂點戰爭 |
 | Mink Tribe (Zou inhabitants) — arc consistency | 純毛族 | CORRECTED this ep: draft used old Alabasta-era 毛皮族 → fixed to 純毛族 (Zou-arc standard L3313/L3365). Do NOT use 毛皮族 |
 | Etetetete (Raizo/ninja running rhythm gag) | 欸得得得得 | coined onomatopoeia; ninja running sound "Ete" |
+
+## Characters & Terms (Zou 09 / Momonosuke & the Alliance, ep818-819)
+| Ninja-Pirate-Mink-Samurai Alliance (Luffy's coalition vs Kaidou) | 忍者海賊純毛武士聯盟 | VERIFIED Fandom zh 忍者海賊純毛武士聯盟 page (opensearch exact match). Also Carrot's affiliation "原忍者海賊純毛武士聯盟" |
+| Lion Viper (Note gloss for Pekomamushi, ep09) | 獅蝮蛇 | Note-line gloss explaining the 乘蝮蛇 gag: Lion 獅 + Viper 蝮蛇. Pekoms is a lion mink; Nekomamushi (Cat Viper) mangles his name |
+| Pekomamushi (Nekomamushi's mangled name for Pekoms, ep09) | 乘蝮蛇 | KEPT established form (L3349) for repo consistency. NB: Pekoms's Fandom-verified name is 波哥姆斯, NOT the repo's 乘高斯 — but the ENTIRE repo uses 乘高斯/乘蝮蛇 self-consistently, so prior-repo usage governs (cf. Counter Shock 反震 precedent). Do NOT switch to 波哥姆斯/波蝮蛇 mid-arc |
+| Marco Fandom-vs-repo note (not in ep09 real content) | 瑪爾科 (repo) vs 馬可 (Fandom) | Repo uses 瑪爾科 / 不死鳥瑪爾科 (L1439/L3291) throughout; Fandom page title is 馬可 / 不死鳥馬可. Repo self-consistent form 瑪爾科 governs. Logged to prevent future re-verification churn |
+| Kozuki Oden's dying pun ("Wano…Wa…Wa…" → oden food gag, ep09) | 關東…關…關…／關東煮不用滷就稱不上是關東煮 | The retainer chokes on saying "executed", stalling on 關東(Kanto/Wano); flashback Oden pun renders オランダ/oden→關東煮 (oden stew must be simmered). Localized to 關東煮 boil-pun |
+| Kozuki Family = stonemason clan / made the Poneglyphs (ep09) | 光月家（石匠家族） | uses established 光月家 (L3282). They quarried/carved stone for generations, invented the indestructible 歷史本文 800 yrs ago |
