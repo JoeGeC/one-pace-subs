@@ -3591,3 +3591,90 @@ NOTE: An earlier pass MISALIGNED this episode's translation against the wrong so
 | Baron Corpse (Carrot's greeting for Brook, WCI 01) | 屍體男爵 | kept — matches repo English→zh mapping (L3288/L3541). English subtitle uses "Baron Corpse" so rendered consistently |
 | A World Abuzz (WCI 01 episode title) | 躁動的世界 | episode title card |
 | French speech quirks (-soir/-bon/-soufflé/-millefeuille/-amour/-jour/-s'il vous plaît; Vito & escort) | kept as italic romaji tags | Sanji-escort crew append random French pastry/greeting words; preserved verbatim in {\i1}...{\i0} styling (like Garchu, -jamon, mi-re-do) |
+
+## Whole Cake Island Arc (WCI 02 [825-826] — "0 and 4" / Sora manga / Yonji & Reiju encounter)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Vinsmoke Yonji / "Winch Green" (4th son, Sanji's youngest brother) | 賓什莫克·約吉士 / 「文奇綠」 | VERIFIED Fandom zh 賓什莫克·約吉士 (page-links on 賓什莫克家族). Epithet Winch Green = 文奇綠 (VERIFIED, 0話/娜美 pages). Caption: 賓什莫克·「文奇綠」·約吉士 |
+| Vinsmoke Reiju / "Poison Pink" (eldest child, only daughter) | 賓什莫克·麗珠 / 「毒粉紅」 | VERIFIED Fandom zh 賓什莫克·麗珠 + epithet page 毒粉紅. "Lady Reiju" address = 麗珠大人. Sucks poison out to heal (immune) |
+| Vinsmoke Ichiji / Niji / Judge / Sora (family, ref. only) | 賓什莫克·伊吉士 / 尼吉士 / 賈吉士 / 索菈 | VERIFIED via 賓什莫克家族 page-links. Judge (father)=賈吉士; Sora (mother)=索菈. NB mother 索菈 (菈) differs from comic hero 索拉 |
+| Yonji name pun ("San(3)-ji" vs "Yon(4)-ji") | rendered 不是「三」的香吉士，是「四」的約吉士 | JP pun San=三/Yon=四 lost in zh; preserve numeral contrast with the two names |
+| Sora, Warrior of the Sea (in-universe WEN comic) | 大海戰士索拉 | VERIFIED Fandom zh 大海戰士索拉 (opensearch exact page). Water-walking marine hero vs Germa 66; Vito's favourite |
+| WEN / World Economy Newspaper | WEN／世界經濟新聞 | VERIFIED Fandom zh 世界經濟新聞 page. "WEN" acronym kept as-is; full name 世界經濟新聞 |
+| Gotti "the Hitman" (Fire Tank Pirates) | 「殺手」哥帝 | COINED phonetic — no dedicated Fandom zh page for ゴッティ, absent from 火戰車海賊團 member wikitext. 哥帝 (go-ti). Hitman = 殺手. UNVERIFIED |
+| Fire Tank Pirates | 火戰車海賊團 | kept — established (L3235 VERIFIED Fandom crew name) |
+| "Father" (Fire Tank crew's address for Bege) | Father (kept) | kept — matches L3235 note (Bege's mafia-don style). Possessive use "Father's head will roll" rendered "Father的腦袋…" |
+| "Ma'am" (female superior scolding Fire Tank crew, unnamed) | 大姐 | descriptive; likely Chiffon (Charlotte daughter/Bege's wife) but unnamed in dialogue — rendered generic respectful 大姐 |
+| Armored stonefish (Boiling Sea poison fish Luffy ate) | 鎧甲石魚 | VERIFIED Fandom zh 鎧甲石魚 page. Deadly skin poison; Reiju's favourite |
+| Boiling Sea | 熱湯海 | VERIFIED Fandom zh 熱湯海 page |
+| Territorial Sea Slug (Big Mom's territory-warning creature) | 領地海蛞蝓 | VERIFIED Fandom zh 領地海蛞蝓 (appears on 惡龍領域篇/生物列表/吉貝爾). Feeds warning signals to Pekoms's transponder snail |
+| River Styx (Chopper: dying Luffy's vision) | 三途川 | rendered as Buddhist Sanzu river 三途川 (JP 三途の川); the river of the afterlife |
+| Black Leg Sanji | 黑腳香吉士 | Sanji's epithet; standard 黑腳 |
+| Thousand Sunny (caption) | 千陽號 | kept — established (Fandom 千陽號); caption italic {\i1}千陽號{\i0} |
+| "0 and 4" (WCI 02 episode title) | 0與4 | episode title card (refs Germa numbering 0=Judge, 4=Yonji) |
+| Honorific convention (repo-standard, WCI arc) | -san→桑, -kun→君, -chan→醬, -sama→大人 | CONFIRMED from WCI 01 zh-TW output. Preserve source {\i1}...{\i0}/{\fs10} {\r} tags; drop the romaji hyphen. e.g. Nami-{\i1}san{\i0} → 娜美{\i1}桑{\i0} |
+
+## Whole Cake Island Arc (WCI 03 [827-828] — Totto Land arrival / Chocolat Town / Pudding encounter / Germa flashback)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Totto Land (Big Mom's whole territory of 34+ islands) | 萬國 | VERIFIED Fandom zh page 萬國 (トットランド→萬國; 827話 lists it). NB distinct from Whole Cake Island (central island) 萬國蛋糕島 — Totto Land = the country, WCI = one island. Title card "Totto Land" = 萬國 |
+| Cacao Island (island ruled by minister of chocolate) | 卡卡奧島 | VERIFIED Fandom zh page 卡卡奧島 (カカオ島). NOT 可可島 |
+| Chocolat Town (town on Cacao Island, all chocolate) | 巧克力鎮 | VERIFIED Fandom zh page 巧克力鎮 (linked from 827/828話) |
+| Broc Coli Island (New World location, caption) | 布洛克柯利島 | VERIFIED Fandom zh page 布洛克柯利島 (ブロックコリー島). Caption "Broc Coli Island, New World" = 新世界 布洛克柯利島 |
+| Rabiyan the Carpet (Pudding's flying-carpet homie) | 地毯拉比揚 | 拉比揚 VERIFIED Fandom (拉比揚 on 全人物列表 + 夏洛特·普琳 page). "the Carpet" = 地毯. Homie 歡樂友人 |
+| Nitro the Jelly (Pudding's jelly homie) | 果凍尼特羅 | COINED — ニトロ→尼特羅 (standard transliteration; no dedicated Fandom zh page confirmed). "the Jelly" = 果凍. Homie 歡樂友人. UNVERIFIED |
+| Homies (Big Mom's soul-infused living objects) | 歡樂友人 | VERIFIED Fandom zh page 歡樂友人 |
+| Minister of Chocolate / Candy / Biscuit (Cacao Island officials) | 巧克力大臣／糖果大臣／餅乾大臣 | 巧克力大臣 VERIFIED (linked from 827話). Candy/Biscuit forms follow same 大臣 pattern (each of 34 islands has a minister) |
+| Chocopolice (Chocolat Town police, Choco-police pun) | 巧克力警察 | COINED — ショコポリス has no Fandom zh page. Rendered 巧克力警察 (Choco + police). With -san: 巧克力警察{\i1}桑{\i0} |
+| Caramel Cafe (Pudding's cafe, caption "Owner of the Caramel Cafe") | 焦糖咖啡廳 | 焦糖 = caramel (VERIFIED as generic term; appears on 827話). Caption "Owner" = 焦糖咖啡廳老闆 |
+| Snackalism (chocopolice's crime charge, snack pun) | 「零食主義」 | COINED gag; "crime of snackalism" = 「零食主義」的罪. Playful legal-crime pun |
+| Madam Pudding / Lady Pudding (townsfolk/escort address) | 普琳大小姐 | kept — established (L3549). Both "Madam" and "Lady" Pudding rendered 普琳大小姐; plain "Pudding-san" = 普琳{\i1}桑{\i0} |
+| Curly Hat crew disguise / minks / fishmen / longarms / longlegs / gnomes | 純毛族／魚人／長手族／長腳族／小人族 | kept — established races (純毛族 L3468; 長手族/長腳族 L3348). Gnomes 小人族 (coined, standard こびと族 rendering) |
+| Heart eyes (Sanji's love-struck expression) | 愛心眼 | coined descriptive; "he's got heart eyes" = 一看到女人就變愛心眼 / 變愛心眼 |
+| Twirly eyebrows (Pudding describing Sanji's brows) | 捲眉毛 | kept — established (L3321) |
+| Tarte security (Big Mom's Tarte-ship patrol) | 塔特船警備 | uses established Tarte 塔特 (L3555). "pass the tarte security" = 通過塔特船警備 |
+| "Wall." (Germa member's flashback battle line) | 牆壁 | rendered literally; single-word cold Germa battlefield utterance while deflecting an attack |
+| Germa 66 / Germa (mercenary army, flashback) | 傑爾馬66／傑爾馬 | kept — established (L3532 VERIFIED); crowd chant "Germa!" = 傑爾馬！ |
+| Choco-burger / Choco-pasta / Choco-fried chicken (Chocolat Town foods) | 巧克力漢堡／巧克力義大利麵／巧克力炸雞 | coined descriptive food gags |
+
+## Whole Cake Island Arc (WCI 04 [829-830] — approach to WCI / Big Mom's croquembouche rampage / Jinbe leaves crew)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Sweet City (capital of Whole Cake Island) | 甜點城 | VERIFIED Fandom zh page 甜點城. "Capital of Whole Cake Island" = 萬國蛋糕島首都 |
+| Whole Cake Chateau (Big Mom's castle) | 萬國蛋糕城堡 | VERIFIED Fandom zh page 萬國蛋糕城堡 |
+| Croquembouche (Big Mom's craved dessert) | 泡芙塔 | VERIFIED Fandom zh page 泡芙塔. In italic tags {\i1}泡芙塔{\fs10} {\r} |
+| Charlotte Moscato (16th son, Minister of Gelato) | 夏洛特·莫斯卡托 / 莫斯卡托 | VERIFIED Fandom zh exact page 夏洛特·莫斯卡托. "Minister Moscato" = 莫斯卡托大臣; "Big Bro Mos" = 莫斯大哥 |
+| Charlotte Mont d'Or (minister, Big Mom's son) | 夏洛特·蒙多爾 / 蒙多爾 | VERIFIED Fandom zh exact page 夏洛特·蒙多爾. "Minister Mont d'Or" = 蒙多爾大臣 |
+| Charlotte Praline (21st daughter, Aladine's wife, hammerhead-shark mermaid) | 夏洛特·布蕾 / 布蕾 | VERIFIED Fandom zh exact page 夏洛特·布蕾. "Madam Praline" = 布蕾夫人 |
+| Aladine (Sun Pirates first mate, brotula merman, Praline's husband) | 阿拉丁 | kept — established (L2096 阿拉丁, "Aladdin"). WCI 04 caption "First Mate of the Sun Pirates" = 太陽海賊團副船長; "A Brotula Merman" = 鼬魚魚人 |
+| Minister of Gelato / Nuts / Candy (Charlotte-family minister titles) | 義式冰淇淋大臣／堅果大臣／糖果大臣 | 堅果大臣 VERIFIED (Fandom redirect → Charlotte members). Gelato = 義式冰淇淋大臣 (descriptive, no dedicated page); Candy = 糖果大臣 (established L3627) |
+| "Life or treat!" / "Lifespan or snack!" (Big Mom's trick-or-treat catchphrase) | 「要命還是要點心」／壽命還是點心 | Big Mom demands a treat or takes lifespan. Pun on trick-or-treat (命=life/lifespan, 菓子=treat/snack). Split across lines: 要命……／還是……／要點心！ |
+| Knight of the Sea / "海俠" (Jinbe's epithet, Big Mom's address) | 海俠 | kept — established (L1698/L1744). "my loyal Jinbe, Knight of the Sea" 我忠誠的吉貝爾，海俠 |
+| Boss Jinbe (townsfolk / Sun Pirates address) | 吉貝爾老大 | uses established Jinbe 吉貝爾 + 老大. Sun Pirates also call him 船長 (Captain) |
+| Pirate Emperor, Charlotte Linlin (title card) | 海賊四皇 夏洛特·莉莉 | uses established Big Mom / Charlotte Linlin 夏洛特·莉莉 (L2038) + 四皇. "Queen of Totto Land" = 萬國女王 |
+| Giant sea centipede (creature near Jam Island) | 巨大海蜈蚣 | descriptive. NB source inconsistency: same creatures later called "(sea) ants" 海蟻 (see below) |
+| Sea ants / army of ants (starch-syrup-area creatures) | 海蟻／蟻群 | descriptive; English source alternates "sea centipede" (once) and "ants" for what seems the same creature — rendered faithfully per-word (海蜈蚣 vs 海蟻) |
+| Starch syrup (solidified sea Luffy's group is stuck in) | 糖稀 | mizuame-style thick syrup sea; "area of starch syrup" = 糖稀海域 |
+| Roulette (Big Mom's punishment device for Jinbe) | 輪盤 | Big Mom makes leavers spin it to lose something |
+| French chef speech quirks (-bon/-soir/-je-t'aime; Whole Cake Chateau chefs) | kept as italic romaji tags | per WCI-arc convention (L3593): hyphen + romaji kept inside {\i1}...{\i0}, e.g. 麻煩{\i1}-bon{\fs10} {\r}. Preserve exact {\fs} {\r} tags |
+| "Sanji"/"three o'clock" pun (Note line) | 「三點鐘」（三時）與「香吉士」（Sanji）諧音 | Luffy steers "three o'clock" (三時 san-ji) → puns on Sanji. Note-line gloss |
+| Jam Island / jam (island theme) | 果醬島／果醬 | descriptive; island made of jam |
+
+## Whole Cake Island Arc (WCI 05 [831-832] — Straw Hats land on WCI / Seducing Woods / Sanji & Judge at Germa)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| The Seducing Woods (Brûlée's illusory looping forest) | 誘惑之森 | Fandom zh article body uses 誘惑森林 for the location, but 誘惑之森 is the normalized opensearch title + fan-standard, reads naturally (誘惑の森). Caption + dialogue "This is the Seducing Woods!" = 這裡是誘惑之森！ |
+| Charlotte Brûlée (8th daughter, Mirror-Mirror fruit user) | 夏洛特·布璃叡 | VERIFIED Fandom zh — 鏡子果實 page lists user [[夏洛特·布璃叡]]. Caption "8th Daughter of the Charlotte Family" = 夏洛特家族的八女. "I'm Brûlée!" = 我是布璃叡！ |
+| Randolph "Crane Rider" (Big Mom Pirates homie, rides a crane) | 藍道夫／「鶴騎士」 | VERIFIED Fandom zh page 藍道夫; epithet 鶴騎士 (クレインライダー/Crane Rider). Caption "Big Mom Pirates" = 大媽海賊團 (established L2045). Throws a trident |
+| Conquest of Four Nations (Judge's North Blue conquest) | 斬四國 | VERIFIED Fandom zh page 斬四國 (jname 四国斬り, ename "Conquest of Four Nations", implementer 賓什莫克·賈吉士). "four kings in the North Blue were put down" = 北海四國國王遭到剷除 |
+| Vinsmoke Judge / Generalissimo (King of Germa) | 賓什莫克·賈吉士／總帥 | kept — established (L3600 VERIFIED). Caption "King of Germa and Generalissimo of Germa 66" = 傑爾馬國王兼傑爾馬66總帥. "Generalissimo" address = 總帥 |
+| Kingdom of Germa / Germa (seafaring kingdom) | 傑爾馬王國／傑爾馬 | uses established Germa 傑爾馬 (L3532). "This is the Kingdom of Germa" = 這就是傑爾馬王國. "Germa's ship" = 傑爾馬的船 |
+| Germa 66 (their army) | 傑爾馬66 | kept — established (L3532 VERIFIED) |
+| North Blue (region Germa conquered) | 北海 | repo-standard semantic four-seas rendering (cf. East Blue 東海 L3559, West Blue 西海 L3587); NOT Fandom's 北方藍 |
+| Whole Cake Chateau (Big Mom's castle) | 萬國蛋糕城堡 | kept — established (L3644 VERIFIED). Narrator intro line |
+| Lake Aprico (lake behind the Chateau) | 阿普利可湖 | COINED phonetic — no Fandom zh page (アプリコ湖). UNVERIFIED |
+| Shark Submerge III (Sunny's submarine, Soldier Dock Ch.3) | 鯊魚潛水三號 | kept — established (L1341). "Channel 3!" = 三號頻道！ |
+| Bird-san (Carrot's address for Randolph's crane mount) | 鳥{\i1}桑{\i0} | honorific convention -san→桑 (L3615). "I'm sorry, Bird-san!" = 對不起，鳥{\i1}桑{\fs10} {\r}！ |
+| "Crane!" (Randolph's shout, split "C.../Crane!") | 仙……／仙鶴！ | 仙鶴 = crane (bird); split across two source rows to mirror the "C.../Crane!" build |
+| meringue / whipped cream / jellybeans / melon juice (WCI candy terrain) | 蛋白霜／鮮奶油／雷根糖／哈密瓜汁 | descriptive candy-island food terms; caramel = 焦糖 (established L3629) |
+| mink (Carrot's tribe, re: rabbit enemy) | 純毛族 | kept — UNIFIED form (L3468/L3632; repo corrected 毛皮族→純毛族). "he's not a mink!" = 他不是純毛族！ |
