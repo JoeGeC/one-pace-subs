@@ -3678,3 +3678,17 @@ NOTE: An earlier pass MISALIGNED this episode's translation against the wrong so
 | "Crane!" (Randolph's shout, split "C.../Crane!") | 仙……／仙鶴！ | 仙鶴 = crane (bird); split across two source rows to mirror the "C.../Crane!" build |
 | meringue / whipped cream / jellybeans / melon juice (WCI candy terrain) | 蛋白霜／鮮奶油／雷根糖／哈密瓜汁 | descriptive candy-island food terms; caramel = 焦糖 (established L3629) |
 | mink (Carrot's tribe, re: rabbit enemy) | 純毛族 | kept — UNIFIED form (L3468/L3632; repo corrected 毛皮族→純毛族). "he's not a mink!" = 他不是純毛族！ |
+
+## Whole Cake Island Arc (WCI 01-05 — missed styles: Musical / Munch Chomp / Dried Up / Special-Captions delta pass)
+| English | zh-TW | Notes |
+|---|---|---|
+| MUNCH! (Luffy eating typeset, WCI 01) | 啊姆！ | eating-SFX onomatopoeia; punchy chewing sound. Border+fill layered pairs rendered identically |
+| CHOMP! (Luffy eating typeset, WCI 01) | 大口！ | big-bite SFX; distinct from MUNCH to mirror the source's escalating MUNCH→CHOMP→CRUNCH set |
+| CRUNCH! (Luffy eating typeset, WCI 01) | 喀滋！ | hard/crunchy bite SFX; final escalation stage |
+| "(I'm drying up...)" (weakened Luffy mumbling, Dried Up style) | （我快乾掉了…） | parenthetical faint mutter; full-width parens |
+| smoothie(s) (Brûlée homies' song threat, WCI 05) | 冰沙 | standard zh-TW for the drink; "make smoothies out of them" = 把他們打成冰沙 |
+| homie chant "Ship!/Door!/Carpet!/Flower!/Furniture!/Tree!" (Big Mom's homies, Musical style) | 船！／門！／地毯！／花！／家具！／樹！ | single-word homie chants; ！ punctuation for chant feel. Carpet 地毯 (cf L3624), Tree 樹 (Seducing Woods) |
+| "Madame Brûlée" (WCI 05 homies' song) | 布璃叡夫人 | Brûlée 布璃叡 (established L3667) + 夫人, by analogy to "Madam Praline" 布蕾夫人 (L3648) |
+| "sweet dealings" / "sacrifices to the devil" (WCI 03 wedding-cake song) | 甜蜜的交易／獻給惡魔的祭品 | Big Mom underworld tea-party song imagery |
+| "Whole Cake Island's Southwest Coast" (WCI 05 location card, Special-Captions) | 萬國蛋糕島西南海岸 | uses established 萬國蛋糕島 (L3548) |
+| NOTE: Musical style = in-episode songs (homies/Big Mom Pirates), MUST be translated | — | distinct from OP/ED theme songs which are left untranslated. WCI songs (wedding-cake prep, Seducing Woods) are diegetic and translated |

@@ -45,6 +45,13 @@ TRANSLATABLE_PREFIXES = (
     "RogerMonologue",
     "Gold",
     "Narrator",
+    # In-episode content styles from Whole Cake Island. Only OP/ED karaoke
+    # (Karaoke*/Lyrics*/OP*/Kanji*/Romaji*/Translation*) stays untranslated;
+    # in-episode songs and one-off typeset dialogue must be translated.
+    "Musical",          # Big Mom Pirates / homies song lines (WCI 01+)
+    "Munch Chomp",      # Luffy eating typeset (WCI 01)
+    "Dried Up",         # Luffy's weakened mumbling typeset (WCI 02)
+    "Special-Captions", # location cards not named `Captions` (WCI 05)
 )
 
 # Prefixes of styles that must NOT be translated, even if they match above.
