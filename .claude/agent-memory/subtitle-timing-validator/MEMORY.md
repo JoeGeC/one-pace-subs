@@ -1,3 +1,3 @@
-- [Italics tags dropped in zh-TW](project_italics_tag_dropped_in_zh.md) — TAG MISMATCH warnings are usually just missing \i1\i0, not shifted lines; verify by comparing timing/context before escalating
+- [TAG MISMATCH: two causes](project_italics_tag_dropped_in_zh.md) — dropped \i1\i0 italics = informational only; dropped \t() fade transform on Title/Captions = real bug, fix it
 - [WCI typeset styles](project_wci_typeset_styles.md) — Musical/Munch Chomp/Dried Up/Special-Captions are new translatable styles in this arc
 - [Exit code vs RESULT: PASS](feedback_exit_code_vs_result_pass.md) — script can exit 1 on TAG MISMATCH alone even when report says PASS; read the report, not just exit code

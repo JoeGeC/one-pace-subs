@@ -3732,3 +3732,143 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Land of Death (Punk Hazard sign) | 死亡之地 | coined |
 | Sea Turtle (Fishman Island sign) | 海龜 | coined |
 | Sabo-kun?! (Karaokefade, Dressrosa) | 薩波君？！ | Sabo 薩波 (L2197); -kun → 君 with {\i1}{\i0} italic per project honorific convention |
+
+## Whole Cake Island Arc (WCI 06 [833-834] — Sanji vs Judge duel / Germa flashbacks / Pekoms execution / Caesar & Perospero / Big Mom's dream)
+| English | zh-TW | Notes |
+|---|---|---|
+| Charlotte Perospero (eldest son, Minister of Candy, Lick-Lick Fruit) | 夏洛特·裴洛斯培勒 | VERIFIED Fandom zh exact page 夏洛特·裴洛斯培勒. Caption: 糖果大臣／夏洛特家族的長子／吃下舔舔果實的糖果人 |
+| Lick-Lick Fruit (Perospero's Devil Fruit) / Candy Human | 舔舔果實／糖果人 | VERIFIED Fandom zh exact page 舔舔果實 (NOT 舐舐果實). Perospero is a 糖果人 (candy human); "Lick! Lick!" SFX = 舔！舔！ |
+| Charlotte Chiffon (22nd daughter, Bege's wife, Fire Tank Pirates cook) | 夏洛特·雪紡 | VERIFIED Fandom zh page 夏洛特·雪紡 (cats: 夏洛特家族/廚師/火戰車海賊團/萬國大臣). Caption: 貝基之妻／夏洛特家族的二十二女 |
+| Capone "Gang" Pez (Bege & Chiffon's infant son) | 卡波涅「大哥」佩茲 | COINED. NB Fandom's page for Pez is titled 卡波涅·貝基 (with epithet 「流氓」) — but that COLLIDES with the repo's established Bege 卡波涅「大哥」貝基 (L1806/L3235). To avoid collision, Pez rendered 佩茲 (phonetic ペッツ) + established 「大哥」 for "Gang". Fandom's 卡波涅·培基 = Bege the father |
+| Raid Suit (Germa 66 powered combat suit) | 強襲裝 | VERIFIED Fandom zh exact page 強襲裝 (cats: 武器/科技). "He doesn't even have a raid suit on!" = 他甚至沒穿強襲裝！ |
+| Garuda (Judge's fighting-style byname) | 迦樓羅 | COINED — no dedicated Fandom zh page. 迦樓羅 = standard Chinese for the mythical bird Garuda. "the man known as Garuda" = 人稱「迦樓羅」的男人 |
+| Electromagnetic Crack (Judge/Germa attack) | 電磁裂擊 | COINED; Judge's electromagnetic weapon attack. UNVERIFIED |
+| Blaster (Judge/Germa attack) | 爆破槍 | COINED; Judge's ranged blast. UNVERIFIED |
+| Electromagnetic Shaft (Judge/Germa attack, split "Electromagnetic..."/"Shaft!") | 電磁……／光矛！ | COINED; 電磁 (electromagnetic) + 光矛 (energy shaft/spear). Split across two lines. UNVERIFIED |
+| Vinsmoke Judge / Generalissimo ("Garuda") | 賓什莫克·賈吉士／總帥 | kept — established (L3600/L3670). Caption title 賓什莫克·賈吉士 |
+| Vinsmoke Yonji | 約吉士 | kept — established (L3598). Caption "Yonji's Castle, Kingdom of Germa" = 約吉士的城堡，傑爾馬王國 |
+| Little eggplant (Zeff's nickname for young Sanji, flashback) | 小茄子 | COINED literal (なすび). Zeff-Sanji cooking-hands flashback ("Are your hands for fighting?!" = 你的手是用來打架的嗎？！) |
+| Black Leg (Sanji's epithet, Pekoms flashback) | 黑腳 | VERIFIED Fandom zh (黑腳踢技 = Black Leg Style). "Hey, Black Leg!" = 喂，黑腳！ |
+| Knight of the Sea (Jinbe's epithet) | 海俠 | kept — established (L3652). "'Knight of the Sea' is only a title" = 「海俠」只是個空名 |
+| "failure" (Vinsmokes' word for young Sanji) | 廢物 | recurring insult theme; "You failure!" = 你這廢物！; "a sacrifice" = 祭品 |
+| crazy old bag / old bag (Judge & Caesar's slur for Big Mom) | 瘋婆子／老太婆 | Judge "that crazy old bag's family" = 那個瘋婆子家族; Caesar "like this old bag wants" = 就像這老太婆想要的 |
+| gigantism drug / gigantification (Caesar's research for Big Mom) | 巨大化藥物／巨大化 | Big Mom's dream: make her family gigantic. "make ... gigantic" = 變成巨人 |
+| shackle collars (Celestial Dragons' slaves' exploding collars) | 枷鎖項圈 | descriptive; Judge locks these on Sanji's wrists. Celestial Dragons 天龍人 established |
+| amezaiku (Note: Japanese candy craft) | amezaiku (kept romaji) / 飴細工 | kept romaji in dialogue {\i1}amezaiku{\i0} (source styling); Note-line gloss "Japanese candy craft artistry" = 「飴細工」——日本糖果工藝 |
+| The Queen's Chamber (caption) | 女王寢室 | descriptive caption |
+| Northeast Coast, Whole Cake Island (caption) | 萬國蛋糕島東北海岸 | uses established 萬國蛋糕島 (L3548); cf Southwest Coast 西南海岸 (L3693) |
+| Trafalgar Law (Caesar's Punk Hazard recollection) | 特拉法爾加·羅 | kept WCI/Zou-arc form (L3570); NB Punk Hazard files use 托拉法爾加·羅 (L2478) — arc-consistency with neighbouring Zou/WCI eps governs here |
+| Doflamingo Falls! (Note, Caesar recalling Dressrosa) | 「多佛朗明哥落敗！」 | Doflamingo 多佛朗明哥 established; Joker 喬卡 (L2303) |
+| Tamago speech quirks -soir/-bon/-feuille/-marron (Baron Tamago) | kept as italic romaji tags | per WCI/Zou French-quirk convention (L3593/L3659); hyphen dropped, {\i1}...{\i} tag content kept verbatim (e.g. 什麼事{\i1}soir{\fs15} {\r}？) |
+
+## Whole Cake Island Arc (WCI 07 [835-836] — Seducing Woods fight / Brûlée & Cracker & Kingbaum / Big Mom's soul system / Pound & Lola's vivre card)
+| English | zh-TW | Notes |
+|---|---|---|
+| Charlotte Cracker / Cracker (10th son, Minister of Biscuit, Sweet Commander) | 夏洛特·慨烈卡 / 慨烈卡 | VERIFIED Fandom zh exact page 夏洛特·慨烈卡 (redirect alias 夏洛特·克力架 exists — use 慨烈卡). "Minister Cracker" = 慨烈卡大臣; "Brother Cracker" = 慨烈卡大哥 |
+| "Thousand Arms" Cracker (epithet) | 「千手」慨烈卡 | VERIFIED Fandom (千手慨烈卡 / 千手のクラッカー). English uses quotes → rendered 「千手」慨烈卡 |
+| Biscuit Knight Cracker | 餅乾騎士慨烈卡 | VERIFIED Fandom (餅乾騎士 / ビスケットの騎士). Minister of Biscuit = 餅乾大臣 (established L3627) |
+| Three Sweet Commanders (Big Mom's top three) | 甜點三將星 | VERIFIED Fandom (慨烈卡 occupation = [[甜點三將星]]). "one of the Three Sweet Commanders" = 甜點三將星之一 |
+| Kingbaum / Master of the Seducing Woods (ancient tree homie) | 古樹王 | VERIFIED Fandom zh exact page 古樹王 (linked from Cracker + 842話/846話). "Master Kingbaum" = 古樹王大人; "Master of the Seducing Woods" = 誘惑之森的主人 |
+| Pound (Big Mom's 25th/ex-husband, Lola & Chiffon's father) | 潘德 | VERIFIED Fandom zh exact page 潘德. "I'm Pound" = 我叫潘德 |
+| Soul-Soul Fruit (Big Mom's Devil Fruit, Soru Soru no Mi) | 靈魂果實 | VERIFIED Fandom zh exact page 靈魂果實. "ate the Soul-Soul Fruit" = 吃下了靈魂果實 |
+| Charlotte Linlin / Linlin (Big Mom's given name, Pound's usage) | 莉莉 | kept — established (L2038 夏洛特·莉莉). Pound corrects himself: "Linlin, I mean Big Mom" = 莉莉，我是說大媽 |
+| Charlotte Chiffon (Pound's daughter, ref.) | 雪紡 | kept — established (L3741). "my daughter, Chiffon" = 我女兒雪紡 |
+| Lola (Pound's daughter, Rolling Pirates captain, ref.) | 蘿拉 | kept — established (L1313/L1499). Captain Lola = 蘿拉船長 |
+| Vivre Card (Lola's mama's, = Big Mom's) | 生命之紙 | kept — established WCI-arc form (L3589 VERIFIED). Title card "Lola's Vivre Card" = 蘿拉的生命之紙 |
+| Mirror-Mirror Fruit (Brûlée's Devil Fruit) / mirror human | 鏡子果實／鏡子人 | VERIFIED Fandom zh page 鏡子果實 (established ref L3667). "became a mirror human" = 變成了鏡子人 |
+| Mirro-World (Brûlée technique, traps enemies in mirror dimension) | 鏡中世界 | Fandom 鏡子果實 page describes 吸進鏡中世界囚禁 → rendered 鏡中世界. Attack call split-safe |
+| Reflection (Brûlée mirror attack) | 反射 | Fandom 鏡子果實 page: 鏡子可以吸收並反射攻擊. Attack call = 反射 |
+| Eleclaw (Carrot's electro-claw attack) | 電爪 | COINED — no Fandom zh technique page. Electro 電擊 (established L3590) + Claw 爪. UNVERIFIED |
+| Monster Point (Chopper's largest transformation) | 怪物強化 | follows established Chopper "-Point" = -強化 convention (Horn 角強化, Guard 防禦強化, etc.). Fandom uses 怪物強化 |
+| Rumble (Chopper's Rumble Ball activation call) | 藍波球 | uses established Rumble Ball 藍波球 (L239) |
+| Clima-Tact (Nami's weapon attack call) | 天候棒 | uses established Climate Baton 天候棒 (L122) |
+| Gear Second / Jet Bullet / Hawk Whip (Luffy attacks) | 二檔／噴射子彈／鷹鞭 | kept — established (Gear Second 二檔 L1133; Jet Bullet 噴射子彈 L1286; Hawk Whip 鷹鞭 L3135). Split: 橡膠…噴射…子彈！ and 橡膠…鷹鞭！ |
+| Randolph (Crane Rider homie) | 藍道夫 | kept — established (L3668) |
+| Homies (Big Mom's soul-infused living things) | 歡樂友人 | kept — established (L3626). "homies!" address = 歡樂友人們 |
+| Totto Land / Chocolat Town / Seducing Woods / Whole Cake Chateau | 萬國／巧克力鎮／誘惑之森／萬國蛋糕城堡 | kept — established (L3620/L3622/L3666/L3644) |
+| Seducing Woods team (Kingbaum's group) | 誘惑之森小隊 | coined from established 誘惑之森; "Seducing Woods team" members = 誘惑之森小隊的成員 |
+| Vinsmoke siblings / Germa 66 (ref.) | 賓什莫克兄妹／傑爾馬66 | kept — established (L3293/L3532). "Vinsmoke siblings" = 賓什莫克兄妹 |
+| an emperor's crew (Big Mom Pirates member) | 四皇手下的船員 | uses established Four Emperors 四皇; the homies/Cracker are 四皇手下 |
+| "Leave or life?" (eerie homie chant, soul-collection theme) | 離開，還是命？ | Big Mom soul-tribute call-and-response; answer "Life." = 命。Distinct from "Life or treat!" 要命還是要點心 (L3651) |
+
+## Whole Cake Island Arc (WCI 08 [837-838] — Luffy vs Cracker / Gear Fourth / biscuit soldiers / Vinsmoke sons arrive)
+| English | zh-TW | Notes |
+|---|---|---|
+| Pretzel (Cracker's named sword, プレッツェル) | 名劍「普瑞札爾」 | VERIFIED Fandom zh (慨烈卡 page: 武器為名劍「普瑞札爾」). "It's called Pretzel!" = 它叫「普瑞札爾」！ Multiplies with his armor arms |
+| Pretzel Roll (Cracker sword attack, split "Pretzel.../Roll!") | 普瑞札爾翻滾／普瑞札爾…／翻滾！ | COINED — no Fandom technique page. Uses sword name 普瑞札爾 (VERIFIED) + Roll 翻滾. Standalone "Pretzel Roll!" = 普瑞札爾翻滾！; split rows 普瑞札爾…／翻滾！ |
+| Honey Pretzel (Cracker sword attack) | 蜂蜜普瑞札爾 | COINED — no Fandom page. Honey 蜂蜜 + sword name 普瑞札爾. UNVERIFIED |
+| Bis-Bis Fruit / biscuit man / biscuit soldier (Cracker's Devil Fruit) | 餅乾果實／餅乾人／餅乾士兵 | VERIFIED Fandom zh exact page 餅乾果實 (慨烈卡超人系「餅乾果實」的餅乾人…能造出餅乾士兵). "biscuit man" = 餅乾人; "biscuit soldier" = 餅乾士兵 |
+| Hard Biscuit (Cracker attack) | 硬餅乾 | COINED — no Fandom page; literal ハードビスケット. UNVERIFIED |
+| Crush Biscuit (Cracker attack) | 粉碎餅乾 | COINED — no Fandom page; Crush 粉碎 + Biscuit 餅乾. UNVERIFIED |
+| Sweet Commander (single, カタクリ/慨烈卡等) | 甜點將星 | derived from established 甜點三將星 (L3770) / 甜點四將星 (VERIFIED Fandom). "Sweet Commander Cracker" = 甜點將星慨烈卡; title-card "Commander Cracker" = 將星慨烈卡 |
+| Four Sweet Commanders (before one was defeated) | 甜點四將星 | VERIFIED Fandom zh exact page 甜點四將星. "They were the Four Sweet Commanders until not so long ago" = 直到不久前，他們還是甜點四將星 |
+| Gear Fourth (Luffy technique, split "Gear Fourth!") | 四檔 | kept — established (Dressrosa L3141/L3152). Split rows on 95-96 with Boundman |
+| Boundman (Gear Fourth form) | 彈簧人 | VERIFIED Fandom zh exact page 彈簧人 (四檔彈簧人). "Boundman!" = 彈簧人！ |
+| Muscle Balloon (Gear Fourth inflation call) | 肌肉氣球 | VERIFIED Fandom zh (四檔「肌肉氣球」on 橡膠果實/四檔招式). "Muscle Balloon is a good name" = 「肌肉氣球」這名字取得不錯 |
+| Elephant Gun (Luffy Gear Third attack, split "Gum-Gum.../Elephant Gun!") | 象槍 | kept — established (L2882 canonical 橡膠象槍/象槍). Split rows 橡膠…／象槍！ |
+| Kong Gun (Gear Fourth punch, split forms) | 猿王槍 | VERIFIED Fandom zh (橡膠猿王槍 on 橡膠果實/四檔招式; jp 猿王銃). Full "Kong Gun!" = 猿王槍！; split 橡膠…／猿王…／槍！ |
+| Kong Organ (Gear Fourth six-shot vs biscuit soldiers, split "Gum-Gum.../Kong.../Organ!") | 猿王群鴉炮 | VERIFIED Fandom zh — 橡膠猿王群鴉炮 (橡膠果實/四檔招式 page ties it to exact ep838 scene "壓制住了慨烈卡的一群餅乾將軍"). English "Kong Organ" ↔ 群鴉炮. Split 橡膠…／猿王…／群鴉炮！ |
+| Hawk Gatling (Luffy attack) | 鷹式機關槍 | kept — established (L3118, UNRESOLVED coinage). Split 橡膠…／鷹式機關槍！ |
+| Thunderbolt Tempo (Nami attack, split "Thunderbolt.../Tempo!") | 雷電節拍 | kept — established (L1212). Split rows 雷電…／節拍！ |
+| Tact (Nami's Clima-Tact, short form "My Tact...") | 天候棒 | uses established Clima-Tact 天候棒 (L122/L3784). "M-My Tact..." = 我…我的天候棒… |
+| Secret Song: Whirlwind Slash (Brook attack, 秘曲 つむじ風斬り) | 秘曲·旋風斬 | COINED — no Fandom page (searched 秘曲 empty). Brook's 秘曲 (Secret Song) series + Whirlwind Slash 旋風斬. UNVERIFIED |
+| Carrot (mink, Straw Hat ally, キャロット) | 凱洛特 | VERIFIED Fandom zh exact page 凱洛特. "Listen, Carrot!" = 聽好了，凱洛特！ |
+| Big Bro Chopper / Chobro (Chopper's self-nickname) | 喬巴大哥／喬哥 | COINED. "Big Bro Chopper" = 喬巴大哥; "Chobro" (contraction) = 喬哥 (喬 from 喬巴 + 哥 from 大哥). "Short for Big Bro Chopper" = 「喬巴大哥」的簡稱 |
+| Vinsmoke "Sparking Red" Ichiji (eldest son, caption) | 賓什莫克·「赤紅火花」·伊吉士 | VERIFIED Fandom zh — Ichiji page epithet = 赤紅火花 (スパーキングレッド/Sparking Red); NOT 閃耀紅. "Eldest Son of the Vinsmoke Family" = 賓什莫克家族的長子 |
+| Vinsmoke "Electric Blue" Niji (second son, caption; Fandom "Blitz Blue") | 賓什莫克·「深藍電擊」·尼吉士 | VERIFIED Fandom zh — Niji page epithet = 深藍電擊 (デンゲキブルー/"Blitz Blue"). English One Pace uses "Electric Blue" → rendered 深藍電擊. "Second Son" = 賓什莫克家族的次子 |
+| Prince Ichiji / Prince Niji (townsfolk address) | 伊吉士王子／尼吉士王子 | uses established Ichiji 伊吉士 / Niji 尼吉士 (L3600) + 王子 |
+| Pound / Father Pound / "just Pound now" (Big Mom's ex-husband) | 潘德／潘德爸爸 | kept — established (L3772). "Father Pound!" = 潘德爸爸！; his reply "No, it's just Pound, now!" = 不，現在只是潘德了！ |
+| "Pound-chan" (Brûlée mocking, -chan honorific) | 潘德{\i1}醬{\i0} | honorific convention -chan→醬 (L3615). Source tags preserved: 潘德{\i1}醬{\fs10} {\r}！ |
+| Emperor Big Mom / Mama (address vs name) | 四皇大媽／媽媽 | "Mama" (children/subordinates' address) = 媽媽; "Big Mom" name/epithet = 大媽 (L2045). "Emperor Big Mom" = 四皇大媽. "Lola's mama is Big Mom" = 蘿拉的媽媽就是大媽 |
+| Broc Coli (Island; "long war on Broc Coli") | 布洛克柯利島 | kept — established (L3623). "ended the long war on Broc Coli" = 結束了布洛克柯利島上的長年戰爭 |
+| mold spores (Big Mom/Perospero re: intruders' remaining time) | 黴菌孢子 | literal rendering; metaphor for the Straw Hat intruders' dwindling window to contact Sanji. "How are the mold spores holding up?" = 黴菌孢子還撐得住嗎？ |
+| engagement ceremony / tea party / wedding / wedding cake | 訂婚儀式／茶會／婚禮／結婚蛋糕 | descriptive standard terms for the WCI wedding arc |
+
+## Whole Cake Island Arc (WCI 09 [839-840] — "The Iron Mask" / Vinsmoke breakfast & Cosette / Sanji's Germa childhood flashback / Vegapunk & clone soldiers)
+| English | zh-TW | Notes |
+|---|---|---|
+| The Iron Mask (WCI 09 episode title) | 鐵假面 | Title card. 鐵 (iron) + 假面 (mask) |
+| Cosette (Germa head chef, Niji beats her) | 珂婕特 | VERIFIED Fandom zh opensearch コゼット → 珂婕特 (exact page). Caption "Head Chef" = 主廚. "Cosette-chan" = 珂婕特{\i1}醬{\i0} (honorific -chan→醬, L3615) |
+| head chef (Cosette's role) vs kitchen maid (princes' slur for her) | 主廚／廚娘 | 主廚 = head chef (caption + "Call the head chef!"); 廚娘 = derisive "kitchen maid" the Vinsmokes call her |
+| Baratie (Zeff's sea restaurant, East Blue) | 芭拉蒂 | VERIFIED Fandom zh opensearch バラティエ → 芭拉蒂 (exact page). NOT 巴拉蒂. "The sea restaurant, Baratie!" = 海上餐廳，芭拉蒂！ Kept in {\i1}...{\fs10} {\r} tags |
+| Zeff / Owner Zeff (Baratie owner, Sanji's mentor, flashback) | 哲普 | VERIFIED Fandom zh opensearch ゼフ → 哲普 (exact page). NOT 哲夫. "Owner Zeff!" = 哲普老闆！ Sanji calls him "damn geezer" 臭老頭 |
+| little eggplant (Zeff's nickname for young Sanji) | 小茄子 | kept — established (L3750, なすび). Repeated chant in Baratie flashback |
+| All Blue (Sanji & Zeff's shared dream) | All Blue | VERIFIED Fandom zh page title literally "ALL BLUE" (opensearch オールブルー). Kept romaji (not translated), matching Fandom + English convention |
+| Dr. Vegapunk / Vegapunk (genius scientist Judge worked with) | 貝加龐克博士／貝加龐克 | established Fandom zh 貝加龐克. "the great Dr. Vegapunk" = 偉大的貝加龐克博士 |
+| hereditary elements (Vegapunk's discovery, Germa gene manipulation) | 遺傳因子 | coined-standard; "manipulated the hereditary elements" = 操控…遺傳因子. "presence of hereditary elements within living things" = 生物體內存在著遺傳因子 |
+| blueprints of life (Vegapunk's finding) | 生命的設計圖 | descriptive; "he found the blueprints of life" = 他找到了生命的設計圖 |
+| clone soldiers / clone (Germa 66 mass-produced soldiers) | 複製人士兵／複製人 | 複製人 = clone; "They're clone soldiers!" = 他們是複製人士兵！ "clones of just a few talented soldiers" = 少數幾名優秀士兵的複製人 |
+| bio-culture liquid (fluid the clone soldiers float in) | 生物培養液 | descriptive coinage |
+| exoskeleton (Germa sons' enhanced bodies) | 外骨骼 | "their exoskeletons are developing well" = 外骨骼發育良好 |
+| superhuman (Germa sons via scientific modification) | 超人類 | "born as superhumans through scientific modifications" = 透過科學改造生來就是超人類 |
+| soldier stock types "Type MB / MST / MH" (Germa depot inventory) | MB型／MST型／MH型 | codes kept latin + 型 (type); "54 Type MBs" = 54具MB型 |
+| Stealth (Niji's raid-suit invisibility ability, typeset) | 隱形 | Niji activates invisibility before stabbing Sanji; {\fad} attack-style typeset. UNVERIFIED (no Fandom technique page checked) |
+| Henry Needle (Niji's needle attack, split "Henry.../Needle!") | 亨利…／尖針！ | COINED — Henry phonetic 亨利, Needle 尖針. Split across two {\fad(150,150)} typeset rows. UNVERIFIED |
+| aligot (French potato-cheese dish, Cosette explains) | {\i1}阿里戈{\i0} | transliterated 阿里戈, kept in italic tags; glossed in-line ("mixture of potatoes and cheese" = 馬鈴薯和起司混合而成) |
+| confit (French dish at Germa breakfast) | {\i1}油封{\i0} | standard culinary term 油封; kept in italic tags |
+| Noland the Liar (book title, Note line) | 《大騙子諾蘭德》 | VERIFIED Fandom zh opensearch ノーランド → 大騙子諾蘭德 (exact page); Noland = 諾蘭德. Note: "Book Title:" = 書名： |
+| Devil Fruits (in-universe encyclopedia caption, DevilFruitsBook style) | 惡魔果實 | established; the 2 text rows (border+fill pair); the other 2 DevilFruitsBook rows are \p1 vector drawings (skipped) |
+| Doflamingo regime (fallen; Broc Coli war context) | 多佛朗明哥政權 | Doflamingo 多佛朗明哥 established. "fall of the Doflamingo regime" = 多佛朗明哥政權垮台 |
+| Vinsmoke sons' Germa attitudes: "failure" (Sanji) / "damn geezer" (Zeff) | 廢物／臭老頭 | kept — established (廢物 L3753). His Majesty (Judge) = 陛下; Dad = 爸爸 |
+| Armament (Luffy's Armament Haki, "His Armament is too hard!") | 武裝色 | uses established Armament Haki 武裝色霸氣; short "Armament" = 武裝色. "His Armament is too hard!" = 他的武裝色太硬了！ |
+
+## Whole Cake Island Arc (WCI 10 [841-842] — "To the East Blue" / Sanji's Germa childhood departure / Luffy vs Cracker finale)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Tankman: Stuffed Version (Luffy Gear Fourth form) | 坦克人：飽肚型態 | VERIFIED Fandom zh 坦克人（飽肚型態）(橡膠果實/四檔招式 page header + 842話 link; image caption alt 滿腹型態). Armament focused on belly/defence; appears only vs Cracker. "Tankman: Stuffed Version!" = 坦克人：飽肚型態！ |
+| Gum-Gum Cannonball (Luffy Tankman finisher, ゴムゴムのキャノンボール) | 橡膠攻城砲球 | VERIFIED Fandom zh 橡膠攻城砲球 (橡膠果實/四檔招式, tied to Cracker fight — sucks enemy into belly then blasts out). Split "Gum-Gum.../Cannonball!" = 橡膠…／攻城砲球！. NB distinct from older 橡膠加農砲 (371話/Thousand Sunny cannon) |
+| Cozia (North Blue city Germa attacked, flashback) | 科齊亞 | VERIFIED Fandom zh exact page 科齊亞. "our targets in Cozia" = 我們在科齊亞的目標 |
+| Crush Pretzel (Cracker sword attack) | 粉碎普瑞札爾 | COINED — no Fandom technique page. Crush 粉碎 (cf Crush Biscuit 粉碎餅乾 L3802) + sword name Pretzel 普瑞札爾 (L3797 VERIFIED). UNVERIFIED name |
+| Rain Spark (Nami Clima-Tact attack, レインスパーク) | 雨閃 | COINED — no Fandom technique page (Weather Egg follow-ups on 天候術 page are Thunder Breed Tempo 導引式打雷閃電 / Rain Tempo 滂沱大雨, no レインスパーク entry). 雨 (rain) + 閃 (spark/flash). Paired with Weather Egg 天候蛋 (L2462/L3490). UNVERIFIED |
+| Époni (Sora's maid/attendant, flashback) | 艾波妮 | COINED phonetic — no Fandom zh page (エポニー). Minor one-off servant to Queen Sora. UNVERIFIED |
+| Honey Pretzel (Cracker sword attack, split "Honey.../Pretzel!") | 蜂蜜普瑞札爾 | kept — established (L3799). Split rows 蜂蜜…／普瑞札爾！ |
+| Muscle Balloon (Luffy Gear Fourth inflation call) | 肌肉氣球 | kept — established (L3807 VERIFIED) |
+| Gear Fourth (split "Gear Fourth!") | 四檔 | kept — established (L3141/L3805) |
+| Kingbaum (ancient tree homie, Brûlée's mount) | 古樹王 | kept — established (L3771 VERIFIED). Brûlée threatens "I'll tell Mama you aided them, Kingbaum!" = 我要跟媽媽說你幫了他們，古樹王！ |
+| Vinsmoke royal family / Vinsmoke (Sanji's birth family) | 賓什莫克王室／賓什莫克 | kept — established (L3293 VERIFIED). "member of the Vinsmoke royal family" = 賓什莫克王室的一員 |
+| Generalissimo Judge (Vinsmoke Judge, battle address) | 賈吉士總帥 | kept — established (L3670 VERIFIED). "Generalissimo Judge, ..." = 賈吉士總帥，... |
+| iron mask (Sanji's Germa prisoner mask) | 鐵面具 | descriptive; "the key to your iron mask" = 你鐵面具的鑰匙 |
+| Your Highness / Prince Sanji (Sanji as Germa prince) | 殿下／香吉士王子 | Sanji addressed by Germa servants. "Your Highness" = 殿下; "Prince Sanji" = 香吉士王子 |
+| Your/Her Majesty (Queen Sora, Sanji's mother) | 王后陛下 | Sora = queen; "Her Majesty's stomach" = 王后陛下; direct address = 王后陛下. His Majesty (Judge, king) = 陛下 (L3852) |
+| little eggplant (Zeff's nickname for young Sanji) | 小茄子 | literal rendering of English "little eggplant"; Zeff's term for apprentice Sanji |
+| All Blue (Sanji's dream sea, cookbook) | All Blue | kept — established (L3836 VERIFIED, kept romaji). "「All... Blue」？" split kept |

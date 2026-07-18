@@ -1,12 +1,17 @@
 ---
 name: project_italics_tag_dropped_in_zh
-description: validate_translation.py TAG MISMATCH warnings on zh-TW files are usually just dropped \i1\i0 italics, not shifted translations
+description: validate_translation.py TAG MISMATCH warnings on zh-TW files have two distinct causes — dropped \i1\i0 italics (informational, leave alone) vs dropped \t() effect transforms (real bug, fix it)
 metadata:
   type: project
 ---
 
-The one-pace-translator agent frequently omits `{\i1}...{\i0}` italics/emphasis tags when producing zh-TW (Traditional Chinese) translations, since Chinese text doesn't use italics for emphasis the way English does. `validate_translation.py`'s tag check (extract_format_tags) flags this as "TAG MISMATCH ... possible shifted translation" per-line, but it does NOT fail the overall RESULT — it's informational only (no --fix exists for it).
+`validate_translation.py`'s tag check (extract_format_tags) flags "TAG MISMATCH ... possible shifted translation" per-line whenever the tag set differs between orig/translated. Two distinct root causes have been observed — diagnose which one before deciding whether to fix:
 
-**Why:** Confirmed on Whole Cake Island 01 (2026-07-18): two TAG MISMATCH lines (183, 320) were checked by comparing timings/context against the original — text and timing lined up correctly, the only difference was the missing italics markup around a single word/phrase. Not an actual shift.
+**Cause 1 — dropped `{\i1}...{\i0}` italics (informational only, do not fix).** The one-pace-translator agent frequently omits italics/emphasis tags since Chinese text doesn't use italics for emphasis the way English does. Confirmed on Whole Cake Island 01 (2026-07-18): lines 183, 320 — text/timing lined up correctly, only the italics markup around a word/phrase was missing. Per "never modify dialogue text," report this to the user as informational; don't re-insert.
 
-**How to apply:** When TAG MISMATCH appears, spot-check by comparing the original line's plain text (stripping tags) against the translated line's text at the same line number/timing — if they correspond correctly, this is very likely just the translator dropping italics, not a real shift. Report it to the user as informational (per the "never modify dialogue text" rule, don't try to re-insert the tags yourself unless asked). Only escalate as an actual shift if the *content* also looks mismatched with surrounding lines (i.e. the translated text seems to belong to a different original line).
+**Cause 2 — dropped `\t(...)` alpha/effect transform tag on a Title/Captions line (real bug, DO fix).** Confirmed on Whole Cake Island 07 (2026-07-18) line 437: original had two transforms, a fade-in `\t(380,425,\1a&H00&)` AND a fade-out `\t(3645,3690,\1a&HFF&)`; translated line was missing the second one entirely, meaning the caption would stay opaque instead of fading out. This is a positioning/effects tag, not dialogue text, so it's safe and correct to restore with Edit — copy the missing `\t()` clause back in, preserving any `\an8`/`\pos()` repositioning that was already correctly applied to the line.
+
+**How to apply:** When TAG MISMATCH appears, look at *which* tags differ:
+- If the diff is just `\i1`/`\i0` around text → Cause 1, informational, leave it, report to user.
+- If the diff includes a missing/extra `\t(...)` transform clause (typically on Title/Captions lines with fade in/out effects) → Cause 2, this is a genuine dropped effect and should be fixed by restoring the missing tag exactly as in the original (adjusting only `\pos`/`\an` if repositioning applies).
+- Only escalate as an actual *shifted line* (different issue) if the plain text content also looks mismatched with surrounding lines.
