@@ -25,39 +25,62 @@ import re
 import sys
 from pathlib import Path
 
-# Prefixes of styles whose text content should be translated.
-# Style names vary between files (e.g. Main-207-, Main-480p) so we match by prefix.
-# Matching is CASE-INSENSITIVE (see style_matches): source files have shipped the
-# same style under different capitalisation, e.g. `Title`/`Captions` became
-# lowercase `title`/`captions` partway through the Fishman Island arc, and the
-# old `RogerMonologue` narration style was later renamed to `Gold`.
-TRANSLATABLE_PREFIXES = (
-    "Main",
-    "Secondary",
-    "Note",
-    "Captions",
-    "Title",
-    "Thoughts",
-    # Singular "Flashback" so we also match `Flashback inception` (Dressrosa 07),
-    # `FlashbackSecondary-207+` and `FlashbackThoughts-207-/207+` — the plural
-    # prefix silently dropped these from translation.
-    "Flashback",
-    "RogerMonologue",
-    "Gold",
-    "Narrator",
-    # In-episode content styles from Whole Cake Island. Only OP/ED karaoke
-    # (Karaoke*/Lyrics*/OP*/Kanji*/Romaji*/Translation*) stays untranslated;
-    # in-episode songs and one-off typeset dialogue must be translated.
-    "Musical",          # Big Mom Pirates / homies song lines (WCI 01+)
-    "Munch Chomp",      # Luffy eating typeset (WCI 01)
-    "Dried Up",         # Luffy's weakened mumbling typeset (WCI 02)
-    "Special-Captions", # location cards not named `Captions` (WCI 05)
-)
+# Everything is translated EXCEPT opening/ending karaoke, credits, and pure
+# typesetting FX — a BLACKLIST, not a whitelist. The old whitelist of known
+# dialogue styles silently dropped every one-off style a new arc introduced
+# (WCI alone shipped `Musical`, `Munch Chomp`, `Dried Up`, `Special-Captions`
+# untranslated); defaulting to "translate" makes a miss visible instead.
+#
+# OP/ED style names change with nearly every opening across the series
+# (`Karaoke-OP5`, `OP13-Kanji`, `English - OP18`, `We-Go-Karaoke`,
+# `Wake up! lyrics`, ...), so they're matched as regex families against the
+# lowercased style name. Case-insensitive for the same reason style_matches is.
+NON_TRANSLATABLE_RES = tuple(re.compile(p) for p in (
+    r"^credits",        # Team One Pace staff credits — kept in English
+    r"^karaoke",        # frame-baked karaoke FX tracks (all OP/ED)
+    r"^kanji",          # OP/ED karaoke stack: original script (+ -furigana)
+    r"^romaji",         # OP/ED karaoke stack: romanisation
+    r"^translation",    # OP/ED karaoke stack: English lyric translation
+    r"^lyrics",         # Lyrics / Lyrics Main / Lyrics-OP5 / `lyrics english`
+    r"lyrics$",         # per-song OP/ED tracks: `Jungle P lyrics`, `Wake up! lyrics`, ...
+    r"^op\d{1,2}\b",    # OP11/OP13/OP20-* opening styles. 3+ digits is an anime
+                        # EPISODE number (`OP_664_Signs` = in-episode signs): translatable.
+    r"^english - op",   # `English - OP18` (Dressrosa/Zou opening)
+    r"^we-go-",         # We-Go-Karaoke / We-Go-Translation (OP15)
+    r"^we go roger",    # Roger monologue baked into the We Go! opening
+    r"^sign-op$",       # Wano `One Piece` logo typeset in the opening
+))
 
-# Prefixes of styles that must NOT be translated, even if they match above.
-SKIP_PREFIXES = (
-    "Credits",
-)
+# Exact style names (lowercased) that match a family above but are diegetic
+# in-episode content, not OP/ED — these MUST be translated.
+TRANSLATABLE_EXCEPTIONS = {
+    "binks' sake lyrics",  # Brook/crew singing in-episode (Thriller Bark)
+    "karaokefade",         # one Dressrosa dialogue line with a fade FX name
+}
+
+# Letter/syllable-reveal typeset FX (exact lowercased names): each Dialogue
+# line is a FRAGMENT of an attack name ("F", "Flame", "Ar", "mor", "ed"...)
+# revealed per frame over the burned-in Japanese calligraphy. Substituting
+# text fragment-by-fragment can't produce readable Chinese — recreating these
+# needs per-character re-typesetting, and the spoken attack name is already
+# translated in the accompanying Main dialogue line. Left in English.
+TYPESET_FX_STYLES = {
+    # Marineford attack-name reveals
+    "ace", "moria", "borsalino", "hancock", "kuma", "kuzan", "sakazuki",
+    "luffy", "luffy gear third",
+    # Return to Sabaody "Armored Me!" reveal
+    "armored me main",
+}
+
+
+def is_translatable(style):
+    """True if this style's text content should be translated."""
+    style_lower = style.strip().lower()
+    if style_lower in TRANSLATABLE_EXCEPTIONS:
+        return True
+    if style_lower in TYPESET_FX_STYLES:
+        return False
+    return not any(p.search(style_lower) for p in NON_TRANSLATABLE_RES)
 
 
 def style_matches(style, prefixes):
@@ -146,7 +169,7 @@ def extract(input_path):
                 continue
 
             prefix, style, text = parsed
-            if style_matches(style, SKIP_PREFIXES) or not style_matches(style, TRANSLATABLE_PREFIXES):
+            if not is_translatable(style):
                 continue
 
             # Skip pure vector drawing lines (no translatable text)

@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 from extract_dialogue import (
-    parse_ass_line, TRANSLATABLE_PREFIXES, SKIP_PREFIXES,
+    parse_ass_line, is_translatable,
     EDITOR_COMMENT_RE, is_drawing_only, style_matches
 )
 # Reuse merge_translation's own top-flush detector rather than keeping a
@@ -83,9 +83,9 @@ def detect_overlaps(dialogue_lines):
     top_lines = []
 
     for ln, layer, start, end, style, name, ml, mr, mv, effect, text in dialogue_lines:
-        if style_matches(style, BOTTOM_POSITION_PREFIXES) and not style_matches(style, SKIP_PREFIXES):
+        if style_matches(style, BOTTOM_POSITION_PREFIXES) and is_translatable(style):
             bottom_lines.append((ln, layer, start, end, style))
-        elif style_matches(style, TOP_POSITION_PREFIXES) and not style_matches(style, SKIP_PREFIXES):
+        elif style_matches(style, TOP_POSITION_PREFIXES) and is_translatable(style):
             top_lines.append((ln, layer, start, end, style))
 
     for group_name, lines in [("bottom", bottom_lines), ("top", top_lines)]:
@@ -253,8 +253,7 @@ def validate(original_path, translated_path, fix=False):
 
         # Check formatting tag consistency (detects shifted translations)
         # Only check translatable lines — non-translatable lines are copied verbatim
-        is_translatable = style_matches(t_style, TRANSLATABLE_PREFIXES) and not style_matches(t_style, SKIP_PREFIXES)
-        if is_translatable and not is_drawing_only(o_text):
+        if is_translatable(t_style) and not is_drawing_only(o_text):
             o_tags = extract_format_tags(o_text)
             t_tags = extract_format_tags(t_text)
             if o_tags != t_tags:

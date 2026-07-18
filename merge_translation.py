@@ -18,7 +18,7 @@ import re
 import sys
 from pathlib import Path
 
-from extract_dialogue import extract, TRANSLATABLE_PREFIXES, style_matches
+from extract_dialogue import extract, style_matches
 
 # Styles whose translated text should be repositioned to the top of the screen.
 # The originals use \pos() for precise placement over Japanese text on screen,
