@@ -3540,3 +3540,54 @@ NOTE: An earlier pass MISALIGNED this episode's translation against the wrong so
 | Treetop Pedro (Pedro's caption epithet, Whale Forest Guardians captain) | 樹梢的佩特羅 | uses established Pedro 佩特羅 + Treetop 樹梢 (宿り木/perched-in-trees). Jaguar mink 美洲豹毛皮族 |
 | Baron Corpse (mink's greeting, this ep) | 屍體男爵 | kept -- matches ep06 Zou coinage 屍體男爵. NOTE: separate VERIFIED Fandom 殭屍男爵 is specifically the Minks' name for BROOK -- do not conflate |
 | SAKE / PROTECT (background signboard captions, bath scene) | 酒 / 守護 | background-sign Caption lines; rendered literally |
+
+## Whole Cake Island Arc (WCI 01 [823-824] — Reverie prelude / departure / Big Mom's ship)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Reverie (four-yearly world summit) | 世界會議 | VERIFIED Fandom zh 世界會議 (opensearch exact page). The 50-nation conference at Mariejois |
+| Whole Cake Island (Big Mom's territory) | 萬國蛋糕島 | CONFLICT RESOLVED — glossary previously had both 圓蛋糕島 (L3386) and 萬國蛋糕島 (L3485). UNIFY on 萬國蛋糕島 (canonical full form; short 萬國). Both pages exist on Fandom but 萬國蛋糕島 is the primary title. Do NOT use 圓蛋糕島 going forward |
+| Charlotte Pudding / Lady Pudding (Big Mom's 35th daughter, Sanji's bride) | 夏洛特·普琳 / 普琳大小姐 | kept — established (L3294 VERIFIED). "Lady Pudding" address = 普琳大小姐 |
+| Charlotte family | 夏洛特家族 | kept — established (L3534). "35th daughter of the Charlotte family" 夏洛特家族的第三十五個女兒 |
+| Germa 66 | 傑爾馬66 | kept — established (L3532 VERIFIED) |
+| Vito (Fire Tank Pirates, escorting Sanji) | 比特 | VERIFIED Fandom zh 比特 (opensearch exact page). Sanji's marriage escort with French speech quirks |
+| Baron Tamago | 塔瑪哥男爵 | kept — established (L2006) |
+| Pekoms | 乘高斯 | kept — repo-established (L2005/L3523); Bege 貝基 took him out for interfering emotionally |
+| Tarte 28 (Big Mom Pirates outpost ship) | 塔特28號 | COINED — no Fandom zh page for the タルト (Tarte) ship class. 塔特 (tart/pastry theme, fits Big Mom naming) + 號. UNVERIFIED |
+| Sterry / King Sterry (Goa king, Sabo's adoptive brother) | 史泰利 | VERIFIED Fandom zh 史泰利 (opensearch exact page) |
+| Sarie Nantokanette (Queen of Goa) | 莎莉·南特卡奈特 | COINED phonetic; caption only. UNVERIFIED |
+| Goa (kingdom) | 高巴王國 / 高巴女王 | Fandom zh 高巴王國. Caption "Queen of Goa" = 高巴女王 |
+| Loguetown, East Blue | 東海，羅格鎮 | Roger's execution town; standard 羅格鎮 |
+| Dragon / Monkey D. Dragon (Revolutionary commander-in-chief) | 多拉格 / 蒙其·D·多拉格 | VERIFIED Fandom zh 蒙其·D·多拉格. Luffy's father; "commander-in-chief" 總司令 |
+| Sabo (Revolutionary chief of staff, Luffy's brother) | 薩波 | kept — established. "Chief of staff" 參謀總長, "second in command" 第二號人物 |
+| Baltigo (Revolutionary Army HQ) | 巴爾迪哥 | Revolutionary HQ, destroyed by Blackbeard Pirates |
+| Cipher Pol | CP | kept in English initialism (matches Enies Lobby-era usage) |
+| Joker (Doflamingo's underworld alias) | 喬卡 | phonetic (no standalone Fandom page); Kaido's lament for Doflamingo. Kept 喬卡 |
+| Gifters (Beasts Pirates SMILE-users) | 賞賜者 | standard fan term (no Fandom page); those "gifted" artificial SMILE abilities |
+| SMILE (artificial devil fruit) | SMILE | kept — Fandom zh page literally titled "SMILE" |
+| Kaido / Lord Kaido (Four Emperor) | 凱多 / 凱多大人 | kept — established |
+| Captain Jack (Kaido subordinate) | 傑克船長 | kept — established (L3392 傑克) + 船長 |
+| Eustass "Captain" Kid | 尤斯塔斯·「隊長」·基德 | Fandom zh uses 隊長 for his "Captain" epithet |
+| Trafalgar Law | 特拉法爾加·羅 | kept — established |
+| Shirahoshi (Ryugu princess, Mermaid Princess) | 白星 | Fandom zh 白星. Calls Luffy "Sir Luffy" 魯夫大人 |
+| King Neptune (Ryugu ruler) | 涅普頓 | Neptune Army = 涅普頓軍 |
+| Ryugu Kingdom | 龍宮王國 | beneath the Red Line |
+| Otohime (Shirahoshi's late mother) | 乙姬 | Fishman Island queen; looked forward to the Reverie |
+| Fukaboshi / Ryuboshi / Manboshi (Neptune princes) | 楓寶 / 龍寶 / 滿寶 | caption forms. Ryuboshi speaks in solfège (mi-re-do kept romaji); Manboshi musical ("Mambo!" 曼波) |
+| Fishman Island | 魚人島 | petition to relocate it to the surface |
+| Wapol / King Wapol (ex-Drum king, Black Drum Kingdom) | 瓦波爾 | now rules "Evil Kingdom of Black Drum" 邪惡的黑德魯姆王國 |
+| Dalton (King of Sakura Kingdom) | 達爾頓 | ex-Drum, now Sakura Kingdom 櫻花王國 king |
+| Sakura Kingdom (renamed Drum) | 櫻花王國 | formerly Drum Kingdom 德魯姆王國 |
+| Dr. Kureha | 古蕾娃 | VERIFIED Fandom zh 古蕾娃 (opensearch exact page). Chopper's mentor; joining as ship's doctor |
+| Viola (Dressrosa princess, ex-Violet) | 碧歐菈 | VERIFIED Fandom zh 碧歐菈 (opensearch exact page; 薇奧菈/薇爾莉可 redirect here) |
+| Rebecca (Dressrosa gladiator princess) | 蕾貝卡 | Riku's granddaughter |
+| Riku Doldo III (King of Dressrosa) | 里庫·多路德三世 | caption + dialogue "King Riku" 里庫國王 |
+| Dressrosa | 德雷斯羅薩 | "Country of Passion" 熱情之國 |
+| Elizabello II (King of Prodence) | 伊莉莎貝洛二世 | caption only |
+| Prodence (kingdom) | 普羅登斯王國 | COINED phonetic; caption only. UNVERIFIED |
+| Kano Country, West Blue | 西海，卡諾國 | caption only |
+| Happo Navy / Don Chinjao / Sai | 八寶水軍 / 唐·千兵衛 / 賽 | Happo Navy 八寶水軍; Chinjao 千兵衛 (Don=唐); new leader Sai=賽 |
+| Vivre Card | 生命之紙 | VERIFIED Fandom zh 生命之紙 (opensearch exact page). Do NOT use 維瓦爾卡 |
+| Electro (Mink lightning ability) | 電擊 | Carrot's mink electro power; mistaken for storm lightning |
+| Baron Corpse (Carrot's greeting for Brook, WCI 01) | 屍體男爵 | kept — matches repo English→zh mapping (L3288/L3541). English subtitle uses "Baron Corpse" so rendered consistently |
+| A World Abuzz (WCI 01 episode title) | 躁動的世界 | episode title card |
+| French speech quirks (-soir/-bon/-soufflé/-millefeuille/-amour/-jour/-s'il vous plaît; Vito & escort) | kept as italic romaji tags | Sanji-escort crew append random French pastry/greeting words; preserved verbatim in {\i1}...{\i0} styling (like Garchu, -jamon, mi-re-do) |
