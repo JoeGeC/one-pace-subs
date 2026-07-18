@@ -1,0 +1,1 @@
+- [Italics tags dropped in zh-TW](project_italics_tag_dropped_in_zh.md) — TAG MISMATCH warnings are usually just missing \i1\i0, not shifted lines; verify by comparing timing/context before escalating
