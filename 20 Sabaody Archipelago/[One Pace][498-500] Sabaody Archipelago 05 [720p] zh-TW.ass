@@ -82,12 +82,12 @@ Dialogue: 0,0:03:05.20,0:03:06.60,Main,Brook,0,0,0,,地圖嗎？
 Dialogue: 0,0:03:07.54,0:03:11.22,Main,Hachi,0,0,0,,它把紅樹林按每十棵分組，根據各自的特色分類。
 Dialogue: 0,0:03:11.60,0:03:14.28,Main,Hachi,0,0,0,,雖然不是絕對的，
 Dialogue: 0,0:03:14.40,0:03:17.08,Main,Hachi,0,0,0,,但大致上是準確的。
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,444,643,,{\fad(1400,0)}Grove 1~29 Lawless Zone
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,530,0,595,,{\fad(1400,0)}Amusement Park
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,685,393,,{\fad(1400,0)}Hotels
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,600,0,250,,{\fad(1400,0)}Tourist Zone
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,630,183,,{\fad(1400,0)}Marine HQ
-Dialogue: 0,0:03:12.69,0:03:17.64,Map,,610,0,140,,{\fad(1400,0)}Shipyards
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,444,643,,{\fad(1400,0)}1～29號紅樹林 無法地帶
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,530,0,595,,{\fad(1400,0)}遊樂園
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,685,393,,{\fad(1400,0)}飯店區
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,600,0,250,,{\fad(1400,0)}觀光區
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,0,630,183,,{\fad(1400,0)}海軍本部
+Dialogue: 0,0:03:12.69,0:03:17.64,Map,,610,0,140,,{\fad(1400,0)}造船廠
 Dialogue: 0,0:03:18.24,0:03:20.70,Main,Hachi,0,0,0,,這裡是16號紅樹林。
 Dialogue: 0,0:03:21.32,0:03:24.78,Main,Hachi,0,0,0,,1到29號紅樹林基本上是無法地帶。
 Dialogue: 0,0:03:25.12,0:03:28.12,Main,Hachi,0,0,0,,所以賞金獵人才那麼多。
@@ -98,7 +98,7 @@ Dialogue: 0,0:03:38.82,0:03:42.18,Main,Camie,0,0,0,,喬巴阿琴、骷髏阿琴�
 Dialogue: 0,0:03:43.04,0:03:45.68,Main,Chopper,0,0,0,,才不會因為這種話就高興呢，混蛋！~
 Dialogue: 0,0:03:45.76,0:03:48.00,Main,Brook,0,0,0,,我非常羞愧，羞愧到整張臉都紅了……
 Dialogue: 0,0:03:48.14,0:03:49.26,Main,Brook,0,0,0,,{\fad(0,1000)}雖然身為骷髏，我沒有……
-Dialogue: 0,0:03:51.43,0:03:56.26,Caption2,,0,0,2,,{\fad(850,1000)}Sabaody Archipelago\N\N\N\N\N\N\NGrove 13
+Dialogue: 0,0:03:51.43,0:03:56.26,Caption2,,0,0,2,,{\fad(850,1000)}夏波帝諸島\N\N\N\N\N\N\N13號紅樹林
 Dialogue: 0,0:03:53.64,0:03:55.38,Main,Hachi,0,0,100,,{\an8}好了，到了！
 Dialogue: 0,0:03:58.36,0:03:59.84,Main,Chopper,0,0,0,,終於到了！
 Dialogue: 0,0:04:00.26,0:04:03.02,Main,Hachi,0,0,0,,店在那個根的頂端。
@@ -117,7 +117,7 @@ Dialogue: 0,0:04:38.26,0:04:40.18,Main,Luffy,0,0,0,,嘿，上面寫著「酒吧�
 Dialogue: 0,0:04:40.48,0:04:42.46,Main,Hachi,0,0,0,,看來有在營業。
 Dialogue: 0,0:04:43.50,0:04:45.08,Main,Hachi,0,0,0,,雷利、夏琪！
 Dialogue: 0,0:04:47.12,0:04:51.80,Captions,,50,0,100,,{\an8\pos(720,100)\fad(800,700)}酒吧老闆娘    前海賊
-Dialogue: 0,0:04:47.12,0:04:51.80,Caption2,,0,0,0,,{\fad(800,700)}Shakuyaku (Shakki)
+Dialogue: 0,0:04:47.12,0:04:51.80,Caption2,,0,0,0,,{\fad(800,700)}夏克雅克（夏琪）
 Dialogue: 0,0:04:48.74,0:04:49.82,Main,Shakki,0,0,100,,{\an8}歡迎。
 Dialogue: 0,0:04:50.38,0:04:51.78,Main,Shakki,0,0,100,,{\an8}有什麼需要的嗎？
 Dialogue: 0,0:04:52.48,0:04:53.20,Main,Shakki,0,0,0,,哎呀……
@@ -235,7 +235,7 @@ Dialogue: 0,0:10:43.20,0:10:44.44,Main,Luffy,0,0,0,,我不看報紙的。
 Dialogue: 0,0:10:45.92,0:10:48.50,Main,Shakki,0,0,0,,如果按懸賞金的話，
 Dialogue: 0,0:10:48.60,0:10:51.32,Main,Shakki,0,0,0,,你在他們當中排第二。
 Dialogue: 0,0:10:51.82,0:10:54.62,Main,Chopper,0,0,0,,這座島上有人的懸賞金比魯夫還高？！
-Dialogue: 0,0:10:59.14,0:11:02.42,Caption2,,0,0,1,,{\fad(1000,175)}Grove 24\N\N\N\N\N\N\N-Restaurant-
+Dialogue: 0,0:10:59.14,0:11:02.42,Caption2,,0,0,1,,{\fad(1000,175)}24號紅樹林\N\N\N\N\N\N\N－餐廳－
 Dialogue: 0,0:11:05.94,0:11:07.86,Main,Restaurant1,0,0,0,,吃得真誇張……
 Dialogue: 0,0:11:07.96,0:11:10.70,Main,Restaurant2,0,0,0,,那個身體怎麼裝得下那些東西？
 Dialogue: 0,0:11:11.28,0:11:13.90,Main,Bonney,0,0,0,,再給我拿些來！
@@ -244,18 +244,18 @@ Dialogue: 0,0:11:19.74,0:11:22.72,Main,Capone,0,0,0,,看得我都沒食慾了。
 Dialogue: 0,0:11:22.82,0:11:24.30,Main,Capone,0,0,0,,讓她閉嘴。
 Dialogue: 0,0:11:24.52,0:11:29.06,Main,Capone1,0,0,0,,不是個好主意，父親！這個鎮緊挨著海軍本部！
 Dialogue: 0,0:11:29.16,0:11:30.92,Main,Capone1,0,0,0,,如果我們在這裡鬧事的話……
-Dialogue: 0,0:11:34.26,0:11:41.23,Supernova,,0,213,480,,{\fad(200,300)}West Blue Native\N\N\N\N\N\N\NLeader of the Firetank Pirates
+Dialogue: 0,0:11:34.26,0:11:41.23,Supernova,,0,213,480,,{\fad(200,300)}西海出身\N\N\N\N\N\N\N火戰車海賊團的老大
 Dialogue: 0,0:11:35.62,0:11:37.30,Main,Shakki,0,0,0,,卡波涅「大哥」貝基。
-Dialogue: 0,0:11:37.49,0:11:41.23,Bounty,,0,900,80,,{\fad(600,200}Bounty\N138 Million Belly
+Dialogue: 0,0:11:37.49,0:11:41.23,Bounty,,0,900,80,,{\fad(600,200}懸賞金\N一億三千八百萬貝里
 Dialogue: 0,0:11:37.76,0:11:40.94,Main,Shakki,0,0,0,,懸賞金，1億3800萬貝里。
 Dialogue: 0,0:11:42.40,0:11:43.82,Main,Bonney,0,0,0,,食物還沒來嗎？！
 Dialogue: 0,0:11:44.28,0:11:46.52,Main,Bonney,0,0,0,,快點端過來！
 Dialogue: 0,0:11:47.92,0:11:51.34,Main,Bonney1,0,0,0,,他們好像在盡全力做了，船長。
 Dialogue: 0,0:11:51.54,0:11:53.88,Main,Bonney,0,0,0,,但照這個速度根本來不及！
 Dialogue: 0,0:11:54.68,0:11:57.22,Main,Bonney,0,0,0,,再給我披薩！
-Dialogue: 0,0:11:57.23,0:12:04.39,Supernova,,300,0,480,,{\fad(200,200)}South Blue Native\N\N\N\N\N\NCaptain of the Bonney Pirates
+Dialogue: 0,0:11:57.23,0:12:04.39,Supernova,,300,0,480,,{\fad(200,200)}南海出身\N\N\N\N\N\N波妮海賊團船長
 Dialogue: 0,0:11:58.56,0:12:00.80,Main,Shakki,0,0,0,,「大胃女」珠寶莉·波妮。
-Dialogue: 0,0:12:00.88,0:12:04.39,Bounty,,0,900,80,,{\fad(300,100)}Bounty\N140 million belly
+Dialogue: 0,0:12:00.88,0:12:04.39,Bounty,,0,900,80,,{\fad(300,100)}懸賞金\N一億四千萬貝里
 Dialogue: 0,0:12:01.20,0:12:04.48,Main,Shakki,0,0,0,,懸賞金，1億4000萬貝里。
 Dialogue: 0,0:12:05.56,0:12:07.70,Main,Waiter,0,0,0,,我……我們馬上把食物端過來。
 Dialogue: 0,0:12:09.56,0:12:11.60,Main,Waiter,0,0,0,,請……請原諒我！
@@ -266,49 +266,49 @@ Dialogue: 0,0:12:21.48,0:12:24.36,Main,Hawkins1,0,0,0,,他把義大利麵弄到�
 Dialogue: 0,0:12:24.94,0:12:27.88,Main,Hawkins,0,0,0,,那是那些衣服的命運。
 Dialogue: 0,0:12:28.24,0:12:30.72,Main,Hawkins,0,0,0,,我們嚇到你了，很抱歉。
 Dialogue: 0,0:12:30.88,0:12:34.32,Main,Hawkins,0,0,0,,今天不是結識新朋友的好日子。
-Dialogue: 0,0:12:34.37,0:12:41.80,Supernova,,0,300,485,,{\fad(250,0)}North Blue Native\N\N\N\N\N\N\NCaptain of the Hawkins Pirates
+Dialogue: 0,0:12:34.37,0:12:41.80,Supernova,,0,300,485,,{\fad(250,0)}北海出身\N\N\N\N\N\N\N霍金斯海賊團船長
 Dialogue: 0,0:12:35.70,0:12:37.84,Main,Shakki,0,0,0,,「魔術師」巴茲爾·霍金斯。
-Dialogue: 0,0:12:37.90,0:12:41.80,Bounty,,0,930,80,,{\fad(300,0)}Bounty\N294 Million Belly
+Dialogue: 0,0:12:37.90,0:12:41.80,Bounty,,0,930,80,,{\fad(300,0)}懸賞金\N兩億九千四百萬貝里
 Dialogue: 0,0:12:38.42,0:12:41.80,Main,Shakki,0,0,0,,懸賞金，2億4900萬貝里。
 Dialogue: 0,0:12:47.16,0:12:48.62,Main,Person1,0,0,0,,怎麼了？打架嗎？！
 Dialogue: 0,0:12:49.46,0:12:53.22,Main,Apoo,0,0,0,,想打架的話，為什麼不等過了那面牆再說？
 Dialogue: 0,0:12:55.14,0:12:59.04,Main,Apoo,0,0,0,,嗯？你不知道我們有多強嗎？
-Dialogue: 0,0:12:58.89,0:13:06.56,Supernova,,0,300,490,,{\fad(250,0)}Grand Line Native\N\N\N\N\N\N\NCaptain of the On-Air Pirates
+Dialogue: 0,0:12:58.89,0:13:06.56,Supernova,,0,300,490,,{\fad(250,0)}偉大航路出身\N\N\N\N\N\N\N播報海賊團船長
 Dialogue: 0,0:13:00.24,0:13:02.76,Main,Shakki,0,0,0,,「海鳴」斯克拉奇曼·亞普。
-Dialogue: 0,0:13:02.79,0:13:06.56,Bounty,,0,900,80,,{\fad(300,0)}Bounty\N198 Million Belly
+Dialogue: 0,0:13:02.79,0:13:06.56,Bounty,,0,900,80,,{\fad(300,0)}懸賞金\N一億九千八百萬貝里
 Dialogue: 0,0:13:02.98,0:13:06.66,Main,Shakki,0,0,0,,懸賞金，1億9800萬貝里。
 Dialogue: 0,0:13:08.28,0:13:11.24,Main,Kidd,0,0,0,,那你就別再盯著我看了。
 Dialogue: 0,0:13:11.66,0:13:13.48,Main,Kidd1,0,0,0,,老大！別衝動！
 Dialogue: 0,0:13:14.14,0:13:16.22,Main,Kidd,0,0,0,,你這噁心的傢伙。
 Dialogue: 0,0:13:16.98,0:13:19.44,Main,Kidd,0,0,0,,我不介意現在就解決你，知道嗎？
-Dialogue: 0,0:13:19.41,0:13:27.11,Supernova,,250,0,492,,{\fad(250,0)}South Blue Native\N\N\N\N\N\N\NCaptain of the Kid Pirates
+Dialogue: 0,0:13:19.41,0:13:27.11,Supernova,,250,0,492,,{\fad(250,0)}南海出身\N\N\N\N\N\N\N基德海賊團船長
 Dialogue: 0,0:13:20.90,0:13:23.22,Main,Shakki,0,0,0,,尤斯塔斯「船長」基德。
-Dialogue: 0,0:13:22.58,0:13:27.11,Bounty,,930,0,80,,{\fad(450,0)}Bounty\N315 Million Belly
+Dialogue: 0,0:13:22.58,0:13:27.11,Bounty,,930,0,80,,{\fad(450,0)}懸賞金\N三億一千五百萬貝里
 Dialogue: 0,0:13:23.68,0:13:27.08,Main,Shakki,0,0,0,,懸賞金，3億1500萬貝里。
 Dialogue: 0,0:13:32.36,0:13:34.08,Main,Person2,0,0,0,,怪僧暴走了！
 Dialogue: 0,0:13:37.16,0:13:38.92,Main,Person3,0,0,0,,我們得趕快離開這裡！
 Dialogue: 0,0:13:50.76,0:13:52.16,Main,Drake,0,0,0,,如果你想搞事的話……
 Dialogue: 0,0:13:53.20,0:13:54.84,Main,Drake,0,0,0,,去新世界再搞！
-Dialogue: 0,0:13:54.85,0:14:02.05,Supernova,,300,0,490,,{\fad(250,0)}North Blue Native\N\N\N\N\N\N\NCaptain of the Drake Pirates
+Dialogue: 0,0:13:54.85,0:14:02.05,Supernova,,300,0,490,,{\fad(250,0)}北海出身\N\N\N\N\N\N\N德雷克海賊團船長
 Dialogue: 0,0:13:56.40,0:13:58.88,Main,Shakki,0,0,0,,「赤旗」X德雷克。
-Dialogue: 0,0:13:58.07,0:14:02.05,Bounty,,0,930,80,,{\fad(400,0)}Bounty\N222 Million Belly
+Dialogue: 0,0:13:58.07,0:14:02.05,Bounty,,0,930,80,,{\fad(400,0)}懸賞金\N兩億兩千兩百萬貝里
 Dialogue: 0,0:13:59.00,0:14:02.18,Main,Shakki,0,0,0,,懸賞金，2億2200萬貝里。
 Dialogue: 0,0:14:05.36,0:14:06.84,Main,Urouge,0,0,0,,原來如此。
 Dialogue: 0,0:14:08.04,0:14:10.20,Main,Urouge,0,0,0,,是前軍官德雷克啊。
-Dialogue: 0,0:14:10.96,0:14:17.39,Supernova,,330,0,493,,{\fad(200,0)}Sky Island Native\N\N\N\N\N\N\NCaptain of the Depraved Monk Pirates
+Dialogue: 0,0:14:10.96,0:14:17.39,Supernova,,330,0,493,,{\fad(200,0)}空島出身\N\N\N\N\N\N\N破戒僧海賊團船長
 Dialogue: 0,0:14:12.46,0:14:14.44,Main,Shakki,0,0,0,,「怪僧」烏魯基。
-Dialogue: 0,0:14:14.20,0:14:17.39,Bounty,,0,900,80,,{\fad(300,0)}Bounty\N180 Million Belly
+Dialogue: 0,0:14:14.20,0:14:17.39,Bounty,,0,900,80,,{\fad(300,0)}懸賞金\N一億八千萬貝里
 Dialogue: 0,0:14:14.76,0:14:17.50,Main,Shakki,0,0,0,,懸賞金，1億800萬貝里。
 Dialogue: 0,0:14:18.80,0:14:22.27,Main,Urouge,0,0,0,,你的命剛剛被饒了，面具男。
-Dialogue: 0,0:14:22.27,0:14:29.47,Supernova,,0,415,490,,{\fad(200,0)}South Blue Native\N\N\N\N\N\N\NWarrior of the Kid Pirates
+Dialogue: 0,0:14:22.27,0:14:29.47,Supernova,,0,415,490,,{\fad(200,0)}南海出身\N\N\N\N\N\N\N基德海賊團的戰鬥員
 Dialogue: 0,0:14:23.76,0:14:25.78,Main,Shakki,0,0,0,,「殺戮武人」奇拉。
-Dialogue: 0,0:14:25.81,0:14:29.47,Bounty,,0,930,80,,{\fad(300,0)}Bounty\N162 Million Belly
+Dialogue: 0,0:14:25.81,0:14:29.47,Bounty,,0,930,80,,{\fad(300,0)}懸賞金\N一億六千兩百萬貝里
 Dialogue: 0,0:14:26.12,0:14:29.52,Main,Shakki,0,0,0,,懸賞金，1億6200萬貝里。
 Dialogue: 0,0:14:36.08,0:14:38.90,Main,Law,0,0,0,,正精彩的時候……
 Dialogue: 0,0:14:40.58,0:14:45.12,Main,Law,0,0,0,,喂，德雷克。你殺了多少人了？
-Dialogue: 0,0:14:45.13,0:14:52.89,Supernova,,180,0,485,,{\fad(200,1000)}North Blue Native\N\N\N\N\N\N\NCaptain of the Heart Pirates
+Dialogue: 0,0:14:45.13,0:14:52.89,Supernova,,180,0,485,,{\fad(200,1000)}北海出身\N\N\N\N\N\N\N紅心海賊團船長
 Dialogue: 0,0:14:46.44,0:14:49.38,Main,Shakki,0,0,0,,「死亡外科醫」特拉法爾加·羅。
-Dialogue: 0,0:14:48.97,0:14:52.89,Bounty,,800,0,80,,{\fad(300,1000)}Bounty\N200 Million Belly
+Dialogue: 0,0:14:48.97,0:14:52.89,Bounty,,800,0,80,,{\fad(300,1000)}懸賞金\N兩億貝里
 Dialogue: 0,0:14:49.68,0:14:52.02,Main,Shakki,0,0,0,,懸賞金，2億貝里。
 Dialogue: 0,0:14:54.16,0:14:57.82,Main,Shakki,0,0,0,,所有進入偉大航道的海賊團，
 Dialogue: 0,0:14:58.00,0:15:00.52,Main,Shakki,0,0,0,,已經被篩選到只剩屈指可數的數量了。
@@ -704,8 +704,8 @@ Dialogue: 0,0:38:50.38,0:38:51.76,Main,Hachi,0,0,0,,是飛魚騎士團！
 Dialogue: 0,0:38:51.88,0:38:54.22,Main,Rider,0,0,0,,我們一直在找你……上來吧！
 Dialogue: 0,0:38:54.56,0:38:56.58,Main,Luffy,0,0,0,,嘿，死魷魚……你也要飛嗎？
 Dialogue: 0,0:38:56.66,0:38:57.30,Main,Hachi,0,0,0,,對！
-Dialogue: 0,0:38:57.30,0:38:59.11,Caption2,,0,0,300,,{\fad(500,0)}Sabaody Archipelago - Grove 1
-Dialogue: 0,0:38:59.40,0:39:04.28,Caption2,,0,0,160,,{\fad(500,0)}Human Auction House
+Dialogue: 0,0:38:57.30,0:38:59.11,Caption2,,0,0,300,,{\fad(500,0)}夏波帝諸島 － 1號紅樹林
+Dialogue: 0,0:38:59.40,0:39:04.28,Caption2,,0,0,160,,{\fad(500,0)}人口拍賣場
 Dialogue: 0,0:39:07.62,0:39:12.28,Captions,,0,20,100,,{\an8\pos(720,100)\fad(250,0)}後門
 Dialogue: 0,0:39:10.20,0:39:12.36,Main,Peterman,0,0,1,,一定要賣個好價錢！
 Dialogue: 0,0:39:12.44,0:39:17.96,Main,Slave-trader,0,0,0,,她一定能賣高價的！晚點回來拿你的分成！
@@ -776,9 +776,9 @@ Dialogue: 0,0:43:26.32,0:43:27.84,Main,Prisoner,0,0,0,,別裝了。
 Dialogue: 0,0:43:27.98,0:43:30.48,Main,Prisoner,0,0,0,,那是你吧？剛才那股「霸氣」。
 Dialogue: 0,0:43:31.24,0:43:32.82,Main,Prisoner,0,0,0,,你到底是什麼人？
 Dialogue: 0,0:43:34.94,0:43:37.40,Main,Rayleigh,0,0,0,,只是個幫船做鍍膜的老頭子。
-Dialogue: 0,0:43:46.35,0:43:52.09,Caption2,,0,0,12,,{\fad(300,1100)}Former first mate of the\N\N\N\N\N\N\NRoger Pirates
+Dialogue: 0,0:43:46.35,0:43:52.09,Caption2,,0,0,12,,{\fad(300,1100)}前任副船長\N\N\N\N\N\N\N羅傑海賊團
 Dialogue: 0,0:43:48.82,0:43:49.82,Main,Rayleigh,0,0,100,,{\an8}我只是
 Dialogue: 0,0:43:50.76,0:43:52.48,Main,Rayleigh,0,0,100,,{\an8}很
-Dialogue: 0,0:43:52.36,0:43:58.45,Caption2,,0,0,0,,{\fad(300,0)}"The right hand of the Pirate King"\N\N\N\N\N\N\NSilvers Rayleigh
+Dialogue: 0,0:43:52.36,0:43:58.45,Caption2,,0,0,0,,{\fad(300,0)}「海賊王的左右手」\N\N\N\N\N\N\N席爾佛斯·雷利
 Dialogue: 0,0:43:54.66,0:43:56.38,Main,Rayleigh,0,0,100,,{\an8}喜歡年輕的女孩子。
 

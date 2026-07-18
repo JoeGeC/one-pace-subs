@@ -251,10 +251,10 @@ Dialogue: 0,0:12:36.68,0:12:38.40,Main,Giolla,0,0,0,,希望它能奏出精緻的
 Dialogue: 0,0:12:42.44,0:12:44.58,Main,Brook,0,0,0,,的確。你已經被斬斷了。
 Dialogue: 0,0:12:44.58,0:12:46.11,Main,Giolla,0,0,0,,嗯？斬斷？！
 Dialogue: 0,0:12:46.11,0:12:49.38,Main,Brook,0,0,0,,{\fad(150,150)}繪畫之歌·竹笛關節斬！
-Dialogue: 0,0:12:50.50,0:12:55.49,One Piece 653 Sign,Text on screen,0,0,0,,{\pos(1116,160)\fad(500,0)}Painting Song
-Dialogue: 0,0:12:50.50,0:12:55.49,One Piece 653 Sign,Text on screen,0,0,0,,{\pos(674,160)\fad(500,0)}Bamboo Flute Joint Slice
-Dialogue: 0,0:12:55.49,0:13:02.28,One Piece 653 Sign,Text on screen,0,0,0,,{\fad(0,1000)\fs70\pos(1012,222)}Flute Joint
-Dialogue: 0,0:13:00.88,0:13:04.63,One Piece 653 Sign,Text on screen,0,0,0,,{\fad(1000,0)\fs70\pos(1012,616)}Knothole
+Dialogue: 0,0:12:50.50,0:12:55.49,One Piece 653 Sign,Text on screen,0,0,0,,{\pos(1116,160)\fad(500,0)}繪畫之歌
+Dialogue: 0,0:12:50.50,0:12:55.49,One Piece 653 Sign,Text on screen,0,0,0,,{\pos(674,160)\fad(500,0)}竹笛竹節斬
+Dialogue: 0,0:12:55.49,0:13:02.28,One Piece 653 Sign,Text on screen,0,0,0,,{\fad(0,1000)\fs70\pos(1012,222)}笛節
+Dialogue: 0,0:13:00.88,0:13:04.63,One Piece 653 Sign,Text on screen,0,0,0,,{\fad(1000,0)\fs70\pos(1012,616)}節孔
 Dialogue: 0,0:12:55.48,0:13:00.59,Main,Brook,0,0,0,,原諒我。看來我終究不懂藝術。
 Dialogue: 0,0:13:00.59,0:13:04.63,Main,Brook,0,0,0,,因為我的眼睛就像樹洞一樣空！
 Dialogue: 0,0:13:04.63,0:13:06.37,Main,Nami and Chopper,0,0,0,,{\i1}布魯克！

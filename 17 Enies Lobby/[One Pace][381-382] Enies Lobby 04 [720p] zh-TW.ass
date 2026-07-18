@@ -40,8 +40,8 @@ Comment: 0,0:01:50.01,0:01:50.05,Main-207+,chptr,0,0,0,,{Episode}
 Comment: 0,0:24:20.06,0:24:20.11,Main-207+,chptr,0,0,0,,{Ending}
 Comment: 0,0:00:01.94,0:00:01.98,Main-207+,OP,0,0,0,,
 Comment: 0,0:25:07.03,0:25:07.07,Main-207+,ED,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:01:50.01,0:02:00.01,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:01:50.01,0:02:00.01,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=29}========================CHAPTERS AND OPENINGS=====================
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=18}===============================DIALOGUE============================
 Dialogue: 0,0:01:55.22,0:01:58.68,Main-207+,,0,0,0,,喂——喂！我認得那個劍士！{Z}

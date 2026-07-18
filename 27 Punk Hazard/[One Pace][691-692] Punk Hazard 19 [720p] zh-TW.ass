@@ -169,16 +169,16 @@ Dialogue: 0,0:07:31.36,0:07:32.40,Main,Gasmask soldier,0,0,0,,它進到建築物
 Dialogue: 0,0:07:32.40,0:07:35.98,Main,Caesar,0,0,0,,這就對了。\N你們一開始就該照我說的做。
 Dialogue: 0,0:07:35.98,0:07:37.85,Main,Caesar,0,0,0,,垃圾不該試圖思考。
 Dialogue: 0,0:07:38.30,0:07:42.97,Main,Caesar,0,0,0,,來吧，成為我的力量，死國！
-Dialogue: 0,0:07:53.97,0:07:55.50,Land of Death,,0,0,0,,{\fad(1500,0)\pos(1030,170)\frz347.3}Land of Death
-Dialogue: 0,0:07:55.50,0:07:55.67,Land of Death,,0,0,0,,{\frz347.3\pos(1022,136)}Land of Death
-Dialogue: 0,0:07:55.67,0:07:55.77,Land of Death,,0,0,0,,{\frz347.3\pos(1014,124)}Land of Death
-Dialogue: 0,0:07:55.77,0:07:55.94,Land of Death,,0,0,0,,{\pos(1024,86)\frz349.8}Land of Death
-Dialogue: 0,0:07:55.94,0:07:56.04,Land of Death,,0,0,0,,{\pos(1030,52)\frz354.1}Land of Death
-Dialogue: 0,0:07:56.04,0:07:56.14,Land of Death,,0,0,0,,{\pos(1028,94)\frz351.4}Land of Death
-Dialogue: 0,0:07:56.14,0:07:56.30,Land of Death,,0,0,0,,{\frz350.8\pos(1016,138)}Land of Death
-Dialogue: 0,0:07:56.30,0:07:56.40,Land of Death,,0,0,0,,{\pos(1018,182)\frz349.9}Land of Death
-Dialogue: 0,0:07:56.40,0:07:56.47,Land of Death,,0,0,0,,{\frz349.9\pos(1014,214)}Land of Death
-Dialogue: 0,0:07:59.44,0:08:07.98,Land of Death 2,,0,0,0,,{\frx354\fry14\frz348.8\org(664,466)\pos(612,458)}Land of Death
+Dialogue: 0,0:07:53.97,0:07:55.50,Land of Death,,0,0,0,,{\fad(1500,0)\pos(1030,170)\frz347.3}死亡之地
+Dialogue: 0,0:07:55.50,0:07:55.67,Land of Death,,0,0,0,,{\frz347.3\pos(1022,136)}死亡之地
+Dialogue: 0,0:07:55.67,0:07:55.77,Land of Death,,0,0,0,,{\frz347.3\pos(1014,124)}死亡之地
+Dialogue: 0,0:07:55.77,0:07:55.94,Land of Death,,0,0,0,,{\pos(1024,86)\frz349.8}死亡之地
+Dialogue: 0,0:07:55.94,0:07:56.04,Land of Death,,0,0,0,,{\pos(1030,52)\frz354.1}死亡之地
+Dialogue: 0,0:07:56.04,0:07:56.14,Land of Death,,0,0,0,,{\pos(1028,94)\frz351.4}死亡之地
+Dialogue: 0,0:07:56.14,0:07:56.30,Land of Death,,0,0,0,,{\frz350.8\pos(1016,138)}死亡之地
+Dialogue: 0,0:07:56.30,0:07:56.40,Land of Death,,0,0,0,,{\pos(1018,182)\frz349.9}死亡之地
+Dialogue: 0,0:07:56.40,0:07:56.47,Land of Death,,0,0,0,,{\frz349.9\pos(1014,214)}死亡之地
+Dialogue: 0,0:07:59.44,0:08:07.98,Land of Death 2,,0,0,0,,{\frx354\fry14\frz348.8\org(664,466)\pos(612,458)}死亡之地
 Dialogue: 0,0:08:03.78,0:08:07.98,Main,Caesar,0,0,0,,這就是我研究的力量！
 Dialogue: 0,0:08:08.98,0:08:10.37,Main,Caesar,0,0,0,,這{\i1}會{\i0}殺了你。
 Dialogue: 0,0:08:13.41,0:08:21.16,Main,Caesar,0,0,0,,已經有兩個國家對我這次公開展示的武器死國產生了興趣！

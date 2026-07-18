@@ -39,8 +39,8 @@ Comment: 0,0:01:50.05,0:01:50.09,Main-207-,chptr,0,0,0,,{Episode}
 Comment: 0,0:18:42.73,0:18:42.77,Main-207-,chptr,0,0,0,,{Ending}
 Comment: 0,0:00:03.07,0:00:03.11,Main-207-,OP,0,0,0,,
 Comment: 0,0:19:39.37,0:19:39.41,Main-207-,ED,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=1}========================CHAPTERS AND OPENINGS=====================
 Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=10}===============================DIALOGUE============================
 Dialogue: 0,0:01:58.93,0:02:02.73,Narrator-207-,,0,0,200,,四百年的戰爭\N終於畫下了句點，

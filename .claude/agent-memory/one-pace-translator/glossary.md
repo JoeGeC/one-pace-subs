@@ -3692,3 +3692,43 @@ NOTE: An earlier pass MISALIGNED this episode's translation against the wrong so
 | "sweet dealings" / "sacrifices to the devil" (WCI 03 wedding-cake song) | 甜蜜的交易／獻給惡魔的祭品 | Big Mom underworld tea-party song imagery |
 | "Whole Cake Island's Southwest Coast" (WCI 05 location card, Special-Captions) | 萬國蛋糕島西南海岸 | uses established 萬國蛋糕島 (L3548) |
 | NOTE: Musical style = in-episode songs (homies/Big Mom Pirates), MUST be translated | — | distinct from OP/ED theme songs which are left untranslated. WCI songs (wedding-cake prep, Seducing Woods) are diegetic and translated |
+
+## Retro cross-arc untranslated-line sweep (blacklist-extraction fallout, Alabasta–Dressrosa)
+NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, exposing lines that had shipped in English across many already-translated arcs. Below are the terminology decisions made when translating the deduped representative set. Translated to zh-TW only; propagated/remerged mechanically by the user.
+| English | zh-TW | Notes |
+|---|---|---|
+| Warning (no-ASS-support fallback message) | 您的媒體播放器不支援本集所使用的字幕格式。字幕可能無法正常顯示。請改用推薦的影片播放器，建議使用 mpv：https://mpv.io | recurring across arcs (multiple tag-variant rows). "mpv" and URL kept in English. \N-broken variant splits after 字幕格式。/ 正常顯示。/ mpv： |
+| Roger's opening monologue ("A world... Yes! ... flying the flag of your beliefs!") | 一個世界…沒錯！／一個屬於追尋自由的你們的世界，正展現在你們眼前。／若你被無盡的夢想所指引，／那就超越它們，高舉你信念的旗幟吧！ | Jaya/Skypiea Roger Monologue narration. 羅傑 established |
+| "Family" (Skypiea crew song) | translated singably line-by-line | in-episode diegetic song; refrain "We're each other's own FAMILY!" = 我們就是彼此的家人！; MOTHER SHIP = 母船 |
+| Binks' Sake (song) | 賓克斯的美酒 | established (L1525/L2246). Full lyric set translated singably; "with a DON" = 高唱一聲「咚」 |
+| Rock Concert / Soul King (Brook, Return to Sabaody) | 靈魂之王 established | "Bone to be wild!" = 天生骨感狂野！ (pun kept); "Got milk!" = 多喝牛奶！; calcium/protein gag translated straight |
+| Water 7 (Sign-Map per-letter logo) | 水之七島 | established (L804/L821). Per-letter animated Latin logo: full name placed in first run, all \frz tag blocks preserved empty (per-run translation impossible) |
+| "Take a look at their ship." (Water 7 Sign-Letter, 2-run) | 看看{\frz29}他們的船 | 2-run split preserved: 看看 / 他們的船 |
+| Kokoro (Sign-Letter) | 可可羅 | established (L810) |
+| Shipwright (sign) | 船匠 | established (L65) |
+| Fine Dining / Eiichiro (magazine-cover gag, Post War) | 精緻料理 / 榮一郎 | Oda Eiichiro joke. Per-letter animated rows: title 精緻料理 in first title run, 榮一郎 after first author \fax block, all fax blocks preserved |
+| Sabaody amusement/tourist map labels | 遊樂園（Amusement Park）／飯店區（Hotels）／觀光區（Tourist Zone）／造船廠（Shipyards）／海軍本部（Marine HQ） | generic Sabaody Park map; Lawless Zone 無法地帶 (L1818), Grove N = N號紅樹林 |
+| Human Auction House | 人口拍賣場 | established (L1817) |
+| Supernova intro-box format | "X Blue Native" = X海出身; crew role = ...船長／老大／戰鬥員 | West/South/North Blue = 西/南/北海, Grand Line = 偉大航路, Sky Island = 空島. Bounty = 懸賞金 N貝里 |
+| Depraved Monk Pirates (Urouge, Supernova box) | 破戒僧海賊團 | = Fallen Monk Pirates, established (L3234) |
+| "The right hand of the Pirate King" / former first mate (Rayleigh Sabaody box) | 「海賊王的左右手」／前任副船長 | Rayleigh 席爾佛斯·雷利 (L1793); first mate 副船長 (L2164) |
+| Shakuyaku (Shakki) caption full name | 夏克雅克（夏琪） | 夏琪 established (L1792); Shakuyaku full name 夏克雅克 COINED — UNVERIFIED |
+| Please stand by. (video transmission) | 請稍候 | coined caption |
+| Dawn Island / Goa map (Post War) | Palace 王宮／Mt. Colubo 可爾波山／High Town 上城區／Midtown 中城區／Edge Town 邊緣鎮／Gray Terminal 不確定物的終點站／Windmill(Foosha) Village 風車村 | all established (Colubo L2211, High Town L2214, Midtown L2216, Edge Town L2215, Gray Terminal L2210, Foosha L1449) |
+| Luffy's IOU sign ("Put it on my treasure tab - Luffy") | 記在我的寶藏帳上－魯夫 | coined; kids' flashback gag |
+| "We're going independent." (kids' sign) | 我們要獨立了 | coined |
+| Ace's Country / Luffy's Country (sandcastle signs) | 艾斯之國／魯夫之國 | coined |
+| Dad (Sign-Dad) | 老爸 | coined |
+| Dressrosa Self-Defense Forces / Commander | 德雷斯羅薩自衛軍／指揮官 | Self-Defense Army 自衛軍 (cf. L2531 Tank Lepanto); Dressrosa 德雷斯羅薩 (L2337) |
+| Gladiator (Corrida Colosseum) | 鬥劍士 | COINED standard term; Ricky 瑞奇 (L2549), Tank Lepanto 譚克·勒潘陀 (L2531) |
+| Fishman Jujutsu (Hack B-block box) | 魚人柔術 | cf. L1757 (Jinbe 魚人柔術). Fishman Karate 魚人空手道 (L745) |
+| 100th Degree / Hundredth-Degree Hack | 百級的哈克 | established (L3203) |
+| King of Prodence / Fighting King Elizabello II | 普羅丹斯王國國王／格鬥王／伊力薩貝羅二世 | Prodence 普羅丹斯王國 (L2528), Elizabello II 伊力薩貝羅二世 (L2529), King Punch split 國王…／重拳！ (L3109) |
+| Jiaokungdo / Long Leg Tribe / Blue Gilly (B-block box) | 蛟拳道／長腳族／布爾吉利 | all established (L2533/L2842/L2843) |
+| Abdullah & Jeet | 亞布德拉和吉特 | established (L2536) |
+| "Candidate for Warlord of the Sea" (sash) | 七武海候選人 | Seven Warlords 七武海 (L42) |
+| OP653 bamboo/flute gag signs | Painting Song 繪畫之歌／Bamboo Flute Joint Slice 竹笛竹節斬／Flute Joint 笛節／Knothole 節孔 | COINED literal — UNVERIFIED (Dressrosa ep653 diagram gag) |
+| Dressrosa map signs (OP665) | Trebol 托雷波爾／Sugar 砂糖／Lift 升降機／Royal Palace 王宮／Toys' House 玩具屋／Officer's Tower 幹部之塔／Trading Port 貿易港／Factory 工廠／Lift Junction 升降機交會處／Flower Fields 花田 | all established (Trebol L2490, Sugar L2587, Toys' House L2672, Officer's Tower L2693, Lift Junction L2694, Flower Hill/Fields 花田 L2664) |
+| Land of Death (Punk Hazard sign) | 死亡之地 | coined |
+| Sea Turtle (Fishman Island sign) | 海龜 | coined |
+| Sabo-kun?! (Karaokefade, Dressrosa) | 薩波君？！ | Sabo 薩波 (L2197); -kun → 君 with {\i1}{\i0} italic per project honorific convention |

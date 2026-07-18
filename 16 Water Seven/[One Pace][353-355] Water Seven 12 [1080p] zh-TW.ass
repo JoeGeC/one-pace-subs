@@ -24,8 +24,8 @@ Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:02:06.81,0:02:10.03,Main-207+,,0,0,0,,啊啊！牠要吃我了！
 Dialogue: 50,0:02:10.03,0:02:10.84,Main-207+,,0,0,0,,吃這個！
 Dialogue: 50,0:02:26.68,0:02:30.58,Main-207+,,0,0,0,,閃開，冰山！

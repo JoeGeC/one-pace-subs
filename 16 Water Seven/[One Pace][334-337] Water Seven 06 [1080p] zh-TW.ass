@@ -24,8 +24,8 @@ Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 55,0:02:12.65,0:02:16.60,Main-207+,,0,0,0,,是誰先發現的？\N請讓我們問幾個問題！
 Dialogue: 55,0:02:16.60,0:02:18.95,Main-207+,,0,0,0,,有任何嫌疑人嗎？
 Dialogue: 55,0:02:18.95,0:02:21.58,Main-207+,,0,0,0,,跟佛朗基之家倒塌有關聯嗎？
@@ -513,7 +513,7 @@ Dialogue: 1,0:11:40.43,0:11:45.35,Captions,,0,0,100,,{\an8\pos(960,100)\fscx150\
 Dialogue: 2,0:11:40.43,0:11:45.35,Captions,,0,0,100,,{\an8\pos(960,100)\fscx150\fscy150\fsp2\bord0\4a&HFF&\blur0.6\fad(400,0)}水之七島 北側
 Dialogue: 1,0:15:50.76,0:15:53.59,Captions,,0,0,200,,{\an8\pos(960,100)\fscx145\fscy145\fsp1\bord2.7\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}佛朗基\N佛朗基家族老大\N拆船工人兼賞金獵人
 Dialogue: 2,0:15:50.76,0:15:53.59,Captions,,0,0,200,,{\an8\pos(960,100)\fscx145\fscy145\fsp1\bord0\4a&HFF&\blur0.6\fad(400,0)}佛朗基\N佛朗基家族老大\N拆船工人兼賞金獵人
-Dialogue: 1,0:18:31.75,0:18:34.71,Sign-Reporters,,0,0,0,,{\pos(1051.5,411)\fscx147\fscy148\frz35.12\fry2\frx8\fax0.3\blur0.9}He regained consciousness{Re-typeset}
+Dialogue: 1,0:18:31.75,0:18:34.71,Sign-Reporters,,0,0,0,,{\pos(1051.5,411)\fscx147\fscy148\frz35.12\fry2\frx8\fax0.3\blur0.9}他恢復了意識{Re-typeset}
 Dialogue: 1,0:19:06.37,0:19:14.13,Captions,,0,0,200,,{\an8\pos(972,100)\fscx145\fscy145\fsp1\bord2.5\c&H000000&\1a&HFF&\blur0.6\fad(400,400)\t(355,400,\1a&H00&)\t(7360,7405,\1a&HFF&)}奇薇（左）和摩茲（右）\N{\fscx130\fscy130\fsp2}佛朗基家族的\N方塊姊妹
 Dialogue: 2,0:19:06.37,0:19:14.13,Captions,,0,0,200,,{\an8\pos(972,100)\fscx145\fscy145\fsp1\bord0\4a&HFF&\blur0.6\fad(400,400)}奇薇（左）和摩茲（右）\N{\fscx130\fscy130\fsp2}佛朗基家族的\N方塊姊妹
 Dialogue: 0,0:24:39.95,0:24:45.08,Captions,,0,0,200,,{\an8\pos(960,100)\fscx140\fscy140\fsp1\bord2.6\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}泰斯通\N接合、填縫及帆造工頭\N一號船塢

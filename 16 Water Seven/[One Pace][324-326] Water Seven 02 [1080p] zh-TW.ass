@@ -22,8 +22,8 @@ Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 55,0:01:52.90,0:01:55.97,Main-207+,,0,0,0,,太棒了！
 Dialogue: 55,0:01:55.97,0:01:58.54,Main-207+,,0,0,0,,嘿！拜託你了！
 Dialogue: 55,0:01:59.64,0:02:03.64,Main-207+,,0,0,0,,誰能想到這些動物\N竟然這麼方便！
@@ -521,128 +521,128 @@ Dialogue: 1,0:01:38.93,0:01:43.10,Credits-207+,,0,0,0,,{\pos(782,609)\blur0.5\bo
 Dialogue: 2,0:01:38.93,0:01:43.10,Credits-207+,,0,0,0,,{\pos(782,609)\blur0.6\bord0\fscx95\4a&HFF&}Translation
 Dialogue: 0,0:01:38.93,0:01:43.10,Credits-207+,,0,0,0,,{\pos(837,667)\blur0.5\bord4\fscx130\fscy130\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:01:38.93,0:01:43.10,Credits-207+,,0,0,0,,{\pos(837,667)\blur0.5\bord0\fscx130\fscy130\4a&HFF&}Crunchyroll\NGaijin
-Dialogue: 0,0:29:05.34,0:29:05.39,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.39,0:29:05.51,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.51,0:29:05.64,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.64,0:29:05.84,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.84,0:29:05.89,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.89,0:29:06.05,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.05,0:29:06.59,Sign-Letter,,0,0,0,,{\pos(514.77,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.59,0:29:06.64,Sign-Letter,,0,0,0,,{\pos(514.77,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.64,0:29:06.72,Sign-Letter,,0,0,0,,{\pos(514.785,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.72,0:29:06.80,Sign-Letter,,0,0,0,,{\pos(514.8,218.67)\fscx192.58\fscy192.58\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.80,0:29:06.84,Sign-Letter,,0,0,0,,{\pos(514.785,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.84,0:29:06.89,Sign-Letter,,0,0,0,,{\pos(514.635,218.61)\fscx192.61\fscy192.61\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.89,0:29:06.93,Sign-Letter,,0,0,0,,{\pos(519.015,223.635)\fscx191.51\fscy191.51\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.93,0:29:06.97,Sign-Letter,,0,0,0,,{\pos(530.43,236.205)\fscx188.63\fscy188.63\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:06.97,0:29:07.01,Sign-Letter,,0,0,0,,{\pos(545.535,253.335)\fscx184.8\fscy184.8\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.01,0:29:07.05,Sign-Letter,,0,0,0,,{\pos(564.345,274.62)\fscx180.03\fscy180.03\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.05,0:29:07.10,Sign-Letter,,0,0,0,,{\pos(584.16,296.67)\fscx175.03\fscy175.03\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.10,0:29:07.14,Sign-Letter,,0,0,0,,{\pos(605.535,320.43)\fscx169.63\fscy169.63\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.14,0:29:07.18,Sign-Letter,,0,0,0,,{\pos(627.33,345.12)\fscx164.1\fscy164.1\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.18,0:29:07.22,Sign-Letter,,0,0,0,,{\pos(649.395,370.095)\fscx158.51\fscy158.51\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.22,0:29:07.26,Sign-Letter,,0,0,0,,{\pos(669.51,392.565)\fscx153.42\fscy153.42\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.26,0:29:07.30,Sign-Letter,,0,0,0,,{\pos(689.235,414.615)\fscx148.44\fscy148.44\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.30,0:29:07.35,Sign-Letter,,0,0,0,,{\pos(707.715,435.9)\fscx143.74\fscy143.74\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.35,0:29:07.39,Sign-Letter,,0,0,0,,{\pos(727.92,458.655)\fscx138.62\fscy138.62\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.39,0:29:07.43,Sign-Letter,,0,0,0,,{\pos(743.895,476.265)\fscx134.59\fscy134.59\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.43,0:29:07.47,Sign-Letter,,0,0,0,,{\pos(760.455,494.895)\fscx130.4\fscy130.4\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.47,0:29:07.51,Sign-Letter,,0,0,0,,{\pos(775.755,512.43)\fscx126.51\fscy126.51\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.51,0:29:07.55,Sign-Letter,,0,0,0,,{\pos(790.71,528.96)\fscx122.72\fscy122.72\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.55,0:29:07.60,Sign-Letter,,0,0,0,,{\pos(804.285,544.29)\fscx119.29\fscy119.29\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.60,0:29:07.64,Sign-Letter,,0,0,0,,{\pos(816.51,558.42)\fscx116.19\fscy116.19\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.64,0:29:07.68,Sign-Letter,,0,0,0,,{\pos(828.45,571.56)\fscx113.17\fscy113.17\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.68,0:29:07.72,Sign-Letter,,0,0,0,,{\pos(840,584.76)\fscx110.26\fscy110.26\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.72,0:29:07.76,Sign-Letter,,0,0,0,,{\pos(849.45,595.485)\fscx107.84\fscy107.84\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.76,0:29:07.80,Sign-Letter,,0,0,0,,{\pos(858.27,605.22)\fscx105.62\fscy105.62\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.80,0:29:07.85,Sign-Letter,,0,0,0,,{\pos(866.745,614.775)\fscx103.47\fscy103.47\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.85,0:29:07.89,Sign-Letter,,0,0,0,,{\pos(874.395,623.025)\fscx101.55\fscy101.55\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.89,0:29:07.93,Sign-Letter,,0,0,0,,{\pos(880.5,630)\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.93,0:29:07.97,Sign-Letter,,0,0,0,,{\pos(886.215,636.24)\fscx98.55\fscy98.55\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:07.97,0:29:08.01,Sign-Letter,,0,0,0,,{\pos(889.92,640.785)\fscx97.61\fscy97.61\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.01,0:29:08.05,Sign-Letter,,0,0,0,,{\pos(892.125,643.65)\fscx97.05\fscy97.05\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.05,0:29:08.14,Sign-Letter,,0,0,0,,{\pos(893.64,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.14,0:29:08.18,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.18,0:29:08.22,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.22,0:29:08.26,Sign-Letter,,0,0,0,,{\pos(893.7,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.26,0:29:08.35,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.35,0:29:08.39,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.39,0:29:08.51,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.51,0:29:08.55,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.55,0:29:08.68,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.68,0:29:08.76,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.76,0:29:08.81,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.81,0:29:08.93,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.93,0:29:08.97,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:08.97,0:29:09.01,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.01,0:29:09.06,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.06,0:29:09.10,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.10,0:29:09.14,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.14,0:29:09.18,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.18,0:29:09.31,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.31,0:29:09.43,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.43,0:29:09.47,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.47,0:29:09.51,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.51,0:29:09.64,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.64,0:29:09.68,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.68,0:29:09.72,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.72,0:29:09.76,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.76,0:29:09.93,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.93,0:29:09.97,Sign-Letter,,0,0,0,,{\pos(893.67,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:09.97,0:29:10.01,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:10.01,0:29:10.06,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:10.06,0:29:10.10,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:10.10,0:29:10.14,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:10.14,0:29:10.18,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:10.18,0:29:10.31,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}Take a look  {\frz29}at their ship.
-Dialogue: 0,0:29:05.34,0:29:06.59,Sign-Letter,,0,0,0,,{\pos(1014.51,666.435)\fscx192.59\fscy192.59\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:06.59,0:29:06.84,Sign-Letter,,0,0,0,,{\pos(1014.525,666.42)\fscx192.58\fscy192.58\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:06.84,0:29:06.89,Sign-Letter,,0,0,0,,{\pos(1014.465,666.435)\fscx192.61\fscy192.61\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:06.89,0:29:06.93,Sign-Letter,,0,0,0,,{\pos(1015.98,668.91)\fscx191.51\fscy191.51\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:06.93,0:29:06.97,Sign-Letter,,0,0,0,,{\pos(1019.925,674.775)\fscx188.63\fscy188.63\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:06.97,0:29:07.01,Sign-Letter,,0,0,0,,{\pos(1025.1,682.995)\fscx184.8\fscy184.8\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.01,0:29:07.05,Sign-Letter,,0,0,0,,{\pos(1031.52,693.195)\fscx180.03\fscy180.03\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.05,0:29:07.10,Sign-Letter,,0,0,0,,{\pos(1038.36,703.605)\fscx175.03\fscy175.03\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.10,0:29:07.14,Sign-Letter,,0,0,0,,{\pos(1045.71,714.81)\fscx169.63\fscy169.63\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.14,0:29:07.18,Sign-Letter,,0,0,0,,{\pos(1053.18,726.645)\fscx164.1\fscy164.1\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.18,0:29:07.22,Sign-Letter,,0,0,0,,{\pos(1060.74,738.645)\fscx158.51\fscy158.51\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.22,0:29:07.26,Sign-Letter,,0,0,0,,{\pos(1067.625,749.25)\fscx153.42\fscy153.42\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.26,0:29:07.30,Sign-Letter,,0,0,0,,{\pos(1074.435,759.735)\fscx148.44\fscy148.44\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.30,0:29:07.35,Sign-Letter,,0,0,0,,{\pos(1080.705,770.085)\fscx143.74\fscy143.74\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.35,0:29:07.39,Sign-Letter,,0,0,0,,{\pos(1087.635,780.945)\fscx138.62\fscy138.62\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.39,0:29:07.43,Sign-Letter,,0,0,0,,{\pos(1093.155,789.195)\fscx134.59\fscy134.59\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.43,0:29:07.47,Sign-Letter,,0,0,0,,{\pos(1098.825,798.075)\fscx130.4\fscy130.4\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.47,0:29:07.51,Sign-Letter,,0,0,0,,{\pos(1104.045,806.565)\fscx126.51\fscy126.51\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.51,0:29:07.55,Sign-Letter,,0,0,0,,{\pos(1109.175,814.29)\fscx122.72\fscy122.72\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.55,0:29:07.60,Sign-Letter,,0,0,0,,{\pos(1113.84,821.64)\fscx119.29\fscy119.29\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.60,0:29:07.64,Sign-Letter,,0,0,0,,{\pos(1118.01,828.57)\fscx116.19\fscy116.19\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.64,0:29:07.68,Sign-Letter,,0,0,0,,{\pos(1122.135,834.69)\fscx113.17\fscy113.17\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.68,0:29:07.72,Sign-Letter,,0,0,0,,{\pos(1126.11,841.11)\fscx110.26\fscy110.26\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.72,0:29:07.76,Sign-Letter,,0,0,0,,{\pos(1129.305,846.225)\fscx107.84\fscy107.84\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.76,0:29:07.80,Sign-Letter,,0,0,0,,{\pos(1132.365,850.785)\fscx105.62\fscy105.62\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.80,0:29:07.85,Sign-Letter,,0,0,0,,{\pos(1135.245,855.33)\fscx103.47\fscy103.47\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.85,0:29:07.89,Sign-Letter,,0,0,0,,{\pos(1137.93,859.14)\fscx101.55\fscy101.55\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.89,0:29:07.93,Sign-Letter,,0,0,0,,{\pos(1140,862.5)\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.93,0:29:07.97,Sign-Letter,,0,0,0,,{\pos(1141.935,865.365)\fscx98.55\fscy98.55\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:07.97,0:29:08.01,Sign-Letter,,0,0,0,,{\pos(1143.21,867.72)\fscx97.61\fscy97.61\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.01,0:29:08.05,Sign-Letter,,0,0,0,,{\pos(1143.96,869.28)\fscx97.05\fscy97.05\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.05,0:29:08.14,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.14,0:29:08.18,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.18,0:29:08.35,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.35,0:29:08.47,Sign-Letter,,0,0,0,,{\pos(1144.5,869.58)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.47,0:29:08.51,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.51,0:29:08.55,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.55,0:29:08.72,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:08.72,0:29:09.06,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:09.06,0:29:09.10,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:09.10,0:29:09.93,Sign-Letter,,0,0,0,,{\pos(1144.5,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:09.93,0:29:09.97,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:09.97,0:29:10.01,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:10.01,0:29:10.06,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:10.06,0:29:10.10,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:10.10,0:29:10.14,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:10.14,0:29:10.18,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
-Dialogue: 0,0:29:10.18,0:29:10.31,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}Kokoro
+Dialogue: 0,0:29:05.34,0:29:05.39,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.39,0:29:05.51,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.51,0:29:05.64,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.64,0:29:05.84,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.84,0:29:05.89,Sign-Letter,,0,0,0,,{\pos(514.74,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.89,0:29:06.05,Sign-Letter,,0,0,0,,{\pos(514.755,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.05,0:29:06.59,Sign-Letter,,0,0,0,,{\pos(514.77,218.655)\fscx192.59\fscy192.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.59,0:29:06.64,Sign-Letter,,0,0,0,,{\pos(514.77,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.64,0:29:06.72,Sign-Letter,,0,0,0,,{\pos(514.785,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.72,0:29:06.80,Sign-Letter,,0,0,0,,{\pos(514.8,218.67)\fscx192.58\fscy192.58\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.80,0:29:06.84,Sign-Letter,,0,0,0,,{\pos(514.785,218.655)\fscx192.58\fscy192.58\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.84,0:29:06.89,Sign-Letter,,0,0,0,,{\pos(514.635,218.61)\fscx192.61\fscy192.61\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.89,0:29:06.93,Sign-Letter,,0,0,0,,{\pos(519.015,223.635)\fscx191.51\fscy191.51\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.93,0:29:06.97,Sign-Letter,,0,0,0,,{\pos(530.43,236.205)\fscx188.63\fscy188.63\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:06.97,0:29:07.01,Sign-Letter,,0,0,0,,{\pos(545.535,253.335)\fscx184.8\fscy184.8\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.01,0:29:07.05,Sign-Letter,,0,0,0,,{\pos(564.345,274.62)\fscx180.03\fscy180.03\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.05,0:29:07.10,Sign-Letter,,0,0,0,,{\pos(584.16,296.67)\fscx175.03\fscy175.03\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.10,0:29:07.14,Sign-Letter,,0,0,0,,{\pos(605.535,320.43)\fscx169.63\fscy169.63\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.14,0:29:07.18,Sign-Letter,,0,0,0,,{\pos(627.33,345.12)\fscx164.1\fscy164.1\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.18,0:29:07.22,Sign-Letter,,0,0,0,,{\pos(649.395,370.095)\fscx158.51\fscy158.51\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.22,0:29:07.26,Sign-Letter,,0,0,0,,{\pos(669.51,392.565)\fscx153.42\fscy153.42\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.26,0:29:07.30,Sign-Letter,,0,0,0,,{\pos(689.235,414.615)\fscx148.44\fscy148.44\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.30,0:29:07.35,Sign-Letter,,0,0,0,,{\pos(707.715,435.9)\fscx143.74\fscy143.74\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.35,0:29:07.39,Sign-Letter,,0,0,0,,{\pos(727.92,458.655)\fscx138.62\fscy138.62\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.39,0:29:07.43,Sign-Letter,,0,0,0,,{\pos(743.895,476.265)\fscx134.59\fscy134.59\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.43,0:29:07.47,Sign-Letter,,0,0,0,,{\pos(760.455,494.895)\fscx130.4\fscy130.4\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.47,0:29:07.51,Sign-Letter,,0,0,0,,{\pos(775.755,512.43)\fscx126.51\fscy126.51\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.51,0:29:07.55,Sign-Letter,,0,0,0,,{\pos(790.71,528.96)\fscx122.72\fscy122.72\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.55,0:29:07.60,Sign-Letter,,0,0,0,,{\pos(804.285,544.29)\fscx119.29\fscy119.29\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.60,0:29:07.64,Sign-Letter,,0,0,0,,{\pos(816.51,558.42)\fscx116.19\fscy116.19\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.64,0:29:07.68,Sign-Letter,,0,0,0,,{\pos(828.45,571.56)\fscx113.17\fscy113.17\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.68,0:29:07.72,Sign-Letter,,0,0,0,,{\pos(840,584.76)\fscx110.26\fscy110.26\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.72,0:29:07.76,Sign-Letter,,0,0,0,,{\pos(849.45,595.485)\fscx107.84\fscy107.84\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.76,0:29:07.80,Sign-Letter,,0,0,0,,{\pos(858.27,605.22)\fscx105.62\fscy105.62\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.80,0:29:07.85,Sign-Letter,,0,0,0,,{\pos(866.745,614.775)\fscx103.47\fscy103.47\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.85,0:29:07.89,Sign-Letter,,0,0,0,,{\pos(874.395,623.025)\fscx101.55\fscy101.55\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.89,0:29:07.93,Sign-Letter,,0,0,0,,{\pos(880.5,630)\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.93,0:29:07.97,Sign-Letter,,0,0,0,,{\pos(886.215,636.24)\fscx98.55\fscy98.55\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:07.97,0:29:08.01,Sign-Letter,,0,0,0,,{\pos(889.92,640.785)\fscx97.61\fscy97.61\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.01,0:29:08.05,Sign-Letter,,0,0,0,,{\pos(892.125,643.65)\fscx97.05\fscy97.05\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.05,0:29:08.14,Sign-Letter,,0,0,0,,{\pos(893.64,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.14,0:29:08.18,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.18,0:29:08.22,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.22,0:29:08.26,Sign-Letter,,0,0,0,,{\pos(893.7,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.26,0:29:08.35,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.35,0:29:08.39,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.39,0:29:08.51,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.66\fscy96.66\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.51,0:29:08.55,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.55,0:29:08.68,Sign-Letter,,0,0,0,,{\pos(893.67,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.68,0:29:08.76,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.76,0:29:08.81,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.81,0:29:08.93,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.93,0:29:08.97,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:08.97,0:29:09.01,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.01,0:29:09.06,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.06,0:29:09.10,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.10,0:29:09.14,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.14,0:29:09.18,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.18,0:29:09.31,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.31,0:29:09.43,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.43,0:29:09.47,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.47,0:29:09.51,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.51,0:29:09.64,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.64,0:29:09.68,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.68,0:29:09.72,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.72,0:29:09.76,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.76,0:29:09.93,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.93,0:29:09.97,Sign-Letter,,0,0,0,,{\pos(893.67,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:09.97,0:29:10.01,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:10.01,0:29:10.06,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:10.06,0:29:10.10,Sign-Letter,,0,0,0,,{\pos(893.685,644.85)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:10.10,0:29:10.14,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:10.14,0:29:10.18,Sign-Letter,,0,0,0,,{\pos(893.7,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:10.18,0:29:10.31,Sign-Letter,,0,0,0,,{\pos(893.685,644.865)\fscx96.65\fscy96.65\frz16\blur0.9}看看{\frz29}他們的船
+Dialogue: 0,0:29:05.34,0:29:06.59,Sign-Letter,,0,0,0,,{\pos(1014.51,666.435)\fscx192.59\fscy192.59\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:06.59,0:29:06.84,Sign-Letter,,0,0,0,,{\pos(1014.525,666.42)\fscx192.58\fscy192.58\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:06.84,0:29:06.89,Sign-Letter,,0,0,0,,{\pos(1014.465,666.435)\fscx192.61\fscy192.61\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:06.89,0:29:06.93,Sign-Letter,,0,0,0,,{\pos(1015.98,668.91)\fscx191.51\fscy191.51\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:06.93,0:29:06.97,Sign-Letter,,0,0,0,,{\pos(1019.925,674.775)\fscx188.63\fscy188.63\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:06.97,0:29:07.01,Sign-Letter,,0,0,0,,{\pos(1025.1,682.995)\fscx184.8\fscy184.8\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.01,0:29:07.05,Sign-Letter,,0,0,0,,{\pos(1031.52,693.195)\fscx180.03\fscy180.03\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.05,0:29:07.10,Sign-Letter,,0,0,0,,{\pos(1038.36,703.605)\fscx175.03\fscy175.03\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.10,0:29:07.14,Sign-Letter,,0,0,0,,{\pos(1045.71,714.81)\fscx169.63\fscy169.63\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.14,0:29:07.18,Sign-Letter,,0,0,0,,{\pos(1053.18,726.645)\fscx164.1\fscy164.1\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.18,0:29:07.22,Sign-Letter,,0,0,0,,{\pos(1060.74,738.645)\fscx158.51\fscy158.51\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.22,0:29:07.26,Sign-Letter,,0,0,0,,{\pos(1067.625,749.25)\fscx153.42\fscy153.42\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.26,0:29:07.30,Sign-Letter,,0,0,0,,{\pos(1074.435,759.735)\fscx148.44\fscy148.44\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.30,0:29:07.35,Sign-Letter,,0,0,0,,{\pos(1080.705,770.085)\fscx143.74\fscy143.74\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.35,0:29:07.39,Sign-Letter,,0,0,0,,{\pos(1087.635,780.945)\fscx138.62\fscy138.62\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.39,0:29:07.43,Sign-Letter,,0,0,0,,{\pos(1093.155,789.195)\fscx134.59\fscy134.59\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.43,0:29:07.47,Sign-Letter,,0,0,0,,{\pos(1098.825,798.075)\fscx130.4\fscy130.4\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.47,0:29:07.51,Sign-Letter,,0,0,0,,{\pos(1104.045,806.565)\fscx126.51\fscy126.51\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.51,0:29:07.55,Sign-Letter,,0,0,0,,{\pos(1109.175,814.29)\fscx122.72\fscy122.72\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.55,0:29:07.60,Sign-Letter,,0,0,0,,{\pos(1113.84,821.64)\fscx119.29\fscy119.29\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.60,0:29:07.64,Sign-Letter,,0,0,0,,{\pos(1118.01,828.57)\fscx116.19\fscy116.19\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.64,0:29:07.68,Sign-Letter,,0,0,0,,{\pos(1122.135,834.69)\fscx113.17\fscy113.17\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.68,0:29:07.72,Sign-Letter,,0,0,0,,{\pos(1126.11,841.11)\fscx110.26\fscy110.26\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.72,0:29:07.76,Sign-Letter,,0,0,0,,{\pos(1129.305,846.225)\fscx107.84\fscy107.84\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.76,0:29:07.80,Sign-Letter,,0,0,0,,{\pos(1132.365,850.785)\fscx105.62\fscy105.62\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.80,0:29:07.85,Sign-Letter,,0,0,0,,{\pos(1135.245,855.33)\fscx103.47\fscy103.47\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.85,0:29:07.89,Sign-Letter,,0,0,0,,{\pos(1137.93,859.14)\fscx101.55\fscy101.55\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.89,0:29:07.93,Sign-Letter,,0,0,0,,{\pos(1140,862.5)\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.93,0:29:07.97,Sign-Letter,,0,0,0,,{\pos(1141.935,865.365)\fscx98.55\fscy98.55\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:07.97,0:29:08.01,Sign-Letter,,0,0,0,,{\pos(1143.21,867.72)\fscx97.61\fscy97.61\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.01,0:29:08.05,Sign-Letter,,0,0,0,,{\pos(1143.96,869.28)\fscx97.05\fscy97.05\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.05,0:29:08.14,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.14,0:29:08.18,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.18,0:29:08.35,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.35,0:29:08.47,Sign-Letter,,0,0,0,,{\pos(1144.5,869.58)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.47,0:29:08.51,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.66\fscy96.66\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.51,0:29:08.55,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.55,0:29:08.72,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:08.72,0:29:09.06,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:09.06,0:29:09.10,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:09.10,0:29:09.93,Sign-Letter,,0,0,0,,{\pos(1144.5,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:09.93,0:29:09.97,Sign-Letter,,0,0,0,,{\pos(1144.485,869.58)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:09.97,0:29:10.01,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:10.01,0:29:10.06,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:10.06,0:29:10.10,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:10.10,0:29:10.14,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:10.14,0:29:10.18,Sign-Letter,,0,0,0,,{\pos(1144.5,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
+Dialogue: 0,0:29:10.18,0:29:10.31,Sign-Letter,,0,0,0,,{\pos(1144.485,869.565)\fscx96.65\fscy96.65\frz21.15\fs67.5\blur0.9}可可羅
 Dialogue: 0,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\c&H030303&\blur0.5}It's all right! {Now let's move forward}It's time to move on
 Dialogue: 1,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\bord0\4a&HFF&\blur0.5}It's all right! {Now let's move forward}It's time to move on
 Dialogue: 2,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\bord0\4a&HFF&\blur0.5}It's all right! {Now let's move forward}It's time to move on

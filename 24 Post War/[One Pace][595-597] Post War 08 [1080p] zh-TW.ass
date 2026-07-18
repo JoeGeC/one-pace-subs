@@ -22,8 +22,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:02:34.18,0:02:36.70,Narrator-207+,,0,0,100,,白鬍子的時代結束了。
 Dialogue: 50,0:02:36.70,0:02:41.11,Narrator-207+,,0,0,200,,熊熊的野心驅使著\N世界各地的海賊採取行動。
 Dialogue: 50,0:02:41.11,0:02:45.01,Narrator-207+,,0,0,100,,然後是特拉法爾加·羅⋯⋯

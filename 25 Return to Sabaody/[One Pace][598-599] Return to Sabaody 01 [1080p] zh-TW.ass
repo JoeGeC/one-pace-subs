@@ -29,8 +29,8 @@ Style: We Go Roger Main,Impress BT Pace,82,&H00FFFFFF,&H000019FF,&H00000000,&H78
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:00:09.79,0:00:13.01,Narrator-207+,,0,0,100,,自從海軍本部、七武海
 Dialogue: 50,0:00:13.01,0:00:18.55,Narrator-207+,,0,0,200,,和白鬍子海賊團之間的戰爭\N已經過了兩年。
 Dialogue: 50,0:00:20.14,0:00:25.71,Narrator-207+,,0,0,200,,在女人之島西北方\N的無人島路斯卡伊納......{Z}
@@ -109,7 +109,7 @@ Dialogue: 50,0:07:24.43,0:07:24.83,Main-207+,,0,0,0,,骨頭！ {\alpha&HFF&}骨�
 Dialogue: 50,0:07:24.83,0:07:25.31,Main-207+,,0,0,0,,骨頭！ 骨頭！{\alpha&HFF&} 骨頭！
 Dialogue: 50,0:07:25.31,0:07:25.86,Main-207+,,0,0,0,,骨頭！ 骨頭！ 骨頭！
 Dialogue: 50,0:07:25.86,0:07:28.33,Main-207+,,0,0,0,,骨頭！
-Dialogue: 50,0:07:34.71,0:07:40.01,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}{It's nonsense to become\Nmacho just to attract women}♪ Bone to be wild! ♪
+Dialogue: 50,0:07:34.71,0:07:40.01,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}{It's nonsense to become\Nmacho just to attract women}♪ 天生骨感狂野！♪
 Dialogue: 50,0:07:38.98,0:07:41.01,Main-207+,,0,0,0,,真不敢相信......
 Dialogue: 50,0:07:41.01,0:07:43.16,Main-207+,,0,0,0,,他怎麼能這麼自私？！
 Dialogue: 50,0:07:43.16,0:07:45.65,Main-207+,,0,0,0,,喂，給我一隻電話蟲！
@@ -442,14 +442,14 @@ Dialogue: 50,0:28:56.55,0:28:59.72,Main-207+,,0,0,0,,從那黑暗、寂靜、霧
 Dialogue: 50,0:28:59.72,0:29:03.69,Main-207+,,0,0,0,,被推到了明亮的舞台上\N被大批粉絲歡呼著。
 Dialogue: 50,0:29:10.17,0:29:12.17,Main-207+,,0,0,0,,他也許不會......
 Dialogue: 50,0:29:13.77,0:29:19.81,Main-207+,,0,0,8,,再想當海賊了。
-Dialogue: 50,0:29:21.28,0:29:25.58,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ Soul King is mysterious... ♪
-Dialogue: 50,0:29:26.35,0:29:29.18,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ He's nothing but bones! ♪
-Dialogue: 50,0:29:31.42,0:29:39.39,Rock Concert Main,,0,0,0,,{\fad(150,150)\q2}♪ Afro on the skull! Girls love the contrast! ♪
-Dialogue: 50,0:29:35.76,0:29:39.39,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}♪ – Girls love the contrast! ♪\N♪ – Girls love the contrast! ♪
-Dialogue: 50,0:29:39.39,0:29:43.80,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ Wanna make her weak in the knees? ♪
-Dialogue: 50,0:29:43.80,0:29:46.37,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ Got milk! Got milk! ♪
-Dialogue: 50,0:29:46.37,0:29:54.34,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ You need more calcium than protein! ♪
-Dialogue: 50,0:29:52.41,0:29:54.34,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}♪ – Ah-ahhh...! ♪\N♪ – Ah-ahhh...! ♪
+Dialogue: 50,0:29:21.28,0:29:25.58,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ 靈魂之王神秘兮兮… ♪
+Dialogue: 50,0:29:26.35,0:29:29.18,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ 他全身只剩骨頭！♪
+Dialogue: 50,0:29:31.42,0:29:39.39,Rock Concert Main,,0,0,0,,{\fad(150,150)\q2}♪ 骷髏頭上頂爆炸頭！女孩最愛這反差！♪
+Dialogue: 50,0:29:35.76,0:29:39.39,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}♪ －女孩最愛這反差！♪\N♪ －女孩最愛這反差！♪
+Dialogue: 50,0:29:39.39,0:29:43.80,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ 想讓她雙腿發軟嗎？♪
+Dialogue: 50,0:29:43.80,0:29:46.37,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ 多喝牛奶！多喝牛奶！♪
+Dialogue: 50,0:29:46.37,0:29:54.34,Rock Concert Main,,0,0,0,,{\fad(150,150)}♪ 你需要的鈣比蛋白質還多！♪
+Dialogue: 50,0:29:52.41,0:29:54.34,Rock Concert Secondary,,0,0,0,,{\an8\fad(150,150)}♪ －啊～啊啊…！♪\N♪ －啊～啊啊…！♪
 Dialogue: 50,0:29:57.68,0:30:00.75,Main-207+,,0,0,0,,你倒是說句話啊？
 Dialogue: 50,0:30:00.75,0:30:04.75,Main-207+,,0,0,0,,你是知道我是誰才撞我的嗎？
 Dialogue: 50,0:30:05.29,0:30:08.39,Main-207+,,0,0,0,,用你的眼睛看！\N你讓我出醜了。

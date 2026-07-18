@@ -76,9 +76,9 @@ Dialogue: 0,0:01:34.41,0:01:36.36,Captions,,0,0,200,,{\an8\pos(640,100)\fad(0,40
 Dialogue: 0,0:01:36.36,0:01:39.44,Captions,,0,0,100,,{\an8\pos(640,100)\fad(500,0)}利克王軍反抗總部
 Dialogue: 0,0:01:40.08,0:01:42.25,Main,Thunder Soldier,0,0,0,,大家都準備好了嗎？
 Dialogue: 0,0:01:42.25,0:01:44.05,Main,Gnome,0,0,0,,{\i1}好！
-Dialogue: 1,0:01:44.05,0:01:49.02,OP_664_Signs,Caption,0,0,0,,{\pos(1064,146)\blur(0.4)}Flower Fields\N(Current Location)
+Dialogue: 1,0:01:44.05,0:01:49.02,OP_664_Signs,Caption,0,0,0,,{\pos(1064,146)\blur(0.4)}花田\N（目前位置）
 Dialogue: 0,0:01:44.05,0:01:49.02,OP_664_White_Box,Caption,0,0,0,,{\blur(1)\p1\pos(1064.6,183.4)}m 0 0 l 250 0 250 145 0 145{\p0}
-Dialogue: 1,0:01:46.31,0:01:49.02,OP_664_Signs,Caption,0,0,0,,{\fad(404,0)\blur0.4\pos(547,601)\fs(54)}Trading port
+Dialogue: 1,0:01:46.31,0:01:49.02,OP_664_Signs,Caption,0,0,0,,{\fad(404,0)\blur0.4\pos(547,601)\fs(54)}貿易港
 Dialogue: 0,0:01:46.31,0:01:46.37,OP_664_White_Box,Caption,0,0,0,,{\c&HAD948B&\blur1\p1\pos(547.267,624.733)}m 0 0 l 280 0 280 103 0 103{\p0}
 Dialogue: 0,0:01:46.37,0:01:46.40,OP_664_White_Box,Caption,0,0,0,,{\c&HB39E96&\blur1\p1\pos(547.267,624.733)}m 0 0 l 280 0 280 103 0 103{\p0}
 Dialogue: 0,0:01:46.40,0:01:46.43,OP_664_White_Box,Caption,0,0,0,,{\c&HBDA9A1&\blur1\p1\pos(547.267,624.733)}m 0 0 l 280 0 280 103 0 103{\p0}
@@ -297,11 +297,11 @@ Dialogue: 0,0:14:22.12,0:14:25.81,Main,Leo,0,0,0,,我們有英雄騙人蘭與我
 Dialogue: 0,0:14:25.81,0:14:31.37,Main,Leo,0,0,0,,騙人蘭，請你領導SOP作戰，幫我們把砂糖擊昏。
 Dialogue: 0,0:14:39.59,0:14:44.10,Thoughts,Usopp,0,0,0,,那不是最重要的工作嗎？！
 Dialogue: 0,0:14:48.89,0:14:50.86,Main,Leo,0,0,0,,我們現在就在這裡。
-Dialogue: 0,0:14:53.42,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(324,706,393,662,5,1474)}Trebol
-Dialogue: 0,0:14:53.42,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(634,724,631,662,5,1307)}Sugar
+Dialogue: 0,0:14:53.42,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(324,706,393,662,5,1474)}托雷波爾
+Dialogue: 0,0:14:53.42,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(634,724,631,662,5,1307)}砂糖
 Dialogue: 0,0:14:53.89,0:14:55.64,Captions,,0,500,100,,{\an8\pos(640,100)}幹部之塔
 Dialogue: 0,0:14:51.83,0:14:54.11,Main,Leo,0,0,100,,{\an8\pos(640,100)}所有的橋都是可移動的。
-Dialogue: 0,0:14:52.82,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(236,96,343,156,5,2107)}Lift
+Dialogue: 0,0:14:52.82,0:14:55.64,OP_665_Signs,,0,500,80,,{\move(236,96,343,156,5,2107)}升降機
 Dialogue: 0,0:14:53.52,0:14:55.64,Captions,,0,500,100,,{\an8\pos(640,210)}工廠
 Dialogue: 0,0:14:53.52,0:14:55.64,Captions,,0,500,200,,{\an8\pos(640,320)}地下\N通道
 Dialogue: 0,0:14:55.64,0:14:58.56,Main,Leo,0,0,0,,而遠處那座建築物…
@@ -348,12 +348,12 @@ Dialogue: 0,0:17:02.17,0:17:05.87,OP_665_White_Box,,0,0,0,,{\fscy110\fscx100\bor
 Dialogue: 0,0:17:02.17,0:17:05.87,OP_665_White_Box,,0,0,0,,{\fscy110\fscx100\bord0\blur5\pos(154.286,700.571)}{\1c&HC9D6D6&\3c&HC9D6D6&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HB9C7C4&\3c&HB9C7C4&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HBCCBC9&\3c&HBCCBC9&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HBCCBC9&\3c&HBCCBC9&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HC6D6D5&\3c&HC6D6D5&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0
 Dialogue: 0,0:17:02.17,0:17:05.87,OP_665_White_Box,,0,0,0,,{\fscy110\fscx100\bord0\blur5\pos(109.286,503.428)}{\1c&HB0BEBD&\3c&HB0BEBD&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HC5D3D1&\3c&HC5D3D1&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HCFDDDB&\3c&HCFDDDB&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HC2D1CF&\3c&HC2D1CF&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HB7C4C1&\3c&HB7C4C1&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HC5D2D2&\3c&HC5D2D2&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HCFDDDD&\3c&HCFDDDD&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HDCE8E7&\3c&HDCE8E7&}{\p1}m 0 0 l 0 -80 l 30 -80 l 30 0{\p0}
 Dialogue: 0,0:17:02.17,0:17:05.87,OP_665_White_Box,,0,0,0,,{\fscy110\fscx100\bord0\blur5\pos(120.286,498.428)}{\1c&HB5C3C1&\3c&HB0BEBD&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HC7D5D4&\3c&HC7D5D4&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HC2D1CF&\3c&HC2D1CF&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HBFCDCC&\3c&HBFCDCC&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0 {\p0}{\1c&HB5C1C0&\3c&HB5C1C0&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HC5D2D1&\3c&HC5D2D1&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}{\1c&HCFDDDD&\3c&HCFDDDD&}{\p1}m 0 0 l 0 -80 l 25 -80 l 25 0{\p0}
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Top left caption,0,0,0,,{\pos(225.143,190)\blur0.5}Royal Palace
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Middle left caption,0,0,0,,{\pos(207,410)\blur0.5}The Toys' \NHouse
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Middle right caption,0,0,0,,{\pos(1072,398)\blur0.5}Officer's \NTower
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom left caption,0,0,0,,{\pos(206.857,602.571)\blur0.5}Trading \NPort
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom middle caption,0,0,0,,{\bord1.5\be1\pos(433.571,531.143)}Factory
-Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom right caption,0,0,0,,{\pos(1069.714,566)\blur0.5}Lift Junction
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Top left caption,0,0,0,,{\pos(225.143,190)\blur0.5}王宮
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Middle left caption,0,0,0,,{\pos(207,410)\blur0.5}玩具\N屋
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Middle right caption,0,0,0,,{\pos(1072,398)\blur0.5}幹部\N之塔
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom left caption,0,0,0,,{\pos(206.857,602.571)\blur0.5}貿易\N港
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom middle caption,0,0,0,,{\bord1.5\be1\pos(433.571,531.143)}工廠
+Dialogue: 1,0:17:02.17,0:17:05.87,OP_665_Signs,Bottom right caption,0,0,0,,{\pos(1069.714,566)\blur0.5}升降機交會處
 Dialogue: 0,0:17:02.34,0:17:05.87,Captions,,0,0,200,,{\an8\pos(898,100)\fad(580,0)\fs40}王宮、玩具屋、交易港、\N幹部之塔與升降機交會處配置圖
 Dialogue: 0,0:17:06.23,0:17:08.19,Main,Grunt,0,0,0,,快點上來！
 Dialogue: 0,0:17:08.19,0:17:11.08,Main,Grunt,0,0,0,,玩具屋有入侵者！

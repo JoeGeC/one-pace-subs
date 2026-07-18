@@ -24,8 +24,8 @@ Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 55,0:01:54.31,0:02:00.89,Thoughts-207+,,0,0,0,,{\q2}魯夫和羅賓需要休養，所以前進梅利號\N在無人島附近停泊了四天。{Z}
 Dialogue: 55,0:02:00.89,0:02:05.85,Thoughts-207+,,0,0,0,,{\q2}之後我們啟航了，現在是\N重新出航後的第三個早晨。{Z}
 Dialogue: 55,0:02:05.85,0:02:08.69,Thoughts-207+,,0,0,0,,今天的天氣是春天般的好天氣⋯⋯{Z}
@@ -626,47 +626,47 @@ Dialogue: 0,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\an7\pos(277.14,432.285)\fsc
 Dialogue: 0,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\an7\pos(278.01,431.925)\fscx84.13\fscy84.13\c&HFCFCFC&\blur1.5\p1}m 153 -171 l 333 -153 187.5 -10.5 73.5 183 1.5 277.5 -40.5 322.5 -156 195
 Dialogue: 0,0:16:31.67,0:16:32.17,Sign-Map,,0,0,0,,{\an7\pos(278.265,431.685)\fscx84.1\fscy84.1\c&HFCFCFC&\blur1.5\p1}m 153 -171 l 333 -153 187.5 -10.5 73.5 183 1.5 277.5 -40.5 322.5 -156 195
 Dialogue: 0,0:16:32.17,0:16:32.38,Sign-Map,,0,0,0,,{\an7\pos(278.28,431.685)\fscx84.11\fscy84.11\c&HFCFCFC&\blur1.5\p1}m 153 -171 l 333 -153 187.5 -10.5 73.5 183 1.5 277.5 -40.5 322.5 -156 195
-Dialogue: 1,0:16:30.17,0:16:30.21,Sign-Map,,0,0,0,,{\pos(325.68,499.245)\fscx207.92\fscy207.92\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.21,0:16:30.26,Sign-Map,,0,0,0,,{\pos(329.085,497.475)\fscx206.45\fscy206.45\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.26,0:16:30.30,Sign-Map,,0,0,0,,{\pos(332.835,495.3)\fscx204.49\fscy204.49\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.30,0:16:30.34,Sign-Map,,0,0,0,,{\pos(336.03,493.62)\fscx203.04\fscy203.04\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.34,0:16:30.38,Sign-Map,,0,0,0,,{\pos(339.105,491.91)\fscx201.48\fscy201.48\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.38,0:16:30.42,Sign-Map,,0,0,0,,{\pos(342.615,489.96)\fscx199.84\fscy199.84\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.42,0:16:30.46,Sign-Map,,0,0,0,,{\pos(345.975,488.07)\fscx198.12\fscy198.12\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.46,0:16:30.51,Sign-Map,,0,0,0,,{\pos(349.23,486.24)\fscx196.67\fscy196.67\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.51,0:16:30.55,Sign-Map,,0,0,0,,{\pos(352.5,484.5)\fscx195\fscy195\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.55,0:16:30.59,Sign-Map,,0,0,0,,{\pos(355.98,482.52)\fscx193.12\fscy193.12\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.59,0:16:30.63,Sign-Map,,0,0,0,,{\pos(358.95,480.84)\fscx191.63\fscy191.63\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.63,0:16:30.67,Sign-Map,,0,0,0,,{\pos(362.295,479.07)\fscx190.12\fscy190.12\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.67,0:16:30.71,Sign-Map,,0,0,0,,{\pos(365.445,477.285)\fscx188.45\fscy188.45\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.71,0:16:30.76,Sign-Map,,0,0,0,,{\pos(368.88,475.425)\fscx186.92\fscy186.92\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.76,0:16:30.80,Sign-Map,,0,0,0,,{\pos(372.15,473.625)\fscx185.3\fscy185.3\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.80,0:16:30.84,Sign-Map,,0,0,0,,{\pos(375.315,471.915)\fscx183.84\fscy183.84\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.84,0:16:30.88,Sign-Map,,0,0,0,,{\pos(378.3,470.265)\fscx182.4\fscy182.4\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.88,0:16:30.92,Sign-Map,,0,0,0,,{\pos(381.465,468.525)\fscx180.79\fscy180.79\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.92,0:16:30.96,Sign-Map,,0,0,0,,{\pos(384.48,466.845)\fscx179.4\fscy179.4\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:30.96,0:16:31.01,Sign-Map,,0,0,0,,{\pos(387.57,465.18)\fscx177.95\fscy177.95\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.01,0:16:31.05,Sign-Map,,0,0,0,,{\pos(390.405,463.53)\fscx176.35\fscy176.35\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.05,0:16:31.09,Sign-Map,,0,0,0,,{\pos(393.165,462.075)\fscx175.14\fscy175.14\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.09,0:16:31.13,Sign-Map,,0,0,0,,{\pos(395.925,460.56)\fscx173.79\fscy173.79\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.13,0:16:31.17,Sign-Map,,0,0,0,,{\pos(398.43,459.09)\fscx172.41\fscy172.41\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.17,0:16:31.22,Sign-Map,,0,0,0,,{\pos(400.785,457.815)\fscx171.28\fscy171.28\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.22,0:16:31.26,Sign-Map,,0,0,0,,{\pos(402.915,456.66)\fscx170.28\fscy170.28\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.26,0:16:31.30,Sign-Map,,0,0,0,,{\pos(405.06,455.46)\fscx169.34\fscy169.34\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.30,0:16:31.34,Sign-Map,,0,0,0,,{\pos(406.92,454.41)\fscx168.33\fscy168.33\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.34,0:16:31.38,Sign-Map,,0,0,0,,{\pos(408.6,453.45)\fscx167.46\fscy167.46\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.38,0:16:31.42,Sign-Map,,0,0,0,,{\pos(410.205,452.55)\fscx166.58\fscy166.58\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.42,0:16:31.47,Sign-Map,,0,0,0,,{\pos(411.45,451.83)\fscx165.97\fscy165.97\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.47,0:16:31.51,Sign-Map,,0,0,0,,{\pos(412.635,451.17)\fscx165.44\fscy165.44\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.51,0:16:31.55,Sign-Map,,0,0,0,,{\pos(413.505,450.72)\fscx164.97\fscy164.97\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.55,0:16:31.59,Sign-Map,,0,0,0,,{\pos(414.375,450.315)\fscx164.61\fscy164.61\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\pos(415.05,450)\fscx164.48\fscy164.48\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\pos(415.575,449.58)\fscx164.06\fscy164.06\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.67,0:16:31.72,Sign-Map,,0,0,0,,{\pos(415.77,449.355)\fscx164\fscy164\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:31.72,0:16:32.17,Sign-Map,,0,0,0,,{\pos(415.785,449.34)\fscx164\fscy164\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:32.17,0:16:32.26,Sign-Map,,0,0,0,,{\pos(415.785,449.355)\fscx164.01\fscy164.01\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:32.26,0:16:32.30,Sign-Map,,0,0,0,,{\pos(415.8,449.34)\fscx164.01\fscy164.01\frz54.5\blur1.2}Around here
-Dialogue: 1,0:16:32.30,0:16:32.38,Sign-Map,,0,0,0,,{\pos(415.785,449.34)\fscx164.01\fscy164.01\frz54.5\blur1.2}Around here
+Dialogue: 1,0:16:30.17,0:16:30.21,Sign-Map,,0,0,0,,{\pos(325.68,499.245)\fscx207.92\fscy207.92\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.21,0:16:30.26,Sign-Map,,0,0,0,,{\pos(329.085,497.475)\fscx206.45\fscy206.45\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.26,0:16:30.30,Sign-Map,,0,0,0,,{\pos(332.835,495.3)\fscx204.49\fscy204.49\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.30,0:16:30.34,Sign-Map,,0,0,0,,{\pos(336.03,493.62)\fscx203.04\fscy203.04\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.34,0:16:30.38,Sign-Map,,0,0,0,,{\pos(339.105,491.91)\fscx201.48\fscy201.48\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.38,0:16:30.42,Sign-Map,,0,0,0,,{\pos(342.615,489.96)\fscx199.84\fscy199.84\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.42,0:16:30.46,Sign-Map,,0,0,0,,{\pos(345.975,488.07)\fscx198.12\fscy198.12\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.46,0:16:30.51,Sign-Map,,0,0,0,,{\pos(349.23,486.24)\fscx196.67\fscy196.67\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.51,0:16:30.55,Sign-Map,,0,0,0,,{\pos(352.5,484.5)\fscx195\fscy195\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.55,0:16:30.59,Sign-Map,,0,0,0,,{\pos(355.98,482.52)\fscx193.12\fscy193.12\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.59,0:16:30.63,Sign-Map,,0,0,0,,{\pos(358.95,480.84)\fscx191.63\fscy191.63\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.63,0:16:30.67,Sign-Map,,0,0,0,,{\pos(362.295,479.07)\fscx190.12\fscy190.12\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.67,0:16:30.71,Sign-Map,,0,0,0,,{\pos(365.445,477.285)\fscx188.45\fscy188.45\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.71,0:16:30.76,Sign-Map,,0,0,0,,{\pos(368.88,475.425)\fscx186.92\fscy186.92\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.76,0:16:30.80,Sign-Map,,0,0,0,,{\pos(372.15,473.625)\fscx185.3\fscy185.3\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.80,0:16:30.84,Sign-Map,,0,0,0,,{\pos(375.315,471.915)\fscx183.84\fscy183.84\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.84,0:16:30.88,Sign-Map,,0,0,0,,{\pos(378.3,470.265)\fscx182.4\fscy182.4\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.88,0:16:30.92,Sign-Map,,0,0,0,,{\pos(381.465,468.525)\fscx180.79\fscy180.79\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.92,0:16:30.96,Sign-Map,,0,0,0,,{\pos(384.48,466.845)\fscx179.4\fscy179.4\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:30.96,0:16:31.01,Sign-Map,,0,0,0,,{\pos(387.57,465.18)\fscx177.95\fscy177.95\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.01,0:16:31.05,Sign-Map,,0,0,0,,{\pos(390.405,463.53)\fscx176.35\fscy176.35\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.05,0:16:31.09,Sign-Map,,0,0,0,,{\pos(393.165,462.075)\fscx175.14\fscy175.14\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.09,0:16:31.13,Sign-Map,,0,0,0,,{\pos(395.925,460.56)\fscx173.79\fscy173.79\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.13,0:16:31.17,Sign-Map,,0,0,0,,{\pos(398.43,459.09)\fscx172.41\fscy172.41\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.17,0:16:31.22,Sign-Map,,0,0,0,,{\pos(400.785,457.815)\fscx171.28\fscy171.28\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.22,0:16:31.26,Sign-Map,,0,0,0,,{\pos(402.915,456.66)\fscx170.28\fscy170.28\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.26,0:16:31.30,Sign-Map,,0,0,0,,{\pos(405.06,455.46)\fscx169.34\fscy169.34\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.30,0:16:31.34,Sign-Map,,0,0,0,,{\pos(406.92,454.41)\fscx168.33\fscy168.33\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.34,0:16:31.38,Sign-Map,,0,0,0,,{\pos(408.6,453.45)\fscx167.46\fscy167.46\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.38,0:16:31.42,Sign-Map,,0,0,0,,{\pos(410.205,452.55)\fscx166.58\fscy166.58\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.42,0:16:31.47,Sign-Map,,0,0,0,,{\pos(411.45,451.83)\fscx165.97\fscy165.97\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.47,0:16:31.51,Sign-Map,,0,0,0,,{\pos(412.635,451.17)\fscx165.44\fscy165.44\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.51,0:16:31.55,Sign-Map,,0,0,0,,{\pos(413.505,450.72)\fscx164.97\fscy164.97\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.55,0:16:31.59,Sign-Map,,0,0,0,,{\pos(414.375,450.315)\fscx164.61\fscy164.61\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\pos(415.05,450)\fscx164.48\fscy164.48\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\pos(415.575,449.58)\fscx164.06\fscy164.06\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.67,0:16:31.72,Sign-Map,,0,0,0,,{\pos(415.77,449.355)\fscx164\fscy164\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:31.72,0:16:32.17,Sign-Map,,0,0,0,,{\pos(415.785,449.34)\fscx164\fscy164\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:32.17,0:16:32.26,Sign-Map,,0,0,0,,{\pos(415.785,449.355)\fscx164.01\fscy164.01\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:32.26,0:16:32.30,Sign-Map,,0,0,0,,{\pos(415.8,449.34)\fscx164.01\fscy164.01\frz54.5\blur1.2}這附近
+Dialogue: 1,0:16:32.30,0:16:32.38,Sign-Map,,0,0,0,,{\pos(415.785,449.34)\fscx164.01\fscy164.01\frz54.5\blur1.2}這附近
 Dialogue: 0,0:16:30.17,0:16:30.21,Sign-Map,,0,0,0,,{\an7\pos(148.5,477)\c&HFBFBFC&\blur3.75\p1}m 258 37.5 l 514.5 15 742.5 -76.5 958.5 -207 b 1057.5 -262.5 1155 -270 1194 -235.5 l 1300.5 -162 b 1200 -139.5 1078.5 -40.5 1005 0 l 697.5 168 243 231
 Dialogue: 0,0:16:30.21,0:16:30.26,Sign-Map,,0,0,0,,{\an7\pos(153.54,475.38)\fscx99.17\fscy99.17\c&HFBFBFC&\blur3.75\p1}m 258 37.5 l 514.5 15 742.5 -76.5 958.5 -207 b 1057.5 -262.5 1155 -270 1194 -235.5 l 1300.5 -162 b 1200 -139.5 1078.5 -40.5 1005 0 l 697.5 168 243 231
 Dialogue: 0,0:16:30.26,0:16:30.30,Sign-Map,,0,0,0,,{\an7\pos(158.415,473.415)\fscx98.35\fscy98.35\c&HFBFBFC&\blur3.75\p1}m 258 37.5 l 514.5 15 742.5 -76.5 958.5 -207 b 1057.5 -262.5 1155 -270 1194 -235.5 l 1300.5 -162 b 1200 -139.5 1078.5 -40.5 1005 0 l 697.5 168 243 231
@@ -704,175 +704,175 @@ Dialogue: 0,0:16:31.55,0:16:31.59,Sign-Map,,0,0,0,,{\an7\pos(273.105,432.555)\fs
 Dialogue: 0,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\an7\pos(273.6,432.255)\fscx96.53\fscy96.53\c&HFBFBFC&\blur3.75\p1}m 211.5 31.5 l 421.5 13.5 609 -63 792 -168 b 891 -223.5 946.5 -216 975 -193.5 l 927 -67.5 823.5 0 571.5 138 199.5 189
 Dialogue: 0,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\an7\pos(274.35,431.94)\fscx96.38\fscy96.38\c&HFBFBFC&\blur3.75\p1}m 211.5 31.5 l 421.5 13.5 609 -63 792 -168 b 891 -223.5 946.5 -216 975 -193.5 l 927 -67.5 823.5 0 571.5 138 199.5 189
 Dialogue: 0,0:16:31.67,0:16:32.38,Sign-Map,,0,0,0,,{\an7\pos(274.86,431.655)\fscx96.25\fscy96.25\c&HFBFBFC&\blur3.75\p1}m 211.5 31.5 l 421.5 13.5 609 -63 792 -168 b 891 -223.5 946.5 -216 975 -193.5 l 927 -67.5 823.5 0 571.5 138 199.5 189
-Dialogue: 1,0:16:30.17,0:16:30.21,Sign-Map,,0,0,0,,{\pos(877.725,632.145)\fscx373.35\fscy373.35\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.21,0:16:30.26,Sign-Map,,0,0,0,,{\pos(876.585,629.175)\fscx370.81\fscy370.81\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.26,0:16:30.30,Sign-Map,,0,0,0,,{\pos(875.55,625.965)\fscx367.14\fscy367.14\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.30,0:16:30.34,Sign-Map,,0,0,0,,{\pos(874.665,623.19)\fscx364.3\fscy364.3\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.34,0:16:30.38,Sign-Map,,0,0,0,,{\pos(873.75,620.52)\fscx361.48\fscy361.48\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.38,0:16:30.42,Sign-Map,,0,0,0,,{\pos(872.73,617.535)\fscx358.16\fscy358.16\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.42,0:16:30.46,Sign-Map,,0,0,0,,{\pos(871.8,614.595)\fscx355.07\fscy355.07\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.46,0:16:30.51,Sign-Map,,0,0,0,,{\pos(870.84,611.805)\fscx352.05\fscy352.05\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.51,0:16:30.55,Sign-Map,,0,0,0,,{\pos(870,609)\fscx349\fscy349\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.55,0:16:30.59,Sign-Map,,0,0,0,,{\pos(868.92,605.97)\fscx345.91\fscy345.91\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.59,0:16:30.63,Sign-Map,,0,0,0,,{\pos(868.05,603.375)\fscx343.19\fscy343.19\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.63,0:16:30.67,Sign-Map,,0,0,0,,{\pos(867.135,600.495)\fscx340.13\fscy340.13\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.67,0:16:30.71,Sign-Map,,0,0,0,,{\pos(866.22,597.81)\fscx337.26\fscy337.26\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.71,0:16:30.76,Sign-Map,,0,0,0,,{\pos(865.245,594.84)\fscx334.13\fscy334.13\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.76,0:16:30.80,Sign-Map,,0,0,0,,{\pos(864.27,591.945)\fscx331.25\fscy331.25\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.80,0:16:30.84,Sign-Map,,0,0,0,,{\pos(863.34,589.26)\fscx328.42\fscy328.42\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.84,0:16:30.88,Sign-Map,,0,0,0,,{\pos(862.365,586.68)\fscx325.87\fscy325.87\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.88,0:16:30.92,Sign-Map,,0,0,0,,{\pos(861.585,583.98)\fscx322.62\fscy322.62\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.92,0:16:30.96,Sign-Map,,0,0,0,,{\pos(860.685,581.445)\fscx320.02\fscy320.02\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:30.96,0:16:31.01,Sign-Map,,0,0,0,,{\pos(859.74,578.7)\fscx317.3\fscy317.3\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.01,0:16:31.05,Sign-Map,,0,0,0,,{\pos(858.93,576.225)\fscx314.6\fscy314.6\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.05,0:16:31.09,Sign-Map,,0,0,0,,{\pos(858.18,573.87)\fscx312.19\fscy312.19\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.09,0:16:31.13,Sign-Map,,0,0,0,,{\pos(857.37,571.545)\fscx309.49\fscy309.49\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.13,0:16:31.17,Sign-Map,,0,0,0,,{\pos(856.605,569.34)\fscx307.23\fscy307.23\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.17,0:16:31.22,Sign-Map,,0,0,0,,{\pos(855.9,567.285)\fscx305\fscy305\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.22,0:16:31.26,Sign-Map,,0,0,0,,{\pos(855.3,565.485)\fscx303.04\fscy303.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.26,0:16:31.30,Sign-Map,,0,0,0,,{\pos(854.625,563.64)\fscx301.25\fscy301.25\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.30,0:16:31.34,Sign-Map,,0,0,0,,{\pos(854.13,562.02)\fscx299.35\fscy299.35\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.34,0:16:31.38,Sign-Map,,0,0,0,,{\pos(853.695,560.64)\fscx297.54\fscy297.54\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.38,0:16:31.42,Sign-Map,,0,0,0,,{\pos(853.275,559.2)\fscx296.1\fscy296.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.42,0:16:31.47,Sign-Map,,0,0,0,,{\pos(852.855,558.045)\fscx295.04\fscy295.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.47,0:16:31.51,Sign-Map,,0,0,0,,{\pos(852.51,557.04)\fscx294.1\fscy294.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.51,0:16:31.55,Sign-Map,,0,0,0,,{\pos(852.36,556.35)\fscx292.8\fscy292.8\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.55,0:16:31.59,Sign-Map,,0,0,0,,{\pos(852.165,555.525)\fscx292.32\fscy292.32\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\pos(851.97,555.015)\fscx291.7\fscy291.7\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\pos(851.67,554.46)\fscx291.53\fscy291.53\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.67,0:16:31.76,Sign-Map,,0,0,0,,{\pos(851.49,554.145)\fscx291.1\fscy291.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.76,0:16:31.80,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.06\fscy291.06\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:31.80,0:16:32.09,Sign-Map,,0,0,0,,{\pos(851.505,554.16)\fscx291.02\fscy291.02\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:32.09,0:16:32.13,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.03\fscy291.03\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:32.13,0:16:32.38,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.04\fscy291.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}W{\frz18.67}a{\frz20.33}t{\frz22}e{\frz23.67}r{\frz25.33} {\frz27}7
-Dialogue: 1,0:16:36.51,0:16:36.55,Sign-Map,,0,0,0,,{\pos(336,249)\fscx115\fscy115\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.55,0:16:36.60,Sign-Map,,0,0,0,,{\pos(338.085,249.075)\fscx114.12\fscy114.12\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.60,0:16:36.64,Sign-Map,,0,0,0,,{\pos(340.155,249.12)\fscx113.3\fscy113.3\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.64,0:16:36.68,Sign-Map,,0,0,0,,{\pos(341.82,249.195)\fscx112.55\fscy112.55\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.68,0:16:36.72,Sign-Map,,0,0,0,,{\pos(343.755,249.255)\fscx111.65\fscy111.65\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.72,0:16:36.76,Sign-Map,,0,0,0,,{\pos(345.795,249.255)\fscx110.93\fscy110.93\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.76,0:16:36.80,Sign-Map,,0,0,0,,{\pos(347.67,249.345)\fscx110.11\fscy110.11\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.80,0:16:36.85,Sign-Map,,0,0,0,,{\pos(349.56,249.42)\fscx109.3\fscy109.3\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.85,0:16:36.89,Sign-Map,,0,0,0,,{\pos(351.435,249.48)\fscx108.54\fscy108.54\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.89,0:16:36.93,Sign-Map,,0,0,0,,{\pos(353.505,249.54)\fscx107.66\fscy107.66\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.93,0:16:36.97,Sign-Map,,0,0,0,,{\pos(355.29,249.6)\fscx106.91\fscy106.91\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.97,0:16:37.01,Sign-Map,,0,0,0,,{\pos(357.045,249.66)\fscx106.17\fscy106.17\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.01,0:16:37.05,Sign-Map,,0,0,0,,{\pos(359.025,249.735)\fscx105.32\fscy105.32\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.05,0:16:37.10,Sign-Map,,0,0,0,,{\pos(360.96,249.825)\fscx104.46\fscy104.46\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.10,0:16:37.14,Sign-Map,,0,0,0,,{\pos(362.88,249.885)\fscx103.68\fscy103.68\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.14,0:16:37.18,Sign-Map,,0,0,0,,{\pos(364.77,249.945)\fscx102.91\fscy102.91\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.18,0:16:37.22,Sign-Map,,0,0,0,,{\pos(366.585,249.99)\fscx102.17\fscy102.17\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.22,0:16:37.26,Sign-Map,,0,0,0,,{\pos(368.355,250.02)\fscx101.4\fscy101.4\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.26,0:16:37.30,Sign-Map,,0,0,0,,{\pos(370.35,250.095)\fscx100.58\fscy100.58\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.30,0:16:37.35,Sign-Map,,0,0,0,,{\pos(372.015,250.14)\fscx99.86\fscy99.86\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.35,0:16:37.39,Sign-Map,,0,0,0,,{\pos(373.905,250.215)\fscx99.06\fscy99.06\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.39,0:16:37.43,Sign-Map,,0,0,0,,{\pos(375.72,250.275)\fscx98.27\fscy98.27\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.43,0:16:37.47,Sign-Map,,0,0,0,,{\pos(377.52,250.35)\fscx97.51\fscy97.51\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.47,0:16:37.51,Sign-Map,,0,0,0,,{\pos(379.47,250.35)\fscx96.77\fscy96.77\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.51,0:16:37.55,Sign-Map,,0,0,0,,{\pos(381.105,250.44)\fscx95.98\fscy95.98\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.55,0:16:37.60,Sign-Map,,0,0,0,,{\pos(382.95,250.47)\fscx95.27\fscy95.27\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.60,0:16:37.64,Sign-Map,,0,0,0,,{\pos(384.765,250.5)\fscx94.58\fscy94.58\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.64,0:16:37.68,Sign-Map,,0,0,0,,{\pos(386.49,250.62)\fscx93.8\fscy93.8\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.68,0:16:37.72,Sign-Map,,0,0,0,,{\pos(388.08,250.68)\fscx93.05\fscy93.05\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.72,0:16:37.76,Sign-Map,,0,0,0,,{\pos(389.895,250.71)\fscx92.34\fscy92.34\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.76,0:16:37.80,Sign-Map,,0,0,0,,{\pos(391.59,250.755)\fscx91.66\fscy91.66\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.80,0:16:37.85,Sign-Map,,0,0,0,,{\pos(393.24,250.845)\fscx90.94\fscy90.94\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.85,0:16:37.89,Sign-Map,,0,0,0,,{\pos(394.995,250.92)\fscx90.19\fscy90.19\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.89,0:16:37.93,Sign-Map,,0,0,0,,{\pos(396.45,250.92)\fscx89.59\fscy89.59\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.93,0:16:37.97,Sign-Map,,0,0,0,,{\pos(398.04,250.98)\fscx88.92\fscy88.92\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:37.97,0:16:38.01,Sign-Map,,0,0,0,,{\pos(399.57,251.025)\fscx88.32\fscy88.32\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.01,0:16:38.06,Sign-Map,,0,0,0,,{\pos(401.1,251.055)\fscx87.7\fscy87.7\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.06,0:16:38.10,Sign-Map,,0,0,0,,{\pos(402.6,251.115)\fscx87.04\fscy87.04\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.10,0:16:38.14,Sign-Map,,0,0,0,,{\pos(404.01,251.16)\fscx86.45\fscy86.45\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.14,0:16:38.18,Sign-Map,,0,0,0,,{\pos(405.345,251.205)\fscx85.93\fscy85.93\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.18,0:16:38.22,Sign-Map,,0,0,0,,{\pos(406.65,251.25)\fscx85.33\fscy85.33\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.22,0:16:38.26,Sign-Map,,0,0,0,,{\pos(407.91,251.31)\fscx84.78\fscy84.78\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.26,0:16:38.31,Sign-Map,,0,0,0,,{\pos(409.11,251.325)\fscx84.34\fscy84.34\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.31,0:16:38.35,Sign-Map,,0,0,0,,{\pos(410.205,251.385)\fscx83.84\fscy83.84\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.35,0:16:38.39,Sign-Map,,0,0,0,,{\pos(411.315,251.385)\fscx83.4\fscy83.4\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.39,0:16:38.43,Sign-Map,,0,0,0,,{\pos(412.275,251.37)\fscx83.09\fscy83.09\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.43,0:16:38.47,Sign-Map,,0,0,0,,{\pos(413.22,251.37)\fscx82.77\fscy82.77\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.47,0:16:38.51,Sign-Map,,0,0,0,,{\pos(414.135,251.4)\fscx82.42\fscy82.42\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.51,0:16:38.56,Sign-Map,,0,0,0,,{\pos(414.9,251.415)\fscx82.09\fscy82.09\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.56,0:16:38.60,Sign-Map,,0,0,0,,{\pos(415.605,251.4)\fscx81.81\fscy81.81\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.60,0:16:38.64,Sign-Map,,0,0,0,,{\pos(416.22,251.46)\fscx81.44\fscy81.44\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.64,0:16:38.68,Sign-Map,,0,0,0,,{\pos(416.775,251.475)\fscx81.2\fscy81.2\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.68,0:16:38.72,Sign-Map,,0,0,0,,{\pos(417.36,251.52)\fscx81\fscy81\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.72,0:16:38.76,Sign-Map,,0,0,0,,{\pos(417.825,251.52)\fscx80.81\fscy80.81\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.76,0:16:38.81,Sign-Map,,0,0,0,,{\pos(418.26,251.535)\fscx80.65\fscy80.65\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.81,0:16:38.85,Sign-Map,,0,0,0,,{\pos(418.605,251.58)\fscx80.43\fscy80.43\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.85,0:16:38.89,Sign-Map,,0,0,0,,{\pos(418.935,251.625)\fscx80.25\fscy80.25\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.89,0:16:38.93,Sign-Map,,0,0,0,,{\pos(419.265,251.565)\fscx80.26\fscy80.26\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.93,0:16:38.97,Sign-Map,,0,0,0,,{\pos(419.505,251.655)\fscx80.05\fscy80.05\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:38.97,0:16:39.01,Sign-Map,,0,0,0,,{\pos(419.85,251.61)\fscx80.1\fscy80.1\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:39.01,0:16:39.06,Sign-Map,,0,0,0,,{\pos(419.865,251.595)\fscx80.1\fscy80.1\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:39.06,0:16:39.22,Sign-Map,,0,0,0,,{\pos(419.85,251.505)\fscx79.94\fscy79.94\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:39.22,0:16:39.72,Sign-Map,,0,0,0,,{\pos(419.85,251.505)\fscx79.95\fscy79.95\frz1.78\c&H01070D&\blur1.2}Shipwright
-Dialogue: 1,0:16:36.51,0:16:36.55,Sign-Map,,0,0,0,,{\pos(676.5,984)\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.55,0:16:36.60,Sign-Map,,0,0,0,,{\pos(676.155,978.525)\fscx99.13\fscy99.13\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.60,0:16:36.64,Sign-Map,,0,0,0,,{\pos(675.69,973.065)\fscx98.32\fscy98.32\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.64,0:16:36.68,Sign-Map,,0,0,0,,{\pos(675.285,968.595)\fscx97.7\fscy97.7\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.68,0:16:36.72,Sign-Map,,0,0,0,,{\pos(674.325,963.105)\fscx97.2\fscy97.2\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.72,0:16:36.76,Sign-Map,,0,0,0,,{\pos(673.89,957.84)\fscx96.45\fscy96.45\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.76,0:16:36.80,Sign-Map,,0,0,0,,{\pos(673.65,952.845)\fscx95.57\fscy95.57\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.80,0:16:36.85,Sign-Map,,0,0,0,,{\pos(673.02,947.715)\fscx94.96\fscy94.96\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.85,0:16:36.89,Sign-Map,,0,0,0,,{\pos(672.375,942.72)\fscx94.37\fscy94.37\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.89,0:16:36.93,Sign-Map,,0,0,0,,{\pos(671.94,937.05)\fscx93.52\fscy93.52\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.93,0:16:36.97,Sign-Map,,0,0,0,,{\pos(671.34,932.25)\fscx92.94\fscy92.94\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:36.97,0:16:37.01,Sign-Map,,0,0,0,,{\pos(670.86,927.525)\fscx92.32\fscy92.32\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.01,0:16:37.05,Sign-Map,,0,0,0,,{\pos(670.26,922.215)\fscx91.63\fscy91.63\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.05,0:16:37.10,Sign-Map,,0,0,0,,{\pos(669.87,916.98)\fscx90.83\fscy90.83\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.10,0:16:37.14,Sign-Map,,0,0,0,,{\pos(669.315,911.865)\fscx90.16\fscy90.16\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.14,0:16:37.18,Sign-Map,,0,0,0,,{\pos(668.91,906.885)\fscx89.42\fscy89.42\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.18,0:16:37.22,Sign-Map,,0,0,0,,{\pos(668.295,901.95)\fscx88.82\fscy88.82\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.22,0:16:37.26,Sign-Map,,0,0,0,,{\pos(667.905,897.15)\fscx88.12\fscy88.12\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.26,0:16:37.30,Sign-Map,,0,0,0,,{\pos(667.215,891.735)\fscx87.48\fscy87.48\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.30,0:16:37.35,Sign-Map,,0,0,0,,{\pos(666.81,887.22)\fscx86.85\fscy86.85\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.35,0:16:37.39,Sign-Map,,0,0,0,,{\pos(666.225,882.135)\fscx86.19\fscy86.19\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.39,0:16:37.43,Sign-Map,,0,0,0,,{\pos(665.88,877.23)\fscx85.43\fscy85.43\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.43,0:16:37.47,Sign-Map,,0,0,0,,{\pos(665.52,872.475)\fscx84.72\fscy84.72\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.47,0:16:37.51,Sign-Map,,0,0,0,,{\pos(664.965,867.24)\fscx84.01\fscy84.01\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.51,0:16:37.55,Sign-Map,,0,0,0,,{\pos(664.455,862.755)\fscx83.39\fscy83.39\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.55,0:16:37.60,Sign-Map,,0,0,0,,{\pos(663.645,857.715)\fscx82.91\fscy82.91\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.60,0:16:37.64,Sign-Map,,0,0,0,,{\pos(663.45,853.005)\fscx82.12\fscy82.12\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.64,0:16:37.68,Sign-Map,,0,0,0,,{\pos(662.985,848.4)\fscx81.5\fscy81.5\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.68,0:16:37.72,Sign-Map,,0,0,0,,{\pos(662.595,843.975)\fscx80.85\fscy80.85\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.72,0:16:37.76,Sign-Map,,0,0,0,,{\pos(662.115,839.205)\fscx80.22\fscy80.22\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.76,0:16:37.80,Sign-Map,,0,0,0,,{\pos(661.77,834.66)\fscx79.52\fscy79.52\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.80,0:16:37.85,Sign-Map,,0,0,0,,{\pos(661.335,830.265)\fscx78.93\fscy78.93\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.85,0:16:37.89,Sign-Map,,0,0,0,,{\pos(660.705,825.57)\fscx78.4\fscy78.4\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.89,0:16:37.93,Sign-Map,,0,0,0,,{\pos(660.33,821.535)\fscx77.84\fscy77.84\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.93,0:16:37.97,Sign-Map,,0,0,0,,{\pos(659.955,817.29)\fscx77.22\fscy77.22\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:37.97,0:16:38.01,Sign-Map,,0,0,0,,{\pos(659.52,813.27)\fscx76.67\fscy76.67\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.01,0:16:38.06,Sign-Map,,0,0,0,,{\pos(659.13,809.055)\fscx76.08\fscy76.08\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.06,0:16:38.10,Sign-Map,,0,0,0,,{\pos(658.665,805.08)\fscx75.59\fscy75.59\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.10,0:16:38.14,Sign-Map,,0,0,0,,{\pos(658.41,801.36)\fscx75\fscy75\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.14,0:16:38.18,Sign-Map,,0,0,0,,{\pos(657.975,797.805)\fscx74.57\fscy74.57\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.18,0:16:38.22,Sign-Map,,0,0,0,,{\pos(657.54,794.145)\fscx74.12\fscy74.12\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.22,0:16:38.26,Sign-Map,,0,0,0,,{\pos(657.255,790.8)\fscx73.62\fscy73.62\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.26,0:16:38.31,Sign-Map,,0,0,0,,{\pos(657.135,787.725)\fscx73.1\fscy73.1\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.31,0:16:38.35,Sign-Map,,0,0,0,,{\pos(656.52,784.635)\fscx72.86\fscy72.86\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.35,0:16:38.39,Sign-Map,,0,0,0,,{\pos(656.505,781.815)\fscx72.3\fscy72.3\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.39,0:16:38.43,Sign-Map,,0,0,0,,{\pos(656.31,779.31)\fscx71.93\fscy71.93\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.43,0:16:38.47,Sign-Map,,0,0,0,,{\pos(656.025,776.82)\fscx71.57\fscy71.57\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.47,0:16:38.51,Sign-Map,,0,0,0,,{\pos(655.53,774.39)\fscx71.45\fscy71.45\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.51,0:16:38.56,Sign-Map,,0,0,0,,{\pos(655.545,772.365)\fscx71.01\fscy71.01\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.56,0:16:38.60,Sign-Map,,0,0,0,,{\pos(655.365,770.43)\fscx70.75\fscy70.75\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.60,0:16:38.64,Sign-Map,,0,0,0,,{\pos(655.2,768.66)\fscx70.5\fscy70.5\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.64,0:16:38.68,Sign-Map,,0,0,0,,{\pos(654.795,766.995)\fscx70.43\fscy70.43\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.68,0:16:38.72,Sign-Map,,0,0,0,,{\pos(654.72,765.54)\fscx70.21\fscy70.21\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.72,0:16:38.76,Sign-Map,,0,0,0,,{\pos(654.225,764.235)\fscx70.25\fscy70.25\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.76,0:16:38.81,Sign-Map,,0,0,0,,{\pos(654.33,763.185)\fscx69.96\fscy69.96\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.81,0:16:38.85,Sign-Map,,0,0,0,,{\pos(654.135,762.045)\fscx69.92\fscy69.92\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.85,0:16:38.89,Sign-Map,,0,0,0,,{\pos(654.285,761.28)\fscx69.63\fscy69.63\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.89,0:16:38.93,Sign-Map,,0,0,0,,{\pos(654.165,760.5)\fscx69.53\fscy69.53\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.93,0:16:38.97,Sign-Map,,0,0,0,,{\pos(653.91,759.75)\fscx69.52\fscy69.52\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:38.97,0:16:39.06,Sign-Map,,0,0,0,,{\pos(653.655,759.09)\fscx69.52\fscy69.52\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:39.06,0:16:39.18,Sign-Map,,0,0,0,,{\pos(653.55,758.385)\fscx69.44\fscy69.44\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:39.18,0:16:39.26,Sign-Map,,0,0,0,,{\pos(653.55,758.4)\fscx69.44\fscy69.44\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:39.26,0:16:39.39,Sign-Map,,0,0,0,,{\pos(653.52,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:39.39,0:16:39.47,Sign-Map,,0,0,0,,{\pos(653.535,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}meters
-Dialogue: 1,0:16:39.47,0:16:39.72,Sign-Map,,0,0,0,,{\pos(653.52,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}meters
+Dialogue: 1,0:16:30.17,0:16:30.21,Sign-Map,,0,0,0,,{\pos(877.725,632.145)\fscx373.35\fscy373.35\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.21,0:16:30.26,Sign-Map,,0,0,0,,{\pos(876.585,629.175)\fscx370.81\fscy370.81\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.26,0:16:30.30,Sign-Map,,0,0,0,,{\pos(875.55,625.965)\fscx367.14\fscy367.14\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.30,0:16:30.34,Sign-Map,,0,0,0,,{\pos(874.665,623.19)\fscx364.3\fscy364.3\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.34,0:16:30.38,Sign-Map,,0,0,0,,{\pos(873.75,620.52)\fscx361.48\fscy361.48\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.38,0:16:30.42,Sign-Map,,0,0,0,,{\pos(872.73,617.535)\fscx358.16\fscy358.16\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.42,0:16:30.46,Sign-Map,,0,0,0,,{\pos(871.8,614.595)\fscx355.07\fscy355.07\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.46,0:16:30.51,Sign-Map,,0,0,0,,{\pos(870.84,611.805)\fscx352.05\fscy352.05\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.51,0:16:30.55,Sign-Map,,0,0,0,,{\pos(870,609)\fscx349\fscy349\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.55,0:16:30.59,Sign-Map,,0,0,0,,{\pos(868.92,605.97)\fscx345.91\fscy345.91\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.59,0:16:30.63,Sign-Map,,0,0,0,,{\pos(868.05,603.375)\fscx343.19\fscy343.19\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.63,0:16:30.67,Sign-Map,,0,0,0,,{\pos(867.135,600.495)\fscx340.13\fscy340.13\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.67,0:16:30.71,Sign-Map,,0,0,0,,{\pos(866.22,597.81)\fscx337.26\fscy337.26\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.71,0:16:30.76,Sign-Map,,0,0,0,,{\pos(865.245,594.84)\fscx334.13\fscy334.13\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.76,0:16:30.80,Sign-Map,,0,0,0,,{\pos(864.27,591.945)\fscx331.25\fscy331.25\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.80,0:16:30.84,Sign-Map,,0,0,0,,{\pos(863.34,589.26)\fscx328.42\fscy328.42\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.84,0:16:30.88,Sign-Map,,0,0,0,,{\pos(862.365,586.68)\fscx325.87\fscy325.87\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.88,0:16:30.92,Sign-Map,,0,0,0,,{\pos(861.585,583.98)\fscx322.62\fscy322.62\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.92,0:16:30.96,Sign-Map,,0,0,0,,{\pos(860.685,581.445)\fscx320.02\fscy320.02\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:30.96,0:16:31.01,Sign-Map,,0,0,0,,{\pos(859.74,578.7)\fscx317.3\fscy317.3\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.01,0:16:31.05,Sign-Map,,0,0,0,,{\pos(858.93,576.225)\fscx314.6\fscy314.6\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.05,0:16:31.09,Sign-Map,,0,0,0,,{\pos(858.18,573.87)\fscx312.19\fscy312.19\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.09,0:16:31.13,Sign-Map,,0,0,0,,{\pos(857.37,571.545)\fscx309.49\fscy309.49\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.13,0:16:31.17,Sign-Map,,0,0,0,,{\pos(856.605,569.34)\fscx307.23\fscy307.23\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.17,0:16:31.22,Sign-Map,,0,0,0,,{\pos(855.9,567.285)\fscx305\fscy305\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.22,0:16:31.26,Sign-Map,,0,0,0,,{\pos(855.3,565.485)\fscx303.04\fscy303.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.26,0:16:31.30,Sign-Map,,0,0,0,,{\pos(854.625,563.64)\fscx301.25\fscy301.25\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.30,0:16:31.34,Sign-Map,,0,0,0,,{\pos(854.13,562.02)\fscx299.35\fscy299.35\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.34,0:16:31.38,Sign-Map,,0,0,0,,{\pos(853.695,560.64)\fscx297.54\fscy297.54\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.38,0:16:31.42,Sign-Map,,0,0,0,,{\pos(853.275,559.2)\fscx296.1\fscy296.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.42,0:16:31.47,Sign-Map,,0,0,0,,{\pos(852.855,558.045)\fscx295.04\fscy295.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.47,0:16:31.51,Sign-Map,,0,0,0,,{\pos(852.51,557.04)\fscx294.1\fscy294.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.51,0:16:31.55,Sign-Map,,0,0,0,,{\pos(852.36,556.35)\fscx292.8\fscy292.8\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.55,0:16:31.59,Sign-Map,,0,0,0,,{\pos(852.165,555.525)\fscx292.32\fscy292.32\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.59,0:16:31.63,Sign-Map,,0,0,0,,{\pos(851.97,555.015)\fscx291.7\fscy291.7\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.63,0:16:31.67,Sign-Map,,0,0,0,,{\pos(851.67,554.46)\fscx291.53\fscy291.53\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.67,0:16:31.76,Sign-Map,,0,0,0,,{\pos(851.49,554.145)\fscx291.1\fscy291.1\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.76,0:16:31.80,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.06\fscy291.06\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:31.80,0:16:32.09,Sign-Map,,0,0,0,,{\pos(851.505,554.16)\fscx291.02\fscy291.02\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:32.09,0:16:32.13,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.03\fscy291.03\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:32.13,0:16:32.38,Sign-Map,,0,0,0,,{\pos(851.505,554.145)\fscx291.04\fscy291.04\frz17\fry-9.31\frx5.93\fax0.22\4a&HFF&\blur1.2}水之七島{\frz18.67}{\frz20.33}{\frz22}{\frz23.67}{\frz25.33}{\frz27}
+Dialogue: 1,0:16:36.51,0:16:36.55,Sign-Map,,0,0,0,,{\pos(336,249)\fscx115\fscy115\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.55,0:16:36.60,Sign-Map,,0,0,0,,{\pos(338.085,249.075)\fscx114.12\fscy114.12\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.60,0:16:36.64,Sign-Map,,0,0,0,,{\pos(340.155,249.12)\fscx113.3\fscy113.3\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.64,0:16:36.68,Sign-Map,,0,0,0,,{\pos(341.82,249.195)\fscx112.55\fscy112.55\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.68,0:16:36.72,Sign-Map,,0,0,0,,{\pos(343.755,249.255)\fscx111.65\fscy111.65\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.72,0:16:36.76,Sign-Map,,0,0,0,,{\pos(345.795,249.255)\fscx110.93\fscy110.93\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.76,0:16:36.80,Sign-Map,,0,0,0,,{\pos(347.67,249.345)\fscx110.11\fscy110.11\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.80,0:16:36.85,Sign-Map,,0,0,0,,{\pos(349.56,249.42)\fscx109.3\fscy109.3\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.85,0:16:36.89,Sign-Map,,0,0,0,,{\pos(351.435,249.48)\fscx108.54\fscy108.54\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.89,0:16:36.93,Sign-Map,,0,0,0,,{\pos(353.505,249.54)\fscx107.66\fscy107.66\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.93,0:16:36.97,Sign-Map,,0,0,0,,{\pos(355.29,249.6)\fscx106.91\fscy106.91\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.97,0:16:37.01,Sign-Map,,0,0,0,,{\pos(357.045,249.66)\fscx106.17\fscy106.17\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.01,0:16:37.05,Sign-Map,,0,0,0,,{\pos(359.025,249.735)\fscx105.32\fscy105.32\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.05,0:16:37.10,Sign-Map,,0,0,0,,{\pos(360.96,249.825)\fscx104.46\fscy104.46\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.10,0:16:37.14,Sign-Map,,0,0,0,,{\pos(362.88,249.885)\fscx103.68\fscy103.68\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.14,0:16:37.18,Sign-Map,,0,0,0,,{\pos(364.77,249.945)\fscx102.91\fscy102.91\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.18,0:16:37.22,Sign-Map,,0,0,0,,{\pos(366.585,249.99)\fscx102.17\fscy102.17\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.22,0:16:37.26,Sign-Map,,0,0,0,,{\pos(368.355,250.02)\fscx101.4\fscy101.4\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.26,0:16:37.30,Sign-Map,,0,0,0,,{\pos(370.35,250.095)\fscx100.58\fscy100.58\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.30,0:16:37.35,Sign-Map,,0,0,0,,{\pos(372.015,250.14)\fscx99.86\fscy99.86\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.35,0:16:37.39,Sign-Map,,0,0,0,,{\pos(373.905,250.215)\fscx99.06\fscy99.06\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.39,0:16:37.43,Sign-Map,,0,0,0,,{\pos(375.72,250.275)\fscx98.27\fscy98.27\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.43,0:16:37.47,Sign-Map,,0,0,0,,{\pos(377.52,250.35)\fscx97.51\fscy97.51\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.47,0:16:37.51,Sign-Map,,0,0,0,,{\pos(379.47,250.35)\fscx96.77\fscy96.77\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.51,0:16:37.55,Sign-Map,,0,0,0,,{\pos(381.105,250.44)\fscx95.98\fscy95.98\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.55,0:16:37.60,Sign-Map,,0,0,0,,{\pos(382.95,250.47)\fscx95.27\fscy95.27\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.60,0:16:37.64,Sign-Map,,0,0,0,,{\pos(384.765,250.5)\fscx94.58\fscy94.58\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.64,0:16:37.68,Sign-Map,,0,0,0,,{\pos(386.49,250.62)\fscx93.8\fscy93.8\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.68,0:16:37.72,Sign-Map,,0,0,0,,{\pos(388.08,250.68)\fscx93.05\fscy93.05\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.72,0:16:37.76,Sign-Map,,0,0,0,,{\pos(389.895,250.71)\fscx92.34\fscy92.34\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.76,0:16:37.80,Sign-Map,,0,0,0,,{\pos(391.59,250.755)\fscx91.66\fscy91.66\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.80,0:16:37.85,Sign-Map,,0,0,0,,{\pos(393.24,250.845)\fscx90.94\fscy90.94\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.85,0:16:37.89,Sign-Map,,0,0,0,,{\pos(394.995,250.92)\fscx90.19\fscy90.19\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.89,0:16:37.93,Sign-Map,,0,0,0,,{\pos(396.45,250.92)\fscx89.59\fscy89.59\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.93,0:16:37.97,Sign-Map,,0,0,0,,{\pos(398.04,250.98)\fscx88.92\fscy88.92\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:37.97,0:16:38.01,Sign-Map,,0,0,0,,{\pos(399.57,251.025)\fscx88.32\fscy88.32\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.01,0:16:38.06,Sign-Map,,0,0,0,,{\pos(401.1,251.055)\fscx87.7\fscy87.7\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.06,0:16:38.10,Sign-Map,,0,0,0,,{\pos(402.6,251.115)\fscx87.04\fscy87.04\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.10,0:16:38.14,Sign-Map,,0,0,0,,{\pos(404.01,251.16)\fscx86.45\fscy86.45\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.14,0:16:38.18,Sign-Map,,0,0,0,,{\pos(405.345,251.205)\fscx85.93\fscy85.93\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.18,0:16:38.22,Sign-Map,,0,0,0,,{\pos(406.65,251.25)\fscx85.33\fscy85.33\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.22,0:16:38.26,Sign-Map,,0,0,0,,{\pos(407.91,251.31)\fscx84.78\fscy84.78\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.26,0:16:38.31,Sign-Map,,0,0,0,,{\pos(409.11,251.325)\fscx84.34\fscy84.34\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.31,0:16:38.35,Sign-Map,,0,0,0,,{\pos(410.205,251.385)\fscx83.84\fscy83.84\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.35,0:16:38.39,Sign-Map,,0,0,0,,{\pos(411.315,251.385)\fscx83.4\fscy83.4\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.39,0:16:38.43,Sign-Map,,0,0,0,,{\pos(412.275,251.37)\fscx83.09\fscy83.09\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.43,0:16:38.47,Sign-Map,,0,0,0,,{\pos(413.22,251.37)\fscx82.77\fscy82.77\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.47,0:16:38.51,Sign-Map,,0,0,0,,{\pos(414.135,251.4)\fscx82.42\fscy82.42\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.51,0:16:38.56,Sign-Map,,0,0,0,,{\pos(414.9,251.415)\fscx82.09\fscy82.09\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.56,0:16:38.60,Sign-Map,,0,0,0,,{\pos(415.605,251.4)\fscx81.81\fscy81.81\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.60,0:16:38.64,Sign-Map,,0,0,0,,{\pos(416.22,251.46)\fscx81.44\fscy81.44\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.64,0:16:38.68,Sign-Map,,0,0,0,,{\pos(416.775,251.475)\fscx81.2\fscy81.2\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.68,0:16:38.72,Sign-Map,,0,0,0,,{\pos(417.36,251.52)\fscx81\fscy81\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.72,0:16:38.76,Sign-Map,,0,0,0,,{\pos(417.825,251.52)\fscx80.81\fscy80.81\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.76,0:16:38.81,Sign-Map,,0,0,0,,{\pos(418.26,251.535)\fscx80.65\fscy80.65\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.81,0:16:38.85,Sign-Map,,0,0,0,,{\pos(418.605,251.58)\fscx80.43\fscy80.43\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.85,0:16:38.89,Sign-Map,,0,0,0,,{\pos(418.935,251.625)\fscx80.25\fscy80.25\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.89,0:16:38.93,Sign-Map,,0,0,0,,{\pos(419.265,251.565)\fscx80.26\fscy80.26\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.93,0:16:38.97,Sign-Map,,0,0,0,,{\pos(419.505,251.655)\fscx80.05\fscy80.05\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:38.97,0:16:39.01,Sign-Map,,0,0,0,,{\pos(419.85,251.61)\fscx80.1\fscy80.1\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:39.01,0:16:39.06,Sign-Map,,0,0,0,,{\pos(419.865,251.595)\fscx80.1\fscy80.1\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:39.06,0:16:39.22,Sign-Map,,0,0,0,,{\pos(419.85,251.505)\fscx79.94\fscy79.94\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:39.22,0:16:39.72,Sign-Map,,0,0,0,,{\pos(419.85,251.505)\fscx79.95\fscy79.95\frz1.78\c&H01070D&\blur1.2}船匠
+Dialogue: 1,0:16:36.51,0:16:36.55,Sign-Map,,0,0,0,,{\pos(676.5,984)\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.55,0:16:36.60,Sign-Map,,0,0,0,,{\pos(676.155,978.525)\fscx99.13\fscy99.13\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.60,0:16:36.64,Sign-Map,,0,0,0,,{\pos(675.69,973.065)\fscx98.32\fscy98.32\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.64,0:16:36.68,Sign-Map,,0,0,0,,{\pos(675.285,968.595)\fscx97.7\fscy97.7\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.68,0:16:36.72,Sign-Map,,0,0,0,,{\pos(674.325,963.105)\fscx97.2\fscy97.2\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.72,0:16:36.76,Sign-Map,,0,0,0,,{\pos(673.89,957.84)\fscx96.45\fscy96.45\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.76,0:16:36.80,Sign-Map,,0,0,0,,{\pos(673.65,952.845)\fscx95.57\fscy95.57\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.80,0:16:36.85,Sign-Map,,0,0,0,,{\pos(673.02,947.715)\fscx94.96\fscy94.96\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.85,0:16:36.89,Sign-Map,,0,0,0,,{\pos(672.375,942.72)\fscx94.37\fscy94.37\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.89,0:16:36.93,Sign-Map,,0,0,0,,{\pos(671.94,937.05)\fscx93.52\fscy93.52\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.93,0:16:36.97,Sign-Map,,0,0,0,,{\pos(671.34,932.25)\fscx92.94\fscy92.94\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:36.97,0:16:37.01,Sign-Map,,0,0,0,,{\pos(670.86,927.525)\fscx92.32\fscy92.32\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.01,0:16:37.05,Sign-Map,,0,0,0,,{\pos(670.26,922.215)\fscx91.63\fscy91.63\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.05,0:16:37.10,Sign-Map,,0,0,0,,{\pos(669.87,916.98)\fscx90.83\fscy90.83\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.10,0:16:37.14,Sign-Map,,0,0,0,,{\pos(669.315,911.865)\fscx90.16\fscy90.16\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.14,0:16:37.18,Sign-Map,,0,0,0,,{\pos(668.91,906.885)\fscx89.42\fscy89.42\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.18,0:16:37.22,Sign-Map,,0,0,0,,{\pos(668.295,901.95)\fscx88.82\fscy88.82\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.22,0:16:37.26,Sign-Map,,0,0,0,,{\pos(667.905,897.15)\fscx88.12\fscy88.12\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.26,0:16:37.30,Sign-Map,,0,0,0,,{\pos(667.215,891.735)\fscx87.48\fscy87.48\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.30,0:16:37.35,Sign-Map,,0,0,0,,{\pos(666.81,887.22)\fscx86.85\fscy86.85\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.35,0:16:37.39,Sign-Map,,0,0,0,,{\pos(666.225,882.135)\fscx86.19\fscy86.19\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.39,0:16:37.43,Sign-Map,,0,0,0,,{\pos(665.88,877.23)\fscx85.43\fscy85.43\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.43,0:16:37.47,Sign-Map,,0,0,0,,{\pos(665.52,872.475)\fscx84.72\fscy84.72\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.47,0:16:37.51,Sign-Map,,0,0,0,,{\pos(664.965,867.24)\fscx84.01\fscy84.01\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.51,0:16:37.55,Sign-Map,,0,0,0,,{\pos(664.455,862.755)\fscx83.39\fscy83.39\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.55,0:16:37.60,Sign-Map,,0,0,0,,{\pos(663.645,857.715)\fscx82.91\fscy82.91\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.60,0:16:37.64,Sign-Map,,0,0,0,,{\pos(663.45,853.005)\fscx82.12\fscy82.12\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.64,0:16:37.68,Sign-Map,,0,0,0,,{\pos(662.985,848.4)\fscx81.5\fscy81.5\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.68,0:16:37.72,Sign-Map,,0,0,0,,{\pos(662.595,843.975)\fscx80.85\fscy80.85\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.72,0:16:37.76,Sign-Map,,0,0,0,,{\pos(662.115,839.205)\fscx80.22\fscy80.22\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.76,0:16:37.80,Sign-Map,,0,0,0,,{\pos(661.77,834.66)\fscx79.52\fscy79.52\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.80,0:16:37.85,Sign-Map,,0,0,0,,{\pos(661.335,830.265)\fscx78.93\fscy78.93\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.85,0:16:37.89,Sign-Map,,0,0,0,,{\pos(660.705,825.57)\fscx78.4\fscy78.4\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.89,0:16:37.93,Sign-Map,,0,0,0,,{\pos(660.33,821.535)\fscx77.84\fscy77.84\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.93,0:16:37.97,Sign-Map,,0,0,0,,{\pos(659.955,817.29)\fscx77.22\fscy77.22\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:37.97,0:16:38.01,Sign-Map,,0,0,0,,{\pos(659.52,813.27)\fscx76.67\fscy76.67\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.01,0:16:38.06,Sign-Map,,0,0,0,,{\pos(659.13,809.055)\fscx76.08\fscy76.08\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.06,0:16:38.10,Sign-Map,,0,0,0,,{\pos(658.665,805.08)\fscx75.59\fscy75.59\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.10,0:16:38.14,Sign-Map,,0,0,0,,{\pos(658.41,801.36)\fscx75\fscy75\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.14,0:16:38.18,Sign-Map,,0,0,0,,{\pos(657.975,797.805)\fscx74.57\fscy74.57\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.18,0:16:38.22,Sign-Map,,0,0,0,,{\pos(657.54,794.145)\fscx74.12\fscy74.12\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.22,0:16:38.26,Sign-Map,,0,0,0,,{\pos(657.255,790.8)\fscx73.62\fscy73.62\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.26,0:16:38.31,Sign-Map,,0,0,0,,{\pos(657.135,787.725)\fscx73.1\fscy73.1\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.31,0:16:38.35,Sign-Map,,0,0,0,,{\pos(656.52,784.635)\fscx72.86\fscy72.86\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.35,0:16:38.39,Sign-Map,,0,0,0,,{\pos(656.505,781.815)\fscx72.3\fscy72.3\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.39,0:16:38.43,Sign-Map,,0,0,0,,{\pos(656.31,779.31)\fscx71.93\fscy71.93\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.43,0:16:38.47,Sign-Map,,0,0,0,,{\pos(656.025,776.82)\fscx71.57\fscy71.57\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.47,0:16:38.51,Sign-Map,,0,0,0,,{\pos(655.53,774.39)\fscx71.45\fscy71.45\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.51,0:16:38.56,Sign-Map,,0,0,0,,{\pos(655.545,772.365)\fscx71.01\fscy71.01\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.56,0:16:38.60,Sign-Map,,0,0,0,,{\pos(655.365,770.43)\fscx70.75\fscy70.75\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.60,0:16:38.64,Sign-Map,,0,0,0,,{\pos(655.2,768.66)\fscx70.5\fscy70.5\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.64,0:16:38.68,Sign-Map,,0,0,0,,{\pos(654.795,766.995)\fscx70.43\fscy70.43\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.68,0:16:38.72,Sign-Map,,0,0,0,,{\pos(654.72,765.54)\fscx70.21\fscy70.21\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.72,0:16:38.76,Sign-Map,,0,0,0,,{\pos(654.225,764.235)\fscx70.25\fscy70.25\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.76,0:16:38.81,Sign-Map,,0,0,0,,{\pos(654.33,763.185)\fscx69.96\fscy69.96\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.81,0:16:38.85,Sign-Map,,0,0,0,,{\pos(654.135,762.045)\fscx69.92\fscy69.92\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.85,0:16:38.89,Sign-Map,,0,0,0,,{\pos(654.285,761.28)\fscx69.63\fscy69.63\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.89,0:16:38.93,Sign-Map,,0,0,0,,{\pos(654.165,760.5)\fscx69.53\fscy69.53\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.93,0:16:38.97,Sign-Map,,0,0,0,,{\pos(653.91,759.75)\fscx69.52\fscy69.52\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:38.97,0:16:39.06,Sign-Map,,0,0,0,,{\pos(653.655,759.09)\fscx69.52\fscy69.52\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:39.06,0:16:39.18,Sign-Map,,0,0,0,,{\pos(653.55,758.385)\fscx69.44\fscy69.44\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:39.18,0:16:39.26,Sign-Map,,0,0,0,,{\pos(653.55,758.4)\fscx69.44\fscy69.44\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:39.26,0:16:39.39,Sign-Map,,0,0,0,,{\pos(653.52,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:39.39,0:16:39.47,Sign-Map,,0,0,0,,{\pos(653.535,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}公尺
+Dialogue: 1,0:16:39.47,0:16:39.72,Sign-Map,,0,0,0,,{\pos(653.52,758.4)\fscx69.46\fscy69.46\b1\c&H01070D&\blur1.2}公尺
 Dialogue: 0,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\c&H030303&\blur0.5}It's all right! {Now let's move forward}It's time to move on
 Dialogue: 1,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\bord0\4a&HFF&\blur0.5}It's all right! {Now let's move forward}It's time to move on
 Dialogue: 2,0:00:04.03,0:00:08.05,Lyrics-OP5,,0,0,0,,{\bord0\4a&HFF&\blur0.5}It's all right! {Now let's move forward}It's time to move on

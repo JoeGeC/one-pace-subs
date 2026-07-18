@@ -26,8 +26,8 @@ Style: Luffy Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H780
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:01:50.01,0:03:30.00,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:01:50.01,0:03:30.00,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:01:58.72,0:02:03.06,Main-207-,,0,0,0,,上層遺跡還有四名武僧。
 Dialogue: 50,0:02:03.77,0:02:06.31,Main-207-,,0,0,0,,既然那兩個人\N可能還活著⋯⋯{Z}
 Dialogue: 50,0:02:06.31,0:02:09.73,Main-207-,,0,0,0,,那就是四名香迪亞人\N和一名青海人。
@@ -418,10 +418,10 @@ Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\p
 Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}Camotoy\NGordingus\NPollychan
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}arch1t3cht\NFunimation\NLiisa-Pekka
-Dialogue: 0,0:00:17.33,0:00:20.54,Luffy Monologue,,0,0,0,,{Did you know that there's an awesome\Ntreasure at the end of this sea?! - OG}Did you know there's an awesome\Ntreasure at the end of this sea?!{Gab}
-Dialogue: 0,0:00:20.54,0:00:23.34,Luffy Monologue,,0,0,0,,{And whoever gets it\Ncan be king of the pirates! - OG}And whoever gets it\Nbecomes King of the Pirates!{Gab}
-Dialogue: 0,0:00:23.34,0:00:24.96,Luffy Monologue,,0,0,0,,Isn't that exciting?!
-Dialogue: 0,0:00:24.96,0:00:28.01,Luffy Monologue,,0,0,0,,{Unheard-of new\Nadventures are waiting! - OG}Cool new adventures\Nare waiting out there!{Gab}
+Dialogue: 0,0:00:17.33,0:00:20.54,Luffy Monologue,,0,0,0,,{Did you know that there's an awesome\Ntreasure at the end of this sea?! - OG}你知道嗎？這片大海的盡頭\N有著超厲害的寶藏喔！{Gab}
+Dialogue: 0,0:00:20.54,0:00:23.34,Luffy Monologue,,0,0,0,,{And whoever gets it\Ncan be king of the pirates! - OG}誰拿到它\N誰就能成為海賊王！{Gab}
+Dialogue: 0,0:00:23.34,0:00:24.96,Luffy Monologue,,0,0,0,,是不是超讓人興奮的？！
+Dialogue: 0,0:00:24.96,0:00:28.01,Luffy Monologue,,0,0,0,,{Unheard-of new\Nadventures are waiting! - OG}全新的刺激冒險\N正在外頭等著我們！{Gab}
 Dialogue: 0,0:00:30.16,0:00:30.45,Karaoke,,0,0,0,fx,{\an5\move(316.1,47.5,316.1,62.5,0,300)\fad(100,0)\3c&HFFFFFF&\1c&HFF0000&\bord2.5\blur0\shad0\frx180\t(0,200,\frx0)}BON
 Dialogue: 1,0:00:30.45,0:00:30.86,Karaoke,,0,0,0,fx,{\an5\move(316.1,62.5,316.1,62.5)\shad0\1c&HFFFFFF&\3c&HFFFFFF&\frz-0\bord2\blur9\be7\fscx120\fscy120\t(\fscx100\fscy100\frz0\bord0.5\blur0\be0\frz0)}BON
 Dialogue: 0,0:00:30.45,0:00:30.86,Karaoke,,0,0,0,fx,{\an5\pos(316.1,62.5)\1a&HFF&F\3c&HFF0000&\fscx70\fscy90\frz-0\blur1\bord1\shad0\t(\fscx100\fscy100\frz0)}BON

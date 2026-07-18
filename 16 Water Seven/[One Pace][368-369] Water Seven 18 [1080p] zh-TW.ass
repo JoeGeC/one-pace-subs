@@ -23,8 +23,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:01:12.34,0:01:22.34,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:01:12.34,0:01:22.34,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:00:19.37,0:00:22.84,Main-207+,,0,0,33,,{\fnFOT-Greco Std DB Strp\fs75\shad0\bord3\b600}狙擊島上的寵兒，
 Dialogue: 50,0:00:22.92,0:00:26.42,Main-207+,,0,0,33,,{\fnFOT-Greco Std DB Strp\fs75\shad0\bord3\b600}壞蛋快快逃
 Dialogue: 50,0:00:26.63,0:00:30.26,Main-207+,,0,0,33,,{\fnFOT-Greco Std DB Strp\fs75\shad0\bord3\b600}我的瞄準永不偏

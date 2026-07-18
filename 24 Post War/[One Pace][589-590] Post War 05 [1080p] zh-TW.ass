@@ -21,8 +21,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}您的媒體播放器不支援本集所使用的字幕格式。\N字幕可能無法正常顯示。\N請改用推薦的影片播放器，建議使用 mpv：\Nhttps://mpv.io
 Dialogue: 50,0:00:16.32,0:00:17.77,Flashbacks-207+,,0,0,0,,艾斯！魯夫！
 Dialogue: 50,0:00:18.58,0:00:21.98,Flashbacks-207+,,0,0,0,,總有一天我們要出海！
 Dialogue: 50,0:00:21.98,0:00:24.64,Flashbacks-207+,,0,0,0,,{\t(2144,2660,1,\3c&HFFFFFF&\4c&HFFFFFF&)}離開這個國家，自由自在地活著！
@@ -503,67 +503,67 @@ Dialogue: 0,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(575,0
 Dialogue: 1,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,100,,{\an8\blur0.3\fad(575,0)\fscx160\fscy160\bord0\4a&HFF&}風車村，哥亞王國，東海{\c&HFDFDFC&}
 Dialogue: 0,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,550)\fscx150\fscy150\bord2.75\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3470,3515,\1a&HFF&)}女人島，無風帶
 Dialogue: 1,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,100,,{\an8\blur0.4\fad(1000,550)\fscx150\fscy150\bord0\4a&HFF&}女人島，無風帶
-Dialogue: 0,0:11:18.86,0:11:19.72,Country Sign,,0,0,0,,{\move(1164,486,1155,489)\fscx111\fscy111\frz0.31\fry4\frx14\c&H3F3D3D&\blur1.2\t(\fscx105.86\fscy105.86\blur1.14\frz0.32)}Ace's Country
-Dialogue: 0,0:11:19.72,0:11:20.56,Country Sign,,0,0,0,,{\move(1222.5,427.5,1210.5,432)\frz4.72\fry359\frx8\blur1.2\t(\fscx95.63\fscy95.63\blur1.155\frz4.7)\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur1.2}Ace's Country
-Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(1027.755,358.935,1027.5,357)\fscx21.07\fscy21.07\frz7.99\c&H545153&\blur1.2\t(\fscx21\fscy21\fnAxe Hand)}Luffy's Country
-Dialogue: 0,0:11:20.63,0:11:20.66,Country Sign,,0,0,0,,{\pos(369.75,533.415)\fscx24.47\fscy24.47\c&H475358&\blur0.795}Ace's Country
-Dialogue: 0,0:11:20.66,0:11:20.69,Country Sign,,0,0,0,,{\pos(438.765,435.015)\fscx23.72\fscy23.72\c&H475358&\blur0.75}Ace's Country
-Dialogue: 0,0:11:20.69,0:11:20.73,Country Sign,,0,0,0,,{\pos(468.96,396)\fscx22.34\fscy22.34\c&H475358&\blur0.675}Ace's Country
-Dialogue: 0,0:11:20.73,0:11:20.76,Country Sign,,0,0,0,,{\pos(475.425,387.675)\fscx22.04\fscy22.04\c&H475358&\blur0.66}Ace's Country
-Dialogue: 0,0:11:20.76,0:11:20.79,Country Sign,,0,0,0,,{\pos(478.62,383.55)\fscx21.9\fscy21.9\c&H475358&\blur0.645}Ace's Country
-Dialogue: 0,0:11:20.79,0:11:20.83,Country Sign,,0,0,0,,{\pos(480.915,380.565)\fscx21.79\fscy21.79\c&H475358&\blur0.645}Ace's Country
-Dialogue: 0,0:11:20.83,0:11:20.86,Country Sign,,0,0,0,,{\pos(482.79,378.15)\fscx21.71\fscy21.71\c&H475358&\blur0.645}Ace's Country
-Dialogue: 0,0:11:20.86,0:11:20.89,Country Sign,,0,0,0,,{\pos(484.35,376.125)\fscx21.63\fscy21.63\c&H475358&\blur0.63}Ace's Country
-Dialogue: 0,0:11:20.89,0:11:20.93,Country Sign,,0,0,0,,{\pos(485.7,374.37)\fscx21.57\fscy21.57\c&H475358&\blur0.63}Ace's Country
-Dialogue: 0,0:11:20.93,0:11:20.96,Country Sign,,0,0,0,,{\pos(486.915,372.84)\fscx21.51\fscy21.51\c&H475358&\blur0.63}Ace's Country
-Dialogue: 0,0:11:20.96,0:11:20.99,Country Sign,,0,0,0,,{\pos(487.965,371.415)\fscx21.47\fscy21.47\c&H475358&\blur0.63}Ace's Country
-Dialogue: 0,0:11:20.99,0:11:21.03,Country Sign,,0,0,0,,{\pos(488.94,370.17)\fscx21.42\fscy21.42\c&H475358&\blur0.63}Ace's Country
-Dialogue: 0,0:11:21.03,0:11:21.06,Country Sign,,0,0,0,,{\pos(489.81,368.985)\fscx21.39\fscy21.39\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.06,0:11:21.09,Country Sign,,0,0,0,,{\pos(490.59,368.01)\fscx21.34\fscy21.34\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.09,0:11:21.13,Country Sign,,0,0,0,,{\pos(491.34,367.08)\fscx21.31\fscy21.31\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.13,0:11:21.16,Country Sign,,0,0,0,,{\pos(492,366.225)\fscx21.28\fscy21.28\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.16,0:11:21.19,Country Sign,,0,0,0,,{\pos(492.6,365.46)\fscx21.25\fscy21.25\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.19,0:11:21.23,Country Sign,,0,0,0,,{\pos(493.155,364.77)\fscx21.23\fscy21.23\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.23,0:11:21.26,Country Sign,,0,0,0,,{\pos(493.695,364.11)\fscx21.2\fscy21.2\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.26,0:11:21.29,Country Sign,,0,0,0,,{\pos(494.145,363.465)\fscx21.18\fscy21.18\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.29,0:11:21.33,Country Sign,,0,0,0,,{\pos(494.58,362.925)\fscx21.16\fscy21.16\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.33,0:11:21.36,Country Sign,,0,0,0,,{\pos(494.94,362.415)\fscx21.14\fscy21.14\c&H475358&\blur0.615}Ace's Country
-Dialogue: 0,0:11:21.36,0:11:21.39,Country Sign,,0,0,0,,{\pos(495.285,361.95)\fscx21.12\fscy21.12\c&H475358&\blur0.6}Ace's Country
-Dialogue: 0,0:11:21.39,0:11:21.43,Country Sign,,0,0,0,,{\pos(495.63,361.56)\fscx21.11\fscy21.11\c&H475358&\blur0.6}Ace's Country
-Dialogue: 0,0:11:21.43,0:11:21.46,Country Sign,,0,0,0,,{\pos(495.93,361.155)\fscx21.09\fscy21.09\c&H475358&\blur0.6}Ace's Country
-Dialogue: 0,0:11:21.46,0:11:21.49,Country Sign,,0,0,0,,{\pos(496.245,360.765)\fscx21.08\fscy21.08\c&H475358&\blur0.6}Ace's Country
-Dialogue: 0,0:11:21.49,0:11:21.99,Country Sign,,0,0,0,,{\move(496.485,360.45,497.97,358.515)\fscx21.07\fscy21.07\c&H475358&\blur0.6\t(\fscx21\fscy21)}Ace's Country
-Dialogue: 0,0:11:21.99,0:11:27.34,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur0.6}Ace's Country
-Dialogue: 0,0:11:20.56,0:11:20.60,Country Sign,,0,0,0,,{\pos(1092.93,1025.73)\fscx42\fscy42\frz7.99\c&H545153&\blur0.9\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.60,0:11:20.63,Country Sign,,0,0,0,,{\pos(1060.935,727.065)\fscx32\fscy32\frz7.99\c&H545153&\blur0.9\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.63,0:11:20.66,Country Sign,,0,0,0,,{\pos(1035.54,542.85)\fscx24\fscy24\frz7.99\c&H545153&\blur0.795\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.66,0:11:20.69,Country Sign,,0,0,0,,{\pos(1036.815,433.32)\fscx23.72\fscy23.72\frz7.99\c&H545153&\blur0.75\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.69,0:11:20.73,Country Sign,,0,0,0,,{\pos(1032.33,394.41)\fscx22.34\fscy22.34\frz7.99\c&H545153&\blur0.675\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.73,0:11:20.76,Country Sign,,0,0,0,,{\pos(1031.175,386.1)\fscx22.04\fscy22.04\frz7.99\c&H545153&\blur0.66\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.76,0:11:20.79,Country Sign,,0,0,0,,{\pos(1030.725,381.99)\fscx21.9\fscy21.9\frz7.99\c&H545153&\blur0.645\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.79,0:11:20.83,Country Sign,,0,0,0,,{\pos(1030.23,379.005)\fscx21.79\fscy21.79\frz7.99\c&H545153&\blur0.645\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.83,0:11:20.86,Country Sign,,0,0,0,,{\pos(1030.14,376.605)\fscx21.71\fscy21.71\frz7.99\c&H545153&\blur0.645\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.86,0:11:20.89,Country Sign,,0,0,0,,{\pos(1029.855,374.58)\fscx21.63\fscy21.63\frz7.99\c&H545153&\blur0.63\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.89,0:11:20.93,Country Sign,,0,0,0,,{\pos(1029.51,372.825)\fscx21.57\fscy21.57\frz7.99\c&H545153&\blur0.63\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.93,0:11:20.96,Country Sign,,0,0,0,,{\pos(1029.36,371.295)\fscx21.51\fscy21.51\frz7.99\c&H545153&\blur0.63\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.96,0:11:20.99,Country Sign,,0,0,0,,{\pos(1029.255,369.885)\fscx21.47\fscy21.47\frz7.99\c&H545153&\blur0.63\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:20.99,0:11:21.03,Country Sign,,0,0,0,,{\pos(1028.97,368.64)\fscx21.42\fscy21.42\frz7.99\c&H545153&\blur0.63\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.03,0:11:21.06,Country Sign,,0,0,0,,{\pos(1029.06,367.47)\fscx21.39\fscy21.39\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.06,0:11:21.09,Country Sign,,0,0,0,,{\pos(1028.73,366.495)\fscx21.34\fscy21.34\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.09,0:11:21.13,Country Sign,,0,0,0,,{\pos(1028.7,365.565)\fscx21.31\fscy21.31\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.13,0:11:21.16,Country Sign,,0,0,0,,{\pos(1028.52,364.71)\fscx21.28\fscy21.28\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.16,0:11:21.19,Country Sign,,0,0,0,,{\pos(1028.445,363.945)\fscx21.25\fscy21.25\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.19,0:11:21.23,Country Sign,,0,0,0,,{\pos(1028.34,363.24)\fscx21.23\fscy21.23\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.23,0:11:21.26,Country Sign,,0,0,0,,{\pos(1028.295,362.595)\fscx21.2\fscy21.2\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.26,0:11:21.29,Country Sign,,0,0,0,,{\pos(1028.22,361.95)\fscx21.18\fscy21.18\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.29,0:11:21.33,Country Sign,,0,0,0,,{\pos(1027.98,361.41)\fscx21.16\fscy21.16\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.33,0:11:21.36,Country Sign,,0,0,0,,{\pos(1027.92,360.9)\fscx21.14\fscy21.14\frz7.99\c&H545153&\blur0.615\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.36,0:11:21.39,Country Sign,,0,0,0,,{\pos(1027.83,360.435)\fscx21.12\fscy21.12\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.39,0:11:21.43,Country Sign,,0,0,0,,{\pos(1027.875,360.045)\fscx21.11\fscy21.11\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.43,0:11:21.46,Country Sign,,0,0,0,,{\pos(1027.815,359.655)\fscx21.09\fscy21.09\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.46,0:11:21.49,Country Sign,,0,0,0,,{\pos(1027.77,359.25)\fscx21.08\fscy21.08\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
-Dialogue: 0,0:11:21.49,0:11:27.34,Country Sign,,0,0,0,,{\move(1027.755,358.935,1027.5,357)\fscx21.07\fscy21.07\frz7.99\c&H545153&\blur0.6\t(\fscx21\fscy21)\fnAxe Hand}Luffy's Country
+Dialogue: 0,0:11:18.86,0:11:19.72,Country Sign,,0,0,0,,{\move(1164,486,1155,489)\fscx111\fscy111\frz0.31\fry4\frx14\c&H3F3D3D&\blur1.2\t(\fscx105.86\fscy105.86\blur1.14\frz0.32)}艾斯之國
+Dialogue: 0,0:11:19.72,0:11:20.56,Country Sign,,0,0,0,,{\move(1222.5,427.5,1210.5,432)\frz4.72\fry359\frx8\blur1.2\t(\fscx95.63\fscy95.63\blur1.155\frz4.7)\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur1.2}艾斯之國
+Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(1027.755,358.935,1027.5,357)\fscx21.07\fscy21.07\frz7.99\c&H545153&\blur1.2\t(\fscx21\fscy21\fnAxe Hand)}魯夫之國
+Dialogue: 0,0:11:20.63,0:11:20.66,Country Sign,,0,0,0,,{\pos(369.75,533.415)\fscx24.47\fscy24.47\c&H475358&\blur0.795}艾斯之國
+Dialogue: 0,0:11:20.66,0:11:20.69,Country Sign,,0,0,0,,{\pos(438.765,435.015)\fscx23.72\fscy23.72\c&H475358&\blur0.75}艾斯之國
+Dialogue: 0,0:11:20.69,0:11:20.73,Country Sign,,0,0,0,,{\pos(468.96,396)\fscx22.34\fscy22.34\c&H475358&\blur0.675}艾斯之國
+Dialogue: 0,0:11:20.73,0:11:20.76,Country Sign,,0,0,0,,{\pos(475.425,387.675)\fscx22.04\fscy22.04\c&H475358&\blur0.66}艾斯之國
+Dialogue: 0,0:11:20.76,0:11:20.79,Country Sign,,0,0,0,,{\pos(478.62,383.55)\fscx21.9\fscy21.9\c&H475358&\blur0.645}艾斯之國
+Dialogue: 0,0:11:20.79,0:11:20.83,Country Sign,,0,0,0,,{\pos(480.915,380.565)\fscx21.79\fscy21.79\c&H475358&\blur0.645}艾斯之國
+Dialogue: 0,0:11:20.83,0:11:20.86,Country Sign,,0,0,0,,{\pos(482.79,378.15)\fscx21.71\fscy21.71\c&H475358&\blur0.645}艾斯之國
+Dialogue: 0,0:11:20.86,0:11:20.89,Country Sign,,0,0,0,,{\pos(484.35,376.125)\fscx21.63\fscy21.63\c&H475358&\blur0.63}艾斯之國
+Dialogue: 0,0:11:20.89,0:11:20.93,Country Sign,,0,0,0,,{\pos(485.7,374.37)\fscx21.57\fscy21.57\c&H475358&\blur0.63}艾斯之國
+Dialogue: 0,0:11:20.93,0:11:20.96,Country Sign,,0,0,0,,{\pos(486.915,372.84)\fscx21.51\fscy21.51\c&H475358&\blur0.63}艾斯之國
+Dialogue: 0,0:11:20.96,0:11:20.99,Country Sign,,0,0,0,,{\pos(487.965,371.415)\fscx21.47\fscy21.47\c&H475358&\blur0.63}艾斯之國
+Dialogue: 0,0:11:20.99,0:11:21.03,Country Sign,,0,0,0,,{\pos(488.94,370.17)\fscx21.42\fscy21.42\c&H475358&\blur0.63}艾斯之國
+Dialogue: 0,0:11:21.03,0:11:21.06,Country Sign,,0,0,0,,{\pos(489.81,368.985)\fscx21.39\fscy21.39\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.06,0:11:21.09,Country Sign,,0,0,0,,{\pos(490.59,368.01)\fscx21.34\fscy21.34\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.09,0:11:21.13,Country Sign,,0,0,0,,{\pos(491.34,367.08)\fscx21.31\fscy21.31\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.13,0:11:21.16,Country Sign,,0,0,0,,{\pos(492,366.225)\fscx21.28\fscy21.28\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.16,0:11:21.19,Country Sign,,0,0,0,,{\pos(492.6,365.46)\fscx21.25\fscy21.25\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.19,0:11:21.23,Country Sign,,0,0,0,,{\pos(493.155,364.77)\fscx21.23\fscy21.23\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.23,0:11:21.26,Country Sign,,0,0,0,,{\pos(493.695,364.11)\fscx21.2\fscy21.2\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.26,0:11:21.29,Country Sign,,0,0,0,,{\pos(494.145,363.465)\fscx21.18\fscy21.18\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.29,0:11:21.33,Country Sign,,0,0,0,,{\pos(494.58,362.925)\fscx21.16\fscy21.16\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.33,0:11:21.36,Country Sign,,0,0,0,,{\pos(494.94,362.415)\fscx21.14\fscy21.14\c&H475358&\blur0.615}艾斯之國
+Dialogue: 0,0:11:21.36,0:11:21.39,Country Sign,,0,0,0,,{\pos(495.285,361.95)\fscx21.12\fscy21.12\c&H475358&\blur0.6}艾斯之國
+Dialogue: 0,0:11:21.39,0:11:21.43,Country Sign,,0,0,0,,{\pos(495.63,361.56)\fscx21.11\fscy21.11\c&H475358&\blur0.6}艾斯之國
+Dialogue: 0,0:11:21.43,0:11:21.46,Country Sign,,0,0,0,,{\pos(495.93,361.155)\fscx21.09\fscy21.09\c&H475358&\blur0.6}艾斯之國
+Dialogue: 0,0:11:21.46,0:11:21.49,Country Sign,,0,0,0,,{\pos(496.245,360.765)\fscx21.08\fscy21.08\c&H475358&\blur0.6}艾斯之國
+Dialogue: 0,0:11:21.49,0:11:21.99,Country Sign,,0,0,0,,{\move(496.485,360.45,497.97,358.515)\fscx21.07\fscy21.07\c&H475358&\blur0.6\t(\fscx21\fscy21)}艾斯之國
+Dialogue: 0,0:11:21.99,0:11:27.34,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur0.6}艾斯之國
+Dialogue: 0,0:11:20.56,0:11:20.60,Country Sign,,0,0,0,,{\pos(1092.93,1025.73)\fscx42\fscy42\frz7.99\c&H545153&\blur0.9\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.60,0:11:20.63,Country Sign,,0,0,0,,{\pos(1060.935,727.065)\fscx32\fscy32\frz7.99\c&H545153&\blur0.9\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.63,0:11:20.66,Country Sign,,0,0,0,,{\pos(1035.54,542.85)\fscx24\fscy24\frz7.99\c&H545153&\blur0.795\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.66,0:11:20.69,Country Sign,,0,0,0,,{\pos(1036.815,433.32)\fscx23.72\fscy23.72\frz7.99\c&H545153&\blur0.75\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.69,0:11:20.73,Country Sign,,0,0,0,,{\pos(1032.33,394.41)\fscx22.34\fscy22.34\frz7.99\c&H545153&\blur0.675\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.73,0:11:20.76,Country Sign,,0,0,0,,{\pos(1031.175,386.1)\fscx22.04\fscy22.04\frz7.99\c&H545153&\blur0.66\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.76,0:11:20.79,Country Sign,,0,0,0,,{\pos(1030.725,381.99)\fscx21.9\fscy21.9\frz7.99\c&H545153&\blur0.645\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.79,0:11:20.83,Country Sign,,0,0,0,,{\pos(1030.23,379.005)\fscx21.79\fscy21.79\frz7.99\c&H545153&\blur0.645\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.83,0:11:20.86,Country Sign,,0,0,0,,{\pos(1030.14,376.605)\fscx21.71\fscy21.71\frz7.99\c&H545153&\blur0.645\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.86,0:11:20.89,Country Sign,,0,0,0,,{\pos(1029.855,374.58)\fscx21.63\fscy21.63\frz7.99\c&H545153&\blur0.63\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.89,0:11:20.93,Country Sign,,0,0,0,,{\pos(1029.51,372.825)\fscx21.57\fscy21.57\frz7.99\c&H545153&\blur0.63\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.93,0:11:20.96,Country Sign,,0,0,0,,{\pos(1029.36,371.295)\fscx21.51\fscy21.51\frz7.99\c&H545153&\blur0.63\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.96,0:11:20.99,Country Sign,,0,0,0,,{\pos(1029.255,369.885)\fscx21.47\fscy21.47\frz7.99\c&H545153&\blur0.63\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:20.99,0:11:21.03,Country Sign,,0,0,0,,{\pos(1028.97,368.64)\fscx21.42\fscy21.42\frz7.99\c&H545153&\blur0.63\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.03,0:11:21.06,Country Sign,,0,0,0,,{\pos(1029.06,367.47)\fscx21.39\fscy21.39\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.06,0:11:21.09,Country Sign,,0,0,0,,{\pos(1028.73,366.495)\fscx21.34\fscy21.34\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.09,0:11:21.13,Country Sign,,0,0,0,,{\pos(1028.7,365.565)\fscx21.31\fscy21.31\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.13,0:11:21.16,Country Sign,,0,0,0,,{\pos(1028.52,364.71)\fscx21.28\fscy21.28\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.16,0:11:21.19,Country Sign,,0,0,0,,{\pos(1028.445,363.945)\fscx21.25\fscy21.25\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.19,0:11:21.23,Country Sign,,0,0,0,,{\pos(1028.34,363.24)\fscx21.23\fscy21.23\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.23,0:11:21.26,Country Sign,,0,0,0,,{\pos(1028.295,362.595)\fscx21.2\fscy21.2\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.26,0:11:21.29,Country Sign,,0,0,0,,{\pos(1028.22,361.95)\fscx21.18\fscy21.18\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.29,0:11:21.33,Country Sign,,0,0,0,,{\pos(1027.98,361.41)\fscx21.16\fscy21.16\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.33,0:11:21.36,Country Sign,,0,0,0,,{\pos(1027.92,360.9)\fscx21.14\fscy21.14\frz7.99\c&H545153&\blur0.615\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.36,0:11:21.39,Country Sign,,0,0,0,,{\pos(1027.83,360.435)\fscx21.12\fscy21.12\frz7.99\c&H545153&\blur0.6\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.39,0:11:21.43,Country Sign,,0,0,0,,{\pos(1027.875,360.045)\fscx21.11\fscy21.11\frz7.99\c&H545153&\blur0.6\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.43,0:11:21.46,Country Sign,,0,0,0,,{\pos(1027.815,359.655)\fscx21.09\fscy21.09\frz7.99\c&H545153&\blur0.6\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.46,0:11:21.49,Country Sign,,0,0,0,,{\pos(1027.77,359.25)\fscx21.08\fscy21.08\frz7.99\c&H545153&\blur0.6\fnAxe Hand}魯夫之國
+Dialogue: 0,0:11:21.49,0:11:27.34,Country Sign,,0,0,0,,{\move(1027.755,358.935,1027.5,357)\fscx21.07\fscy21.07\frz7.99\c&H545153&\blur0.6\t(\fscx21\fscy21)\fnAxe Hand}魯夫之國
 Dialogue: 0,0:04:28.65,0:04:30.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1170,1215,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:04:28.65,0:04:30.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:04:30.22,0:04:32.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2200,2245,\1a&HFF&)}Timing\N{\fs75}\h\hSewil\N\h\hBastia\N\h\hPhosCity
