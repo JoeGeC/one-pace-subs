@@ -3893,3 +3893,29 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Minister Cracker (homies' address for defeated Cracker) | 慨烈卡大臣 | kept — established (L3767). "Big Brother Cracker" = 慨烈卡大哥 |
 | "failure" theme / "sacrifice" (Judge flashback slurs at Sanji) | 廢物／祭品 | kept — established (L3753). "You are a sacrifice, Sanji" = 你是個祭品，香吉士 |
 | Sanji-kun (Nami's affectionate address; source keeps romaji "kun" in {\i1} tags) | 香吉士{\i1}君{\...} | -kun→君 (matches -chan→醬 L3615, -san→桑; 31 prior WCI instances of 香吉士{\i1}君). Preserve exact source tags e.g. {\fs10} {\r} or {\fs12} {\r} or {\i} |
+
+## Whole Cake Island Arc (WCI 12 [845-846] — "Forces of Rage" / Big Mom's enraged army / Sanji & Pudding heart-to-heart / Pedro & Brook poneglyph plan)
+| English | zh-TW | Notes |
+|---|---|---|
+| Forces of Rage (WCI 12 episode title) | 憤怒之軍 | Title card; refers to Big Mom's storm-borne vengeance army mobilized after Cracker's defeat |
+| Charlotte Amande / "Mad Moiselle" Amande (3rd daughter, wields sword Shirauo) | 阿曼德／「瘋小姐」阿曼德 | COINED — Amande アマンド → 阿曼德; "Mad Moiselle" pun on Mademoiselle → 「瘋小姐」. "Lady Amande" address = 阿曼德大人. UNVERIFIED |
+| Shirauo (Amande's named blade, シラウオ = icefish/whitebait) | 名劍「白魚」 | COINED — シラウオ literal 白魚 (icefish). "The named blade... Shirauo." = 名劍…「白魚」。UNVERIFIED |
+| Slow Ballad (Amande sword attack) | 慢板情歌 | COINED — スローバラード; Slow 慢板 (musical) + Ballad 情歌. Cutting attack. UNVERIFIED |
+| Bobbin "the Disposer" (Big Mom Pirates, epithet) | 「處理者」波賓 | Bobbin 波賓 established (L2007); "the Disposer" (始末屋/后始末) = 「處理者」 |
+| Mont d'Or "the Scribe" (Big Mom's son, Book-Book Fruit) | 「書記」蒙多爾 | Mont d'Or 蒙多爾 established (L3647/L3885); "the Scribe" = 「書記」 |
+| World of Books (Mont d'Or's Book-Book Fruit realm) | 書中世界 | COINED — ブクブクの実 traps targets inside books. "You're in the World of Books!" = 你正身處…書中世界！ |
+| Chess Peacekeepers (Big Mom's chess-piece soldier homies) | 西洋棋維和兵 | COINED — チェス兵/Chess Peacekeepers; 西洋棋 (chess) + 維和兵 (peacekeepers). They are homies 歡樂友人 (L3626). UNVERIFIED |
+| Charlotte Anana (young daughter, wants to cut her stuffed animal) | 阿娜娜 | COINED — アナナ → 阿娜娜. "What is it, Anana?" = 怎麼了，阿娜娜？ UNVERIFIED |
+| Charlotte Dolce & Dragée (young siblings Big Mom sends to borrow a knife) | 多爾切／德拉傑 | COINED — Dolce ドルチェ → 多爾切; Dragée ドラジェ → 德拉傑. UNVERIFIED |
+| Cream Monster (Opera cream attack, on Luffy) | 鮮奶油怪物 | COINED — クリームモンスター; cream 鮮奶油 (L3883) + monster 怪物. Cream user in Seducing-Woods aftermath. UNVERIFIED |
+| Cream Punch (Opera cream attack, split "Cream.../Punch!") | 鮮奶油拳 | COINED — cream 鮮奶油 + punch 拳. Split rows 鮮奶油…／拳！. UNVERIFIED |
+| Gum-Gum Elephant Gun (Luffy Gear Fourth attack, split "Gum-Gum.../Elephant Gun!") | 橡膠巨象槍 | COINED — ゴムゴムの象銃; Elephant 巨象 + Gun 槍 (cf Gum-Gum 橡膠). Split rows 橡膠…／巨象槍！. UNVERIFIED |
+| road/lode poneglyph, red poneglyph (the 4 red stones to Laugh Tale) | 路標歷史本文 | COINED-standard — ロードポーネグリフ; poneglyph 歷史本文 (L188) + road 路標. "four red lode poneglyphs, the red stones" = 四塊路標歷史本文，紅色的石頭. Big Mom holds 1 |
+| Sweet Commander Smoothie / Mistress Smoothie | 甜點將星斯姆吉／斯姆吉大人 | kept — Smoothie 斯姆吉 established (L3881); Sweet Commander 甜點將星 (L3803). "Mistress Smoothie" = 斯姆吉大人 |
+| Minister of Juice (Smoothie's caption title) | 果汁大臣 | descriptive; Charlotte-minister title pattern (cf L3650). Smoothie is the Minister of Juice |
+| Treasure Repository, Whole Cake Chateau (caption) | 萬國蛋糕城堡寶物庫 | COINED — 寶物庫 (treasure repository) + established 萬國蛋糕城堡 (L3644). "Outside the..." = …寶物庫外 |
+| Spirits Cellar (caption, Whole Cake Chateau) | 酒窖 | descriptive — spirits/liquor cellar 酒窖 |
+| mink poneglyph thief (Baron Tamago re: Pedro) | 毛皮族的歷史本文盜賊 | uses mink 毛皮族 + poneglyph 歷史本文 (L188). Refers to Pedro 佩特羅 (L3287) |
+| Straw Hat (Luffy epithet, enemy usage) | 草帽小子 | enemy/mocking address for Luffy; "Straw Hat Luffy" (Chess Peacekeeper shout) = 草帽魯夫 |
+| Big Sis Pudding (Big Mom's kids' address for Pudding) | 普琳大姐 | Pudding 普琳 established (L3549) + 大姐 (big sis). "Big Sis Pudding's wedding" = 普琳大姐的婚禮 |
+| bracelets (Big Mom's exploding restraints on likely-runaway brides/grooms) | 手環 | descriptive; detonate if wearer leaves the island. Big Mom holds the key |
