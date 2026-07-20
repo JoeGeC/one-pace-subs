@@ -3946,3 +3946,26 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Baron Tamago -dezvous quirk (rendez-vous pun, inline in italic line) | 問題-dezvous | inline romaji kept (line-level {\i1}); cf Tamago quirks -soir/-bon (L3762). "there won't be a problem-dezvous" = 就不會有問題-dezvous |
 | Whole Cake Chateau Library / Prisoner Library / Queen's Chamber (captions) | 萬國蛋糕城堡圖書館／囚人圖書館／女王的寢室 | 萬國蛋糕城堡 established (L3644); Library 圖書館, Prisoner Library 囚人圖書館, Queen's Chamber (Big Mom, 萬國女王 L3654) 女王的寢室 |
 | Perospero caption "Eldest Son of the Charlotte Family" | 夏洛特家族的長子 | Perospero 裴洛斯培勒 (L3739); "Eldest Son of the Charlotte Family" = 夏洛特家族的長子 (matches L3739 caption) |
+
+## Whole Cake Island Arc (WCI 14 [849-850] — "A Ray of Light" / Chopper & Carrot escape Brûlée's mirror house / Pedro vs Tamago & Zepo flashback / Sanji overhears Pudding's true nature / Vinsmoke execution plot)
+| English | zh-TW | Notes |
+|---|---|---|
+| A Ray of Light (WCI 14 episode title) | 一道光芒 | Title card. Ties to Sanji's line "my only ray of light in this world" = 我在這世上唯一一道光芒 (Pudding) |
+| Nox Pirates (Pedro's former crew, poneglyph-seeking) | 諾克斯海賊團 | VERIFIED Fandom zh exact page 諾克斯海賊團. "Captain Pedro of the Nox Pirates" = 諾克斯海賊團的佩特羅船長; caption "Former Captain of the Nox Pirates" = 諾克斯海賊團前船長. "Nox" = 夜晚/黎明前夕 (night/pre-dawn) per Pedro's page |
+| Zepo (Nox Pirates captain, Pekoms's "big brother", died to Big Mom's soul-taking) | 澤波 | VERIFIED Fandom zh — listed on 諾克斯海賊團 member roster (澤波, deceased). "Big Brother Zepo!" = 澤波大哥！; "Stay with me, Zepo!" = 撐住，澤波！ |
+| Pedro (Nox Pirates captain, WCI 14 bounty caption) | 佩特羅 | kept — established (L3287/L3540). Caption bounty 382 Million Belly = 懸賞金：3億8200萬貝里 (VERIFIED 3億8200萬 on Fandom Pedro page) |
+| Baron Tamago (WCI 14 bounty caption) | 塔瑪哥男爵 | kept — established (L3553). Caption "Knight of the Big Mom Pirates" = 大媽海賊團騎士; bounty 429 Million Belly = 懸賞金：4億2900萬貝里 |
+| Pekoms (Zepo/Pedro flashback, now Big Mom Pirates) | 乘高斯 | kept — repo-established (L3523/L3554). "I'm a member of the Big Mom Pirates now" = 我現在是大媽海賊團的一員了 |
+| Aristocroc (Big Mom homie in Brûlée's mirror house, aristocrat+crocodile) | 貴族鱷 | COINED — アリストクロコ, no Fandom zh page. 貴族 (aristocrat) + 鱷 (croc). One of Chopper's "16 enemies" list. UNVERIFIED |
+| Diesel (mysterious "chimney man" homie, fast runner, choo-choo) | 迪索 | COINED phonetic — ディーゼル, no Fandom zh page. "the mysterious chimney man Diesel" = 神秘的煙囪男迪索. Runs like a train ("Choo-choo!" = 嘟嘟！). UNVERIFIED |
+| Electrical Luna (Carrot electro attack) | 電擊月光 | COINED — エレクトリカル・ルーナ; Electro 電擊 (L3590) + Luna 月光 (moon-rabbit theme). UNVERIFIED |
+| Swallow Banderole (Pedro leaping-slash attack) | 燕子三角旗 | COINED — ツバメバンデロール; Swallow 燕子 + Banderole (pennant/streamer) 三角旗. UNVERIFIED |
+| Legs Benedict (Baron Tamago kick attack, "Eggs Benedict" pun) | 班尼迪克腿 | COINED — egg-man Tamago; pun on Eggs Benedict (班尼迪克蛋) with 蛋→腿 (leg) swap to preserve the food gag. UNVERIFIED |
+| the new dawn / day of the new dawn (Pedro's belief re: Straw Hats & the world) | 新黎明／新黎明之日 | Pedro's Fandom page phrases it 世界黎明. "lead the world to the new dawn" = 帶領世界迎向新黎明; "The day of the new dawn is coming!" = 新黎明之日即將到來！ |
+| Madame Brûlée / Madam Pudding (homie & guard address) | 布璃叡夫人／普琳大小姐 | kept — Madame Brûlée 布璃叡夫人 (L3691); Madam Pudding 普琳大小姐 (L3631/L3549) |
+| Chobro (Carrot's nickname for Chopper) | 喬哥 | kept — established (L3816/L3927). "Leave it to me, Chobro!" = 交給我吧，喬哥！ |
+| Big Mom Pirates (Pekoms's crew, flashback) | 大媽海賊團 | kept — established (L3668/L2045). |
+| "nasu" eggplant speech quirk (Whole Cake Chateau servant) | kept romaji {\i1}nasu{\i0} | WCI quirk convention (L3593/L3762): drop hyphen, keep romaji verbatim in italic tags. Note line "Nasu = Eggplant" = 註：「Nasu」是茄子的意思。Doubles as pun when servant offers an actual eggplant |
+| Tamago French quirks -bon/-soufflé/-feuille/-toilette/-toi-et-moi (WCI 14) | kept as italic romaji tags | per WCI/Zou convention (L3762). Preserve exact closing tags e.g. {\i1}bon{\fs10} {\r}, {\i1}feuille{\i}. NB "pathetic-bon" (L283) had no italic tags in source → rendered plain 真沒出息bon |
+| Garchu (mink kiss-greeting, WCI 14) | kept romaji "Garchu" | per convention (L3593), left untranslated/omitted from TSV so merge preserves source. Applies to lines 106, 258-261 |
+| Captions (WCI 14 locations) | 賓什莫克家族的客房／鏡中世界，布璃叡的家／香吉士的房間／寶物庫／萬國蛋糕城堡內庭／甜點城／囚人圖書館／香吉士的客房／萬國蛋糕城堡三樓中庭／普琳房間前 | Mirro-world 鏡中世界 (L3779); Treasure Repository 寶物庫 (L3916); Whole Cake Chateau 萬國蛋糕城堡 (L3644); Sweet City 甜點城 (L3643); Prisoner Library 囚人圖書館 (L3947) |
