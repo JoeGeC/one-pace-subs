@@ -4006,3 +4006,17 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | barmaids (sent to Germa to get them drunk) | 女侍者 | Pudding's plan |
 | Baron Corpse note reuse / Pudding-san & Sanji-san honorifics | 普琳桑／香吉士桑 | -san→桑 (L, Bird-san 鳥桑); -chan→醬 (L, Pound-chan 潘德醬). Brook's polite inner monologue uses 普琳桑/香吉士桑; Sanji's thought "Pudding-chan" = 普琳醬 |
 | Captions (WCI 16 locations & labels) | 寶物庫／中層樹三樓／女王的寢室／鏡中世界／香吉士的房間／會議室／醫療室三樓／甜點城／城堡內 | Treasure Repository 寶物庫; Third Floor Midbaum 中層樹三樓 (midbaum 中層樹 L); Queen's Chamber 女王的寢室; Mirro-world 鏡中世界; Sanji's Room 香吉士的房間; Meeting Room 會議室; Medical Room/Third Floor 醫療室三樓 (醫療室 L); Sweet City 甜點城; In the Chateau 城堡內 |
+
+## Whole Cake Island Arc (WCI 17 [855-856] — "Liar" / Brook rescued from Big Mom's bedroom & poneglyph rubbings reveal / Vinsmoke banquet trap talk / Sanji's three reasons & Luffy's crushed-food flashback)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Liar (WCI 17 episode title) | 騙子 | Title card. Payoff of Sanji's inner "Liar!" (騙子！) when Luffy praises the rain-ruined, crushed food as delicious. Matches Thoughts line 騙子！ |
+| Sir Bobbin (subordinates' address) | 波賓大人 | Bobbin 波賓 established (L2007); "the Disposer" = 「處理者」波賓 (L3904). "-Sir" address → 大人 |
+| Bobbin caption ("A Fighter (Bishop) of the Big Mom Pirates / Bounty: 105.5 Million Belly") | 「處理者」波賓／大媽海賊團的戰鬥員（主教）／懸賞金：1億550萬貝里 | Fighter = 戰鬥員; Bishop (chess-piece rank) = 主教; 105.5 Million Belly = 1億550萬貝里 (belly 貝里 L159). COINED rank gloss, UNVERIFIED |
+| poneglyph rubbings / rubbings / a copy (Brook's stolen tracings) | 拓本 | COINED-standard — 拓本 = ink rubbing/tracing of a stone inscription; fits poneglyph 歷史本文 (L188). "the rubbings" = 拓本; "poneglyph rubbings" = 歷史本文的拓本; "a copy of the lode poneglyph" = 路標歷史本文的拓本 (lode poneglyph 路標歷史本文 L3913) |
+| Heavenly Feuer (attack that launches Brook out to Jinbe; split "Heavenly..."/"Feuer!") | 天降……／烈焰！ | COINED — Feuer = German "fire"; rendered 天降 (heaven-falling) + 烈焰 (blaze). Attribution unclear (Carrot/Jinbe assist during rescue). {\fad(150,150)} styling like Electro 電擊. UNVERIFIED |
+| top officers (of Big Mom Pirates; Luffy's all-night fight = Cracker) | 高階幹部 | "one of their top officers" = 他們的一名高階幹部之一; refers to Sweet Commander Cracker |
+| beneficial punk / our failure (Vinsmoke banquet toast for Sanji) | 有用的臭小子／失敗品 | "To our failure!" = 敬我們的失敗品！(failure 失敗品 L3976); "To our beneficial punk!" = 敬我們那有用的臭小子！ |
+| third-floor clinic (where Reiju is guarded) | 三樓的醫療室 | clinic → 醫療室 (established Medical Room 醫療室 L3989); "Lady Reiju" = 麗珠大人 (L3599) |
+| Captions (WCI 17 locations) | 鏡中世界／甜點城／甜點城外／客房 六樓 中層樹／賓什莫克家族客房外／城鎮外 | Mirro-world 鏡中世界 (L3779); Sweet City 甜點城 (L3643); "Outside Sweet City" = 甜點城外; "Guest Room/6th Floor/Midbaum" = 客房／六樓／中層樹 (midbaum 中層樹 L3942); "Just Outside the Vinsmoke Family Guest Room" = 賓什莫克家族客房外 (Vinsmoke Family Guest Room 賓什莫克家族的客房 L3971); "Outside of Town" = 城鎮外 |
+| -nasu eggplant quirk (servant reporting Luffy/Nami captured, WCI 17) | {\i1}nasu{\i0} | kept — established (L3968). Source had no italic tags this ep; added {\i1}nasu{\i0} per quirk convention. "captive-nasu" = 當俘虜了{\i1}nasu{\i0} |
