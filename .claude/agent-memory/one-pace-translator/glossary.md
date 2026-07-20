@@ -3919,3 +3919,30 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Straw Hat (Luffy epithet, enemy usage) | 草帽小子 | enemy/mocking address for Luffy; "Straw Hat Luffy" (Chess Peacekeeper shout) = 草帽魯夫 |
 | Big Sis Pudding (Big Mom's kids' address for Pudding) | 普琳大姐 | Pudding 普琳 established (L3549) + 大姐 (big sis). "Big Sis Pudding's wedding" = 普琳大姐的婚禮 |
 | bracelets (Big Mom's exploding restraints on likely-runaway brides/grooms) | 手環 | descriptive; detonate if wearer leaves the island. Big Mom holds the key |
+
+## Whole Cake Island Arc (WCI 13 [847-848] — "Luffy and Big Mom" / Mont d'Or's book collection / Big Mom transponder-snail threat / Lola backstory / Brook vs Chess Peacekeepers / Sanji & Pudding)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Luffy and Big Mom (WCI 13 episode title) | 魯夫與大媽 | title card; uses established Luffy 魯夫 + Big Mom 大媽 |
+| Chobro (Carrot's nickname for Chopper) | 喬哥 | CONFIRMED from shipped WCI zh-TW (7 uses 喬哥). Carrot's affectionate name for Chopper (チョ兄) |
+| tiger mink / jaguar mink | 老虎純毛族／美洲豹純毛族 | mink tribe = 純毛族 (repo-dominant, 12x in shipped WCI dialogue; NB one ep12 outlier used 毛皮族). "he's a jaguar mink!" = 他是美洲豹純毛族 (matches shipped) |
+| Longarm Tribe (Mont d'Or's "long-limbed human" specimen) | 長手族 | VERIFIED Fandom zh exact page 長手族. "A long-limbed human!" = 一個長手族的人類！ (NB Longleg Tribe = 長腳族, also Fandom-verified) |
+| griffin (Mont d'Or's collection, from South Blue) | 獅鷲 | VERIFIED Fandom zh exact page 獅鷲. "a griffin from the South Blue" = 來自南海的獅鷲 |
+| manticore (Mont d'Or's collection) | 人面獅 | kept — established (L1702). Its parroted word "Loincloth, loincloth!" = 兜襠布，兜襠布！ |
+| Heavy Point / Monster Point (Chopper forms) | 重量強化／怪物強化 | follows Chopper-form pattern (Horn Point 角強化 L236, Brain Point 頭腦強化 L237). Chopper's WCI capture-escape plan |
+| Cat Burglar Nami (Big Mom's address) | 貓大盜娜美 | VERIFIED Fandom zh exact page 貓大盜 (Nami's epithet). "Lola's friend, Cat Burglar Nami" = 蘿拉的朋友，貓大盜娜美 |
+| Emperor Big Mom / Pirate Emperor | 四皇大媽／海賊四皇 | uses established 四皇 (L43) + 大媽. "Emperor Big Mom" = 四皇大媽; "Pirate Emperor Big Mom's castle" = 海賊四皇大媽的城堡 |
+| King Neptune (WCI ref., Tamate Box origin) | 涅普頓國王 | kept — WCI/Zou-arc form 涅普頓 (L3572); NOT Fishman-arc 海神·乘頓. "treasure from King Neptune" = 從涅普頓國王那裡得到的寶藏 |
+| Tamate Box (WCI, Big Mom's new prize) | 玉手箱 | kept — established (L2102). "I'm going to open the Tamate Box" = 打開玉手箱 |
+| Absalom (Lola flashback, her arranged-marriage rival) | 阿布薩羅姆 | kept — established (L1308). "Absalom is gonna marry me!" = 阿布薩羅姆要娶的人是我！ |
+| Chess Peacekeepers / chess-piece labels | 西洋棋維和兵；主教／兵／騎士／城堡／國王／皇后 | Chess Peacekeepers 西洋棋維和兵 established (L3907). Piece captions (Chess Soldiers style): Bishop 主教, Pawn 兵, Knight 騎士, Rook 城堡, King 國王, Queen 皇后 |
+| Soul Scream (Brook attack, topples soul-infused soldiers) | 靈魂尖叫 | COINED — no Fandom zh technique page (opensearch 靈魂尖叫 returns no exact hit). Brook 靈魂之王 (L1933) music attack; UNVERIFIED |
+| Soul King (Brook's stage name, WCI self-intro) | 靈魂之王 | kept — established (L1933/L2301). "They call me Soul King!" = 人們都叫我靈魂之王！ |
+| Anglaise (Chess Peacekeeper homie, King piece; malaprops "intruder"→"intrudee", won't brush teeth) | 安格蕾茲 | COINED — アングレーズ (Anglaise / crème anglaise); no Fandom zh page found. UNVERIFIED. "intrudee" malapropism rendered 入侵鬼 (vs correct 入侵者) to carry the gag |
+| midbaum (Whole Cake Chateau structural layer, "third floor of the midbaum") | 中層樹 | COINED — mid + baum (tree; chateau built of trees, cf Kingbaum 古樹王). "third floor of the midbaum" = 中層樹的三樓. UNVERIFIED |
+| Commander Smoothie (Tamago's address) | 斯姆吉將星 | Smoothie 斯姆吉 established (L3881); Sweet Commander 甜點將星 (L3803). Vocative "Commander Smoothie!" = 斯姆吉將星！(cf Mistress Smoothie 斯姆吉大人 L3914) |
+| Brother Opera (Pudding's address for Opera) | 歐佩拉哥哥 | Opera 歐佩拉 established (L3883) + 哥哥 (brother). "Brother Opera" = 歐佩拉哥哥 |
+| Big Sis Lola (Big Mom pirate's address for Lola) | 蘿拉大姐 | Lola 蘿拉 + 大姐 (big sis), by analogy to Big Sis Pudding 普琳大姐 (L3920) |
+| Baron Tamago -dezvous quirk (rendez-vous pun, inline in italic line) | 問題-dezvous | inline romaji kept (line-level {\i1}); cf Tamago quirks -soir/-bon (L3762). "there won't be a problem-dezvous" = 就不會有問題-dezvous |
+| Whole Cake Chateau Library / Prisoner Library / Queen's Chamber (captions) | 萬國蛋糕城堡圖書館／囚人圖書館／女王的寢室 | 萬國蛋糕城堡 established (L3644); Library 圖書館, Prisoner Library 囚人圖書館, Queen's Chamber (Big Mom, 萬國女王 L3654) 女王的寢室 |
+| Perospero caption "Eldest Son of the Charlotte Family" | 夏洛特家族的長子 | Perospero 裴洛斯培勒 (L3739); "Eldest Son of the Charlotte Family" = 夏洛特家族的長子 (matches L3739 caption) |
