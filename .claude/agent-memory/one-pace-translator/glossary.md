@@ -3872,3 +3872,24 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Your/Her Majesty (Queen Sora, Sanji's mother) | 王后陛下 | Sora = queen; "Her Majesty's stomach" = 王后陛下; direct address = 王后陛下. His Majesty (Judge, king) = 陛下 (L3852) |
 | little eggplant (Zeff's nickname for young Sanji) | 小茄子 | literal rendering of English "little eggplant"; Zeff's term for apprentice Sanji |
 | All Blue (Sanji's dream sea, cookbook) | All Blue | kept — established (L3836 VERIFIED, kept romaji). "「All... Blue」？" split kept |
+
+## Whole Cake Island Arc (WCI 11 [843-844] — "Luffy vs. Sanji" / Cracker's defeat aftermath / Sanji rejects the crew / Diable Jambe on Luffy)
+| English | zh-TW | Notes |
+|---|---|---|
+| Luffy vs. Sanji (WCI 11 episode title) | 魯夫 VS 香吉士 | Title card. vs. → VS (fansub-standard). Uses established Luffy 魯夫 / Sanji 香吉士 |
+| Charlotte Katakuri / Katakuri (2nd son, Sweet Commander, Minister of Flour) | 夏洛特·卡塔克利 / 卡塔克利 | VERIFIED Fandom zh exact page 夏洛特·卡塔克利 (redirect alias 卡塔庫栗 exists — use 卡塔克利). "Sweet Commander Katakuri" = 甜點將星卡塔克利 |
+| Charlotte Smoothie / Smoothie (14th daughter, Sweet Commander, Minister of Juice) | 夏洛特·斯姆吉 / 斯姆吉 | VERIFIED Fandom zh exact page 夏洛特·斯姆吉 (opensearch normalized from 斯慕吉). "Mistress Smoothie" address = 斯姆吉大人 |
+| Charlotte Snack / Snack (25th son, former Sweet Commander, defeated by Urouge) | 夏洛特·史納克 / 史納克 | VERIFIED Fandom zh exact page 夏洛特·史納克. "When Sweet Commander Snack was defeated" = 當甜點將星史納克被打敗時 |
+| Charlotte Opera (5th son, Minister of Cream) | 夏洛特·歐佩拉 | VERIFIED Fandom zh exact page 夏洛特·歐佩拉. Caption "Minister of Cream" = 鮮奶油大臣 (Fandom occupation 鮮奶油大臣); cream = 鮮奶油 in zh-TW |
+| Charlotte Galette (18th daughter, Minister of Butter) | 夏洛特·賈萊特 | VERIFIED Fandom zh exact page 夏洛特·賈萊特 (opensearch normalized from 加雷特). Caption "Minister of Butter" = 奶油大臣 (Fandom occupation 奶油大臣); butter = 奶油 in zh-TW |
+| Charlotte Mont d'Or — Minister of Cheese (caption) | 夏洛特·蒙多爾／起司大臣 | Mont d'Or 蒙多爾 established (L3647). Caption "Minister of Cheese" = 起司大臣; cheese = 起司 |
+| Charlotte Family child-count caption format ("19th Son / Fifth Son / 18th Daughter of the Charlotte Family") | 夏洛特家族的第N個兒子／女兒 | caption convention: "Nth Son of the Charlotte Family" = 夏洛特家族的第N個兒子; daughter = 女兒 |
+| Zeus (Big Mom's thundercloud homie, on her left hand) | 宙斯 | VERIFIED Fandom zh exact page 宙斯. "On her left hand, Zeus, a thundercloud!" = 她左手邊是宙斯，一朵雷雲！ |
+| Prometheus (Big Mom's sun homie, on her right hand) | 普羅米修斯 | VERIFIED Fandom zh exact page 普羅米修斯. "On her right hand, Prometheus, a sun!" = 她右手邊是普羅米修斯，一顆太陽！ |
+| Calicoach (Vinsmoke family's carriage homie) | 卡莉可馬車 | COINED — no dedicated Fandom zh page (キャリコーチ = Calico + coach). "The Calicoach will turn over!" = 卡莉可馬車會翻的！ UNVERIFIED |
+| Joue Shot (Sanji Diable Jambe cheek kick, on Luffy) | 頰肉射擊 | kept — established (L266 Joue Shoot 頰肉射擊). Split-safe. Uses Diable Jambe 惡魔風腳 (L100) |
+| Concassé (Sanji crushing kick, on Luffy) | 碎擊 | kept — established (L1070) |
+| vivre card (Big Mom's, Kingbaum's homie stash) | 生命之紙 | kept — established WCI form (L3777 VERIFIED). "Mama's vivre card" = 媽媽的生命之紙 |
+| Minister Cracker (homies' address for defeated Cracker) | 慨烈卡大臣 | kept — established (L3767). "Big Brother Cracker" = 慨烈卡大哥 |
+| "failure" theme / "sacrifice" (Judge flashback slurs at Sanji) | 廢物／祭品 | kept — established (L3753). "You are a sacrifice, Sanji" = 你是個祭品，香吉士 |
+| Sanji-kun (Nami's affectionate address; source keeps romaji "kun" in {\i1} tags) | 香吉士{\i1}君{\...} | -kun→君 (matches -chan→醬 L3615, -san→桑; 31 prior WCI instances of 香吉士{\i1}君). Preserve exact source tags e.g. {\fs10} {\r} or {\fs12} {\r} or {\i} |
