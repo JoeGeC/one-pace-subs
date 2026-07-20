@@ -3969,3 +3969,21 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Tamago French quirks -bon/-soufflé/-feuille/-toilette/-toi-et-moi (WCI 14) | kept as italic romaji tags | per WCI/Zou convention (L3762). Preserve exact closing tags e.g. {\i1}bon{\fs10} {\r}, {\i1}feuille{\i}. NB "pathetic-bon" (L283) had no italic tags in source → rendered plain 真沒出息bon |
 | Garchu (mink kiss-greeting, WCI 14) | kept romaji "Garchu" | per convention (L3593), left untranslated/omitted from TSV so merge preserves source. Applies to lines 106, 258-261 |
 | Captions (WCI 14 locations) | 賓什莫克家族的客房／鏡中世界，布璃叡的家／香吉士的房間／寶物庫／萬國蛋糕城堡內庭／甜點城／囚人圖書館／香吉士的客房／萬國蛋糕城堡三樓中庭／普琳房間前 | Mirro-world 鏡中世界 (L3779); Treasure Repository 寶物庫 (L3916); Whole Cake Chateau 萬國蛋糕城堡 (L3644); Sweet City 甜點城 (L3643); Prisoner Library 囚人圖書館 (L3947) |
+
+## Whole Cake Island Arc (WCI 15 [851-852] — "Germa's Failure" / Pudding's cruel reveal & Memo-Memo memory edit / Brook vs Big Mom / Jinbe rescues Luffy & Nami / Reiju tells Sanji the truth about Sora)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Germa's Failure (WCI 15 episode title) | 傑爾馬的失敗品 | Title card. Sanji = Germa's reject/failure product. "failure" rendered 失敗品 throughout (matches L71/L383/L388 dialogue) |
+| Memo-Memo Fruit (Charlotte Pudding's Paramecia, メモメモの実) | 記憶果實 | VERIFIED Fandom zh exact page 記憶果實 (user 夏洛特·普琳). Lets user view/edit others' memories as film strips. "power of the Memo-Memo Fruit" = 記憶果實的能力 |
+| Edit! (Pudding's memory-splice attack call) | 編輯！ | Memo-Memo technique to splice/cut memory film. In {\fad(150,150)} tags |
+| Five Thousand Tile Fist (Jinbe attack, 五千枚瓦正拳) | 五千枚瓦正拳 | VERIFIED Fandom zh exact page 五千枚瓦正拳 (Fishman Karate 魚人空手道). Split call "Five Thousand Tile.../Fist!" = 五千枚瓦……／正拳！ in {\fad} tags |
+| candy jacket (Big Mom's bullet type, キャンディジャケット) | 糖衣彈 | COINED — no Fandom zh page. candy 糖衣 (sugar-coating) + jacket/bullet 彈. Pierces armored/metal-enhanced bodies. UNVERIFIED |
+| Walker percussion pistol (.36 caliber, Big Mom's gun) | 沃克式打火帽手槍 | COINED — real-world Walker Colt percussion pistol. 沃克 (Walker phonetic) + 打火帽手槍 (percussion/cap-lock pistol, generic zh term). ".36 caliber" = .36口徑. UNVERIFIED |
+| lode poneglyph (Brook's target stone) | 路標歷史本文 | kept — established (L3913). "the lode poneglyph" = 路標歷史本文 |
+| Mistress Galette (mirror homie's address for Galette) | 賈萊特大小姐 | Galette 夏洛特·賈萊特 established (L3884) + 大小姐 (Mistress). "the mirror in Mistress Galette's closet" = 賈萊特大小姐衣櫥裡的鏡子 |
+| Soul King (Big Mom's address for Brook) | 靈魂之王 | kept — established (L1933/L2301). Big Mom taunts Brook as 靈魂之王 |
+| Sun Pirates affiliated with Big Mom (Jinbe's reveal) | 太陽海賊團隸屬於大媽旗下 | Sun Pirates 太陽海賊團 (L1622); rebellion 反叛. "this is a rebellion" = 這是一場反叛 |
+| Sora (Vinsmoke mother, spoken in flashback) | 索菈 | kept — established (L3600 索菈, NB 菈 not 拉). "what have you done, Sora?" = 你做了什麼，索菈？ |
+| Ichiji / Niji / Yonji (brothers named together, WCI 15) | 伊吉士／尼吉士／約吉士 | kept — established (L3600/L3598). "Ichiji, Niji, and Yonji" = 伊吉士、尼吉士和約吉士 |
+| Chobro (Carrot's nickname for Chopper, WCI 15) | 喬哥 | kept — established (L3816/L3927/L3966) |
+| Captions (WCI 15 locations & labels) | 果凍／地毯／寶物庫／鏡中世界／囚人圖書館／萬國蛋糕城堡／醫療室／萬國蛋糕城堡二樓／寶物庫入口 | The Jelly (Nitro homie label) 果凍 (L3625); The Carpet (Rabiyan homie label) 地毯 (L3624); Treasure Repository 寶物庫 (L3916); Mirro-world 鏡中世界 (L3779); Prisoner Library 囚人圖書館 (L3947); Whole Cake Chateau 萬國蛋糕城堡 (L3644). NEW: Medical Room = 醫療室 (coined); Whole Cake Chateau 2nd Floor = 萬國蛋糕城堡二樓; Treasure Repository Entryway = 寶物庫入口 |
