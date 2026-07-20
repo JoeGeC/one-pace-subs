@@ -3987,3 +3987,22 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Ichiji / Niji / Yonji (brothers named together, WCI 15) | 伊吉士／尼吉士／約吉士 | kept — established (L3600/L3598). "Ichiji, Niji, and Yonji" = 伊吉士、尼吉士和約吉士 |
 | Chobro (Carrot's nickname for Chopper, WCI 15) | 喬哥 | kept — established (L3816/L3927/L3966) |
 | Captions (WCI 15 locations & labels) | 果凍／地毯／寶物庫／鏡中世界／囚人圖書館／萬國蛋糕城堡／醫療室／萬國蛋糕城堡二樓／寶物庫入口 | The Jelly (Nitro homie label) 果凍 (L3625); The Carpet (Rabiyan homie label) 地毯 (L3624); Treasure Repository 寶物庫 (L3916); Mirro-world 鏡中世界 (L3779); Prisoner Library 囚人圖書館 (L3947); Whole Cake Chateau 萬國蛋糕城堡 (L3644). NEW: Medical Room = 醫療室 (coined); Whole Cake Chateau 2nd Floor = 萬國蛋糕城堡二樓; Treasure Repository Entryway = 寶物庫入口 |
+
+## Whole Cake Island Arc (WCI 16 [853-854] — "Not Here" / Big Mom inspects Soul King & Pudding's third-eye reveal / Tamago→Count Niwatori & Pedro's self-destruct flashback / Pudding's assassination plan / mirror-world rescue party / Opera's cover-up)
+| English | 繁體中文 (zh-TW) | Notes |
+|---|---|---|
+| "Not Here" (WCI 16 episode title) | 不在這裡 | title card; Sanji/Luffy keep missing each other at the meeting spot |
+| Napoleon (Big Mom's bicorne-hat homie) | 拿破崙 | VERIFIED Fandom zh (拿破崙). Treasure Repository caption "Napoleon, a Bicorne Hat" = 拿破崙，一頂雙角帽 (bicorne hat 雙角帽) |
+| Egg-Egg Fruit (Baron Tamago's Devil Fruit) | 雞蛋果實 | VERIFIED Fandom zh (雞蛋果實). "He ate the Egg-Egg Fruit" = 他吃了雞蛋果實 |
+| Viscount Hiyoko (Tamago's 2nd form) | 雛鳥子爵 | VERIFIED Fandom zh (雛鳥子爵). Baron Tamago 塔瑪哥男爵 (established, kept with 瑪) → 雛鳥子爵 → 公雞伯爵 |
+| Count Niwatori (Tamago's 3rd form, rooster) | 公雞伯爵 | VERIFIED Fandom zh (公雞伯爵) |
+| Tamago→Hiyoko→Niwatori pun note | 註：Tamago（蛋）－Hiyoko（雛雞）－Niwatori（雞） | Note line gloss; kept romaji + Chinese gloss to explain egg→chick→chicken escalation |
+| Count Niwatori "-cock-a-doo" speech quirk | -{\i1}喔喔{\i0} rooster crow | rooster now, so quirk = crow sound. "Cock-a-doodle-doo!" (full crow) = 喔喔喔——！; "Indeed-cock-a-doo" = 正是如此-{\i1}喔喔{\i0} |
+| Three-Eye Tribe / three-eye people (Pudding's maternal lineage) | 三眼族 | VERIFIED Fandom zh (三眼族). "blood of the three-eye people" = 三眼族的血; Pudding is a half-blood 混血兒; her third eye 第三隻眼 |
+| Thundercloud Rod (Nami attack w/ Clima-Tact) | 雷雲棒 | coined, consistent with Clima-Tact 天候棒 (L family) and Tempo 節拍 attacks |
+| "work of soul art" (Big Mom re: Brook) | 靈魂藝術的傑作 | descriptive; Big Mom prizes Brook as an art piece |
+| Zeus, a Storm Cloud / Prometheus, a Sun (Treasure Repository captions) | 宙斯，一朵雷雲／普羅米修斯，一顆太陽 | Zeus 宙斯 (L), Prometheus 普羅米修斯 (L); appositive homie labels |
+| roulette (Big Mom's rigged departure wheel) | 輪盤 | Jinbe's flashback; "it's rigged" = 動了手腳; spinning it = 轉動輪盤 |
+| barmaids (sent to Germa to get them drunk) | 女侍者 | Pudding's plan |
+| Baron Corpse note reuse / Pudding-san & Sanji-san honorifics | 普琳桑／香吉士桑 | -san→桑 (L, Bird-san 鳥桑); -chan→醬 (L, Pound-chan 潘德醬). Brook's polite inner monologue uses 普琳桑/香吉士桑; Sanji's thought "Pudding-chan" = 普琳醬 |
+| Captions (WCI 16 locations & labels) | 寶物庫／中層樹三樓／女王的寢室／鏡中世界／香吉士的房間／會議室／醫療室三樓／甜點城／城堡內 | Treasure Repository 寶物庫; Third Floor Midbaum 中層樹三樓 (midbaum 中層樹 L); Queen's Chamber 女王的寢室; Mirro-world 鏡中世界; Sanji's Room 香吉士的房間; Meeting Room 會議室; Medical Room/Third Floor 醫療室三樓 (醫療室 L); Sweet City 甜點城; In the Chateau 城堡內 |
