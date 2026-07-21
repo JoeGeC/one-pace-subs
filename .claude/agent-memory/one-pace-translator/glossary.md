@@ -4191,6 +4191,7 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Hajrudin (Giant boy training; future Straw Hat Grand Fleet) | 哈爾汀 | kept — established (L2556 VERIFIED Fandom). Caption "Hajrudin" = 哈爾汀 |
 | Straw Hat Grand Fleet (Hajrudin's future affiliation) | 草帽大船團 | VERIFIED Fandom zh langlink 草帽大船團. "member of the Straw Hat Grand Fleet" = 草帽大船團的一員; "exchanged cups of sake as parent and son" = 交換了父子之杯 |
 | Bartolomeo (ref., Hajrudin's Dressrosa allies) | 巴特洛馬 | kept — established canonical (L2544; do NOT use 巴托洛梅奧). "Along with Bartolomeo and the others" = 和巴特洛馬等人一起 |
+| Dressrosa (island where Hajrudin met Luffy; narrator ref.) | 多雷斯羅薩 | VERIFIED via verify_names.py (Fandom zh interlanguage link 多雷斯羅薩; NOT 德雷斯羅薩). Not previously in this repo glossary. "will eventually meet Luffy on Dressrosa" = 日後會在多雷斯羅薩與魯夫相遇 |
 | "Mountain Beard" Jarl (Giant Warrior Pirates former co-captain, 345 y.o.) | 「高山鬍鬚」亞爾爾 | VERIFIED Fandom zh — Jarl page 亞爾爾, epithet 高山鬍鬚 (山ひげ, Yamahige). ヤルル→亞爾爾. "-sama" = 大人 |
 | "Waterfall Beard" Jorl (Giant Warrior Pirates former co-captain, 344 y.o.) | 「瀑布鬍鬚」尤爾爾 | VERIFIED Fandom zh page 尤爾爾 (ヨルル→尤爾爾). "Waterfall Beard" (滝ひげ) = 瀑布鬍鬚 by analogy to Jarl's 高山鬍鬚 (Jarl page confirms the 〜鬍鬚 epithet pattern). Caption "Former Co-Captains of the Giant Warrior Pirates / (Two of the World's Oldest Warriors) / Heroes Of The Giants" = 巨兵海賊團前共同船長／（世上最年長的兩位戰士）／巨人族的英雄 |
 | Oimo (Elbaf giant; later Enies Lobby gate guard) | 歐伊摩 | VERIFIED Fandom zh (歐伊摩; 冬至慶 participant gallery 欧伊摩). "Oimo agrees!" = 歐伊摩同意！ |

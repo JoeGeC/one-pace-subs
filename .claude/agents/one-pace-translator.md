@@ -44,8 +44,11 @@ Examples of what to record:
 The glossary is stored in agent memory at `.claude/agent-memory/one-pace-translator/glossary.md`.
 
 At the **start** of each translation session:
-1. Read the glossary from `.claude/agent-memory/one-pace-translator/glossary.md`.
-2. Use all terms from it consistently throughout the translation.
+1. **Do not `Read` the full glossary file.** It has grown past the tool's 256KB read limit — a full `Read` will fail every time with a "File content exceeds maximum allowed size" error. Instead:
+   a. Run `wc -l .claude/agent-memory/one-pace-translator/glossary.md` to confirm current size.
+   b. `grep -inE` for the specific characters/attacks/locations relevant to this episode — the current arc name, the main recurring cast, and any names visible in the episode's Actor/style fields or dialogue.
+   c. `Read` (with `offset`/`limit`) the tail section of the glossary where the most recent episodes' entries live, to see current formatting conventions and confirm you have full context before appending new terms later. This also satisfies the tool's "file must be read before it can be edited" requirement for the `Edit` call in step 7 of the Translation Workflow.
+2. Use the terms you find consistently throughout the translation. A grep miss doesn't necessarily mean a term is absent — try a different spelling/pattern before concluding it's genuinely new (see Unknown Character Name Research below).
 
 At the **end** of each translation session (or after every file processed):
 1. Add any new terms discovered during translation to the glossary file (new characters, locations, attacks, Devil Fruits, etc.).
@@ -70,13 +73,13 @@ When you encounter a character name during translation that is **not** in the gl
 
 3. **Cross-reference**: Verify a `ZH_TITLE` result actually matches the character in context — some searches can land on a same-named minor entity. If the source English page title looks wrong for the character in question, treat it as unresolved rather than trusting it blindly.
 
-4. **If the script returns `NOT_FOUND` or `ERROR` for a name**: Fall back to WebSearch with queries like:
-   - `"[English Name]" "海賊王" OR "航海王" 東立 繁體中文` (e.g., `"Paulie" "海賊王" 東立 繁體中文`)
-   - `"[English Name]" ONE PIECE 台灣 中文名`
-   - `"[Japanese Name]" 航海王 wiki 中文`
-   If WebSearch is also blocked, check if the name appears in any existing zh-TW subtitle files in this repository (grep the subtitle directories) — prior translations are a valid reference.
+4. **If the script returns `NOT_FOUND` or `ERROR` for a name**: Make AT MOST TWO further targeted attempts, then stop — do not keep spiraling into additional exploratory queries on the same name. (One past investigation into a minor one-off character alone cost 10,000+ output tokens by chasing follow-up query after follow-up query trying to fully pin down an epithet.) Choose up to two of:
+   - A WebSearch: `"[English Name]" "海賊王" OR "航海王" 東立 繁體中文` (e.g., `"Paulie" "海賊王" 東立 繁體中文`) — or `"[English Name]" ONE PIECE 台灣 中文名` / `"[Japanese Name]" 航海王 wiki 中文` if better suited to the name.
+   - A direct check of the character's own zh Fandom page, if you have reason to believe one exists that the script didn't match.
+   - A grep of existing zh-TW subtitle files in this repository for the name — prior translations are a valid reference.
+   Two attempts total (beyond the initial `verify_names.py` call) is the budget per name. This is a diminishing-returns cutoff, not an instruction to try all three.
 
-5. **Last resort**: If no source can be found after all of the above, ask the user rather than guessing. Explain what you searched and what you found.
+5. **If still unresolved after the capped attempts above**: Stop researching this name. For a minor/one-off character, mark it in the glossary as `(unverified)` or `(coined)` with a one-line note of what you tried (this is an established convention already used throughout the glossary) and proceed with your best-effort contextual rendering — do not guess a name and present it as confirmed. Reserve asking the user for names belonging to a recurring/major character or where the ambiguity carries real translation-consistency risk; don't interrupt the user over a background one-off.
 
 ### When to trigger this protocol
 
@@ -110,7 +113,7 @@ The project uses a pipeline of scripts to speed up translation. Instead of readi
 **IMPORTANT: In ALL Bash commands, ALWAYS use `cd "/Users/joebarker/Videos/One Pace Subs"` with DOUBLE QUOTES around paths.** NEVER use backslash-escaped spaces (e.g. `One\ Pace\ Subs`). Always wrap paths containing spaces in double quotes instead. This applies to every Bash call.
 
 1. **Extract**: Run `python3 extract_dialogue.py "input.ass" /tmp/dialogue.tsv`
-2. **Load glossary**: Read `.claude/agent-memory/one-pace-translator/glossary.md` and use all established terms.
+2. **Load glossary**: The file exceeds the 256KB `Read` limit and a full `Read` will error. Run `wc -l .claude/agent-memory/one-pace-translator/glossary.md`, then `grep -inE` for this episode's arc name and its characters/terms. Also `Read` (with `offset`/`limit`) the glossary's most recent tail section for formatting context — this doubles as the required prior-read for the `Edit` call in step 7.
 3. **Read the TSV**: Read `/tmp/dialogue.tsv`. It's a compact TSV with columns: `LINE_NUM<TAB>STYLE<TAB>TEXT`
 4. **Translate and write**: Write only the lines you translate, in the same TSV format: `LINE_NUM<TAB>STYLE<TAB>TRANSLATED_TEXT`. Do NOT re-read to self-correct. Get it right the first time.
    - **Do NOT copy untranslated lines.** If a line needs no translation — text that is already in the target language, pure punctuation (`...`), or onomatopoeia/signs you are intentionally leaving as-is — simply **omit it** from your output TSV. The merge script keeps the original text for any line you don't include, so re-typing it verbatim is wasted effort. Only write a line when you are actually changing it.
@@ -128,7 +131,7 @@ The project uses a pipeline of scripts to speed up translation. Instead of readi
 
 ### SPEED RULES (CRITICAL)
 
-- **Minimize tool calls.** The typical workflow for ≤500 lines uses ~7 tool calls: extract (Bash), read glossary (Read), read TSV (Read), write translated TSV (Write), merge (Bash), update glossary (Edit), cleanup (Bash). For >500 lines, add one Write per extra chunk plus one cat command.
+- **Minimize tool calls.** The typical workflow for ≤500 lines uses ~9 tool calls: extract (Bash), check glossary size (Bash `wc -l`), grep glossary for relevant terms (Bash `grep`), read a glossary section for formatting context (Read w/ offset+limit), read TSV (Read), write translated TSV (Write), merge (Bash), update glossary (Edit), cleanup (Bash). For >500 lines, add one Write per extra chunk plus one cat command. Extra `grep`/offset-`Read` calls triggered by the Unknown Character Name Research protocol for names encountered mid-translation are expected and don't violate this rule.
 - **NEVER** re-read your output to verify it. The merge script reports line coverage automatically.
 - **NEVER** do multiple translation passes. Translate every line correctly on the first pass.
 - **DO NOT** add extra logging, verification reads, or sanity checks beyond the merge step.
