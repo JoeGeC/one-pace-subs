@@ -4119,6 +4119,36 @@ NOTE: Appended at end of file (not in numeric order) because WCI 20 section alre
 | Vito "-rero" speech quirk (WCI 19) | kept romaji {\i1}rero{\i} | kept per WCI decision (L4035/L4069). Preserve exact source tag structure (e.g. -{\i1}rero{\fs10} {\r}, -{\i1}rero{\i}); only surrounding text translated |
 | Honorifics (WCI 19) | -san→桑, -kun→君 | per convention (L3615). Bege-san = 貝基{\i1}桑{\i0}; Perospero-kun = 裴洛斯培勒{\i1}君{\i0}; Pudding-san/Sanji-san = 普琳{\i1}桑{\i0}／香吉士{\i1}桑{\i0} |
 
+## Whole Cake Island Arc (WCI 21 [863-864] — "The Honorable" / assassination aftermath: Big Mom's Soul Pocus rampage & fake-Luffy diversion / Jinbe's honorable departure from the Big Mom Pirates / picture-frame break & Katakuri's Mochi block / Vinsmoke execution talk & Judge's despair / Bege refuses to shoot / Daifuku & Oven join the fray)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| The Honorable (WCI 21 episode title) | 光榮之人 | COINED — refers to Jinbe's honorable departure (facing death without fear, returning his ritual sake cup to leave Big Mom's crew with dignity). Title card. UNVERIFIED |
+| Soul Pocus (Big Mom's soul-taking incantation technique, ソウルポーカス) | 靈魂咒縛 | COINED — no dedicated Fandom zh technique page; zh 靈魂果實/夏洛特·莉莉 pages describe the ability generically (使對象產生恐懼即可抽走壽命). JP is a "hocus pocus" pun. 靈魂 (soul) + 咒縛 (incantation-binding). "It's her Soul Pocus!" = 是她的靈魂咒縛！; "Here it is again! The Soul Pocus!" = 又來了！靈魂咒縛！ UNVERIFIED |
+| "Life or ___?" / "Stay or life?" (Soul Pocus choice) | 要命……還是……／留下，還是……要命？ | kept — established pattern (L3651/L4077). Big Mom offers a choice; fearing death → answer "Life!" 要命！ = lifespan forfeit. "Stay or life?" (to Jinbe leaving) = 留下……還是……要命？; answer "Life!" = 要命！ |
+| Mochi-Mochi Fruit (Katakuri's special Paramecia, モチモチの実) | 糯糯果實 | VERIFIED via verify_names.py (Fandom zh interlanguage link 糯糯果實). "a special Paramecia fruit. The Mochi-Mochi Fruit" = 特殊的超人系果實。糯糯果實 |
+| Charlotte Daifuku / Daifuku (3rd son, Minister of Beans, Puff-Puff Fruit, Lamp-man) | 夏洛特·代佛克 / 代佛克 | kept — established (L4059 VERIFIED). Caption "Third Son of the Charlotte Family (Minister of Beans)" = 夏洛特家族的三男（豆子大臣）; Minister of Beans = 豆子大臣 (VERIFIED Fandom 代佛克 page occupation). "Big Brother/Brother Daifuku" = 代佛克大哥 |
+| Puff-Puff Fruit / Hoya Hoya no Mi (Daifuku's Devil Fruit) / Lamp-man | 熱氣果實／神燈人 | VERIFIED via verify_names.py (Hoya Hoya no Mi → 熱氣果實); Lamp-man 神燈人 VERIFIED (Fandom 代佛克 page: 「熱氣果實」能力者神燈人). Caption "A Puff-Puff Fruit Eater and a Lamp-man" = 吃下熱氣果實的神燈人 |
+| Genie (the djinn Daifuku summons by rubbing his belt-buckle lamp, wields a big sword) | 魔人 | VERIFIED Fandom zh 代佛克 page (召喚出宛如神燈精靈…的魔人). "Go, Genie!" = 上啊，魔人！; "Geniiie!" = 魔人——！ |
+| Genie-uine Rage Hunt (Daifuku's genie attack; "genuine"/"genie" pun) | 魔人·憤怒狩獵 | COINED — no Fandom zh technique page. 魔人 (genie, L per this section) + 憤怒 (rage) + 狩獵 (hunt). Pun on genuine/genie preserved via 魔人. In {\fad(250,250)} tags. UNVERIFIED |
+| Charlotte Oven / Oven (4th son, Minister of Browned Food, Heat-Heat Fruit, Intense Heat Human) | 夏洛特·歐本 / 歐本 | kept — established (L4060 VERIFIED). Caption "Fourth Son of the Charlotte Family (Minister of Browned Food)" = 夏洛特家族的四男（微焦大臣）; Minister of Browned Food = 微焦大臣 (VERIFIED Fandom 歐本 page occupation 微焦大臣) |
+| Heat-Heat Fruit / Netsu Netsu no Mi (Oven's Devil Fruit) / Intense Heat Human | 熱量果實／炎熱人 | VERIFIED via verify_names.py (Netsu Netsu no Mi → 熱量果實); Intense Heat Human 炎熱人 VERIFIED (Fandom 歐本 page: 「熱量果實」能力者炎熱人). Caption "A Heat-Heat Fruit Eater and an Intense Heat Human" = 吃下熱量果實的炎熱人 |
+| Ocean Current Shoulder Throw (Jinbe Fishman Jujutsu throw, 海流一本背負い) | 海流……／過肩摔！ | VERIFIED via WebSearch — Fandom/wiki render Jinbe's shoulder throw as 海流過肩摔 (水心·海流過肩摔). Split rows: "Ocean Current..." = 海流……; "Shoulder Throw!" = 過肩摔！ In {\fad(250,250)} tags |
+| Collier Strike (Sanji neck kick, on Daifuku's genie) | 頸肉打擊 | COINED — Collier = 頸肉 (established L259 頸肉射擊, L1005 頸肉油炸); Strike = 打擊. Follows Collier-X = 頸肉X pattern. In {\fad(250,250)} tags. UNVERIFIED |
+| Flambage Shot (Sanji Diable Jambe finisher, WCI 21) | 燒烤射擊 | kept — established (L1245/L1905). In {\fad(250,250)} tags |
+| Mother Carmel / portrait of Mother Carmel (Big Mom's benefactor; the weakness) | 聖母卡爾梅露／聖母卡爾梅露的肖像 | kept — WCI19 form 聖母卡爾梅露 (L4092) for portrait/name references. Big Mom's own cry "M-Mother..." = 媽……媽媽…… (uses 媽媽 for the maternal address, cf L4057). "portrait of Mother Carmel" = 聖母卡爾梅露的肖像 |
+| ritual sake cup (Jinbe returning it to sever ties, {\i1}sake{\i} in italics) | {\i1}清酒{\i}杯 | yakuza-style sworn-bond cup; returning it = leaving the crew. Source italicizes "sake"; rendered 清酒 inside the tags. "return your ritual sake cup" = 歸還你的{\i1}清酒{\i}杯 |
+| Germa Empire (Judge's ambition to restore former glory) | 傑爾馬帝國 | uses established Germa 傑爾馬 (L3532); "Empire" (former conquering glory) = 帝國. Distinct from Kingdom of Germa 傑爾馬王國 (L3671). "To restore the Germa Empire!" = 為了復興傑爾馬帝國！ |
+| shriek / rampage / tantrum (Big Mom's expected breakdown, plan trigger) | 尖叫／暴走／大鬧一場 | plan depends on Big Mom shrieking 尖叫 at the broken portrait. "Mama's gonna go on a rampage" = 媽媽要暴走了; "She's gonna have a tantrum" = 她要大鬧一場; "survive until Big Mom panics" = 撐到大媽陷入恐慌為止 |
+| Invisible Symphonia (Bege's earplug system, WCI 21) | 隱形交響曲 | kept — established (L4107, 隱形交響曲系統). "get your Invisible Symphonia ready" = 準備好你們的隱形交響曲; payoff "The earplugs!" = 就是耳塞！ |
+| Perospero "Lick" verbal tic (calm party commentary, WCI 21) | 舔哩 | kept — established (L4063). Standalone "Lick!"/"Lick." = 舔哩！／舔哩。(distinct from the SFX 舔！L3740) |
+| allied forces (Bege-alliance combined force) | 聯合軍 | "Allied forces!" (Bege's rallying shout) = 聯合軍！ |
+| Underworld Emperor Du Feld (spectating guest, WCI 21) | 路菲德 | kept — established (L4099). "No, that's not it, Du Feld." = 不，不是那樣的，路菲德。 |
+| KX Launcher (Vito/Gotti's poison-gas weapon, WCI 21) | KX火箭炮 | kept — established (L4093). "Is the Launcher ready?" = 火箭炮準備好了嗎？; "This deadly poison KX Launcher is ready to fire" = 這台劇毒的KX火箭炮已經準備發射了 |
+| Vito "-rero" quirk (WCI 21) | kept romaji {\i1}rero{\i} | kept per WCI decision (L4035/L4069/L4119). "Everything is ready-rero." = 一切都準備好了{\i1}rero{\i}。; "ready to fire-rero!" = 準備發射了{\i1}rero{\i}！ |
+| guest "-nen" quirk (Kansai-tic party guest, WCI 21) | kept romaji {\i1}nen{\i} | kept — established (L4070). "Another flashy show-nen..." = 又是一場浮誇的表演{\i1}nen{\i}…… |
+| Honorifics (WCI 21) | -san→桑, -kun→君, -chan→醬, -sama→大人 (via {\i}) | per convention (L3615/L4071). Luffy-san = 魯夫{\i1}桑{\i}; Sanji-kun = 香吉士{\i1}君{\i}; Pudding-chan = 普琳{\i1}醬{\i}; "Father-sama" (Katakuri's inner monologue, source tags reversed {\i}...{\i1}) = 父親{\i}大人{\i1} |
+| "Father" (Fire Tank crew's address for Bege, WCI 21) | Father (kept) | kept — established (L3606/L4042/L4073). "we can jump out anytime, Father." = 我們隨時可以衝出去，Father。 |
+
 ## Whole Cake Island Arc (WCI 21 [863-864] — "The Honorable" / Bege-hideout flashback of the fake-Luffy/mirror plan / Straw Hats burst from the cake & Big Mom's Soul Pocus rampage / Jinbe's dramatic defection from Big Mom Pirates / Brook reveals himself & breaks Mother Carmel portrait / Daifuku & Oven join the fray / Katakuri closes in)
 | English | 繁體中文 | Notes |
 |---|---|---|
@@ -4142,3 +4172,43 @@ NOTE: Appended at end of file (not in numeric order) because WCI 20 section alre
 | Vito "-rero" / guest "-nen" speech quirks (WCI 21) | kept romaji {\i1}rero{\i} / {\i1}nen{\i} | kept per WCI decision (L4035/L4069/L4119). "ready-{\i1}rero{\i}" = 準備好了-{\i1}rero{\i}; "fire-{\i1}rero{\i}!" = 發射了-{\i1}rero{\i}！; guest "show-{\i1}nen{\i}..." = 表演-{\i1}nen{\i}…… |
 | Captions (WCI 21 locations) | 貝基的藏身處／現在——婚禮會場／鏡中世界／蛋糕內部 | "Bege's Hideout" = 貝基的藏身處 (cf Fire Tank Base 火戰車海賊團基地 L3605); "In the Present – The Wedding Venue" = 現在——婚禮會場; Mirro-world 鏡中世界 (L3779); "Inside the Cake" = 蛋糕內部 |
 | ritual sake cup (Jinbe returns the binding sakazuki cup) | 儀式用的{\i1}sake{\i}酒杯 | {\i1}sake{\i} kept as italic foreign word (per sake-italic convention). "return your ritual sake cup" = 歸還你那儀式用的{\i1}sake{\i}酒杯 (the sakazuki oath cup binding him to Big Mom Pirates) |
+
+## Whole Cake Island Arc (WCI 22 [865-866] — "Hey, Mother" / assassination aftermath (Bege/Katakuri/Perospero, mirror escape, Reiju thanks Sanji, Pedro) then Big Mom origin flashback: 5-year-old Linlin abandoned on Elbaf, Sister→Mother Carmel & the Sheep's House, Giant Warrior Pirates history, Winter Solstice fast & semla, Linlin's gluttony rampage)
+NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already existed above. Appended here to avoid clobbering the concurrent WCI 21 append, per task instruction.
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Hey, Mother (WCI 22 episode title) | 嘿，媽媽 | Title card {\fad(500,0)\pos(640,480)}. Echoes Big Mom's plaintive present-day inner cry for Carmel ("Hey, Mother... Where did you go?" = 嘿，媽媽……妳去哪裡了？). Sets 媽媽 as the episode-wide rendering of "Mother" (see Carmel note) |
+| Mother Carmel (Big Mom's orphanage mother, after founding Sheep's House) | 卡爾梅露媽媽 | Carmel = 卡爾梅露 (VERIFIED Fandom, established L4057/L4092). DECISION for WCI 22: "Mother" honorific = 媽媽 throughout (children's address + Big Mom's cry + episode title "Hey, Mother" 嘿，媽媽). "Mother Carmel" full = 卡爾梅露媽媽 (matches WCI 20 L4057). Narrator "she became 'Mother' Carmel" = 她成了「媽媽」卡爾梅露. NB WCI 19 (L4092) used 聖母卡爾梅露/母親 for benefactor-portrait context; WCI 22 flashback uses the warmer 媽媽 for consistency with the title and the orphanage-child voice |
+| Sister Carmel (Carmel before founding orphanage; wandering nun who stops the execution) | 修女卡爾梅露 | COINED — "Sister" (nun) = 修女 + established Carmel 卡爾梅露. Caption "Sister Carmel" = 修女卡爾梅露 |
+| Holy Mother (Linlin's parents' term for Carmel; "the Holy Mother lives here") | 聖母 | 聖母 (religious "Holy Mother"); cf WCI 19 benefactor form 聖母卡爾梅露. Distinct from the children's affectionate 媽媽 |
+| Sheep's House (Carmel's orphanage on Elbaf) | 羔羊之家 | VERIFIED Fandom zh (traditional 卡爾梅露 page body: 羔羊之家). NOT 羊之家. "children of the Sheep's House" = 羔羊之家的孩子們 |
+| semla (Swedish almond-cream pastry eaten before the fast) | 杏仁泡芙 | VERIFIED Fandom zh (冬至慶 + 飲食#杏仁泡芙 pages render セムラ/semla as 杏仁泡芙). Recurring exclamation "Semla!!" = 杏仁泡芙！！; "sweet cream in sweet bread with marzipan, topped with sugar" gloss = 加了杏仁膏的甜麵包擠上甜奶油再撒糖粉 (marzipan 杏仁膏) |
+| Winter Solstice Festival (Elbaf tradition; 12-day fast then feast) | 冬至慶 | VERIFIED Fandom zh page 冬至慶 (jname 冬至祭). "celebrates the death and rebirth of the Sun" = 慶祝太陽的死亡與重生. fast = 齋戒 (Fandom 齋戒); "Day N of the Fast" caption = 齋戒第N天 |
+| Giant Warrior Pirates (Elbaf's legendary crew) | 巨兵海賊團 | VERIFIED Fandom zh page 巨兵海賊團. "will be reformed" = 重新組建; two vanished captains passed into legend |
+| Elbaf (giants' warrior nation, New World) | 艾爾巴夫 | kept — repo-established (L2594/L4030; Fandom body 艾爾帕布 but repo governs). "Elbaf in the New World" = 新世界的艾爾巴夫 |
+| War-Land Elbaf (narrator location caption phrase) | 戰爭之國艾爾巴夫 | COINED — "War-Land" epithet for the warrior nation; 戰爭之國 + established 艾爾巴夫. cf L904 gloss "village of warriors" 戰士之村. UNVERIFIED phrasing |
+| Dorry / Brogy (Elbaf giant chiefs who could reform the crew) | 多利／布洛基 | kept — established (L1083/L1084). "Chief Dorry or Chief Brogy" = 多利隊長或布洛基隊長 (Chief = 隊長, the warrior-band captain) |
+| Hajrudin (Giant boy training; future Straw Hat Grand Fleet) | 哈爾汀 | kept — established (L2556 VERIFIED Fandom). Caption "Hajrudin" = 哈爾汀 |
+| Straw Hat Grand Fleet (Hajrudin's future affiliation) | 草帽大船團 | VERIFIED Fandom zh langlink 草帽大船團. "member of the Straw Hat Grand Fleet" = 草帽大船團的一員; "exchanged cups of sake as parent and son" = 交換了父子之杯 |
+| Bartolomeo (ref., Hajrudin's Dressrosa allies) | 巴特洛馬 | kept — established canonical (L2544; do NOT use 巴托洛梅奧). "Along with Bartolomeo and the others" = 和巴特洛馬等人一起 |
+| "Mountain Beard" Jarl (Giant Warrior Pirates former co-captain, 345 y.o.) | 「高山鬍鬚」亞爾爾 | VERIFIED Fandom zh — Jarl page 亞爾爾, epithet 高山鬍鬚 (山ひげ, Yamahige). ヤルル→亞爾爾. "-sama" = 大人 |
+| "Waterfall Beard" Jorl (Giant Warrior Pirates former co-captain, 344 y.o.) | 「瀑布鬍鬚」尤爾爾 | VERIFIED Fandom zh page 尤爾爾 (ヨルル→尤爾爾). "Waterfall Beard" (滝ひげ) = 瀑布鬍鬚 by analogy to Jarl's 高山鬍鬚 (Jarl page confirms the 〜鬍鬚 epithet pattern). Caption "Former Co-Captains of the Giant Warrior Pirates / (Two of the World's Oldest Warriors) / Heroes Of The Giants" = 巨兵海賊團前共同船長／（世上最年長的兩位戰士）／巨人族的英雄 |
+| Oimo (Elbaf giant; later Enies Lobby gate guard) | 歐伊摩 | VERIFIED Fandom zh (歐伊摩; 冬至慶 participant gallery 欧伊摩). "Oimo agrees!" = 歐伊摩同意！ |
+| Kashi (Elbaf giant, explains the fast to Linlin) | 卡西 | VERIFIED Fandom zh (卡西; 冬至慶 gallery 卡西 / Kashii). Caption "Kashi" = 卡西 |
+| Raideen (Elbaf giant praised during training) | 萊汀 | VERIFIED Fandom zh (冬至慶 gallery 莱汀 / Raideen → trad 萊汀). "I like the spirit! Raideen!" = 有志氣！萊汀！ |
+| Prince Loki (Elbaf giant prince, newborn in flashback) | 洛基王子 | kept — established (L4030 VERIFIED Fandom 洛基). "birth of Prince Loki at the castle" = 城堡裡洛基王子的誕生 |
+| Road (Elbaf giant baby born in village, anime-only) | 羅德 | VERIFIED Fandom zh page 羅德 (ロード; 僅動畫). "the births of Road and Goldberg in the village" = 村裡羅德和戈柏的誕生 |
+| Goldberg (Elbaf giant baby born in village, anime-only) | 戈柏 | VERIFIED Fandom zh (戈柏; ゴールドバーグ; 僅動畫) |
+| Gerth (Giant girl at Sheep's House, Linlin's friend; = Fandom "Gerd") | 桂樂茲 | VERIFIED Fandom zh — 冬至慶 page: Linlin learned the tradition from friend [[桂乐兹]] (Gerd, ゲルズ). English One Pace "Gerth" = this character. "What's the matter, Gerth?!" = 怎麼了，桂樂茲？！ |
+| Eiri-kun (Giant kid Linlin accidentally injured) | 艾利{\i1}君{\i} | COINED — エイリー; Fandom EN page "Eiri" has NO zh langlink, no zh-wiki mention. 艾利 phonetic + honorific -kun→君 (L3615). "she injured Eiri-kun, the Giant" = 她弄傷了巨人艾利{\i1}君{\i}. UNVERIFIED |
+| Longarm Tribe (kid Linlin tried to "fix"; extra joint is normal) | 長手族 | kept — established (L3929 VERIFIED). "he's from the Longarm Tribe! It's normal for them!" = 他是長手族的！這對他們來說是正常的！ |
+| Fishmen (kid with fins Linlin tried to "fix") | 魚人 | established. "Fishmen have the physical traits of fish" = 魚人擁有魚類的身體特徵 |
+| Charlotte Linlin / Linlin (5-year-old, flashback) | 夏洛特·莉莉／莉莉 | kept — established (L2038/L3774). Caption "Charlotte Linlin (Human, Five Years Old)" = 夏洛特·莉莉（人類，五歲）; Linlin-chan = 莉莉{\i1}醬{\i} |
+| Big Mom (present-day, assassination aftermath) | 大媽 | kept — established (L2045). "Mama" (children's address) = 媽媽; her injury "Mama got injured?!" = 媽媽受傷了？！ |
+| Katakuri / Bege / "Gang" Bege / Perospero / "Brother Peros" (present-day fight) | 卡塔克利／貝基／「大哥」貝基／裴洛斯培勒／裴洛斯大哥 | kept — Katakuri 卡塔克利 (L3880), Bege 貝基 (L4042), Perospero 裴洛斯培勒 (L3739). "Gang Bege" = 「大哥」貝基 (Gang=「大哥」 L1806). "Brother Peros" (sibling's short address) = 裴洛斯大哥 (COINED short form: 裴洛斯 + 大哥) |
+| the future-seeing man (Perospero re: Katakuri's Observation-Haki foresight) | 能預知未來的男人 | descriptive; "The future-seeing man sure is busy" = 那個能預知未來的男人可真是忙碌; Perospero's own foresight "I too can see the future" = 就連我也能預見未來 |
+| Perospero "Lick" tic (calm gloating line) | 舔哩 | kept — established (L4063). "...some kind of weapon? Lick." = ……是某種武器嗎？舔哩。 |
+| Raid Suit (Vinsmoke gear; Big Mom doesn't know the word) | 強襲裝 | kept — established (L3743 VERIFIED). "If only we had our Raid Suits" = 要是我們有強襲裝; Big Mom "Raid?" = 強襲？ |
+| Five Thousand Tile/Brick Fist (Jinbe attack, split) | 五千枚瓦……／……正拳！ | kept — established (L3979 VERIFIED 五千枚瓦正拳). English source here says "Brick" (variant of "Tile") — same attack. Split rows {\fad(150,150)}五千枚瓦…… / {\fad(150,150)}……正拳！ |
+| Reiju / Sanji / Pedro / Vinsmoke (present-day) | 麗珠／香吉士／佩特羅／賓什莫克 | kept — established (Reiju 麗珠 L3599; Sanji 香吉士; Pedro 佩特羅 L3956; Vinsmoke 賓什莫克 L3293). Reiju's inner thanks to Sanji rendered in her calm/formal register |
+| GROWL (hunger stomach-growl SFX, Note style) | 咕嚕嚕 | onomatopoeia → hungry-belly growl 咕嚕嚕 (translated per SFX convention, not left English) |
