@@ -44,3 +44,23 @@ with only a handful of TAG MISMATCH issues listed, masking the true blast radius
 Always manually trace the full extent of any TAG MISMATCH cluster with alternating
 styles before concluding it's just a couple of isolated dropped-tag cases (see
 [[project_italics_tag_dropped_in_zh]] for the other, benign cause of TAG MISMATCH).
+
+**Recurrence (2026-07-21)**: this exact bug (same file, same physical range
+368-451) reappeared in a later session even though it had already been fixed
+once — the fix lives only in the shipped .ass, and if the episode's underlying
+TSV/translation gets regenerated or re-merged later, the .ass reverts to the
+original shifted state. If time permits, also patch the `_dialogue_zh.tsv` (or
+flag it) so a future re-merge doesn't reintroduce the same shift — not just the
+final .ass.
+
+**Diagnosis/fix hazard observed**: don't split "read the file to build a mental
+model of old values" and "write a script that re-derives old values and writes"
+across multiple tool calls with reasoning/exploration in between — a first
+attempt in this session did exactly that and produced a *double*-shifted result
+(shift-by-2 plus one orphaned duplicate line) instead of a correction, for
+reasons that were never fully root-caused (possibly a stale mental model, though
+disk state looked stable via mtime/git checks). The fix that worked: in one
+single script, read the file fresh, compute the corrected mapping, print a spot
+check, write, then immediately re-read and diff-print the full range before
+declaring success — never write blind based on values observed in an earlier,
+separate tool call.
