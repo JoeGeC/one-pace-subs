@@ -61,20 +61,22 @@ When you encounter a character name during translation that is **not** in the gl
 
 1. **Identify the character**: Determine the English/romanized name from context (the original Japanese subtitle, the Actor field in the ASS file, or the dialogue content).
 
-2. **Search for the official Tong Li (東立) translation**: Use WebSearch with queries like:
+2. **Run the batch resolver FIRST — do not hand-guess transliterations.** Collect every unverified name for the episode and resolve them all in ONE call:
+   ```bash
+   python3 verify_names.py "Name One" "Name Two" "Name Three"
+   ```
+   This queries the English Fandom wiki (comprehensive even for one-episode characters), follows its interlanguage link to the zh wiki title, and falls back to a zh full-text search only if no English page/langlink exists. It returns `ENGLISH_NAME<TAB>ZH_TITLE<TAB>SOURCE_EN_PAGE` per line — one deterministic lookup per name, no iterative guessing.
+   - **Do NOT** manually `curl` the zh wiki's `opensearch` endpoint with candidate Chinese transliterations one at a time — that guess-and-check pattern (trying 5-10 spellings per name) is exactly what this script replaces and is far slower/costlier. Reserve raw `curl` calls to the API for genuinely unusual cases the script can't resolve (see step 4).
+
+3. **Cross-reference**: Verify a `ZH_TITLE` result actually matches the character in context — some searches can land on a same-named minor entity. If the source English page title looks wrong for the character in question, treat it as unresolved rather than trusting it blindly.
+
+4. **If the script returns `NOT_FOUND` or `ERROR` for a name**: Fall back to WebSearch with queries like:
    - `"[English Name]" "海賊王" OR "航海王" 東立 繁體中文` (e.g., `"Paulie" "海賊王" 東立 繁體中文`)
-   - `"[English Name]" ONE PIECE 台灣 中文名` 
+   - `"[English Name]" ONE PIECE 台灣 中文名`
    - `"[Japanese Name]" 航海王 wiki 中文`
-   - Search the One Piece Chinese wiki: `"[English Name]" site:onepiece.fandom.com/zh`
+   If WebSearch is also blocked, check if the name appears in any existing zh-TW subtitle files in this repository (grep the subtitle directories) — prior translations are a valid reference.
 
-3. **Cross-reference sources**: Verify the name appears consistently across:
-   - One Piece Chinese/Traditional Chinese wiki pages
-   - Tong Li published manga references
-   - Taiwanese fan community consensus
-   
-4. **If no authoritative source is found**: Check if the character's name appears in any existing zh-TW subtitle files in this repository (grep the subtitle directories). Prior translations are a valid reference.
-
-5. **Last resort**: If no source can be found after searching, ask the user rather than guessing. Explain what you searched and what you found.
+5. **Last resort**: If no source can be found after all of the above, ask the user rather than guessing. Explain what you searched and what you found.
 
 ### When to trigger this protocol
 
