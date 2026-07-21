@@ -4083,3 +4083,38 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | VIP seats (Bege seating the Vinsmokes) | 貴賓席 | "Enjoy the ceremony from these VIP seats" = 就從這些貴賓席好好欣賞這場儀式 |
 | Charlotte siblings (Reiju's realization) | 夏洛特家的兄弟姐妹 | 夏洛特 established. "surrounded by the Charlotte siblings" = 被夏洛特家的兄弟姐妹包圍了 |
 | Captions (WCI 20 locations) | 萬國蛋糕城堡 屋頂／九樓 新郎與新娘 更衣室 | Whole Cake Chateau/Rooftop 萬國蛋糕城堡／屋頂 (L3644); 9th Floor/Bride and Groom Changing Room 九樓／新郎與新娘更衣室 |
+
+## Whole Cake Island Arc (WCI 19 [859-860] — "Emperor Assassination Plan" / Bege's full assassination briefing (KX launcher, Mother Carmel portrait weakness, 5-second window) / Sun Pirates leave Totto Land & Jinbe's rebellion / Vinsmoke prep & Reiju / tea party begins with the Underworld Emperors, Perospero's candy escalator, Katakuri shoots Jigra)
+NOTE: Appended at end of file (not in numeric order) because WCI 20 section already existed above — appending here avoids clobbering concurrent edits, per task instruction.
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Emperor Assassination Plan (WCI 19 episode title) | 暗殺四皇作戰 | VERIFIED Fandom zh 859話 title 《暗殺四皇作戰》 |
+| Mother Carmel (Big Mom's mysterious benefactor; portrait is her only weakness) | 聖母卡爾梅露 | VERIFIED Fandom zh (カルメル→卡爾梅露; 859話 body 聖母卡爾梅露). "Mother" honorific = 聖母. "portrait of Mother Carmel" = 聖母卡爾梅露的肖像; "Mother Carmel Picture Incident" = 聖母卡爾梅露照片事件. Flashback young-Linlin line "Mother..." = 母親…… |
+| KX Launcher (Caesar's deadly poison-gas weapon) | KX火箭炮 | VERIFIED Fandom zh exact page KX火箭炮 (+859話 毒氣彈「KX火箭炮」). "deadly poison gas: KX launchers" = 劇毒毒氣彈：KX火箭炮 |
+| deadly organophosphate gas / deadly poison gas shell | 有機磷毒氣／劇毒毒氣彈 | Caesar's KX payload; "five grams of deadly organophosphate gas" = 五公克的劇毒有機磷毒氣 |
+| Sweet Commander Katakuri / Charlotte Katakuri (2nd son, Three Sweet Commanders) | 甜點將星卡塔克利／夏洛特·卡塔克利 | VERIFIED Fandom zh page 夏洛特·卡塔克利 (NB 860話 charlist alias 卡塔庫栗 exists — use 卡塔克利). Caption "One of the Three Sweet Commanders / Big Mom Pirates / Second Son of the Charlotte Family" = 甜點三將星之一／大媽海賊團／夏洛特家族的次子. Sweet Commander 甜點將星 (L3803); Three Sweet Commanders 甜點三將星 (L3770) |
+| Katakuri bounty 1,057,000,000 Belly | 懸賞金：10億5700萬貝里 | VERIFIED 860話 (悬赏金为10億5700萬贝里). Dialogue "His bounty is over a billion" = 他的懸賞金超過十億 |
+| Rook Bege (Katakuri's address for Bege) | 城堡貝基 | kept — Rook = 城堡 (established L4027) + Bege 貝基 |
+| jelly bean (Katakuri's thrown candy projectile) | 果凍糖 | VERIFIED 860話 (扔果凍糖射殺). "throw a jelly bean at him" = 朝他扔一顆果凍糖 |
+| Du Feld / "God of Fortune" / Loan Shark King (Underworld Emperor) | 路菲德／「福神」／高利貸王 | VERIFIED Fandom zh 860話: 高利貸王「福神」路菲德 (character page 路菲德; note デュフィールド, 杜菲爾德 page does NOT exist). Name-card style "Du Feld"=路菲德, "God of Fortune"=「福神」. "Du Feld Conglomerate" = 路菲德財團 |
+| Stussy / Lady Stussy / Queen of the Pleasure District (Underworld Emperor) | 絲媞希／絲媞希大人／風化街女王 | VERIFIED Fandom zh 絲媞希 (860話; later CP-0 白金漢·絲媞希). "Lady Stussy!" = 絲媞希大人！ |
+| Drug Peclo / Major Undertaker (Underworld Emperor) | 藥王·皮克洛／大牌葬儀業者 | VERIFIED Fandom zh 860話: 大牌葬儀社藥王·皮克洛. Name = 皮克洛, epithet "Drug"=藥王. Role "Major Undertaker" = 大牌葬儀業者 (860話 phrasing 大牌葬儀社) |
+| Morgans / "Big News" / President, World Economy Newspaper (Underworld/media Emperor) | 摩甘茲／「大號外」／世界經濟新聞社社長 | VERIFIED Fandom zh 摩甘茲 (モルガンズ→摩甘茲; 860話 世界經濟新聞社社長「大號外」摩甘茲). WEN = 世界經濟新聞 (established L3603). "President Morgans!" = 摩甘茲社長！; "Mr. Morgans" = 摩甘茲先生 |
+| Giberson / "The Concealer" / Warehouse Kingpin (Underworld Emperor) | 基伯松／「隱匿師」／倉庫業大亨 | VERIFIED Fandom zh 860話: 倉庫業老舖「隱匿師」基伯松. Name-card "Giberson"=基伯松, "The Concealer"=「隱匿師」. Role "Warehouse Kingpin" = 倉庫業大亨 |
+| Umit / "Deep-Sea Currents" / Shipping King (Underworld Emperor) | 烏米特／「深層海流」／海運王 | VERIFIED Fandom zh 860話: 海運王「深層海流」烏米特. Name-card "Umit"=烏米特, "Deep-Sea Currents"=「深層海流」 |
+| Organ Dealer Jigra / Mr. Jigra (guest gunned down by Katakuri) | 內臟買賣業者吉古拉／吉古拉先生 | VERIFIED Fandom zh 吉古拉 (860話 內臟買賣業者吉古拉). "Mr. Jigra" = 吉古拉先生 |
+| Emperors / Kingpins of the underworld (tea-party guest class) | 地下世界的帝王 | VERIFIED 860話 地下世界的帝王們. Song "Kingpins of the underworld" = 地下世界的帝王們. cf general underworld 黑社會 (L4045) |
+| Invisible Symphonia System (Bege's fancy name for earplugs) | 隱形交響曲系統 | COINED gag — no Fandom zh page (opensearch fuzzy only). Followed by "Oh, earplugs!" = 喔，是耳塞！; cue "Say 'earplugs.'" = 就說「耳塞」 |
+| candy escalator (Perospero's candy conveyance to the venue) | 糖果手扶梯 | VERIFIED 860話 糖果手扶梯. "By the candy escalator!" = 用這糖果手扶梯！; "lick the candy escalator" = 舔這糖果手扶梯 (Perospero lick-fruit gag) |
+| Gas-hiko (Vito's mocking nickname for Gastino/Caesar) | 瓦斯彥 | COINED — ガスヒコ; uses established gas syllable 瓦斯 (L2328/L4032) + 彥 (Japanese male-name suffix -hiko). Consistent with Gastino 瓦斯提諾 (L4032) |
+| iron balloon (metaphor for Big Mom's invulnerability) | 鐵氣球 | "she's like an iron balloon" = 她就像個鐵氣球 |
+| hors d'oeuvre ships / interceptors (tea-party escort vessels) | 前菜船／迎賓艇 | Jinbe's escape briefing; "hors d'oeuvre ships, interceptors from each island, will escort the guests" = 前菜船，也就是各島派出的迎賓艇會護送賓客 |
+| roulette / roulette wheel (Big Mom's rigged departure punishment) | 輪盤 | kept — established (L4005/L3658). "the numbers I saw on the roulette wheel" = 我在輪盤上看到的數字 |
+| Mummzie-wumzie / daddy-waddy (Chiffon's baby-talk to infant Pez re: Big Mom & Bege) | 媽媽咪／把拔 | baby-talk. "Your daddy-waddy was too loud!" = 你的把拔太大聲了！; "allied with Mummzie-wumzies" = 跟媽媽咪結盟; "I saw Mummzie-wumzie get a scratch" = 我看到媽媽咪受了傷 |
+| Cheese Town, Milk Island / Peanuts Town, Nuts Island (location captions) | 牛奶島 起司鎮／堅果島 花生鎮 | COINED descriptive (Totto Land dessert-island naming). Milk Island 牛奶島, Cheese Town 起司鎮, Nuts Island 堅果島, Peanuts Town 花生鎮 |
+| Guestroom on the Midbaum 6th Floor (caption) | 中層樹六樓的客房 | midbaum 中層樹 (L3942); guest room 客房 (L3971) |
+| porkswagon (tea-party song, Big Mom-themed carriage) | 豬車 | COINED song gag; "A porkswagon comes a-rushing!" = 一輛豬車急急忙忙趕來！ |
+| Mount Mauri lava / drink gags (Smoothie's welcome drinks) | 毛利山的岩漿 | COINED — Smoothie's absurd Squeeze-Squeeze welcome drinks (lava / "beautiful woman who stabbed a thousand men" 刺穿一千個男人的美女 / giraffe juice 長頸鹿). Mauri 毛利. UNVERIFIED |
+| Supreme cheese (celebration food) | 極品起司 | Supreme = 極品; townsfolk holiday celebration line |
+| Vito "-rero" speech quirk (WCI 19) | kept romaji {\i1}rero{\i} | kept per WCI decision (L4035/L4069). Preserve exact source tag structure (e.g. -{\i1}rero{\fs10} {\r}, -{\i1}rero{\i}); only surrounding text translated |
+| Honorifics (WCI 19) | -san→桑, -kun→君 | per convention (L3615). Bege-san = 貝基{\i1}桑{\i0}; Perospero-kun = 裴洛斯培勒{\i1}君{\i0}; Pudding-san/Sanji-san = 普琳{\i1}桑{\i0}／香吉士{\i1}桑{\i0} |
