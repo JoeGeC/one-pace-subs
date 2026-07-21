@@ -4049,3 +4049,37 @@ NOTE: 2026-07-18 — extraction switched from style whitelist to blacklist, expo
 | Gulp! (Pekoms nervously swallowing while questioned) | 咕嚕！ | onomatopoeia → 咕嚕！ (swallow/gulp). Lines in {\i1}...{\i0} tags kept |
 | wedding-cake prep song (Streusen's kitchen, Musical style) | 鬆鬆軟軟／濕潤綿密／悔恨的淚水…… | Musical MUST be translated (L3694). "Soft and fluffy" = 鬆鬆軟軟; "Moist and fluffy" = 濕潤綿密; "A pinch of salt" = 一撮鹽; "Tears of mortification" = 悔恨的淚水; refrain "Head Chef!" = 主廚！ |
 | Captions (WCI 18 locations & labels) | 甜點城郊外／鏡中世界／火戰車海賊團基地／萬國蛋糕島／火戰車海賊團／「幻槍」比特／「殺手」哥帝／大廚房 八樓 萬國蛋糕城堡／東部海灣／女浴場 貝基的基地 | Outskirts of Sweet City 甜點城郊外 (Sweet City 甜點城 L3643); Mirro-world 鏡中世界 (L3779); Fire Tank Pirates' Base 火戰車海賊團基地 (L3605); Whole Cake Island 萬國蛋糕島 (L3548); Great Kitchen/8th Floor/Whole Cake Chateau 大廚房／八樓／萬國蛋糕城堡 (L3644); Eastern Inlet 東部海灣; Women's Bath/Bege's Base 女浴場／貝基的基地; time-to-tea-party captions "X Hours Until the Tea Party" = 距離茶會還有X |
+
+## Whole Cake Island Arc (WCI 20 [861-862] — "Veteran Actor" / tea-party guests & gifts / Big Mom's Tamate Box / Bege-crew final positioning & Caesar mirror / wedding ceremony begins / Pudding's memory-scrambled breakdown at the third-eye reveal / signal gunshot fired)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Veteran Actor (WCI 20 episode title) | 老牌演員 | Title card. Refers to Bege/Sanji/Pudding all "acting" through the staged wedding |
+| Mother Carmel (Big Mom's revered mother figure, portrait at party) | 卡爾梅露媽媽 | VERIFIED Fandom zh exact page 卡爾梅露 (カルメル). "Mother" honorific rendered 媽媽 (Big Mom idolizes her as mother). "Here is Mother Carmel" = 這位就是卡爾梅露媽媽; standalone "...Mother!" = ……媽媽！ |
+| Charlotte Compote / Compote (eldest daughter, Minister of Fruit) | 夏洛特·肯珀特 / 肯珀特 | VERIFIED Fandom zh exact page 夏洛特·肯珀特 (コンポート). Minister of Fruit = 水果大臣. Intro caption "eldest daughter and the Minister of Fruit" = 長女兼水果大臣——肯珀特 |
+| Charlotte Daifuku / Daifuku (third son) | 夏洛特·代佛克 / 代佛克 | VERIFIED Fandom zh exact page 夏洛特·代佛克 (ダイフク; NOT the mochi 大福). "The third son - Daifuku" = 三男——代佛克 |
+| Charlotte Oven / Oven (fourth son) | 夏洛特·歐本 / 歐本 | VERIFIED Fandom zh exact page 夏洛特·歐本 (オーブン; NOT 歐文). "the fourth son - Oven" = 四男——歐本 |
+| Perospero — Minister of Candy (WCI 20 intro caption) | 裴洛斯培勒／糖果大臣 | kept — Perospero 裴洛斯培勒 (L3739), Minister of Candy 糖果大臣 (L3627). "eldest son and the Minister of Candy" = 長子兼糖果大臣——裴洛斯培勒 |
+| Katakuri / Smoothie — Sweet Commander (WCI 20 intros) | 卡塔克利／斯姆吉／甜點將星 | kept — Katakuri 卡塔克利 (L3880), Smoothie 斯姆吉 (L3881), Sweet Commander 甜點將星 (L3803). "The second son - Sweet Commander Katakuri" = 次子——甜點將星卡塔克利 |
+| Perospero "Lick" verbal tic (calm security-coordination line) | 舔哩 | Perospero's ペロ tic (cf "Lick! Lick!" SFX 舔！舔！ L3740). "Don't drop your guard. Lick." = 別鬆懈。舔哩。 |
+| Morgans (WEJ president, calls Big Mom "Mamigo") | 摩甘茲 | VERIFIED Fandom zh exact page 摩甘茲 (モルガンズ; NOT 摩根斯). "That's my Morgans!" = 真不愧是我的摩甘茲！ |
+| Mamigo (Morgans's nickname for Big Mom, his -go bird tic on "Mama") | 媽媽戈 | COINED — Mama + Morgans's ゴア tic → 媽媽戈. "Speaking of treasure chests, Mamigo" = 說到寶箱，媽媽戈; "Have you opened it yet, Mamigo?!" = 妳打開過了嗎，媽媽戈？！ |
+| WEJ / World Economy Journal (Morgans's newspaper company) | 世界經濟新聞社 | rendered via established org 世界經濟新聞 (L3603, WEN) + 社 (company). "The president of the WEJ" = 世界經濟新聞社的社長. NB English source alternates WEN/WEJ for the same paper; keep 世界經濟新聞 stem |
+| Horned Transponder Snail (used to jam radio signals & isolate venue) | 角電話蟲 | VERIFIED Fandom zh exact page 角電話蟲 (ツノ電話蟲). "set the Horned Transponder Snails to jam radio signals" = 設置角電話蟲來干擾無線電訊號; venue = 會場 |
+| Tamate Box (WCI 20, Big Mom's new undersea prize) | 玉手箱 | kept — established (L2102/L3936). Neptune 涅普頓 (WCI form L3935) "let it slip"; undersea royalty heirloom = 海底王族世代相傳的傳家寶 |
+| Vito "-rero" speech quirk (WCI 20; exact tags vary per line) | kept romaji {\i1}rero{\i} | kept per WCI decision (L4035). Preserve exact source tag structure verbatim: some lines use {\i1}rero{\i1}!{\i0} (L2228/L2230), others {\i1}rero{\i}. (L2238/L2288). Only surrounding English translated |
+| guest "-nen" speech quirk (present-giving underworld guest teasing Big Mom) | kept romaji {\i1}nen{\i} | Kansai-style sentence-ender tic. Kept as romaji per WCI quirk convention (matches -rero). "Charlotte-nen" (address) = 夏洛特-{\i1}nen{\i}; "How many decades ago-nen?" = 那都是幾十年前的事了-{\i1}nen{\i1}？{\i0}; "Ouch-nen!" = 好痛-{\i1}nen{\i1}！{\i0} |
+| honorific -sama (wedding announcer / fangirl address) | {\i1}大人{\i} | -sama → 大人 (semantic, cf Lady Reiju 麗珠大人). "Sanji-sama crashed" = 香吉士{\i1}大人{\i}; announcer "Charlotte Pudding-sama" = 夏洛特·普琳{\i1}大人{\i}. Complements -san→桑, -chan→醬, -kun→君 |
+| honorific -kun (Reiju's inner "Luffy-kun!") | {\i1}君{\i} | -kun → 君 (phonetic-suffix style like -san 桑). "Luffy-kun!" = 魯夫{\i1}君！{\i0} |
+| "Father" (Fire Tank crew's address for Bege, WCI 20) | Father (kept) | kept — established (L3606/L4042). Vito/crew: "Father, it's amazing!" = Father，太驚人了！; "Okay, Father." = 好的，Father。 |
+| Caesar (WCI 20, objects to being called by real name, blows cover) | 凱薩 | kept — established (L2302/L4033). Bege "Caesar, bring out the mirror" = 凱薩，把鏡子拿出來; Caesar "Don't call me that!" = 別那樣叫我！; Brook's thought "Caesar Clown?" = 凱薩·克勞恩？ |
+| Priest (wedding officiant; Bege orders him to fire) | 神父 | Christian-style wedding officiant → 神父 (distinct from Skypiea 神官 L482, Urouge 僧正 L3233). "You do it, Priest!" = 你來動手，神父！; "The priest fired!" = 是神父開的槍！ |
+| Mariage de Raison! / Marriage of Convenience (announcer + Note gloss) | Mariage de Raison！／政略聯姻 | French line kept verbatim (per French-quirk convention L3593), OMITTED from zh TSV (byte-identical). Note-line gloss "Marriage of Convenience" = 政略聯姻 |
+| wedding song (diegetic, Musical-equivalent; MUST translate) | 結婚！／嚴苛的愛……／也絕不放開那隻手！ | "Marriage!" refrain = 結婚！; "Tough love / Bitter love" = 嚴苛的愛／苦澀的愛; "I must reach the aisle" = 我也要走向聖壇 (aisle/altar → 聖壇); "Even if spears rain down on me" = 縱然長矛如雨傾落; "Never let that hand go!" = 也絕不放開那隻手！; "unveil the Wedding cake!" = 揭曉那……結婚蛋糕！ |
+| Streusen (WCI 20, Big Mom praises the cake) | 蘇特羅慎 | kept — established (L4029). "You did a wonderful job, Streusen!" = 你做得太出色了，蘇特羅慎！; Head chef refrain 主廚 |
+| altar (wedding altar atop the cake) | 聖壇 | descriptive; consistent with song's "aisle" 聖壇. "Our Altar is on top of the sweet cake!" = 我們的聖壇就在這甜蜜蛋糕的頂端！ |
+| requiem (Bege's inner taunt to Sanji) | 安魂曲 | "This is your requiem!" = 這是為你譜寫的安魂曲！ |
+| third eye / grow out your bangs (Pudding's reveal & Big Mom flashback) | 第三隻眼／把瀏海留長 | third eye 第三隻眼 (established L4001). "creepy third eye" = 噁心的第三隻眼; "Grow out your bangs, Pudding" = 把瀏海留長吧，普琳 (bangs 瀏海) |
+| freak / creepy (crowd taunting young Pudding) | 怪胎／噁心 | "She's a freak!" = 她是個怪胎！; "How's that, freak?!" = 怎樣啊，怪胎？！; "So creepy!" = 好噁心！; "I'm an ugly freak!" = 我是個醜陋的怪胎！ |
+| VIP seats (Bege seating the Vinsmokes) | 貴賓席 | "Enjoy the ceremony from these VIP seats" = 就從這些貴賓席好好欣賞這場儀式 |
+| Charlotte siblings (Reiju's realization) | 夏洛特家的兄弟姐妹 | 夏洛特 established. "surrounded by the Charlotte siblings" = 被夏洛特家的兄弟姐妹包圍了 |
+| Captions (WCI 20 locations) | 萬國蛋糕城堡 屋頂／九樓 新郎與新娘 更衣室 | Whole Cake Chateau/Rooftop 萬國蛋糕城堡／屋頂 (L3644); 9th Floor/Bride and Groom Changing Room 九樓／新郎與新娘更衣室 |
