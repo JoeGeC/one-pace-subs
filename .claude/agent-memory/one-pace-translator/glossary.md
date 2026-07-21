@@ -4118,3 +4118,27 @@ NOTE: Appended at end of file (not in numeric order) because WCI 20 section alre
 | Supreme cheese (celebration food) | 極品起司 | Supreme = 極品; townsfolk holiday celebration line |
 | Vito "-rero" speech quirk (WCI 19) | kept romaji {\i1}rero{\i} | kept per WCI decision (L4035/L4069). Preserve exact source tag structure (e.g. -{\i1}rero{\fs10} {\r}, -{\i1}rero{\i}); only surrounding text translated |
 | Honorifics (WCI 19) | -san→桑, -kun→君 | per convention (L3615). Bege-san = 貝基{\i1}桑{\i0}; Perospero-kun = 裴洛斯培勒{\i1}君{\i0}; Pudding-san/Sanji-san = 普琳{\i1}桑{\i0}／香吉士{\i1}桑{\i0} |
+
+## Whole Cake Island Arc (WCI 21 [863-864] — "The Honorable" / Bege-hideout flashback of the fake-Luffy/mirror plan / Straw Hats burst from the cake & Big Mom's Soul Pocus rampage / Jinbe's dramatic defection from Big Mom Pirates / Brook reveals himself & breaks Mother Carmel portrait / Daifuku & Oven join the fray / Katakuri closes in)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| The Honorable (WCI 21 episode title) | 高潔之士 | COINED title card. Refers to Jinbe's honorable, defiant defection from the Big Mom Pirates in front of Big Mom. {\pos} preserved |
+| Soul Pocus (Big Mom's soul-extraction incantation ability) | 靈魂惑術 | COINED — no dedicated Fandom zh page (only the album "Soul Pocus ~Song of the Queen~"). Built from VERIFIED Soru Soru no Mi = 靈魂果實 (Fandom zh, Big Mom's Soul-Soul Fruit; user = 靈魂人) + hocus-pocus 惑術. "It's her Soul Pocus!" = 是她的靈魂惑術！; "又來了！靈魂惑術！". The life-or-X demand: "Life... or... wedding cake?!" = 命……／還是……／婚禮蛋糕？！; "Stay... or... life?" = 留下……／還是……／性命？ |
+| Mochi-Mochi Fruit / Mochi Mochi no Mi (Katakuri's Special Paramecia) | 糯糯果實 | VERIFIED Fandom zh exact page 糯糯果實 (モチモチの実). "special Paramecia fruit" = 特殊的超人系果實 (Paramecia 超人系 L73); "The Mochi-Mochi Fruit" = 糯糯果實 |
+| Puff-Puff Fruit / Hoya Hoya no Mi (Daifuku's Devil Fruit) | 熱氣果實 | VERIFIED Fandom zh exact page 熱氣果實 (ホヤホヤの実; Hoya = 神燈/lamp). Paramecia; makes user a lamp-man who summons a genie |
+| Lamp-man (Daifuku, Hoya Hoya fruit user) | 神燈人 | VERIFIED Fandom 熱氣果實 page (神燈人). Caption "A Puff-Puff Fruit Eater and a Lamp-man" = 吃下熱氣果實的神燈人 |
+| Genie (Daifuku's summoned sword-wielding genie) | 魔人 | VERIFIED Fandom 熱氣果實/代佛克 pages (召喚出宛如神燈精靈的魔人; alt 神燈精靈). "Go, Genie!" = 上吧，魔人！; "Geniiie!" = 魔人——！ |
+| Genie-uine Rage Hunt (Daifuku's genie attack) | 魔人·憤怒狩獵 | COINED — genie 魔人 + rage-hunt 憤怒狩獵. Split-safe attack call. UNVERIFIED (no Fandom named page) |
+| Heat-Heat Fruit / Netsu Netsu no Mi (Oven's Devil Fruit) | 熱量果實 | VERIFIED Fandom zh exact page 熱量果實 (ネツネツの実). Paramecia; alters temperature / emits heat waves |
+| Intense Heat Human (Oven, Netsu Netsu fruit user) | 炎熱人 | VERIFIED Fandom 熱量果實 page (炎熱人). Caption "A Heat-Heat Fruit Eater and an Intense Heat Human" = 吃下熱量果實的炎熱人 |
+| Charlotte Daifuku — Minister of Beans (WCI 21 intro caption) | 夏洛特·代佛克／豆子大臣 | Daifuku 代佛克 established (L4059); Minister of Beans = 豆子大臣 (VERIFIED Fandom occupation 豆子大臣). Full caption "Third Son of the Charlotte Family (Minister of Beans)" = 夏洛特家族的三男（豆子大臣）. "Brother Daifuku" = 代佛克大哥 |
+| Charlotte Oven — Minister of Browned Food (WCI 21 intro caption) | 夏洛特·歐本／微焦大臣 | Oven 歐本 established (L4060); Minister of Browned Food = 微焦大臣 (VERIFIED Fandom occupation 微焦大臣). Full caption "Fourth Son of the Charlotte Family (Minister of Browned Food)" = 夏洛特家族的四男（微焦大臣） |
+| Ocean Current Shoulder Throw (Jinbe, Fishman Jujutsu; = Kairyu Ippon Zeoi) | 海流一本背負 | kept — established (L1757 "Sea Current Lifter" = 海流一本背負, same move). Split "Ocean Current..."/"Shoulder Throw!" = 海流……／一本背負！ |
+| Collier Strike (Sanji neck kick, rescuing Pudding from the genie) | 頸肉打擊 | COINED — Collier 頸肉 (established L259/L1005) + strike 打擊. Sanji's French-neck kick. cf Collier Shoot 頸肉射擊 (L259), Collier Frite 頸肉油炸 (L1005) |
+| Flambage Shot (Sanji, WCI 21) | 燒烤射擊 | kept — established (L1245/L1905). "Flambage Shot!" = 燒烤射擊！ |
+| Germa Empire (Judge's dream to restore; = the old Germa Kingdom's dominion) | 傑爾馬帝國 | COINED — Germa 傑爾馬 (L3532) + empire 帝國. "To restore the Germa Empire!" = 為了重建傑爾馬帝國！. Distinct from the org Germa 66 = 傑爾馬66 |
+| Perospero "Lick" verbal tic (WCI 21) | 舔哩 | kept — established (L4062, WCI 20 calm-coordination tic). Standalone "Lick!"/"Lick." = 舔哩 |
+| -sama honorific (Reiju's inner "Father-sama" re: Judge) | {\i}大人{\i1} | -sama → 大人 (L4053). Source has non-standard tag order "Father-{\i}sama{\i1}." — preserve tags verbatim, swap word only: 父親{\i}大人{\i1} |
+| Vito "-rero" / guest "-nen" speech quirks (WCI 21) | kept romaji {\i1}rero{\i} / {\i1}nen{\i} | kept per WCI decision (L4035/L4069/L4119). "ready-{\i1}rero{\i}" = 準備好了-{\i1}rero{\i}; "fire-{\i1}rero{\i}!" = 發射了-{\i1}rero{\i}！; guest "show-{\i1}nen{\i}..." = 表演-{\i1}nen{\i}…… |
+| Captions (WCI 21 locations) | 貝基的藏身處／現在——婚禮會場／鏡中世界／蛋糕內部 | "Bege's Hideout" = 貝基的藏身處 (cf Fire Tank Base 火戰車海賊團基地 L3605); "In the Present – The Wedding Venue" = 現在——婚禮會場; Mirro-world 鏡中世界 (L3779); "Inside the Cake" = 蛋糕內部 |
+| ritual sake cup (Jinbe returns the binding sakazuki cup) | 儀式用的{\i1}sake{\i}酒杯 | {\i1}sake{\i} kept as italic foreign word (per sake-italic convention). "return your ritual sake cup" = 歸還你那儀式用的{\i1}sake{\i}酒杯 (the sakazuki oath cup binding him to Big Mom Pirates) |
