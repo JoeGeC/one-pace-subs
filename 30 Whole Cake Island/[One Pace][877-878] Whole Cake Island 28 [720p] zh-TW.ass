@@ -71,7 +71,7 @@ Style: OP13-Credits,FOT-Greco Std B,40,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:34.65,0:01:39.03,Title,,0,0,100,,{\an8\pos(640,100)}純毛族 俠客團隊長 佩特羅
+Dialogue: 0,0:01:34.65,0:01:39.03,Title,,0,0,100,,{\an8\pos(640,100)\fad(1000,0)}純毛族 俠客團隊長 佩特羅
 Dialogue: 0,0:01:39.43,0:01:40.59,Main,,0,0,0,,我的腿……
 Dialogue: 0,0:01:42.53,0:01:44.89,Main,,0,0,0,,可惡！我動不了！
 Dialogue: 0,0:01:45.35,0:01:46.27,Main,,0,0,0,,喬巴{\i1}桑{\i}！
