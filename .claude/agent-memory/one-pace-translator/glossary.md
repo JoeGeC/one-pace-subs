@@ -4548,7 +4548,7 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 |---|---|---|
 | Reverie (four-yearly world summit) | 世界會議 | kept — established (L3547 VERIFIED Fandom). The 50-nation conference at Mariejois |
 | The Fifth Emperor (article title / Luffy's new epithet) | 第五位皇帝 | coined for the "五皇" concept; Title card + narration render 第五位皇帝. "Four/Five Emperors" quip = 四皇還是五皇. Cf Four Emperors 四皇 (L43) |
-| King Neptune (ruler of Ryugu Kingdom) | 海神·尼普頓 | CORRECTED 乘頓→尼普頓, 2026-07-27. verify_names.py Fandom EN→zh confirms Neptune = 尼普頓; prior glossary 乘頓 (L1991) was the 乘-byte mojibake corruption (same family as 可亞拉/薩波/史乘利 fixes). Title 海神 kept. Use 尼普頓 project-wide |
+| King Neptune (ruler of Ryugu Kingdom) | 海神·涅普頓 | Use established WCI-arc form 涅普頓 (L3572; shipped in WCI 01/02/04/13/20/25 zh-TW text). NOTE 2026-07-27: an earlier Reverie pass "corrected" this to Fandom's 尼普頓 having only seen the older Fishman-arc 乘頓 mojibake (L1991) and missed the WCI convention; standardized back to 涅普頓 across Reverie 01–03 for cross-arc consistency (established shipped form wins over Fandom). Title 海神 kept. Fishman-arc shipped files still carry 乘頓 — separate cleanup |
 | Manboshi (Neptune's 3rd son, Opah merman) | 曼星 | kept — established (L1995). On-screen animated scrolling name-caption blob (402 motion frames, fnKakumin Web / CJK-capable) — all frames translated 曼星 |
 | Ryuboshi (Neptune's 2nd son, Oarfish merman) | 龍星 | kept — established (L1994). Scrolling name-caption blob (500 frames) all → 龍星 |
 | Fukaboshi / "Fukuboshi" (Neptune's eldest, Shark merman) | 福卡博西 | kept — established (L1993). File spells "Fukuboshi" (variant); same character. Scrolling name-caption blob (212 frames) all → 福卡博西 |
@@ -4605,7 +4605,7 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Fukaboshi / Ryuboshi / Manboshi (Neptune's three princes) | 福卡博西 / 龍星 / 曼星 | kept — established (L1993/1994/1995). "Prince Fukaboshi" = 福卡博西王子; "the big three of the Neptune Army" = 海神軍的三巨頭 |
 | Ryuboshi musical sentence-endings (solfège tic) | 哆-雷-咪-發-唆-拉-西 | do=哆 re=雷 mi=咪 fa=發 so=唆 la=拉 ti=西 (MATCHED Rev01 file 發-唆-拉-西-哆; supersedes glossary L2118 fa=法). e.g. "-do-re-mi-fa-so"=哆-雷-咪-發-唆; "-fa-mi-re-do"=發-咪-雷-哆; "-la-ti-do"=拉-西-哆. In exact {\i1}...{\i0} tags, trailing ♪ kept |
 | Manboshi "Akamambo/Mambo/Samba" song words | 阿卡曼波／曼波／森巴 | coined phonetic; アカマンボ song scat. Manboshi's mambo tic. "King of Samba" (Reverie king) = 森巴王 |
-| King Neptune ("Great Knight of the Sea") | 尼普頓（偉大的海之騎士） | Neptune 尼普頓 (L4551). Epithet "Great Knight of the Sea" = 偉大的海之騎士 (distinct from title 海神). -jamon tic = 佳蒙 |
+| King Neptune ("Great Knight of the Sea") | 涅普頓（偉大的海之騎士） | Neptune 涅普頓 (L4551, WCI-established). Epithet "Great Knight of the Sea" = 偉大的海之騎士 (distinct from title 海神). -jamon tic = 佳蒙 |
 | Cavendish (Dressrosa Grand Fleet, former prince of Bourgeois) | 卡文迪許 | repo-confirmed (32 occurrences across zh-TW files). "Prince Cavendish" = 卡文迪許王子 |
 | Bourgeois (Cavendish's home kingdom) | 布爾喬亞 | coined phonetic (ブルジェス); UNVERIFIED, one-off |
 | Barrier / Barrier Crash (Bartolomeo, Bari Bari no Mi) | 障壁 / 障壁粉碎 | 障壁 repo-confirmed (41x, Dressrosa "障壁！"×38). "Barrier Crash" = 障壁粉碎 (coined; no prior repo usage) |

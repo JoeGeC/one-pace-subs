@@ -588,8 +588,8 @@ Dialogue: 0,0:05:09.71,0:05:14.46,Title-207+,,0,0,100,,{\an8\pos(960,100)\fscx11
 Dialogue: 1,0:05:09.71,0:05:14.46,Title-207+,,0,0,100,,{\an8\pos(960,100)\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.8\fad(725,480)}第五位皇帝
 Dialogue: 0,0:00:52.20,0:00:55.66,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fnKakumin Web\1a&HFF&\blur0.8\fad(519,0)\t(478,519,\1a&H00&)\c&H040404&\3c&H040404&\bord2.5\fscx110\fscy110}新世界海上
 Dialogue: 1,0:00:52.20,0:00:55.66,Captions-207+,,0,0,100,,{\an8\pos(960,100)\fnKakumin Web\bord0\4a&HFF&\blur0.8\fad(519,0)\c&HFDFEFE&\fscx110\fscy110}新世界海上
-Dialogue: 0,0:05:45.28,0:05:49.54,Captions-207+,,0,0,200,,{\an8\pos(960,265)\fnKakumin Web\1a&HFF&\blur0.8\fad(524,0)\t(482,524,\1a&H00&)\fscx125\fscy125\c&H040404&\3c&H040404&\bord2.5}海神·尼普頓\N龍宮王國
-Dialogue: 1,0:05:45.28,0:05:49.54,Captions-207+,,0,0,200,,{\an8\pos(960,265)\fnKakumin Web\bord0\4a&HFF&\blur0.8\fad(524,0)\c&HFDFEFE&\fscx125\fscy125}海神·尼普頓\N龍宮王國
+Dialogue: 0,0:05:45.28,0:05:49.54,Captions-207+,,0,0,200,,{\an8\pos(960,265)\fnKakumin Web\1a&HFF&\blur0.8\fad(524,0)\t(482,524,\1a&H00&)\fscx125\fscy125\c&H040404&\3c&H040404&\bord2.5}海神·涅普頓\N龍宮王國
+Dialogue: 1,0:05:45.28,0:05:49.54,Captions-207+,,0,0,200,,{\an8\pos(960,265)\fnKakumin Web\bord0\4a&HFF&\blur0.8\fad(524,0)\c&HFDFEFE&\fscx125\fscy125}海神·涅普頓\N龍宮王國
 Dialogue: 0,0:05:49.57,0:05:49.62,Captions-207+,,0,0,0,,{\fnKakumin Web\pos(1261.88,770)\blur0.8\fade(255,0,255,0,478,8380,8380)\1a&HFF&\c&H484748&\3c&H484748&\bord2.5}曼星
 Dialogue: 0,0:05:49.62,0:05:49.66,Captions-207+,,0,0,0,,{\fnKakumin Web\pos(1265.73,770)\blur0.8\fade(255,0,255,-50,428,8330,8330)\1a&HFF&\c&H484748&\3c&H484748&\bord2.5}曼星
 Dialogue: 0,0:05:49.66,0:05:49.70,Captions-207+,,0,0,0,,{\fnKakumin Web\pos(1269.6,770)\blur0.8\fade(255,0,255,-90,388,8290,8290)\1a&HFF&\c&H484748&\3c&H484748&\bord2.5}曼星
