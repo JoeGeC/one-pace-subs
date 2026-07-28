@@ -110,6 +110,15 @@ EDITOR_COMMENT_RE = re.compile(
 # These contain \p1 or \p4 drawing mode tags and consist mostly of coordinates
 DRAWING_RE = re.compile(r'\\p[1-9]')
 
+# Per-letter typeset-reveal animation tags. A caption/sign/title drawn as a
+# per-letter reveal interleaves one of these override blocks with (almost)
+# every character — \alpha / numbered alpha (\1a..\4a) for fade-in reveals,
+# \fax/\fay shear-kerning, \frz/\frx/\fry rotation arcs. Emphasis tags (\i, \b)
+# are deliberately excluded so ordinary dialogue with a little italic/bold, or
+# stammered lines split by \i, are never mistaken for typeset.
+PER_LETTER_TAG_RE = re.compile(r'\\(?:alpha|[1-4]a(?=[&\\}])|fa[xy]|fr[xyz])')
+ANY_TAG_BLOCK_RE = re.compile(r'\{[^}]*\}')
+
 
 def is_drawing_only(text):
     """Check if a line is a pure vector drawing with no translatable text.
@@ -125,6 +134,30 @@ def is_drawing_only(text):
     # Drawing commands are: m/l/b/s/c followed by numbers and spaces
     stripped = re.sub(r'[mlbsc]\s+[\d.\s-]+', '', stripped).strip()
     return len(stripped) == 0
+
+
+def is_per_letter_reveal(text):
+    """True if the line is a per-letter/per-fragment typeset reveal animation.
+
+    Location name-cards and decorative signs are often drawn as a reveal where
+    each character carries its own animation override
+    (`T{\\fax}r{\\fax}e...`, `P{\\alpha}r{\\alpha}i...`, curved `\\frz` arcs).
+    These can't be recreated char-for-char in Chinese: collapsing them to a
+    block drops the interior tags (TAG MISMATCH) and, for \\alpha reveals, pins
+    the whole caption at the first fragment's alpha — usually fully transparent,
+    so it renders invisible. Like OP/ED karaoke and Sign-Treasure kerning, they
+    are left as the source animation (the concept is conveyed by dialogue/other
+    captions).
+
+    Detected by counting interior override blocks (those after the single
+    leading placement block) that carry a per-letter animation tag; three or
+    more means a reveal. Emphasis-only interior tags (\\i/\\b) don't count, so
+    ordinary dialogue — including stammers split by italics — is never flagged.
+    """
+    m = re.match(r'^(?:\{[^}]*\})+', text)
+    body = text[m.end():] if m else text
+    n = sum(1 for b in ANY_TAG_BLOCK_RE.findall(body) if PER_LETTER_TAG_RE.search(b))
+    return n >= 3
 
 
 def parse_ass_line(line):
@@ -177,6 +210,13 @@ def extract(input_path):
                 continue
 
             cleaned = strip_editor_comments(text)
+
+            # Skip per-letter typeset reveals — kept as the source animation
+            # (see is_per_letter_reveal). Checked on the comment-stripped text
+            # so editor notes can't inflate the interior-tag count.
+            if is_per_letter_reveal(cleaned):
+                continue
+
             results.append((line_num, style, cleaned))
 
     return results
