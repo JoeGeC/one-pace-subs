@@ -409,7 +409,7 @@ Dialogue: 55,0:32:40.19,0:32:41.56,Main-207+,,0,0,0,,別煩我。
 Dialogue: 55,0:32:41.56,0:32:46.58,Main-207+,,0,0,0,,別這樣嘛。這裡的人\N都超崇拜你的！{Z}
 Dialogue: 55,0:32:46.58,0:32:48.61,Main-207+,,0,0,0,,哼……那就給我吃閉門羹囉。{Z}
 Dialogue: 55,0:32:49.57,0:32:51.61,Main-207+,,0,0,0,,草帽大人！
-Dialogue: 55,0:32:54.16,0:33:00.79,Main-207+,,0,0,200,,{\an8}非常感謝你昨天\N救了我這條沒用的命！
+Dialogue: 55,0:32:54.16,0:33:00.79,Main-207+,,0,0,200,,{\an8\pos(960,100)}非常感謝你昨天\N救了我這條沒用的命！
 Dialogue: 55,0:33:00.79,0:33:03.41,Main-207+,,0,0,0,,是他自找的，你別放在心上。{Z}
 Dialogue: 55,0:33:04.59,0:33:06.96,Main-207+,,0,0,0,,對了，這些給你吧！
 Dialogue: 55,0:33:06.96,0:33:09.67,Main-207+,,0,0,0,,沒飯吃就幹不了活，對吧？{Z}
@@ -483,36 +483,36 @@ Dialogue: 0,0:05:40.61,0:05:49.45,Title-207+,,0,0,100,,{\an8\pos(960,100)\blur0.
 Dialogue: 1,0:05:40.61,0:05:49.45,Title-207+,,0,0,100,,{\an8\pos(960,100)\bord0\blur0.9\fad(550,0)\4a&HFF&}花童阿托子
 Dialogue: 0,0:05:26.59,0:05:33.27,Captions Wano,,0,0,100,,{\an8\pos(1423.5,100)\blur0.9\c&HF7F7F7&}希美遺址／和之國
 Dialogue: 1,0:05:26.59,0:05:33.27,Captions Wano,,0,0,100,,{\an8\pos(1423.5,100)\bord0\blur0.9\4a&HFF&}希美遺址／和之國
-Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}囚犯礦場
-Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}囚犯礦場
-Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}囚犯礦場
-Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}囚犯礦場
-Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}囚犯礦場
-Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}囚犯礦場
+Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,775.5)\alpha&HFF&\c&HF7F7F7&}P{\alpha&HFF&}r{\alpha&HFD&}i{\alpha&HF7&}s{\alpha&HED&}o{\alpha&HDC&}n{\alpha&HC2&}e{\alpha&H9E&}r{\alpha&H6E&} {\alpha&H30&}M{\alpha&H30&}i{\alpha&H6E&}n{\alpha&H9E&}i{\alpha&HC2&}n{\alpha&HDC&}g{\alpha&HED&} {\alpha&HF7&}C{\alpha&HFD&}a{\alpha&HFF&}m{\alpha&HFF&}p
+Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,775.5)\alpha&HFF&\4a&HFF&}P{\alpha&HFF&}r{\alpha&HFD&}i{\alpha&HF7&}s{\alpha&HED&}o{\alpha&HDC&}n{\alpha&HC2&}e{\alpha&H9E&}r{\alpha&H6E&} {\alpha&H30&}M{\alpha&H30&}i{\alpha&H6E&}n{\alpha&H9E&}i{\alpha&HC2&}n{\alpha&HDC&}g{\alpha&HED&} {\alpha&HF7&}C{\alpha&HFD&}a{\alpha&HFF&}m{\alpha&HFF&}p
+Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,775.5)\alpha&HFF&\c&HF7F7F7&}P{\alpha&HE6&}r{\alpha&HCD&}i{\alpha&HB5&}s{\alpha&H9C&}o{\alpha&H83&}n{\alpha&H6A&}e{\alpha&H52&}r{\alpha&H39&} {\alpha&H20&}M{\alpha&H20&}i{\alpha&H39&}n{\alpha&H52&}i{\alpha&H6A&}n{\alpha&H83&}g{\alpha&H9C&} {\alpha&HB5&}C{\alpha&HCD&}a{\alpha&HE6&}m{\alpha&HFF&}p
+Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,775.5)\alpha&HFF&\4a&HFF&}P{\alpha&HE6&}r{\alpha&HCD&}i{\alpha&HB5&}s{\alpha&H9C&}o{\alpha&H83&}n{\alpha&H6A&}e{\alpha&H52&}r{\alpha&H39&} {\alpha&H20&}M{\alpha&H20&}i{\alpha&H39&}n{\alpha&H52&}i{\alpha&H6A&}n{\alpha&H83&}g{\alpha&H9C&} {\alpha&HB5&}C{\alpha&HCD&}a{\alpha&HE6&}m{\alpha&HFF&}p
+Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,775.5)\alpha&HFF&\c&HF7F7F7&}P{\alpha&HAF&}r{\alpha&H8E&}i{\alpha&H75&}s{\alpha&H60&}o{\alpha&H4D&}n{\alpha&H3C&}e{\alpha&H2C&}r{\alpha&H1E&} {\alpha&H10&}M{\alpha&H10&}i{\alpha&H1E&}n{\alpha&H2C&}i{\alpha&H3C&}n{\alpha&H4D&}g{\alpha&H60&} {\alpha&H75&}C{\alpha&H8E&}a{\alpha&HAF&}m{\alpha&HFF&}p
+Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,775.5)\alpha&HFF&\4a&HFF&}P{\alpha&HAF&}r{\alpha&H8E&}i{\alpha&H75&}s{\alpha&H60&}o{\alpha&H4D&}n{\alpha&H3C&}e{\alpha&H2C&}r{\alpha&H1E&} {\alpha&H10&}M{\alpha&H10&}i{\alpha&H1E&}n{\alpha&H2C&}i{\alpha&H3C&}n{\alpha&H4D&}g{\alpha&H60&} {\alpha&H75&}C{\alpha&H8E&}a{\alpha&HAF&}m{\alpha&HFF&}p
 Dialogue: 0,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}囚犯礦場
 Dialogue: 1,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}囚犯礦場
 Dialogue: 0,0:07:54.24,0:07:54.28,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}囚犯礦場
 Dialogue: 1,0:07:54.24,0:07:54.28,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}囚犯礦場
 Dialogue: 0,0:07:54.28,0:07:56.99,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}囚犯礦場
 Dialogue: 1,0:07:54.28,0:07:56.99,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}囚犯礦場
-Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兼武器工廠
-Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兼武器工廠
-Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兼武器工廠
-Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兼武器工廠
-Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兼武器工廠
-Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兼武器工廠
+Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,846)\alpha&HFF&\c&HF7F7F7&}&{\alpha&HFF&} {\alpha&HFC&}W{\alpha&HF4&}e{\alpha&HE5&}a{\alpha&HCC&}p{\alpha&HA8&}o{\alpha&H74&}n{\alpha&H30&}s{\alpha&H74&} {\alpha&HA8&}F{\alpha&HCC&}a{\alpha&HE5&}c{\alpha&HF4&}t{\alpha&HFC&}o{\alpha&HFF&}r{\alpha&HFF&}y
+Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,846)\alpha&HFF&\4a&HFF&}&{\alpha&HFF&} {\alpha&HFC&}W{\alpha&HF4&}e{\alpha&HE5&}a{\alpha&HCC&}p{\alpha&HA8&}o{\alpha&H74&}n{\alpha&H30&}s{\alpha&H74&} {\alpha&HA8&}F{\alpha&HCC&}a{\alpha&HE5&}c{\alpha&HF4&}t{\alpha&HFC&}o{\alpha&HFF&}r{\alpha&HFF&}y
+Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,846)\alpha&HFF&\c&HF7F7F7&}&{\alpha&HE3&} {\alpha&HC7&}W{\alpha&HAB&}e{\alpha&H90&}a{\alpha&H74&}p{\alpha&H58&}o{\alpha&H3C&}n{\alpha&H20&}s{\alpha&H3C&} {\alpha&H58&}F{\alpha&H74&}a{\alpha&H90&}c{\alpha&HAB&}t{\alpha&HC7&}o{\alpha&HE3&}r{\alpha&HFF&}y
+Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,846)\alpha&HFF&\4a&HFF&}&{\alpha&HE3&} {\alpha&HC7&}W{\alpha&HAB&}e{\alpha&H90&}a{\alpha&H74&}p{\alpha&H58&}o{\alpha&H3C&}n{\alpha&H20&}s{\alpha&H3C&} {\alpha&H58&}F{\alpha&H74&}a{\alpha&H90&}c{\alpha&HAB&}t{\alpha&HC7&}o{\alpha&HE3&}r{\alpha&HFF&}y
+Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,846)\alpha&HFF&\c&HF7F7F7&}&{\alpha&HAB&} {\alpha&H88&}W{\alpha&H6D&}e{\alpha&H56&}a{\alpha&H42&}p{\alpha&H30&}o{\alpha&H1F&}n{\alpha&H10&}s{\alpha&H1F&} {\alpha&H30&}F{\alpha&H42&}a{\alpha&H56&}c{\alpha&H6D&}t{\alpha&H88&}o{\alpha&HAB&}r{\alpha&HFF&}y
+Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,846)\alpha&HFF&\4a&HFF&}&{\alpha&HAB&} {\alpha&H88&}W{\alpha&H6D&}e{\alpha&H56&}a{\alpha&H42&}p{\alpha&H30&}o{\alpha&H1F&}n{\alpha&H10&}s{\alpha&H1F&} {\alpha&H30&}F{\alpha&H42&}a{\alpha&H56&}c{\alpha&H6D&}t{\alpha&H88&}o{\alpha&HAB&}r{\alpha&HFF&}y
 Dialogue: 0,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}兼武器工廠
 Dialogue: 1,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}兼武器工廠
 Dialogue: 0,0:07:54.24,0:07:54.28,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}兼武器工廠
 Dialogue: 1,0:07:54.24,0:07:54.28,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}兼武器工廠
 Dialogue: 0,0:07:54.28,0:07:56.99,Captions Wano,,0,0,100,,{\an8\pos(1549.5,210)\blur0.9\c&HF7F7F7&}兼武器工廠
 Dialogue: 1,0:07:54.28,0:07:56.99,Captions Wano,,0,0,100,,{\an8\pos(1549.5,210)\bord0\blur0.9\4a&HFF&}兼武器工廠
-Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兔丼／和之國
-Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兔丼／和之國
-Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兔丼／和之國
-Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兔丼／和之國
-Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\alpha&HFF&\c&HF7F7F7&}兔丼／和之國
-Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\alpha&HFF&\4a&HFF&}兔丼／和之國
+Dialogue: 0,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,909)\alpha&HFF&\c&HF7F7F7&}U{\alpha&HFC&}d{\alpha&HE5&}o{\alpha&HA8&}n{\alpha&H30&},{\alpha&H30&} {\alpha&HA8&}W{\alpha&HE5&}a{\alpha&HFC&}n{\alpha&HFF&}o
+Dialogue: 1,0:07:54.07,0:07:54.12,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,909)\alpha&HFF&\4a&HFF&}U{\alpha&HFC&}d{\alpha&HE5&}o{\alpha&HA8&}n{\alpha&H30&},{\alpha&H30&} {\alpha&HA8&}W{\alpha&HE5&}a{\alpha&HFC&}n{\alpha&HFF&}o
+Dialogue: 0,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,909)\alpha&HFF&\c&HF7F7F7&}U{\alpha&HC7&}d{\alpha&H90&}o{\alpha&H58&}n{\alpha&H20&},{\alpha&H20&} {\alpha&H58&}W{\alpha&H90&}a{\alpha&HC7&}n{\alpha&HFF&}o
+Dialogue: 1,0:07:54.12,0:07:54.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,909)\alpha&HFF&\4a&HFF&}U{\alpha&HC7&}d{\alpha&H90&}o{\alpha&H58&}n{\alpha&H20&},{\alpha&H20&} {\alpha&H58&}W{\alpha&H90&}a{\alpha&HC7&}n{\alpha&HFF&}o
+Dialogue: 0,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\blur0.9\pos(1549.5,909)\alpha&HFF&\c&HF7F7F7&}U{\alpha&H88&}d{\alpha&H56&}o{\alpha&H30&}n{\alpha&H10&},{\alpha&H10&} {\alpha&H30&}W{\alpha&H56&}a{\alpha&H88&}n{\alpha&HFF&}o
+Dialogue: 1,0:07:54.16,0:07:54.20,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1549.5,909)\alpha&HFF&\4a&HFF&}U{\alpha&H88&}d{\alpha&H56&}o{\alpha&H30&}n{\alpha&H10&},{\alpha&H10&} {\alpha&H30&}W{\alpha&H56&}a{\alpha&H88&}n{\alpha&HFF&}o
 Dialogue: 0,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}兔丼／和之國
 Dialogue: 1,0:07:54.20,0:07:54.24,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\bord0\blur0.9\4a&HFF&}兔丼／和之國
 Dialogue: 0,0:07:54.24,0:07:54.28,Captions Wano,,0,0,100,,{\an8\pos(1549.5,100)\blur0.9\c&HF7F7F7&}兔丼／和之國
@@ -695,44 +695,44 @@ Dialogue: 0,0:30:24.84,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bor
 Dialogue: 1,0:30:24.84,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord0\shad0\fs225\pos(1212,196.5)\c&H5454E7&\frz6.05\4a&HFF&}mu
 Dialogue: 0,0:30:25.09,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord1.95\shad0\3c&H4D575A&\c&H4D575A&\fs225\pos(1491,154.5)\frz352.8\1a&HFF&\t(189,234,\1a&H00&)}ro
 Dialogue: 1,0:30:25.09,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord0\shad0\fs225\pos(1491,154.5)\c&H55BD6B&\frz352.8\4a&HFF&}ro
-Dialogue: 0,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&H80&\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&H80&\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&H80&\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&H80&\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.37,0:33:00.79,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\c&HF7F7F7&}豹五郎爺爺
-Dialogue: 1,0:32:55.37,0:33:00.79,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\4a&HFF&}豹五郎爺爺
-Dialogue: 0,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,5/50,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,5/50,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,4/20,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,4/20,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,1.5/20,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,1.5/20,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,0.5/10,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,0.5/10,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,1/10,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,1/10,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.37,0:32:55.41,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.37,0:32:55.41,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\alpha&HA0&\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\alpha&HA0&\4a&HFF&}資深囚犯
-Dialogue: 0,0:32:55.45,0:33:00.79,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\c&HF7F7F7&}資深囚犯
-Dialogue: 1,0:32:55.45,0:33:00.79,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\4a&HFF&}資深囚犯
-Dialogue: 0,0:34:49.48,0:34:49.52,Captions Wano,,0,0,100,,{\an8\pos(964.5,100)\fnT3\b1\bord3\shad3\fscx130\fscy120\alpha&HFF&}「濕髮」乾隱布
-Dialogue: 0,0:34:49.52,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\b1\bord3\shad3\fscx130\fscy120\pos(964.5,487.5)\alpha&H00&\c&HF7F7F7&}「濕髮」乾隱布
-Dialogue: 1,0:34:49.52,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\b1\bord0\fscx130\fscy120\pos(964.5,487.5)\alpha&H00&\shad3\4a&HFF&}「濕髮」乾隱布
-Dialogue: 0,0:34:49.52,0:34:49.56,Captions Wano,,0,0,0,,{\fnT3\bord2.25\shad3\fscx110\fscy100\pos(964.5,606)\b1\alpha&H00&}懸賞金：{\fnImpress BT Pace}¬{\fnT3}2億1000萬
-Dialogue: 0,0:34:49.56,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\bord2.25\shad3\fscx110\fscy100\pos(964.5,606)\b1\alpha&H00&\c&HF7F7F7&}懸賞金：{\fnImpress BT Pace}¬{\fnT3}2億1000萬
-Dialogue: 1,0:34:49.56,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\bord0\fscx110\fscy100\pos(964.5,606)\b1\alpha&H00&\shad3\4a&HFF&}懸賞金：{\fnImpress BT Pace}¬{\fnT3}2億1000萬
-Dialogue: 0,0:34:49.48,0:34:49.52,Captions Wano,,0,0,100,,{\an8\pos(964.5,100)\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\alpha&HFF&}乾隱布海賊團船長
-Dialogue: 0,0:34:49.52,0:34:49.56,Captions Wano,,0,0,0,,{\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\pos(964.5,550.5)\alpha&HFF&}乾隱布海賊團船長
-Dialogue: 0,0:34:49.56,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\pos(964.5,550.5)\alpha&H00&\c&HF7F7F7&}乾隱布海賊團船長
-Dialogue: 1,0:34:49.56,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnDFGKanTeiRyu-XB-CP\b1\bord0\fscx90\fscy100\pos(964.5,550.5)\alpha&H00&\shad3\4a&HFF&}乾隱布海賊團船長
+Dialogue: 0,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}Ol{\alpha&HFF&}d {*\alpha&H8A&}M{\alpha&H50&}a{*\alpha&H8A&}n {\alpha&HFF&}Hyo
+Dialogue: 1,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}Ol{\alpha&HFF&}d {*\alpha&H8A&}M{\alpha&H50&}a{*\alpha&H8A&}n {\alpha&HFF&}Hyo
+Dialogue: 0,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}O{\alpha&HFF&}l{*\alpha&HC7&}d {*\alpha&H58&}M{\alpha&H20&}a{\alpha&H20&}n {*\alpha&HB5&}H{\alpha&HFF&}yo
+Dialogue: 1,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}O{\alpha&HFF&}l{*\alpha&HC7&}d {*\alpha&H58&}M{\alpha&H20&}a{\alpha&H20&}n {*\alpha&HB5&}H{\alpha&HFF&}yo
+Dialogue: 0,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}O{*\alpha&H88&}l{\alpha&H10&}d Man {\alpha&H10&}H{*\alpha&H88&}y{\alpha&HFF&}o
+Dialogue: 1,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}O{*\alpha&H88&}l{\alpha&H10&}d Man {\alpha&H10&}H{*\alpha&H88&}y{\alpha&HFF&}o
+Dialogue: 0,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&H80&\c&HF7F7F7&}O{*\alpha&H00&}l{\alpha&H00&}d Man H{\alpha&H00&}y{*\alpha&H80&}o{\alpha&HFF&}
+Dialogue: 1,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&H80&\4a&HFF&}O{*\alpha&H00&}l{\alpha&H00&}d Man H{\alpha&H00&}y{*\alpha&H80&}o{\alpha&HFF&}
+Dialogue: 0,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&H80&\c&HF7F7F7&}O{*\alpha&H00&}l{\alpha&H00&}d Man H{\alpha&H00&}y{*\alpha&H80&}o{\alpha&HFF&}
+Dialogue: 1,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&H80&\4a&HFF&}O{*\alpha&H00&}l{\alpha&H00&}d Man H{\alpha&H00&}y{*\alpha&H80&}o{\alpha&HFF&}
+Dialogue: 0,0:32:55.37,0:33:00.79,Captions Wano,,0,0,100,,{\an8\pos(940.5,210)\blur0.9\c&HF7F7F7&}豹五郎爺爺
+Dialogue: 1,0:32:55.37,0:33:00.79,Captions Wano,,0,0,100,,{\an8\pos(940.5,210)\bord0\blur0.9\4a&HFF&}豹五郎爺爺
+Dialogue: 0,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,5/50,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A Vete{\alpha&HFF&}r{*\alpha&HA8&}a{\alpha&H50&}n {*\alpha&HC5&}P{\alpha&HFF&}risoner
+Dialogue: 1,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,5/50,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A Vete{\alpha&HFF&}r{*\alpha&HA8&}a{\alpha&H50&}n {*\alpha&HC5&}P{\alpha&HFF&}risoner
+Dialogue: 0,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,4/20,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A Vet{\alpha&HFF&}e{*\alpha&H90&}r{\alpha&H20&}an P{\alpha&H20&}r{*\alpha&H90&}i{\alpha&HFF&}soner
+Dialogue: 1,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,4/20,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A Vet{\alpha&HFF&}e{*\alpha&H90&}r{\alpha&H20&}an P{\alpha&H20&}r{*\alpha&H90&}i{\alpha&HFF&}soner
+Dialogue: 0,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,1.5/20,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A Ve{\alpha&HFF&}t{*\alpha&H88&}e{\alpha&H10&}ran Pr{\alpha&H10&}i{*\alpha&H88&}s{\alpha&HFF&}oner
+Dialogue: 1,0:32:55.20,0:32:55.24,Captions Wano,,0,0,0,1.5/20,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A Ve{\alpha&HFF&}t{*\alpha&H88&}e{\alpha&H10&}ran Pr{\alpha&H10&}i{*\alpha&H88&}s{\alpha&HFF&}oner
+Dialogue: 0,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,0.5/10,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A V{\alpha&HFF&}e{*\alpha&H80&}t{\alpha&H00&}eran Pri{\alpha&H00&}s{*\alpha&H80&}o{\alpha&HFF&}ner
+Dialogue: 1,0:32:55.24,0:32:55.28,Captions Wano,,0,0,0,0.5/10,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A V{\alpha&HFF&}e{*\alpha&H80&}t{\alpha&H00&}eran Pri{\alpha&H00&}s{*\alpha&H80&}o{\alpha&HFF&}ner
+Dialogue: 0,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,1/10,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A {\alpha&HFF&}V{*\alpha&H80&}e{\alpha&H00&}teran Pris{\alpha&H00&}o{*\alpha&H80&}n{\alpha&HFF&}er
+Dialogue: 1,0:32:55.28,0:32:55.37,Captions Wano,,0,0,0,1/10,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A {\alpha&HFF&}V{*\alpha&H80&}e{\alpha&H00&}teran Pris{\alpha&H00&}o{*\alpha&H80&}n{\alpha&HFF&}er
+Dialogue: 0,0:32:55.37,0:32:55.41,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\alpha&HFF&\c&HF7F7F7&}A {*\alpha&H55&}V{\alpha&H00&}eteran Priso{\alpha&H00&}n{*\alpha&H80&}e{\alpha&HFF&}r
+Dialogue: 1,0:32:55.37,0:32:55.41,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\alpha&HFF&\4a&HFF&}A {*\alpha&H55&}V{\alpha&H00&}eteran Priso{\alpha&H00&}n{*\alpha&H80&}e{\alpha&HFF&}r
+Dialogue: 0,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\alpha&HA0&\c&HF7F7F7&}A {\alpha&H00&}Veteran Prisone{\alpha&HA0&}r
+Dialogue: 1,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\alpha&HA0&\4a&HFF&}A {\alpha&H00&}Veteran Prisone{\alpha&HA0&}r
+Dialogue: 0,0:32:55.45,0:33:00.79,Captions Wano,,0,0,100,0.5/0,{\an8\pos(940.5,320)\blur0.9\c&HF7F7F7&}資深囚犯
+Dialogue: 1,0:32:55.45,0:33:00.79,Captions Wano,,0,0,100,0.5/0,{\an8\pos(940.5,320)\bord0\blur0.9\4a&HFF&}資深囚犯
+Dialogue: 0,0:34:49.48,0:34:49.52,Captions Wano,,0,0,0,,{\fnT3\b1\bord3\shad3\fscx130\fscy120\pos(964.5,487.5)\alpha&HFF&}"W{*\alpha&HA8&}e{\alpha&H50&}t{*\alpha&H46&}-{*\alpha&H3C&}H{*\alpha&H32&}a{*\alpha&H28&}i{*\alpha&H1E&}r{*\alpha&H14&}e{*\alpha&H0A&}d"{\alpha&H00&} {*\alpha&H55&}C{*\alpha&HAA&}a{\alpha&HFF&}ribou
+Dialogue: 0,0:34:49.52,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,100)\blur0.9\fnT3\b1\bord3\shad3\fscx130\fscy120\alpha&H00&\c&HF7F7F7&}「濕髮」乾隱布
+Dialogue: 1,0:34:49.52,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,100)\blur0.9\fnT3\b1\bord0\fscx130\fscy120\alpha&H00&\shad3\4a&HFF&}「濕髮」乾隱布
+Dialogue: 0,0:34:49.52,0:34:49.56,Captions Wano,,0,0,0,,{\fnT3\bord2.25\shad3\fscx110\fscy100\pos(964.5,606)\b1\alpha&H00&}Bounty: {\fnImpress BT Pace}¬{\fnT3}210 Millio{\alpha&H00&}n
+Dialogue: 0,0:34:49.56,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,210)\blur0.9\fnT3\bord2.25\shad3\fscx110\fscy100\b1\alpha&H00&\c&HF7F7F7&}懸賞金：{\fnImpress BT Pace}¬{\fnT3}2億1000萬
+Dialogue: 1,0:34:49.56,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,210)\blur0.9\fnT3\bord0\fscx110\fscy100\b1\alpha&H00&\shad3\4a&HFF&}懸賞金：{\fnImpress BT Pace}¬{\fnT3}2億1000萬
+Dialogue: 0,0:34:49.48,0:34:49.52,Captions Wano,,0,0,0,,{\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\pos(964.5,550.5)\alpha&HFF&}Capt{\alpha&HFF&}a{*\alpha&H80&}i{\alpha&H00&}n, Cari{\alpha&H00&}b{*\alpha&H80&}o{\alpha&HFF&}u Pirates
+Dialogue: 0,0:34:49.52,0:34:49.56,Captions Wano,,0,0,0,,{\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\pos(964.5,550.5)\alpha&HFF&}C{*\alpha&H80&}a{\alpha&H00&}ptain, Caribou Pira{\alpha&H00&}t{*\alpha&H80&}e{\alpha&HFF&}s
+Dialogue: 0,0:34:49.56,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,320)\blur0.9\fnDFGKanTeiRyu-XB-CP\b1\bord3\shad3\fscx90\fscy100\alpha&H00&\c&HF7F7F7&}乾隱布海賊團船長
+Dialogue: 1,0:34:49.56,0:34:57.32,Captions Wano,,0,0,100,,{\an8\pos(964.5,320)\blur0.9\fnDFGKanTeiRyu-XB-CP\b1\bord0\fscx90\fscy100\alpha&H00&\shad3\4a&HFF&}乾隱布海賊團船長
 Dialogue: 0,0:18:25.41,0:18:31.25,Sign - Ohako Soba,,0,0,0,,{\pos(910.5,231)\blur0.9\fax0.15}特製蕎麥麵
 Dialogue: 0,0:20:24.32,0:20:29.08,Sign - Ohako Soba,,0,0,0,,{\blur0.9\fax0.15\fs49.5\pos(838.5,189)}特製蕎麥麵
 Dialogue: 0,0:36:54.98,0:36:58.65,Captions Wano,,0,0,100,,{\an8\pos(1686,100)\blur0.9\3c&HF4F3F3&\c&HF4F3F3&}左京
