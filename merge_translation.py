@@ -45,6 +45,11 @@ STYLE_LINE_RE = re.compile(r'^style:\s*(.*)$', re.IGNORECASE)
 # Regex to strip \move(...) — a caption pinned to the top must be static;
 # leaving \move alongside the injected \pos is renderer-ambiguous.
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
+# Regex to match a fade tag (\fad(t1,t2) or the complex \fade(...)). Unlike
+# \pos/\move/\an, a fade is part of the caption's typesetting (fade-in/out)
+# and must SURVIVE repositioning — see _apply_top_pos, which recovers it from
+# the source line rather than trusting the translated text to have kept it.
+FAD_TAG_RE = re.compile(r'\\fade?\([^)]*\)')
 
 # A line renders "flush against the top" if its resolved on-screen anchor
 # lands within this many pixels of the top edge — regardless of whether that
@@ -237,13 +242,28 @@ def _is_flush_top(text, style, dialogue_marginv, style_map, res_y):
     return y_from_top < TOP_MARGIN_THRESHOLD
 
 
-def _apply_top_pos(text, x, y):
-    """Strip any existing \\pos/\\move/\\an/\\a from text and pin it to \\an8\\pos(x,y)."""
+def _apply_top_pos(text, x, y, orig_text=""):
+    """Strip any existing \\pos/\\move/\\an/\\a from text and pin it to \\an8\\pos(x,y).
+
+    A fade (\\fad/\\fade) is part of the caption's typesetting, not its
+    placement, and must survive the reposition. If the translated text still
+    carries its fade we leave it exactly where it is — reordering it would
+    itself trip the validator's tag-order check on complex multi-tag captions
+    (\\blur\\bord\\fad\\fscx...). Only when the translation DROPPED the fade do
+    we recover it from the source line, so a repositioned caption never
+    silently loses its fade-in/out (the bug seen on fade-only Titles and on
+    simple {\\fad\\pos} captions whose whole tag block the translator omitted).
+    """
     text = POS_TAG_RE.sub("", text)
     text = MOVE_TAG_RE.sub("", text)
     text = AN_TAG_RE.sub("", text)
     text = LEGACY_A_TAG_RE.sub("", text)
-    pos_tag = f"\\an8\\pos({_num(x)},{_num(y)})"
+    if FAD_TAG_RE.search(text):
+        fad = ""  # translation kept a fade — don't move it or add a second
+    else:
+        fad_match = FAD_TAG_RE.search(orig_text)
+        fad = fad_match.group(0) if fad_match else ""
+    pos_tag = f"\\an8\\pos({_num(x)},{_num(y)}){fad}"
     # Insert into the existing leading override block (which may now be empty
     # after stripping \pos/\an), otherwise open a new one.
     if text.startswith("{"):
@@ -436,7 +456,7 @@ def merge(original_path, translations, output_path):
 
                     if line_num in top_pos:
                         x, y = top_pos[line_num]
-                        text = _apply_top_pos(text, x, y)
+                        text = _apply_top_pos(text, x, y, orig_text=parts[9])
 
                     if "\\an8" in text or style_matches(style, ("Narrator", "Note")):
                         parts[7] = str(100 * (1 + text.count("\\N")))
