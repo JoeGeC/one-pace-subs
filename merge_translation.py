@@ -18,7 +18,13 @@ import re
 import sys
 from pathlib import Path
 
-from extract_dialogue import extract, style_matches
+from extract_dialogue import (
+    extract,
+    style_matches,
+    group_translatable,
+    leading_tags,
+    strip_leading_tags,
+)
 
 # Styles whose translated text should be repositioned to the top of the screen.
 # The originals use \pos() for precise placement over Japanese text on screen,
@@ -407,6 +413,28 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
     return assignment
 
 
+def expand_grouped_translations(members, translations):
+    """Fan each translated representative out across its group's repeated frames.
+
+    `extract` collapses runs of identical typeset frames (105 `Wano Arc` sign
+    frames, ...) to one representative in the TSV, so the translator only
+    renders the words once. Here we reconstruct the dropped frames: each member
+    of a group keeps its OWN leading typeset block (its unique \\pos/\\fscx) and
+    receives the representative's translated words. Taking the placement from
+    the source frame — not from the representative's translation — means every
+    frame lands where it was authored regardless of what tags the translation
+    kept. Singleton groups (ordinary, non-repeated lines) are left untouched, so
+    dialogue behaves exactly as before. Mutates and returns `translations`.
+    """
+    for rep_ln, group in members.items():
+        if len(group) < 2 or rep_ln not in translations:
+            continue
+        translated_body = strip_leading_tags(translations[rep_ln])
+        for member_ln, member_text in group:
+            translations[member_ln] = leading_tags(member_text) + translated_body
+    return translations
+
+
 def merge(original_path, translations, output_path):
     """Merge translations into the original ASS file.
 
@@ -504,33 +532,42 @@ def main():
 
     translations = load_translations(tsv_path)
 
-    # Validate against the set of extractable lines.
-    expected = extract(original_path)
-    expected_nums = {ln for ln, style, text in expected}
+    # Validate against the set of extractable lines. extract() collapses repeated
+    # typeset frames to one representative per group, so the TSV the translator
+    # worked from holds representatives only — validate LINE_NUMs against those.
+    all_rows = extract(original_path)
+    representatives, members = group_translatable(all_rows)
+    all_nums = {ln for ln, style, text in all_rows}
+    rep_nums = {ln for ln, style, text in representatives}
     translated_nums = set(translations.keys())
 
-    untranslated = sorted(expected_nums - translated_nums)
-    extra = sorted(translated_nums - expected_nums)
-
-    # `extra` is still a hard error: a translated line whose LINE_NUM isn't in the
-    # source means a typo in the LINE_NUM column (or a line number off-by-one from
-    # a chunked write). These would silently land on the wrong dialogue line.
+    # `extra` is still a hard error: a translated line whose LINE_NUM isn't a
+    # translatable source line at all means a typo in the LINE_NUM column (or a
+    # line number off-by-one from a chunked write). Checked against every
+    # translatable line (not just representatives) so hand-picking a specific
+    # frame's number isn't punished — only genuinely-bogus numbers are.
+    extra = sorted(translated_nums - all_nums)
     if extra:
         print(f"ERROR: {len(extra)} translated lines reference line numbers not in the source: "
               f"{extra[:20]}{'...' if len(extra) > 20 else ''}", file=sys.stderr)
         print("These are likely typos in the LINE_NUM column. Fix them and re-run.", file=sys.stderr)
         sys.exit(1)
 
-    # `untranslated` is allowed: the agent may intentionally omit lines that are
-    # kept in the source language (signs already in the target language, pure
-    # punctuation, onomatopoeia, etc.). merge() leaves the original text in place
-    # for any line not present in the TSV. We report them so nothing is dropped
-    # silently — scan this list to confirm every omission was deliberate.
+    # Fan translated representatives back out over their repeated frames before
+    # merging, so every collapsed frame is restored with its own placement.
+    expand_grouped_translations(members, translations)
+
+    # `untranslated` is allowed: the agent may intentionally omit representatives
+    # kept in the source language (decorative English signs, pure punctuation,
+    # onomatopoeia, etc.). merge() leaves the original text in place for any line
+    # not present in the TSV. Report the omitted REPRESENTATIVES so nothing is
+    # dropped silently — scan this list to confirm every omission was deliberate.
+    untranslated = sorted(rep_nums - translated_nums)
     count = merge(original_path, translations, output_path)
 
     print(f"Merged {count} translated lines into {output_path}")
     if untranslated:
-        print(f"Kept {len(untranslated)} source lines untranslated (originals preserved): "
+        print(f"Kept {len(untranslated)} source representatives untranslated (originals preserved): "
               f"{untranslated[:20]}{'...' if len(untranslated) > 20 else ''}")
 
 

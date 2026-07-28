@@ -182,6 +182,80 @@ def extract(input_path):
     return results
 
 
+# A line's "visible text" is its translatable surface with every {...} override
+# and comment block removed — used to detect typeset animation frames that
+# repeat the same words. Leading-tag helpers isolate the per-frame typesetting
+# block (\pos/\fscx/...) so a single translation can be fanned back out over
+# every frame while each keeps its own placement.
+TAG_BLOCK_RE = re.compile(r'\{[^}]*\}')
+LEADING_TAGS_RE = re.compile(r'^(?:\{[^}]*\})+')
+
+
+def visible_text(text):
+    """Translatable surface of a line: all {...} blocks removed, ends trimmed."""
+    return TAG_BLOCK_RE.sub("", text).strip()
+
+
+def leading_tags(text):
+    """The contiguous run of {...} override blocks at the very start of text
+    (the per-frame typesetting), or '' if the text doesn't start with one."""
+    m = LEADING_TAGS_RE.match(text)
+    return m.group(0) if m else ""
+
+
+def strip_leading_tags(text):
+    """text with its single leading run of {...} blocks removed."""
+    return LEADING_TAGS_RE.sub("", text, count=1)
+
+
+def group_translatable(rows):
+    """Collapse extract() rows that repeat the same words in the same style.
+
+    Typeset sign/caption animation tracks emit the SAME text once per frame
+    (e.g. 105 `Wano Arc` frames, 188 per-letter `Treasure` frames), each frame
+    differing only in per-frame \\pos/\\fscx typesetting. Translating every
+    frame is wasted work, so we group by (style, visible_text) and expose one
+    representative per group — the lowest-line-num member.
+
+    Returns (representatives, members):
+      representatives: [(line_num, style, text)] — one per group, in line order.
+      members:         {rep_line_num: [(line_num, text), ...]} — every member of
+                       the group (including the representative), in line order,
+                       carrying the cleaned text so a caller can read each
+                       frame's own leading typeset block.
+
+    Frames are grouped only when they are byte-identical AFTER their leading
+    typeset block is removed — i.e. they repeat the same words AND the same
+    interior tags, differing solely in per-frame placement. A frame that also
+    varies mid-text (e.g. an animated \\bord on a second line of a caption)
+    therefore stays in its own group, so its per-frame animation is never
+    flattened. This is what makes the fan-out exact: every member shares the
+    identical post-leading content the representative's translation replaces.
+
+    Lines with unique content form singleton groups, so a caller that
+    translates the representatives and fans results back over `members`
+    reproduces exactly today's behaviour for non-repeated content. Lines whose
+    visible text is empty (tags only) are never grouped — each stays its own
+    singleton so an empty surface can't sweep unrelated lines together.
+    """
+    rep_for_key = {}
+    members = {}
+    representatives = []
+    for ln, style, text in rows:
+        # Discriminate on the text minus its leading placement block, so only
+        # per-frame \pos/\fscx differences are collapsed — not interior tag
+        # animation. Guard on visible_text so tag-only lines never group.
+        key = (style.strip().lower(), strip_leading_tags(text)) if visible_text(text) else ("", ln)
+        rep = rep_for_key.get(key)
+        if rep is None:
+            rep_for_key[key] = ln
+            members[ln] = []
+            representatives.append((ln, style, text))
+            rep = ln
+        members[rep].append((ln, text))
+    return representatives, members
+
+
 def main():
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} input.ass [output.tsv]", file=sys.stderr)
@@ -198,12 +272,17 @@ def main():
         output_path = input_path.with_name(input_path.stem + "_dialogue.tsv")
 
     results = extract(input_path)
+    representatives, members = group_translatable(results)
 
     with open(output_path, "w", encoding="utf-8") as f:
-        for line_num, style, text in results:
+        for line_num, style, text in representatives:
             f.write(f"{line_num}\t{style}\t{text}\n")
 
-    print(f"Extracted {len(results)} translatable lines to {output_path}")
+    collapsed = len(results) - len(representatives)
+    msg = f"Extracted {len(representatives)} translatable lines to {output_path}"
+    if collapsed:
+        msg += f" (collapsed {collapsed} repeated typeset frames into their representatives)"
+    print(msg)
 
 
 if __name__ == "__main__":
