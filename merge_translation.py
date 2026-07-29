@@ -344,6 +344,18 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
         # per-frame to follow the camera — never pin them to the top.
         if re.search(r'\{=\d', parts[9]):
             continue
+        # Perspective/3D-rotated typeset (an \org() rotation origin paired with
+        # \frx/\fry/\frz) is locked to scene geometry: the glyphs rotate about
+        # \org, so moving only \pos to the top while leaving \org where it was
+        # shears the caption off its intended spot (a ~14deg \frz about a pivot
+        # ~240px away swings the text sideways and out of frame). These stylized
+        # cards — e.g. Wano's "Vile Criminal" wanted-poster title — sit mid-frame
+        # over a scene element, not over the bottom dialogue, so they need no
+        # top-clearing. Keep their original placement; the translated words are
+        # swapped in by expand_grouped_translations while the frame's own
+        # \pos/\org/rotation block is preserved.
+        if "\\org(" in parts[9] and re.search(r'\\fr[xyz]', parts[9]):
+            continue
         ox, _oy = _orig_pos(parts[9])  # x geometry from the ORIGINAL line
         key = (parts[1], parts[2], re.sub(r'\{[^}]*\}', '', trans_text))
         g = groups.setdefault(key, {

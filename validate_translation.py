@@ -139,6 +139,30 @@ def extract_format_tags(text):
     return normalized
 
 
+# Per-glyph COSMETIC styling — colour, alpha, shear and rotation applied to
+# individual characters. A caption drawn with a run of these (a wanted-poster
+# title with a per-letter colour gradient, a curved name-card, a reveal) can't
+# reproduce its interior tag structure in Chinese: 11 English letters with 6
+# colour stops collapse to 4 hanzi in one block. That's an expected structural
+# difference, NOT a shifted translation, so it must not count as a tag mismatch.
+# Emphasis tags (\i/\b) are deliberately excluded — dropping an italic honorific
+# wrap IS a real shift the tag check must still catch (only ever 1-2 blocks).
+PER_LETTER_STYLE_RE = re.compile(
+    r'\\(?:alpha|[1-4][ac](?=[&\\}])|c(?=[&\\}])|fa[xy]|fr[xyz]|fsc[xy])'
+)
+
+
+def is_per_letter_styled(text):
+    """True if `text` is a per-letter styled caption (>=3 interior styling
+    blocks after the leading placement block). Mirrors extract_dialogue's
+    is_per_letter_reveal but also counts colour/scale gradients, not just the
+    alpha/shear reveals that render invisible."""
+    m = re.match(r'^(?:\{[^}]*\})+', text)
+    body = text[m.end():] if m else text
+    n = sum(1 for b in re.findall(r'\{[^}]*\}', body) if PER_LETTER_STYLE_RE.search(b))
+    return n >= 3
+
+
 def parse_all_dialogue(path):
     """Parse all Dialogue lines from an ASS file.
 
@@ -256,7 +280,17 @@ def validate(original_path, translated_path, fix=False):
         if is_translatable(t_style) and not is_drawing_only(o_text):
             o_tags = extract_format_tags(o_text)
             t_tags = extract_format_tags(t_text)
-            if o_tags != t_tags:
+            # A per-letter styled caption (colour gradient / reveal) can't carry
+            # its interior tag run into Chinese. Accept it as long as the leading
+            # placement/base-style block is preserved — that block holds the
+            # \pos/\org/rotation the render depends on; the interior cosmetic
+            # blocks are legitimately collapsed. (Real shifts — a dropped italic
+            # wrap — aren't per-letter-styled and still fail here.)
+            per_letter_ok = (
+                is_per_letter_styled(o_text)
+                and o_tags[:1] == t_tags[:1]
+            )
+            if o_tags != t_tags and not per_letter_ok:
                 tag_mismatch += 1
                 # Show first differing tag for context
                 orig_preview = o_text[:60].replace('\n', '\\n')
