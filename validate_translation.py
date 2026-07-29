@@ -139,28 +139,50 @@ def extract_format_tags(text):
     return normalized
 
 
-# Per-glyph COSMETIC styling — colour, alpha, shear and rotation applied to
-# individual characters. A caption drawn with a run of these (a wanted-poster
-# title with a per-letter colour gradient, a curved name-card, a reveal) can't
-# reproduce its interior tag structure in Chinese: 11 English letters with 6
-# colour stops collapse to 4 hanzi in one block. That's an expected structural
+# Per-fragment COSMETIC styling — colour, alpha, shear, rotation and per-glyph
+# zoom applied to individual letters. A caption drawn with a run of these (a
+# wanted-poster title with a colour gradient, a curved name-card, a zoom-in
+# nameplate, a two-tone title splitting a word mid-letter) can't reproduce its
+# interior tag structure in Chinese: the split points sit at English letter
+# boundaries that don't exist in the hanzi. That's an expected structural
 # difference, NOT a shifted translation, so it must not count as a tag mismatch.
-# Emphasis tags (\i/\b) are deliberately excluded — dropping an italic honorific
-# wrap IS a real shift the tag check must still catch (only ever 1-2 blocks).
 PER_LETTER_STYLE_RE = re.compile(
     r'\\(?:alpha|[1-4][ac](?=[&\\}])|c(?=[&\\}])|fa[xy]|fr[xyz]|fsc[xy])'
 )
+# A full cosmetic tag token (tag name + its optional argument), used to test
+# whether a dropped override block is cosmetic-ONLY. \i/\b (emphasis), \fad,
+# \t, \pos, \move, \an, \clip, \org, \k, \p (drawing) are deliberately NOT
+# here: a caption that drops one of THOSE is a real shift the check must fail.
+CAPTION_COSMETIC_RE = re.compile(
+    r'\\(?:alpha|[1-4]a|[1-4]c|c|fa[xy]|fr[xyz]|fsc[xy]|blur|bord|shad|be|fsp)'
+    r'(?:&H[0-9A-Fa-f]+&|-?[\d.]+)?'
+)
 
 
-def is_per_letter_styled(text):
-    """True if `text` is a per-letter styled caption (>=3 interior styling
-    blocks after the leading placement block). Mirrors extract_dialogue's
-    is_per_letter_reveal but also counts colour/scale gradients, not just the
-    alpha/shear reveals that render invisible."""
-    m = re.match(r'^(?:\{[^}]*\})+', text)
-    body = text[m.end():] if m else text
-    n = sum(1 for b in re.findall(r'\{[^}]*\}', body) if PER_LETTER_STYLE_RE.search(b))
-    return n >= 3
+def _caption_cosmetic_only(block):
+    """True if `block` (a `{\\...}` override run) contains only per-fragment
+    cosmetic styling. Removing every cosmetic token leaves no backslash-tag
+    behind — a leftover means an emphasis/fade/structural tag is present, which
+    is not safe to treat as a droppable caption gradient."""
+    inner = CAPTION_COSMETIC_RE.sub('', block.strip('{}'))
+    return '\\' not in inner and PER_LETTER_STYLE_RE.search(block)
+
+
+def is_caption_cosmetic_collapse(o_tags, t_tags):
+    """True if the translation differs from the original ONLY by collapsing
+    interior per-fragment cosmetic blocks (colour gradient / zoom nameplate /
+    two-tone title) that can't map to Chinese. Requires: the leading
+    placement/base-style block preserved, no tags added, and every dropped
+    block cosmetic-only. Genuine shifts — a dropped italic honorific wrap, a
+    lost \\fad, a moved \\pos — still fail because those blocks aren't
+    cosmetic-only (or the leading block / added-tag guards trip first)."""
+    if o_tags[:1] != t_tags[:1]:
+        return False
+    added = [tg for tg in t_tags if tg not in o_tags]
+    dropped = [tg for tg in o_tags if tg not in t_tags]
+    if added or not dropped:
+        return False
+    return all(_caption_cosmetic_only(tg) for tg in dropped)
 
 
 def parse_all_dialogue(path):
@@ -280,17 +302,7 @@ def validate(original_path, translated_path, fix=False):
         if is_translatable(t_style) and not is_drawing_only(o_text):
             o_tags = extract_format_tags(o_text)
             t_tags = extract_format_tags(t_text)
-            # A per-letter styled caption (colour gradient / reveal) can't carry
-            # its interior tag run into Chinese. Accept it as long as the leading
-            # placement/base-style block is preserved — that block holds the
-            # \pos/\org/rotation the render depends on; the interior cosmetic
-            # blocks are legitimately collapsed. (Real shifts — a dropped italic
-            # wrap — aren't per-letter-styled and still fail here.)
-            per_letter_ok = (
-                is_per_letter_styled(o_text)
-                and o_tags[:1] == t_tags[:1]
-            )
-            if o_tags != t_tags and not per_letter_ok:
+            if o_tags != t_tags and not is_caption_cosmetic_collapse(o_tags, t_tags):
                 tag_mismatch += 1
                 # Show first differing tag for context
                 orig_preview = o_text[:60].replace('\n', '\\n')
