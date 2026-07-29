@@ -1,0 +1,468 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+LayoutResX: 1920
+LayoutResY: 1080
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title-207+,M+ 1c,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,15,15,360,1
+Style: Flashbacks-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
+Style: Captions-207+,FOT-Greco Std DB Strp,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,30,1
+Style: Thoughts-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
+Style: Secondary-207+,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,300,300,27,1
+Style: Credits-207+,FOT-Greco Std DB Strp,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,105,1.5,0,1,3.7,0,7,15,15,15,1
+Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,100,1
+Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Main-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,300,300,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 50,0:00:12.20,0:00:15.75,Main-207+,,0,0,0,,你一定很高興吧，一笑……
+Dialogue: 50,0:00:15.75,0:00:19.62,Main-207+,,0,0,0,,廢除七武海\N是你們大家的心願
+Dialogue: 50,0:00:20.00,0:00:24.84,Main-207+,,0,0,0,,我雖然反對，但我們\N必須服從各國君主的決定
+Dialogue: 50,0:00:24.84,0:00:28.55,Main-207+,,0,0,0,,可惡！他們怎麼能全都這麼天真？！
+Dialogue: 50,0:00:28.55,0:00:31.18,Main-207+,,0,0,0,,{\i1}正義是要付出代價的——
+Dialogue: 50,0:00:31.18,0:00:34.35,Main-207+,,0,0,0,,難道就沒有別的辦法了嗎？
+Dialogue: 50,0:00:36.56,0:00:42.02,Main-207+,,0,0,0,,你無法理解\N是因為你從來不是他們的一員……
+Dialogue: 50,0:00:42.02,0:00:47.53,Main-207+,,0,0,0,,一個無視弱者與無辜之人的\N世界毫無價值可言！
+Dialogue: 50,0:00:49.70,0:00:52.16,Main-207+,,0,0,0,,快點！繼續前進！
+Dialogue: 50,0:00:52.16,0:00:53.07,Main-207+,,0,0,0,,快點！
+Dialogue: 50,0:01:06.55,0:01:09.59,Main-207+,,0,0,0,,七武海制度已經不復存在
+Dialogue: 50,0:01:09.59,0:01:15.01,Main-207+,,0,0,0,,我們就相信SSG吧\N也就是海軍特殊科學班
+Dialogue: 50,0:01:17.39,0:01:21.44,Main-207+,,0,0,0,,世界的勢力平衡\N即將發生劇烈的變化！
+Dialogue: 50,0:01:23.27,0:01:26.02,Main-207+,,0,0,0,,但我們不知道它會{\i1}怎樣{\i0}改變！
+Dialogue: 50,0:01:27.53,0:01:31.78,Main-207+,,0,0,0,,據說凱多和大媽\N正在和之國結成同盟！
+Dialogue: 50,0:01:32.66,0:01:33.99,Main-207+,,0,0,0,,什麼？！
+Dialogue: 50,0:01:36.74,0:01:39.16,Main-207+,,0,0,0,,難道是洛克斯要復活了？！
+Dialogue: 50,0:01:46.25,0:01:50.13,Main-207+,,0,0,0,,別說得好像那只是個傳說一樣！
+Dialogue: 50,0:01:50.13,0:01:52.09,Main-207+,,0,0,0,,{\i1}這一切都是真的……
+Dialogue: 50,0:01:53.97,0:01:59.56,Main-207+,,0,0,0,,而且這是在我們自顧不暇之際\N仍威脅著我們的一場災難！
+Dialogue: 50,0:02:01.56,0:02:04.56,Main-207+,,0,0,0,,什麼？！兩位四皇聯手了？！
+Dialogue: 50,0:02:05.77,0:02:06.61,Main-207+,,0,0,0,,不會吧！
+Dialogue: 50,0:02:06.61,0:02:08.36,Main-207+,,0,0,0,,偏偏在這種時候？！
+Dialogue: 50,0:02:08.69,0:02:12.86,Main-207+,,0,0,0,,更準確地說，情報顯示\N他們近日內就會聯手
+Dialogue: 50,0:02:13.32,0:02:19.08,Main-207+,,0,0,0,,{\q2}目前他們還沒造成任何危害，我們也還不清楚\N他們的目的以及該如何應對
+Dialogue: 50,0:02:19.70,0:02:23.21,Main-207+,,0,0,0,,唯一將這兩人聯繫在一起的……
+Dialogue: 50,0:02:23.21,0:02:25.83,Main-207+,,0,0,0,,就是傳說中的洛克斯海賊團
+Dialogue: 50,0:02:27.29,0:02:30.80,Main-207+,,0,0,0,,但關於他們的情報\N也同樣不多……
+Dialogue: 50,0:02:31.88,0:02:36.01,Main-207+,,0,0,0,,大媽和凱多\N長久以來一直互相憎恨……
+Dialogue: 50,0:02:36.01,0:02:40.35,Main-207+,,0,0,0,,我從沒想過\N竟然會發生這種事
+Dialogue: 50,0:02:40.35,0:02:43.43,Main-207+,,0,0,0,,戰國，洛克斯海賊團是什麼來頭？{Z}
+Dialogue: 50,0:02:43.43,0:02:45.10,Main-207+,,0,0,0,,啊，對了
+Dialogue: 50,0:02:45.10,0:02:49.27,Main-207+,,0,0,0,,你們太年輕了，沒聽說過他們也正常……{Z}
+Dialogue: 50,0:02:49.94,0:02:55.82,Main-207+,,0,0,0,,洛克斯海賊團是一群\N各具特色的人物聚集而成的隊伍……
+Dialogue: 50,0:02:55.82,0:03:02.16,Main-207+,,0,0,0,,很久以前為了在海賊島「蜂巢」\N大撈一筆而聚在一起
+Dialogue: 50,0:03:06.71,0:03:11.63,Main-207+,,0,0,0,,{\q2}他們個個兇暴至極，甚至會\N在自己的船上互相殊死搏鬥
+Dialogue: 50,0:03:14.38,0:03:17.89,Main-207+,,0,0,0,,成員首先有船長洛克斯……
+Dialogue: 50,0:03:20.14,0:03:22.18,Main-207+,,0,0,0,,年輕時的白鬍子！
+Dialogue: 50,0:03:25.14,0:03:26.48,Main-207+,,0,0,0,,大媽！
+Dialogue: 50,0:03:29.23,0:03:30.40,Main-207+,,0,0,0,,還有凱多！
+Dialogue: 50,0:03:32.00,0:03:33.00,Secondary-207+,,0,0,0,,真的假的？
+Dialogue: 50,0:03:33.82,0:03:39.28,Main-207+,,0,0,0,,那三個人曾經在\N同一艘海賊船上共事{Z}
+Dialogue: 50,0:03:41.37,0:03:43.24,Main-207+,,0,0,0,,－什麼？！\N－什麼？！
+Dialogue: 50,0:03:43.24,0:03:44.50,Main-207+,,0,0,0,,不——不會吧！
+Dialogue: 50,0:03:44.50,0:03:46.37,Main-207+,,0,0,0,,我——我簡直不敢相信！
+Dialogue: 50,0:03:46.79,0:03:51.84,Main-207+,,0,0,0,,洛克斯海賊團的其他成員\N也同樣惡名昭彰{Z}
+Dialogue: 50,0:03:52.46,0:03:57.97,Main-207+,,0,0,0,,{\q2}金獅子史基，一個曾在\N新世界爭奪霸權的大人物
+Dialogue: 50,0:03:57.97,0:04:01.64,Main-207+,,0,0,0,,還有像白銀斧、\N約翰船長和王直這些人……
+Dialogue: 50,0:04:01.64,0:04:03.01,Main-207+,,0,0,0,,你在開玩笑吧！
+Dialogue: 50,0:04:03.01,0:04:06.52,Main-207+,,0,0,0,,他們全都是大名鼎鼎的海賊！
+Dialogue: 50,0:04:06.52,0:04:08.94,Main-207+,,0,0,0,,這樣一個海賊團怎麼會被歷史遺忘？
+Dialogue: 50,0:04:09.56,0:04:14.65,Main-207+,,0,0,0,,{\q2}首先，他們彼此憎恨到\N根本不屑於宣揚自己的戰績
+Dialogue: 50,0:04:14.98,0:04:16.15,Main-207+,,0,0,0,,其次……
+Dialogue: 50,0:04:16.74,0:04:20.45,Main-207+,,0,0,0,,船長洛克斯想要\N成為這世界的王
+Dialogue: 50,0:04:30.17,0:04:35.09,Main-207+,,0,0,0,,他們開始對世界政府\N展開野蠻的挑釁
+Dialogue: 50,0:04:35.96,0:04:40.13,Main-207+,,0,0,0,,他們的恐怖行徑兇殘到無法鎮壓……
+Dialogue: 50,0:04:41.05,0:04:47.27,Main-207+,,0,0,0,,全世界都聞其名而色變
+Dialogue: 50,0:04:47.68,0:04:53.23,Main-207+,,0,0,0,,{\fad(0,980)}三十八年前，在諸神峽谷\N發生了一起格外決定命運的事件
+Dialogue: 50,0:04:54.11,0:04:59.36,Main-207+,,0,0,200,,{\an8\pos(960,210)}新聞報導，被稱為\N世界最強海賊團的洛克斯海賊團……
+Dialogue: 50,0:04:59.36,0:05:01.36,Main-207+,,0,0,100,,{\an8\pos(960,210)}在那座島上全軍覆沒
+Dialogue: 50,0:05:36.52,0:05:40.40,Main-207+,,0,0,0,,那股勢不可擋的邪惡力量被擊敗了……
+Dialogue: 50,0:05:40.40,0:05:43.91,Main-207+,,0,0,0,,而擊敗他們的正是海軍本部的中將卡普！
+Dialogue: 50,0:05:47.03,0:05:49.79,Main-207+,,0,0,0,,他的名字\N傳遍了全世界
+Dialogue: 50,0:05:49.79,0:05:53.21,Main-207+,,0,0,0,,人們開始稱他為\N海軍英雄
+Dialogue: 50,0:05:55.75,0:06:00.76,Main-207+,,0,0,0,,原來這就是卡普中將\N眾多英雄事蹟的開端！{Z}
+Dialogue: 50,0:06:04.26,0:06:08.43,Main-207+,,0,0,0,,關於卡普中將的英勇事蹟\N數不勝數
+Dialogue: 50,0:06:08.43,0:06:14.27,Main-207+,,0,0,0,,但我沒想到\N竟然還有這樣一段偉大的往事！
+Dialogue: 50,0:06:14.27,0:06:16.40,Main-207+,,0,0,0,,他真是了不起！
+Dialogue: 50,0:06:19.98,0:06:22.49,Main-207+,,0,0,0,,大媽和凱多？！
+Dialogue: 50,0:06:22.49,0:06:24.41,Main-207+,,0,0,0,,夠了……
+Dialogue: 50,0:06:27.49,0:06:31.25,Main-207+,,0,0,0,,但他一般都拒絕談論此事
+Dialogue: 50,0:06:31.25,0:06:32.96,Main-207+,,0,0,0,,什麼？為什麼？
+Dialogue: 50,0:06:33.33,0:06:37.08,Main-207+,,0,0,0,,我來告訴你們，讓你們了解一下歷史……
+Dialogue: 50,0:06:38.13,0:06:43.01,Main-207+,,0,0,0,,他不願說的第一個原因\N從未見諸報端{Z}
+Dialogue: 50,0:06:43.01,0:06:46.97,Main-207+,,0,0,0,,卡普為了贏得那場戰鬥\N不得不與一名海賊聯手
+Dialogue: 50,0:06:47.68,0:06:48.76,Main-207+,,0,0,0,,一名海賊？！
+Dialogue: 50,0:06:49.51,0:06:53.77,Main-207+,,0,0,0,,另一個原因是\N他當時碰巧救了天龍人
+Dialogue: 50,0:06:55.02,0:06:58.15,Main-207+,,0,0,0,,天龍人也牽涉在這件事裡？！
+Dialogue: 50,0:07:01.94,0:07:06.24,Main-207+,,0,0,0,,畢竟保護天龍人\N{\i1}本就是{\i0}海軍的職責{Z}
+Dialogue: 50,0:07:06.24,0:07:07.53,Main-207+,,0,0,0,,這有什麼問題嗎？
+Dialogue: 50,0:07:08.49,0:07:12.08,Main-207+,,0,0,0,,卡普打從心底反對履行那項職責
+Dialogue: 50,0:07:12.50,0:07:16.75,Main-207+,,0,0,0,,卡普之所以拒絕成為大將\N其中一個原因……
+Dialogue: 50,0:07:16.75,0:07:20.46,Main-207+,,0,0,0,,就是因為大將是\N天龍人的直屬部下
+Dialogue: 50,0:07:21.05,0:07:23.97,Main-207+,,0,0,0,,儘管他公然表現出對他們的蔑視
+Dialogue: 50,0:07:23.97,0:07:26.26,Main-207+,,0,0,0,,但他靠著自己的功績與聲望\N才得以全身而退
+Dialogue: 50,0:07:26.84,0:07:28.84,Main-207+,,0,0,0,,好了，事情的真相是……
+Dialogue: 50,0:07:28.84,0:07:33.85,Main-207+,,0,0,0,,為了保護在諸神峽谷的\N天龍人及其奴隸
+Dialogue: 50,0:07:33.85,0:07:40.48,Main-207+,,0,0,0,,{\q2}卡普與當時也碰巧在場的羅傑聯手\N一同擊敗了洛克斯海賊團！{Z}
+Dialogue: 50,0:07:41.23,0:07:44.49,Main-207+,,0,0,0,,這就是所謂的諸神峽谷事件！
+Dialogue: 50,0:07:47.36,0:07:48.66,Main-207+,,0,0,0,,他竟然攜手合作……{Z}
+Dialogue: 50,0:07:48.66,0:07:49.70,Main-207+,,0,0,0,,並肩作戰的對象……{Z}
+Dialogue: 50,0:07:49.70,0:07:51.03,Main-207+,,0,0,0,,……竟是海賊王？！{Z}
+Dialogue: 50,0:07:51.03,0:07:54.45,Main-207+,,0,0,0,,天龍人、羅傑{\i1}還有{\i0}洛克斯？！
+Dialogue: 50,0:07:54.45,0:07:56.71,Main-207+,,0,0,0,,他們當時全都在場？！
+Dialogue: 50,0:07:56.71,0:07:59.83,Main-207+,,0,0,0,,那座島上到底有什麼？！
+Dialogue: 50,0:07:59.83,0:08:02.71,Main-207+,,0,0,0,,我甚至{\i1}從沒聽說過{\i0}諸神峽谷！
+Dialogue: 50,0:08:03.63,0:08:05.21,Main-207+,,0,0,0,,那也難怪
+Dialogue: 50,0:08:07.01,0:08:09.43,Main-207+,,0,0,0,,{\fad(0,400)}那個叫做諸神峽谷的地方……
+Dialogue: 50,0:08:10.51,0:08:13.81,Main-207+,,0,0,0,,{\fad(439,0)}如今在任何地圖上都找不到了
+Dialogue: 50,0:08:16.06,0:08:20.56,Main-207+,,0,0,0,,事實上，它已消失得無影無蹤
+Dialogue: 50,0:08:25.19,0:08:29.99,Main-207+,,0,0,0,,那座世界政府\N想要隱藏的島嶼消失了……
+Dialogue: 50,0:08:29.99,0:08:33.66,Main-207+,,0,0,0,,你們{\i1}還{\i0}想聽下去嗎？
+Dialogue: 50,0:08:34.54,0:08:39.29,Main-207+,,0,0,0,,洛克斯太過狂熱於\N成為世界之王的目標
+Dialogue: 50,0:08:39.29,0:08:42.04,Main-207+,,0,0,0,,觸犯了太多禁忌
+Dialogue: 50,0:08:42.04,0:08:45.76,Main-207+,,0,0,0,,因此關於他的情報\N已不復存在
+Dialogue: 50,0:08:46.63,0:08:52.14,Main-207+,,0,0,0,,如今只有我這一代\N寥寥幾名海軍還記得他{Z}
+Dialogue: 50,0:08:52.55,0:08:59.10,Main-207+,,0,0,0,,就算是很久以前的事，我也無法想像\N一個人竟能率領三位未來的四皇！
+Dialogue: 50,0:08:59.48,0:09:05.11,Main-207+,,0,0,0,,洛克斯或許是羅傑\N第一個、也是最強的敵人
+Dialogue: 50,0:09:05.11,0:09:08.82,Main-207+,,0,0,0,,說來奇怪，羅傑和洛克斯\N有一個共通點
+Dialogue: 50,0:09:10.32,0:09:14.62,Main-207+,,0,0,0,,洛克斯的全名是洛克斯·D·吉貝克
+Dialogue: 50,0:09:15.28,0:09:17.50,Main-207+,,0,0,0,,他早已不在人世
+Dialogue: 50,0:09:17.50,0:09:22.83,Main-207+,,0,0,0,,{\fad(0,1060)}但他也是名字中\N帶有「D」之意的海賊之一！
+Dialogue: 50,0:09:38.39,0:09:43.90,Main-207+,,0,0,0,,凱多和大媽確實\N曾在同一艘船上……
+Dialogue: 50,0:09:43.90,0:09:49.36,Main-207+,,0,0,0,,但他們的實力\N和三十八年前已截然不同
+Dialogue: 50,0:09:49.36,0:09:55.62,Main-207+,,0,0,0,,{\q2}如果這個同盟屬實，我們即將見到\N世界上最危險的海賊集團
+Dialogue: 50,0:09:55.62,0:09:59.50,Main-207+,,0,0,0,,布蘭紐！他們現在的懸賞金是多少？
+Dialogue: 50,0:09:59.50,0:10:01.00,Main-207+,,0,0,0,,啊，是的
+Dialogue: 50,0:10:01.00,0:10:06.92,Main-207+,,0,0,0,,{\q2}我們還必須為那些被剝奪\N七武海身分的人重新訂定懸賞金
+Dialogue: 50,0:10:06.92,0:10:11.13,Main-207+,,0,0,0,,我們來逐一檢視他們的數字吧
+Dialogue: 50,0:10:21.10,0:10:22.98,Main-207+,,0,0,0,,首先從黑鬍子開始
+Dialogue: 50,0:10:22.98,0:10:26.90,Main-207+,,0,0,0,,他大約在一年前\N開始被稱為四皇……
+Dialogue: 50,0:10:27.73,0:10:32.82,Main-207+,,0,0,0,,{\q2}兩年前他在襲擊推進城時\N招募了強大的部下
+Dialogue: 50,0:10:32.82,0:10:36.49,Main-207+,,0,0,0,,如今已掌控了\N海賊島「蜂巢」
+Dialogue: 50,0:10:36.49,0:10:41.54,Main-207+,,0,0,0,,{\t(4067,0,1,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}他仍在不斷擴張勢力\N填補白鬍子留下的空缺！
+Dialogue: 50,0:10:43.08,0:10:46.00,Main-207+,,0,0,0,,黑鬍子海賊團的提督
+Dialogue: 50,0:10:46.00,0:10:48.38,Main-207+,,0,0,0,,馬歇爾·D·帝奇！
+Dialogue: 50,0:10:48.38,0:10:52.13,Main-207+,,0,0,0,,22億4760萬貝里！
+Dialogue: 50,0:10:56.59,0:10:57.97,Main-207+,,0,0,0,,接下來
+Dialogue: 50,0:10:58.51,0:11:01.39,Main-207+,,0,0,0,,他被稱為四皇\N不過才六年……
+Dialogue: 50,0:11:02.47,0:11:08.23,Main-207+,,0,0,0,,他是四皇中最年輕的\N也深受部下信賴……
+Dialogue: 50,0:11:08.81,0:11:10.11,Main-207+,,0,0,0,,貝克曼
+Dialogue: 50,0:11:10.11,0:11:11.28,Main-207+,,0,0,0,,魯
+Dialogue: 50,0:11:11.28,0:11:12.48,Main-207+,,0,0,0,,耶穌布
+Dialogue: 50,0:11:12.48,0:11:15.24,Main-207+,,0,0,0,,他的高級幹部各自都聲名遠揚
+Dialogue: 50,0:11:15.78,0:11:22.29,Main-207+,,0,0,0,,{\t(5526,0,1,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}{\q2}加上高額的平均懸賞金，他那從未敗北的\N船隊是四人之中最為均衡的
+Dialogue: 50,0:11:23.45,0:11:26.62,Main-207+,,0,0,0,,紅髮海賊團的頭目
+Dialogue: 50,0:11:26.62,0:11:29.04,Main-207+,,0,0,0,,「紅髮」傑克斯！
+Dialogue: 50,0:11:29.04,0:11:32.38,Main-207+,,0,0,0,,40億4890萬貝里！
+Dialogue: 50,0:11:36.26,0:11:37.30,Main-207+,,0,0,0,,接下來……
+Dialogue: 50,0:11:38.30,0:11:43.14,Main-207+,,0,0,0,,這個天生的怪物\N在孩提時代就……
+Dialogue: 50,0:11:43.14,0:11:46.02,Main-207+,,0,0,0,,摧毀了艾爾巴夫的\N一整座巨人村莊！
+Dialogue: 50,0:11:46.02,0:11:48.56,Main-207+,,0,0,0,,她只信任自己的血親
+Dialogue: 50,0:11:48.56,0:11:55.32,Main-207+,,0,0,0,,這位獨裁女王與她的八十五個孩子\N一同建立了萬國
+Dialogue: 50,0:11:55.32,0:11:58.41,Main-207+,,0,0,0,,{\t(2022,0,1,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}一個用糖果建成的女王國！
+Dialogue: 50,0:11:59.53,0:12:02.79,Main-207+,,0,0,0,,大媽海賊團的船長
+Dialogue: 50,0:12:02.79,0:12:05.25,Main-207+,,0,0,0,,夏洛特·莉莉！
+Dialogue: 50,0:12:05.25,0:12:08.46,Main-207+,,0,0,0,,43億8800萬貝里！
+Dialogue: 50,0:12:12.71,0:12:16.97,Main-207+,,0,0,0,,最後這位，在他早年\N效力於洛克斯海賊團時{Z}
+Dialogue: 50,0:12:17.97,0:12:21.14,Main-207+,,0,0,0,,還只是個見習海賊……
+Dialogue: 50,0:12:22.76,0:12:29.27,Main-207+,,0,0,0,,但在那之後，他僅憑實力\N便贏得了兇殘海賊們的敬畏
+Dialogue: 50,0:12:29.27,0:12:33.02,Main-207+,,0,0,0,,{\t(2773,0,1,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}並登上了四皇之位！
+Dialogue: 50,0:12:34.15,0:12:36.99,Main-207+,,0,0,0,,百獸海賊團的總督
+Dialogue: 50,0:12:36.99,0:12:39.11,Main-207+,,0,0,0,,百獸的凱多！
+Dialogue: 50,0:12:39.70,0:12:43.12,Main-207+,,0,0,0,,46億1110萬貝里！
+Dialogue: 50,0:12:47.62,0:12:49.04,Main-207+,,0,0,0,,真讓人心情沉重……
+Dialogue: 50,0:12:49.37,0:12:57.17,Main-207+,,0,0,0,,{\q2}由於世界會議的決議，我們再也不能\N派七武海去對抗四皇了！{Z}
+Dialogue: 50,0:13:01.76,0:13:05.76,Main-207+,,0,0,0,,拔除那劑毒藥\N究竟是對是錯……
+Dialogue: 50,0:13:06.18,0:13:11.23,Main-207+,,0,0,0,,就取決於海軍特殊科學班\N也就是SSG的表現了
+Dialogue: 50,0:13:11.65,0:13:14.61,Main-207+,,0,0,0,,供你們參考
+Dialogue: 50,0:13:14.61,0:13:17.65,Main-207+,,0,0,0,,這裡列出其他\N傳說級人物的懸賞金！
+Dialogue: 50,0:13:19.61,0:13:22.28,Main-207+,,0,0,0,,白鬍子海賊團的船長
+Dialogue: 50,0:13:22.28,0:13:24.20,Main-207+,,0,0,0,,愛德華·紐蓋特！
+Dialogue: 50,0:13:24.87,0:13:27.91,Main-207+,,0,0,0,,50億4600萬貝里！
+Dialogue: 50,0:13:32.67,0:13:35.29,Main-207+,,0,0,0,,羅傑海賊團的船長
+Dialogue: 50,0:13:35.29,0:13:38.51,Main-207+,,0,0,0,,海賊王，哥爾·D·羅傑！
+Dialogue: 50,0:13:38.51,0:13:41.84,Main-207+,,0,0,0,,55億6480萬貝里！
+Dialogue: 50,0:13:45.72,0:13:51.64,Main-207+,,0,0,0,,從沒有海賊超越過這兩人……
+Dialogue: 50,0:13:54.19,0:13:57.65,Main-207+,,0,0,0,,但一旦凱多和大媽的\N同盟結成
+Dialogue: 50,0:13:57.98,0:14:02.28,Main-207+,,0,0,0,,他們的懸賞金總和\N將輕易超越那些數字！
+Dialogue: 50,0:14:05.66,0:14:08.91,Main-207+,,0,0,0,,而此刻，在不隸屬任何勢力的和之國——
+Dialogue: 50,0:14:11.04,0:14:13.29,Main-207+,,0,0,0,,薩卡斯基元帥！
+Dialogue: 50,0:14:13.29,0:14:15.25,Main-207+,,0,0,0,,別管和之國了！
+Dialogue: 50,0:14:17.88,0:14:23.18,Main-207+,,0,0,0,,我們沒有任何多餘的資源\N可以為它調度{Z}
+Dialogue: 50,0:14:23.18,0:14:25.01,Main-207+,,0,0,0,,戰國！
+Dialogue: 50,0:14:32.02,0:14:35.56,Main-207+,,0,0,0,,我當然沒打算\N插手其中……{Z}
+Dialogue: 50,0:14:36.02,0:14:40.73,Main-207+,,0,0,0,,我只是把一個老兵的見識\N傳授給這些年輕的海軍罷了
+Dialogue: 50,0:14:45.70,0:14:48.99,Main-207+,,0,0,0,,海賊之間也有各自的淵源
+Dialogue: 50,0:14:48.99,0:14:52.00,Main-207+,,0,0,0,,那些關係會影響他們的行動
+Dialogue: 50,0:14:52.00,0:14:55.12,Main-207+,,0,0,0,,若忽略他們的過往\N就無法預測他們的動向
+Dialogue: 50,0:14:55.83,0:14:57.21,Main-207+,,0,0,0,,啊，對了……
+Dialogue: 50,0:14:57.21,0:15:03.01,Main-207+,,0,0,0,,{\q2}曾有一名來自和之國的海賊\N深受白鬍子、羅傑和紅髮的賞識
+Dialogue: 50,0:15:07.30,0:15:09.64,Main-207+,,0,0,0,,你是說光月御田？
+Dialogue: 50,0:15:09.64,0:15:13.89,Main-207+,,0,0,0,,那個曾在白鬍子船上\N擔任隊長的男人……
+Dialogue: 50,0:15:14.35,0:15:21.19,Main-207+,,0,0,0,,御田後來被羅傑招攬\N陪他踏上了最後的航程
+Dialogue: 50,0:15:21.69,0:15:25.20,Main-207+,,0,0,0,,我無法想像御田\N會和這場亂局有什麼關聯……
+Dialogue: 50,0:15:31.20,0:15:36.67,Main-207+,,0,0,0,,但為什麼這些攪亂世界的\N大牌海賊……
+Dialogue: 50,0:15:36.67,0:15:41.88,Main-207+,,0,0,0,,{\t(2393,0,1,\c&H000000&\3c&H000000&\4c&H000000&)}總是會和和之國扯上關係？
+Dialogue: 50,0:15:42.59,0:15:47.13,Main-207+,,0,0,0,,我認為這絕非偶然……
+Dialogue: 50,0:15:47.97,0:15:48.97,Main-207+,,0,0,0,,薩卡斯基！
+Dialogue: 1,0:00:00.02,0:00:05.86,Captions-207+,,0,0,200,,{\an8\pos(1722,100)\fad(439,0)\fnKakumin Web\b1\bord0\fs45\blur0.5\fscx120\fscy120}海軍本部\N新世界
+Dialogue: 0,0:00:00.02,0:00:05.86,Captions-207+,,0,0,200,,{\an8\pos(1722,100)\fad(439,0)\fnKakumin Web\b1\bord2.5\1a&HFF&\fs45\blur0.5\fscx120\fscy120\t(0,439,\1a&H00&)}海軍本部\N新世界
+Dialogue: 0,0:01:35.99,0:01:36.03,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.03,0:01:36.07,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.07,0:01:36.11,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.11,0:01:36.15,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.15,0:01:36.20,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.20,0:01:36.24,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.24,0:01:36.28,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.28,0:01:36.32,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.32,0:01:36.36,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.36,0:01:36.40,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.40,0:01:36.45,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.45,0:01:36.49,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.49,0:01:36.53,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.53,0:01:36.57,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.57,0:01:36.61,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.61,0:01:36.65,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.65,0:01:36.70,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.70,0:01:36.74,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.74,0:01:36.78,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.78,0:01:36.82,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.82,0:01:36.86,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.86,0:01:36.90,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.90,0:01:36.95,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.95,0:01:36.99,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.99,0:01:37.03,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.03,0:01:37.07,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.07,0:01:37.11,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.11,0:01:37.16,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.16,0:01:37.20,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.20,0:01:37.24,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.24,0:01:37.28,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.28,0:01:37.32,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.32,0:01:37.36,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.36,0:01:37.41,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.41,0:01:37.45,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.45,0:01:39.16,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 1,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,100)\fad(440,0)\fnKakumin Web\b1\bord0\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130}38年前
+Dialogue: 0,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,100)\fad(440,0)\fnKakumin Web\b1\bord2.5\1a&HFF&\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130\t(0,440,\1a&H7F&)}38年前
+Dialogue: 0,0:07:44.48,0:07:44.52,Captions-207+,,0,0,100,,{\an8\pos(931.67,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.52,0:07:44.56,Captions-207+,,0,0,100,,{\an8\pos(931.37,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.56,0:07:44.61,Captions-207+,,0,0,100,,{\an8\pos(934.15,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.61,0:07:44.65,Captions-207+,,0,0,100,,{\an8\pos(934.79,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.65,0:07:44.69,Captions-207+,,0,0,100,,{\an8\pos(934.13,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.69,0:07:44.73,Captions-207+,,0,0,100,,{\an8\pos(935.84,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.73,0:07:44.77,Captions-207+,,0,0,100,,{\an8\pos(941.01,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.77,0:07:44.81,Captions-207+,,0,0,100,,{\an8\pos(932.73,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.81,0:07:44.86,Captions-207+,,0,0,100,,{\an8\pos(932.86,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.86,0:07:44.90,Captions-207+,,0,0,100,,{\an8\pos(942.11,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.90,0:07:44.94,Captions-207+,,0,0,100,,{\an8\pos(936.47,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.94,0:07:44.98,Captions-207+,,0,0,100,,{\an8\pos(940.41,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:44.98,0:07:45.02,Captions-207+,,0,0,100,,{\an8\pos(936.82,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.02,0:07:45.06,Captions-207+,,0,0,100,,{\an8\pos(935.64,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.06,0:07:45.11,Captions-207+,,0,0,100,,{\an8\pos(930.77,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.11,0:07:45.15,Captions-207+,,0,0,100,,{\an8\pos(930.92,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.15,0:07:45.19,Captions-207+,,0,0,100,,{\an8\pos(939.43,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.19,0:07:45.23,Captions-207+,,0,0,100,,{\an8\pos(933.09,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.23,0:07:45.27,Captions-207+,,0,0,100,,{\an8\pos(935.44,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.27,0:07:45.31,Captions-207+,,0,0,100,,{\an8\pos(938.76,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.31,0:07:45.36,Captions-207+,,0,0,100,,{\an8\pos(938.17,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.36,0:07:45.40,Captions-207+,,0,0,100,,{\an8\pos(941.63,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.40,0:07:45.44,Captions-207+,,0,0,100,,{\an8\pos(934.33,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.44,0:07:45.48,Captions-207+,,0,0,100,,{\an8\pos(932.87,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.48,0:07:45.52,Captions-207+,,0,0,100,,{\an8\pos(941.68,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.52,0:07:45.56,Captions-207+,,0,0,100,,{\an8\pos(936.42,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.56,0:07:45.61,Captions-207+,,0,0,100,,{\an8\pos(942.87,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.61,0:07:45.65,Captions-207+,,0,0,100,,{\an8\pos(935.63,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.65,0:07:45.69,Captions-207+,,0,0,100,,{\an8\pos(939.32,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.69,0:07:45.73,Captions-207+,,0,0,100,,{\an8\pos(932.17,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.73,0:07:45.77,Captions-207+,,0,0,100,,{\an8\pos(937.45,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.77,0:07:45.82,Captions-207+,,0,0,100,,{\an8\pos(939.26,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.82,0:07:45.86,Captions-207+,,0,0,100,,{\an8\pos(942.66,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.86,0:07:45.90,Captions-207+,,0,0,100,,{\an8\pos(939.82,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 0,0:07:45.90,0:07:45.94,Captions-207+,,0,0,100,,{\an8\pos(940.03,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
+Dialogue: 1,0:07:44.48,0:07:44.52,Captions-207+,,0,0,100,,{\an8\pos(931.67,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.52,0:07:44.56,Captions-207+,,0,0,100,,{\an8\pos(931.37,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.56,0:07:44.61,Captions-207+,,0,0,100,,{\an8\pos(934.15,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.61,0:07:44.65,Captions-207+,,0,0,100,,{\an8\pos(934.79,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.65,0:07:44.69,Captions-207+,,0,0,100,,{\an8\pos(934.13,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.69,0:07:44.73,Captions-207+,,0,0,100,,{\an8\pos(935.84,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.73,0:07:44.77,Captions-207+,,0,0,100,,{\an8\pos(941.01,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.77,0:07:44.81,Captions-207+,,0,0,100,,{\an8\pos(932.73,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.81,0:07:44.86,Captions-207+,,0,0,100,,{\an8\pos(932.86,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.86,0:07:44.90,Captions-207+,,0,0,100,,{\an8\pos(942.11,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.90,0:07:44.94,Captions-207+,,0,0,100,,{\an8\pos(936.47,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.94,0:07:44.98,Captions-207+,,0,0,100,,{\an8\pos(940.41,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:44.98,0:07:45.02,Captions-207+,,0,0,100,,{\an8\pos(936.82,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.02,0:07:45.06,Captions-207+,,0,0,100,,{\an8\pos(935.64,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.06,0:07:45.11,Captions-207+,,0,0,100,,{\an8\pos(930.77,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.11,0:07:45.15,Captions-207+,,0,0,100,,{\an8\pos(930.92,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.15,0:07:45.19,Captions-207+,,0,0,100,,{\an8\pos(939.43,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.19,0:07:45.23,Captions-207+,,0,0,100,,{\an8\pos(933.09,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.23,0:07:45.27,Captions-207+,,0,0,100,,{\an8\pos(935.44,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.27,0:07:45.31,Captions-207+,,0,0,100,,{\an8\pos(938.76,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.31,0:07:45.36,Captions-207+,,0,0,100,,{\an8\pos(938.17,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.36,0:07:45.40,Captions-207+,,0,0,100,,{\an8\pos(941.63,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.40,0:07:45.44,Captions-207+,,0,0,100,,{\an8\pos(934.33,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.44,0:07:45.48,Captions-207+,,0,0,100,,{\an8\pos(932.87,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.48,0:07:45.52,Captions-207+,,0,0,100,,{\an8\pos(941.68,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.52,0:07:45.56,Captions-207+,,0,0,100,,{\an8\pos(936.42,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.56,0:07:45.61,Captions-207+,,0,0,100,,{\an8\pos(942.87,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.61,0:07:45.65,Captions-207+,,0,0,100,,{\an8\pos(935.63,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.65,0:07:45.69,Captions-207+,,0,0,100,,{\an8\pos(939.32,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.69,0:07:45.73,Captions-207+,,0,0,100,,{\an8\pos(932.17,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.73,0:07:45.77,Captions-207+,,0,0,100,,{\an8\pos(937.45,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.77,0:07:45.82,Captions-207+,,0,0,100,,{\an8\pos(939.26,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.82,0:07:45.86,Captions-207+,,0,0,100,,{\an8\pos(942.66,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 1,0:07:45.86,0:07:45.90,Captions-207+,,0,0,100,,{\an8\pos(939.82,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H1E1D1E&\blur0.8}退役
+Dialogue: 0,0:09:38.01,0:09:38.05,Captions-207+,,0,0,100,,{\an8\pos(779.94,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.05,0:09:38.09,Captions-207+,,0,0,100,,{\an8\pos(788.79,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.09,0:09:38.14,Captions-207+,,0,0,100,,{\an8\pos(797.63,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.14,0:09:38.18,Captions-207+,,0,0,100,,{\an8\pos(806.49,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.18,0:09:38.22,Captions-207+,,0,0,100,,{\an8\pos(815.36,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.22,0:09:38.26,Captions-207+,,0,0,100,,{\an8\pos(824.2,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.26,0:09:38.30,Captions-207+,,0,0,100,,{\an8\pos(833.04,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.30,0:09:38.34,Captions-207+,,0,0,100,,{\an8\pos(841.89,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.34,0:09:38.39,Captions-207+,,0,0,100,,{\an8\pos(850.76,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.39,0:09:38.43,Captions-207+,,0,0,100,,{\an8\pos(859.61,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.43,0:09:38.47,Captions-207+,,0,0,100,,{\an8\pos(868.45,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.47,0:09:38.51,Captions-207+,,0,0,100,,{\an8\pos(877.29,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.51,0:09:38.55,Captions-207+,,0,0,100,,{\an8\pos(886.16,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.55,0:09:38.59,Captions-207+,,0,0,100,,{\an8\pos(895.01,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.59,0:09:38.64,Captions-207+,,0,0,100,,{\an8\pos(903.85,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.64,0:09:38.68,Captions-207+,,0,0,100,,{\an8\pos(912.7,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.68,0:09:38.72,Captions-207+,,0,0,100,,{\an8\pos(921.55,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.72,0:09:38.76,Captions-207+,,0,0,100,,{\an8\pos(930.42,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.76,0:09:38.80,Captions-207+,,0,0,100,,{\an8\pos(939.27,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.80,0:09:38.84,Captions-207+,,0,0,100,,{\an8\pos(948.11,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.84,0:09:38.89,Captions-207+,,0,0,100,,{\an8\pos(956.96,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.89,0:09:38.93,Captions-207+,,0,0,100,,{\an8\pos(965.83,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.93,0:09:38.97,Captions-207+,,0,0,100,,{\an8\pos(974.69,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:38.97,0:09:39.01,Captions-207+,,0,0,100,,{\an8\pos(983.51,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.01,0:09:39.05,Captions-207+,,0,0,100,,{\an8\pos(992.35,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.05,0:09:39.10,Captions-207+,,0,0,100,,{\an8\pos(1001.22,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.10,0:09:39.14,Captions-207+,,0,0,100,,{\an8\pos(1010.09,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.14,0:09:39.18,Captions-207+,,0,0,100,,{\an8\pos(1018.93,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.18,0:09:39.22,Captions-207+,,0,0,100,,{\an8\pos(1027.77,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.22,0:09:39.26,Captions-207+,,0,0,100,,{\an8\pos(1036.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.26,0:09:39.30,Captions-207+,,0,0,100,,{\an8\pos(1045.48,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.30,0:09:39.35,Captions-207+,,0,0,100,,{\an8\pos(1054.33,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.35,0:09:39.39,Captions-207+,,0,0,100,,{\an8\pos(1063.15,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.39,0:09:39.43,Captions-207+,,0,0,100,,{\an8\pos(1071.99,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.43,0:09:39.47,Captions-207+,,0,0,100,,{\an8\pos(1080.86,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.47,0:09:39.51,Captions-207+,,0,0,100,,{\an8\pos(1089.71,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.51,0:09:39.55,Captions-207+,,0,0,100,,{\an8\pos(1098.56,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.55,0:09:39.60,Captions-207+,,0,0,100,,{\an8\pos(1107.41,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.60,0:09:39.64,Captions-207+,,0,0,100,,{\an8\pos(1116.25,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.64,0:09:39.68,Captions-207+,,0,0,100,,{\an8\pos(1125.12,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.68,0:09:39.72,Captions-207+,,0,0,100,,{\an8\pos(1133.97,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.72,0:09:39.76,Captions-207+,,0,0,100,,{\an8\pos(1142.81,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.76,0:09:39.80,Captions-207+,,0,0,100,,{\an8\pos(1151.66,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.80,0:09:39.85,Captions-207+,,0,0,100,,{\an8\pos(1160.52,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.85,0:09:39.89,Captions-207+,,0,0,100,,{\an8\pos(1169.37,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.89,0:09:39.93,Captions-207+,,0,0,100,,{\an8\pos(1178.22,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.93,0:09:39.97,Captions-207+,,0,0,100,,{\an8\pos(1187.05,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:39.97,0:09:40.01,Captions-207+,,0,0,100,,{\an8\pos(1195.9,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.01,0:09:40.05,Captions-207+,,0,0,100,,{\an8\pos(1204.77,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.05,0:09:40.10,Captions-207+,,0,0,100,,{\an8\pos(1213.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.10,0:09:40.14,Captions-207+,,0,0,100,,{\an8\pos(1222.46,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.14,0:09:40.18,Captions-207+,,0,0,100,,{\an8\pos(1231.3,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.18,0:09:40.22,Captions-207+,,0,0,100,,{\an8\pos(1240.17,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.22,0:09:40.26,Captions-207+,,0,0,100,,{\an8\pos(1249.02,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.26,0:09:40.30,Captions-207+,,0,0,100,,{\an8\pos(1257.87,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.30,0:09:40.35,Captions-207+,,0,0,100,,{\an8\pos(1266.71,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.35,0:09:40.39,Captions-207+,,0,0,100,,{\an8\pos(1275.56,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.39,0:09:40.43,Captions-207+,,0,0,100,,{\an8\pos(1284.44,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.43,0:09:40.47,Captions-207+,,0,0,100,,{\an8\pos(1293.28,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.47,0:09:40.51,Captions-207+,,0,0,100,,{\an8\pos(1302.13,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.51,0:09:40.55,Captions-207+,,0,0,100,,{\an8\pos(1310.97,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.55,0:09:40.60,Captions-207+,,0,0,100,,{\an8\pos(1319.84,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.60,0:09:40.64,Captions-207+,,0,0,100,,{\an8\pos(1328.7,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.64,0:09:40.68,Captions-207+,,0,0,100,,{\an8\pos(1337.53,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.68,0:09:40.72,Captions-207+,,0,0,100,,{\an8\pos(1346.38,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.72,0:09:40.76,Captions-207+,,0,0,100,,{\an8\pos(1355.23,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.76,0:09:40.81,Captions-207+,,0,0,100,,{\an8\pos(1364.1,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.81,0:09:40.85,Captions-207+,,0,0,100,,{\an8\pos(1372.95,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.85,0:09:40.89,Captions-207+,,0,0,100,,{\an8\pos(1381.78,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.89,0:09:40.93,Captions-207+,,0,0,100,,{\an8\pos(1390.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.93,0:09:40.97,Captions-207+,,0,0,100,,{\an8\pos(1399.48,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:40.97,0:09:41.01,Captions-207+,,0,0,100,,{\an8\pos(1408.33,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:41.01,0:09:41.06,Captions-207+,,0,0,100,,{\an8\pos(1417.16,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:41.06,0:09:41.10,Captions-207+,,0,0,100,*,{\an8\pos(1426.01,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1}退役
+Dialogue: 0,0:09:41.10,0:09:41.14,Captions-207+,,0,0,100,,{\an8\pos(1434.86,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.075}退役
+Dialogue: 0,0:09:41.14,0:09:41.18,Captions-207+,,0,0,100,,{\an8\pos(1443.72,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.149}退役
+Dialogue: 0,0:09:41.18,0:09:41.22,Captions-207+,,0,0,100,,{\an8\pos(1452.57,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.224}退役
+Dialogue: 0,0:09:41.22,0:09:41.26,Captions-207+,,0,0,100,,{\an8\pos(1461.45,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.299}退役
+Dialogue: 0,0:09:41.26,0:09:41.31,Captions-207+,,0,0,100,,{\an8\pos(1470.42,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.373}退役
+Dialogue: 0,0:09:41.31,0:09:41.35,Captions-207+,,0,0,100,,{\an8\pos(1479.42,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.448}退役
+Dialogue: 0,0:09:41.35,0:09:41.39,Captions-207+,,0,0,100,,{\an8\pos(1488.49,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.522}退役
+Dialogue: 0,0:09:41.39,0:09:41.43,Captions-207+,,0,0,100,,{\an8\pos(1497.59,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.597}退役
+Dialogue: 0,0:09:41.43,0:09:41.47,Captions-207+,,0,0,100,,{\an8\pos(1506.75,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.672}退役
+Dialogue: 0,0:09:41.47,0:09:41.51,Captions-207+,,0,0,100,,{\an8\pos(1515.96,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.746}退役
+Dialogue: 0,0:09:41.51,0:09:41.56,Captions-207+,,0,0,100,,{\an8\pos(1525.22,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.821}退役
+Dialogue: 0,0:09:41.56,0:09:41.60,Captions-207+,,0,0,100,,{\an8\pos(1534.53,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.896}退役
+Dialogue: 0,0:09:41.60,0:09:41.64,Captions-207+,,0,0,100,,{\an8\pos(1543.92,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur1.97}退役
+Dialogue: 0,0:09:41.64,0:09:41.68,Captions-207+,,0,0,100,,{\an8\pos(1553.33,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.045}退役
+Dialogue: 0,0:09:41.68,0:09:41.72,Captions-207+,,0,0,100,,{\an8\pos(1562.8,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.119}退役
+Dialogue: 0,0:09:41.72,0:09:41.76,Captions-207+,,0,0,100,,{\an8\pos(1572.28,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.194}退役
+Dialogue: 0,0:09:41.76,0:09:41.81,Captions-207+,,0,0,100,,{\an8\pos(1581.85,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.269}退役
+Dialogue: 0,0:09:41.81,0:09:41.85,Captions-207+,,0,0,100,,{\an8\pos(1591.4,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.343}退役
+Dialogue: 0,0:09:41.85,0:09:41.89,Captions-207+,,0,0,100,,{\an8\pos(1600.98,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.418}退役
+Dialogue: 0,0:09:41.89,0:09:41.93,Captions-207+,,0,0,100,,{\an8\pos(1610.6,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.493}退役
+Dialogue: 0,0:09:41.93,0:09:41.97,Captions-207+,,0,0,100,,{\an8\pos(1620.25,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.567}退役
+Dialogue: 0,0:09:41.97,0:09:42.01,Captions-207+,,0,0,100,,{\an8\pos(1629.94,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.642}退役
+Dialogue: 0,0:09:42.01,0:09:42.06,Captions-207+,,0,0,100,,{\an8\pos(1639.7,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.716}退役
+Dialogue: 0,0:09:42.06,0:09:42.10,Captions-207+,,0,0,100,,{\an8\pos(1649.48,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.791}退役
+Dialogue: 0,0:09:42.10,0:09:42.14,Captions-207+,,0,0,100,,{\an8\pos(1659.3,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.866}退役
+Dialogue: 0,0:09:42.14,0:09:42.18,Captions-207+,,0,0,100,,{\an8\pos(1669.11,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur2.94}退役
+Dialogue: 0,0:09:42.18,0:09:42.22,Captions-207+,,0,0,100,,{\an8\pos(1678.94,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.015}退役
+Dialogue: 0,0:09:42.22,0:09:42.26,Captions-207+,,0,0,100,,{\an8\pos(1688.71,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.09}退役
+Dialogue: 0,0:09:42.26,0:09:42.31,Captions-207+,,0,0,100,,{\an8\pos(1698.46,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.164}退役
+Dialogue: 0,0:09:42.31,0:09:42.35,Captions-207+,,0,0,100,,{\an8\pos(1708.18,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.239}退役
+Dialogue: 0,0:09:42.35,0:09:42.39,Captions-207+,,0,0,100,,{\an8\pos(1717.9,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.313}退役
+Dialogue: 0,0:09:42.39,0:09:42.43,Captions-207+,,0,0,100,,{\an8\pos(1727.6,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.388}退役
+Dialogue: 0,0:09:42.43,0:09:42.47,Captions-207+,,0,0,100,,{\an8\pos(1737.26,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.463}退役
+Dialogue: 0,0:09:42.47,0:09:42.52,Captions-207+,,0,0,100,,{\an8\pos(1746.92,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.537}退役
+Dialogue: 0,0:09:42.52,0:09:42.56,Captions-207+,,0,0,100,,{\an8\pos(1756.51,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.612}退役
+Dialogue: 0,0:09:42.56,0:09:42.60,Captions-207+,,0,0,100,,{\an8\pos(1766.12,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.687}退役
+Dialogue: 0,0:09:42.60,0:09:42.64,Captions-207+,,0,0,100,,{\an8\pos(1775.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.761}退役
+Dialogue: 0,0:09:42.64,0:09:42.68,Captions-207+,,0,0,100,,{\an8\pos(1785.17,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.836}退役
+Dialogue: 0,0:09:42.68,0:09:42.72,Captions-207+,,0,0,100,,{\an8\pos(1794.61,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.91}退役
+Dialogue: 0,0:09:42.72,0:09:42.77,Captions-207+,,0,0,100,,{\an8\pos(1804,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur3.985}退役
+Dialogue: 0,0:09:42.77,0:09:42.81,Captions-207+,,0,0,100,,{\an8\pos(1813.36,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.06}退役
+Dialogue: 0,0:09:42.81,0:09:42.85,Captions-207+,,0,0,100,,{\an8\pos(1822.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.134}退役
+Dialogue: 0,0:09:42.85,0:09:42.89,Captions-207+,,0,0,100,,{\an8\pos(1831.86,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.209}退役
+Dialogue: 0,0:09:42.89,0:09:42.93,Captions-207+,,0,0,100,,{\an8\pos(1840.98,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.284}退役
+Dialogue: 0,0:09:42.93,0:09:42.97,Captions-207+,,0,0,100,,{\an8\pos(1850.07,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.358}退役
+Dialogue: 0,0:09:42.97,0:09:43.02,Captions-207+,,0,0,100,,{\an8\pos(1859.13,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.433}退役
+Dialogue: 0,0:09:43.02,0:09:43.06,Captions-207+,,0,0,100,,{\an8\pos(1868.2,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.507}退役
+Dialogue: 0,0:09:43.06,0:09:43.10,Captions-207+,,0,0,100,,{\an8\pos(1877.27,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.582}退役
+Dialogue: 0,0:09:43.10,0:09:43.14,Captions-207+,,0,0,100,,{\an8\pos(1886.33,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.657}退役
+Dialogue: 0,0:09:43.14,0:09:43.18,Captions-207+,,0,0,100,,{\an8\pos(1895.33,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.731}退役
+Dialogue: 0,0:09:43.18,0:09:43.22,Captions-207+,,0,0,100,,{\an8\pos(1904.42,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.806}退役
+Dialogue: 0,0:09:43.22,0:09:43.27,Captions-207+,,0,0,100,,{\an8\pos(1913.46,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.881}退役
+Dialogue: 0,0:09:43.27,0:09:43.31,Captions-207+,,0,0,100,,{\an8\pos(1922.52,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur4.955}退役
+Dialogue: 0,0:09:43.31,0:09:43.35,Captions-207+,,0,0,100,,{\an8\pos(1931.52,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.03}退役
+Dialogue: 0,0:09:43.35,0:09:43.39,Captions-207+,,0,0,100,,{\an8\pos(1940.62,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.104}退役
+Dialogue: 0,0:09:43.39,0:09:43.43,Captions-207+,,0,0,100,,{\an8\pos(1949.69,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.179}退役
+Dialogue: 0,0:09:43.43,0:09:43.47,Captions-207+,,0,0,100,,{\an8\pos(1958.69,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.254}退役
+Dialogue: 0,0:09:43.47,0:09:43.52,Captions-207+,,0,0,100,,{\an8\pos(1967.76,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.328}退役
+Dialogue: 0,0:09:43.52,0:09:43.56,Captions-207+,,0,0,100,,{\an8\pos(1976.81,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.403}退役
+Dialogue: 0,0:09:43.56,0:09:43.60,Captions-207+,,0,0,100,,{\an8\pos(1985.88,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.478}退役
+Dialogue: 0,0:09:43.60,0:09:43.64,Captions-207+,,0,0,100,,{\an8\pos(1994.88,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.552}退役
+Dialogue: 0,0:09:43.64,0:09:43.68,Captions-207+,,0,0,100,,{\an8\pos(2003.94,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.627}退役
+Dialogue: 0,0:09:43.68,0:09:43.72,Captions-207+,,0,0,100,,{\an8\pos(2012.99,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.701}退役
+Dialogue: 0,0:09:43.72,0:09:43.77,Captions-207+,,0,0,100,,{\an8\pos(2022.05,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.776}退役
+Dialogue: 0,0:09:43.77,0:09:43.81,Captions-207+,,0,0,100,,{\an8\pos(2031.05,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.851}退役
+Dialogue: 0,0:09:43.81,0:09:43.85,Captions-207+,,0,0,100,,{\an8\pos(2040.12,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur5.925}退役
+Dialogue: 0,0:09:43.85,0:09:43.89,Captions-207+,,0,0,100,,{\an8\pos(2049.16,100)\alpha&H00&\fscx331\fscy321\frz359\fry2\frx0\fnYozakura JP\b0\bord0\shad0\c&H141014&\blur6}退役
+Dialogue: 0,0:16:16.62,0:16:22.50,Credits-207+,,0,0,0,,{\fscx75\fscy75\pos(15,15)}Video Editing:\N Gigglebot\N\NTiming:\NGab\N\NTypesetting:\NPhosCity\NGab\N\NQuality Control:\NFeeso\NGalaxy 9000\NPepperjack\NRaiyan\NScolines\NZenef\N\NSoundtracking:\N Halee\N\NGraphics:\N Datenshi
+Dialogue: 0,0:16:16.62,0:16:22.50,Credits-207+,,0,0,0,,{\pos(1597,15)\fscx75\fscy75}\N\NSubtitle Editing:\NAphantasticRabbit\NPoppy\NWestfal\N\NTranslation:\Narch1t3cht\NCrunchyroll\NGaijin\NPamkinPinguin\Nrangicus
+
