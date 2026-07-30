@@ -5354,6 +5354,52 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | "Oden Was Meant to Boil" (episode Title card 477; spoken boil-pun 474/475; big typeset captions 630/631) | 關東煮本來就是要拿來煮的 | Boil-pun follows established convention (oden食物→關東煮, L5276/L5315/L5340): {\i1}Oden{\i0} was meant... / ...to boil!→{\i1}關東煮{\i0}本來就是……／－……要拿來煮的！ Title tag block preserved; caption 630 "Oden was meant"→關東煮本來就是, 631 "to boil"→要拿來煮的 |
 | "ninja corps" (Oden recognizing Shinobu's Kozuki-clan ninja unit, 66) | 忍者隊 | "Shinobu of the ninja corps?!"→忍者隊的忍嗎？！ Shinobu 忍 (L4859); other Kozuki ninja→光月忍者 (71/75) |
 | execution by boiling / a boiling (釜茹で; Oden's death sentence) | 烹煮之刑 / 烹刑 | "public execution by boiling"→當眾烹煮之刑 (145); "see a boiling"→看到烹刑 (147); "withstood the boiling"→撐過了烹刑 (406). Distinct from the boil-PUN title (關東煮) |
+## Wano Country Arc (Wano 41 [972-974] — consolidated-terms entry (episode title not supplied in batch): close of the Oden flashback — Lady Toki's Toki-Toki prophecy launches the Nine Red Scabbards (and, separately, Momonosuke & Hiyori) twenty years into the future while Toki remains behind and dies; Kurozumi Kanjuro's clan lineage surfaces (traitor foreshadow); Hiyori's "Moon Princess" song)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Kurozumi Kanjuro (full clan-name form; the Kurozumi retainer/traitor) | 黑炭勘十郎 | VERIFIED — Kurozumi clan 黑炭 (一族/家, L5309) + Kanjuro 勘十郎 (L2488, VERIFIED). Full-name compound new; bare 勘十郎 & epithet 「夕立」勘十郎/夕立的勘十郎 established (L2488/L5196) |
+| "Moon Princess" (Hiyori's song) | 月之公主 | UNVERIFIED — no dedicated Fandom zh page found; coined descriptive (Moon 月 + Princess 公主). NB Kozuki Toki/Lady Toki 光月時/時夫人 already established (L4835, VERIFIED) — used as-is this ep |
+## Wano Country Arc (Wano 42 [975-976] — consolidated-terms entry (episode title not supplied in batch): present-day raid build-up — Kanjuro's betrayal & fake ship; his ink/drawing attacks; Kid's Punk-series attack; Jinbe's Fishman-Karate water attack; the Habuminato→Hato "wharf" wordplay)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Punk Vise (Eustass Kid attack) | 龐克·萬力 | UNVERIFIED — no dedicated Fandom zh page. Kid "Punk"-series naming (cf Punk Rotten etc.); Punk 龐克 (established transliteration, cf 龐克哈薩德 L2239) + Vise 萬力 (bench-vise/clamp). Interpunct · form |
+| Ink Clouds (Kurozumi Kanjuro; drawing-drawing power) | 墨雲 | UNVERIFIED — coined; Ink 墨 + Clouds 雲. Kanjuro 黑炭勘十郎 (this ep) |
+| Ukiyo Portrait: Evening Tempest (Kurozumi Kanjuro attack) | 浮世繪：夕嵐 | UNVERIFIED — coined; Ukiyo(-e) 浮世繪 + Evening Tempest 夕嵐 (evening storm/haze). NB epithet 「夕立」(Evening Shower, L5196) uses 夕立 — this attack's 夕嵐 is a distinct compound |
+| Spear Wave Rain Shower (Jinbe Fishman-Karate combo, {\fad(150,150)}) | 槍波·驟雨 | UNVERIFIED compound — extends established Spear Wave 槍波 (L4307) + Rain Shower 驟雨 (L4308), both prior COINED Jinbe/Prometheus-dousing attacks. Interpunct · join |
+| Hato (of Habuminato→Hato "wharf" wordplay) | 波止 | Wordplay gloss — Habuminato/Habu Port 波布港 (L4863); "Hato" 波止 = wharf/breakwater (波止場). Renders the port-name pun |
+## Wano Country Arc (Wano 43 [977-978] — consolidated-terms entry (episode title not supplied in batch): Onigashima — the Tobiroppo/Beast-Pirate brass gather (Sasaki, Who's-Who, Black Maria); Robin's infiltration & a Gigantesco Mano variant; Beast-Pirate recruit ranks; Queen's showmanship/funk)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Sasaki (Tobi Roppo/Soaring Six; Triceratops SMILE) | 佐佐木 | VERIFIED verify_names.py Fandom EN→zh (佐佐木) |
+| Who's-Who (Tobi Roppo/Soaring Six; ex-CP9; Sabertooth Tiger SMILE) | 福茲胡 | VERIFIED verify_names.py Fandom EN→zh (福茲胡) |
+| Black Maria (Tobi Roppo/Soaring Six; Spider SMILE) | 黑瑪麗亞 | VERIFIED verify_names.py Fandom EN→zh (黑瑪麗亞) |
+| Gigantesco Mano: Stomp (Nico Robin attack variant, {\fad(150,150)}) | 踩踏 | UNVERIFIED — base Gigantesco Mano 巨手/千紫萬紅：巨大手 established (L2392/L2061); "Stomp" variant 踩踏 (giant foot stamp) coined |
+| Waiters (Beast Pirates recruit/probationary rank) | 待者 | UNVERIFIED — coined; below Gifters 給賦者 (L3400)/Pleasures 愉悅者 (L3401) in the SMILE-recruit hierarchy. Note 待者 (attendant, homophone-adjacent to 侍者) |
+| "champ brachio" (Queen self-styling, Brachiosaurus SMILE) | 冠軍腕龍 | UNVERIFIED — champ 冠軍 + brachio 腕龍 (cf 腕龍坦克 Brachio Tank L2072). Queen boastful register |
+| funk (Queen's musical "funk" motif) | 放克 | Consistent with established — 放克 already the rendering for "funk" (Kelly/Bobby Funk 放克, L2534). Common-noun usage, not a new coinage |
+## Wano Country Arc (Wano 44 [978-979] — consolidated-terms entry (episode title not supplied in batch): Onigashima raid continues — Usopp's knockout-grass gadget; Beast-Pirate surveillance via Bao Huang's SMILE; port logistics)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Sleepgrass (Usopp gadget/ammo) | 催眠草 | UNVERIFIED — coined; sleep-inducing grass, Sleep 催眠 + grass 草 |
+| Flying Squirrel SMILE (Bao Huang's Devil Fruit) | 飛鼠SMILE | COINED — Flying Squirrel 飛鼠 + SMILE (kept Latin, L1875). ⚠ INCONSISTENCY: Raizo's "Flying Squirrel Technique" was rendered 鼯鼠之術 with 鼯鼠 (L5140); this ep uses 飛鼠 for the same animal. Both mean flying squirrel (飛鼠 colloquial/Taiwanese, 鼯鼠 formal) — flag for unification. Bao Huang 包紡 (L5362) |
+| (Tokage Port — kept established 蜥蜴港, L5197/L5246; Mogura Port — kept established 鼴港, L5197) | — | no new terms; ports already in glossary |
+## Wano Country Arc (Wano 45 [980-981] — consolidated-terms entry (episode title not supplied in batch): Onigashima — a Numbers giant enters the fray; Marco's arrival & phoenix flame; Kid's Punk-series attack; Apoo's sound-based attacks; Black Maria's pleasure-hall)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Haccha / Hatcha (Numbers #8 "Hatcha"; ハッチャ) | 八茶 | VERIFIED verify_names.py Fandom EN→zh (八茶). Member of the Numbers 序列戰士 (L5188); body-mark 八 (eight) |
+| Phoenix Brand (Marco the Phoenix attack, {\fad(150,150)}) | 不死鳥烙印 | UNVERIFIED — Phoenix 不死鳥 (Marco's Bird-Bird Fruit Model Phoenix) + Brand 烙印 |
+| Punk Gibson (Eustass Kid attack) | 龐克·吉普森 | UNVERIFIED — Kid "Punk"-series (cf Punk Vise 龐克·萬力 this batch). Punk 龐克 + Gibson 吉普森 (Gibson magnetic-fist pun). Interpunct · form |
+| Apoo sound-attacks: Scratch / Bop / Slash / Boom / Encore (Scratchmen Apoo; music-note SFX) | 刮碟／咚／唰／轟／安可 | COINED onomatopoeia — Scratch 刮碟 (DJ turntable scratch) / Bop 咚 / Slash 唰 / Boom 轟 / Encore 安可 (musical encore). Apoo 斯克拉奇曼·亞普/阿普 (L1803/L2356). Onomatopoeia rendered as zh equivalents, not romaji |
+| "Sweet Entanglement" (Black Maria's pleasure hall / brothel on Onigashima) | 「甜蜜纏綿」 | UNVERIFIED — coined; Sweet 甜蜜 + Entanglement 纏綿 (amorous/lingering). Corner-bracket 「」 form. Black Maria 黑瑪麗亞 (this batch, W43) |
+## Wano Country Arc (Wano 46 [982-983] — consolidated-terms entry (episode title not supplied in batch): Onigashima clashes — Kid Pirates crew members named; Page One's dinosaur form vs Ulti's, with Ulti's named attacks)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Wire (Kid Pirates crewman) | 瓦耶 | VERIFIED verify_names.py Fandom EN→zh (瓦耶). NB distinct from Kaku's attack "Tempest Kick: Wire" 嵐腳：線 (L1224) — that Wire→線 is unrelated |
+| Heat (Kid Pirates crewman) | 希特 | VERIFIED verify_names.py Fandom EN→zh (希特). NB distinct from Charlotte Citron 希特瓏 (L4413) and the Heat-* attack names (熱/炎, L115/L127) |
+| Spinosaurus (Page One's Ancient Zoan SMILE form) | 棘龍 | VERIFIED verify_names.py Fandom EN→zh (棘龍). Page One 培濟萬 (L4963) |
+| Pachycephalosaurus (Ulti's Ancient Zoan SMILE form) | 腫頭龍 | UNVERIFIED — no dedicated Fandom zh attack page; 腫頭龍 is the standard zh palaeontology name. Ulti 烏爾蒂 (L5361) |
+| Ulti-Mortar (Ulti attack, {\fad(150,150)}) | 烏爾蒂臼砲 | UNVERIFIED — Ulti 烏爾蒂 (L5361) + Mortar 臼砲 (mortar/head-butt cannon). Name-prefix coinage |
+| Ulti-Meteor (Ulti attack, {\fad(150,150)}) | 烏爾蒂流星 | UNVERIFIED — Ulti 烏爾蒂 (L5361) + Meteor 流星 (charging head-butt). Name-prefix coinage |
 ## Wano Country Arc (Wano 47 [984-985] — "My Bible": Onigashima raid. Cold-open — Ulti(Page One's sister) hurt after Yamato's blow; Beast-Pirate medics; Ulti mocks Yamato's stolen Thunder Bagua as a "Blunder Bagua". Yamato drags Luffy off to talk (Luffy resists w/ Gum-Gum Gatling/Red Hawk). Orochi's banquet: Bao Huang broadcasts; Orochi taunts the captive Momonosuke ("witch" Toki, Kozuki bloodline "extinct"), threatens execution (impale/shoot/boil); the raiders(Robin etc.) blend in, can't act. Law's sub Polar Tang lands the Red Scabbards behind the island (Bepo/Shachi/Penguin; Room/Shambles); reunions — Nekomamushi, Kawamatsu, Ashura, Marco(carried Izo), Kiku meets her brother Izo. Yamato's backstory to Luffy: witnessed Oden's execution ("Legendary Hour"), found Oden's logbook/"Travel Record" = "my bible", vows to open the country & inherit Oden's will; identifies as a man like Oden; Luffy offers to remove Yamato's prisoner-cuffs. Ruins: Kanjuro(traitor) ambushes the Scabbards, reveals he knocked out & delivered Momo to Orochi, drew decapitated-samurai; Kappa Style: Yorikiri / Flower Shuriken; Kiku vows vengeance on "Kanjuro of the Evening Shower". Kaido's speech (via video snail): alliance with Big Mom(Zeus/Nami captured), gathering ancient weapons, claim the One Piece; Orochi vs Kaido clash — Kaido kills Orochi, declares the New Onigashima Project: relocate Onigashima to the Flower Capital, rename the country New Onigashima, install his child Yamato as shogun. Momo about to be executed; Luffy rushes via a shortcut. Captions: Skull Dome/Performance Floor, Castle Attic, "Oden's Travel Record", Kaido's Daughter/(Self-Proclaimed Kozuki Oden), YAMATO letter-reveal, Rear Entrance, Kikunojo of the Lingering Snow card, Olin the Oiran/Big Mom Pirates card)
 | English | 繁體中文 | Notes |
 |---|---|---|
