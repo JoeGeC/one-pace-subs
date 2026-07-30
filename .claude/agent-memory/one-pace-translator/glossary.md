@@ -3407,7 +3407,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Garchu (Mink affectionate greeting/headbutt) | 嘎啾 | UNIFIED to 嘎啾 (matches earliest ep06 entry L3301). Earlier variants 咖啾/咖魯啾 superseded — use 嘎啾 project-wide. coined phonetic (ガルチュー); the Minks' friendly greeting nuzzle |
 | Torasaburo (Kanjuro's drawn tiger, Zou 07) | 寅三郎 | VERIFIED Fandom zh (寅三郎 opensearch → 霜月耕三郎 cross-ref uses 寅). Kanjuro's living-drawing tiger. 寅 = tiger zodiac char |
 | "tora = tiger" (Zou 07 Note on Torasaburo pun) | 寅即為虎 | Note-line gloss; 寅 (tiger zodiac) = 虎 (tiger) — Luffy doesn't realise the drawn animal is a tiger |
-| Bariete (Mink bell-ringer, Zou 07) | 巴利耶特 | UNIFIED to 巴利耶特 (matches glossary Zou-section entry). coined phonetic (バリエテ); UNVERIFIED |
+| Bariete (Mink bell-ringer, Zou 07) | 巴力耶特 | RECONCILED to 巴力耶特 (canonical VERIFIED Fandom page 巴力耶特, L3466); superseded earlier coined 巴利耶特. Reused in W61 (correct). バリエテ |
 | Wolf Grip (Wanda attack, wolf-mink) | 狼咬 | coined; Wanda's hand transforms into a wolf's jaw. UNVERIFIED — VERIFY vs Fandom |
 | Bone-Bone Chop (Mink comedic chop, this ep) | 骨骨手刀 | coined; a Mink's "kanja/kanya" pun-chop gag while carrying patients. One-off |
 | kanja/kanya = patient (ninja/kanja homophone gag, Note) | 患者（發音近「忍者」） | Note-line gloss; Japanese 患者 (kanja) sounds like 忍者 (ninja) — the joke |
@@ -3437,7 +3437,7 @@ New terms coined this episode; "(unverified)" ones need a later Fandom pass.
 | Tristan (Mink doctor's assistant) | 崔斯坦 | NOT actually verified — direct API query confirms no 崔斯坦 page exists (prior claim was wrong). Standardized on 崔斯坦 anyway; see L3285 |
 | Whale Forest (forest with the Whale Tree hiding the Road Poneglyph) | 鯨魚森林 | VERIFIED Fandom zh 佐烏 page: 鯨魚森林. "Whale Tree" = 鯨魚樹 |
 | Road Poneglyph (red Poneglyph pointing to Laugh Tale) | 路標歷史本文 | VERIFIED Fandom zh 佐烏 page: 紅色路標歷史本文. Uses established Poneglyph 歷史本文 |
-| Bariete (Mink bell-ringer) | 巴利耶特 | coined phonetic (バリエテ); no dedicated Fandom zh page. UNVERIFIED |
+| Bariete (Mink bell-ringer) | 巴力耶特 | RECONCILED to 巴力耶特 (canonical VERIFIED Fandom page 巴力耶特, L3466); superseded earlier coined 巴利耶特. バリエテ |
 | Warney (Inuarashi's riding animal) | 沃尼 | coined phonetic (ワーニー); Duke's mount. UNVERIFIED — no Fandom zh page |
 | Dr. Miyagi (Mink doctor, this ep) | 米亞基醫生 | coined phonetic (ミヤギ); no dedicated Fandom zh page. UNVERIFIED |
 | Onami (Nami's Wano-play name, used by Momonosuke) | 阿娜美 | established (L2569) — Momonosuke addresses Nami as Onami |
@@ -5422,3 +5422,169 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Recurring (Wano 47, all established/prior): Yamato("Young Master"→少爺; "Kaido's son/daughter") 大和 (this ep) / Luffy("Straw Hat"→草帽小子) 魯夫/草帽小子 (L3919) / Page One("Master Page One"→培濟萬大人) 培濟萬 (L4963) / Ulti("Big Sis"→姐姐) 烏爾蒂 (this ep) / Kaido("Viceroy Kaido"→總督凱多) 凱多/總督凱多 (L1508/L4872) / Kurozumi Orochi("Shogun Orochi"→大蛇將軍) 大蛇/黑炭大蛇 (L4677/L4707) / Kozuki Momonosuke("Lord Momonosuke"→桃之助大人; "Momo"→阿桃/桃) 桃之助 (L2260/L5352) / Kozuki Oden("Kozuki Oden"/"Oden"→光月御田/御田) 光月御田/御田 (L3368) / Oden Castle 御田城 (L4754) / Kozuki Toki("Toki"→時; witch) 光月時/時 (L5080) / Kozuki Clan/name 光月家 (L3282) / Red Scabbards 紅鞘眾/紅鞘九人眾 (L4840) / Nico Robin 妮可·羅賓 (L16) / Trafalgar Law("Traffy"→特拉男; "Law"→羅) 特拉法爾加·羅/特拉男 (L2158/L4814) / Bepo 貝波 (L1860) / Shachi 夏奇 (L5118) / Nekomamushi 貓蝮蛇 (L3357) / Kawamatsu(the Kappa) 河松 (L4860) / Ashura(Doji) 阿修羅(童子) (L4841/L4922) / Marco 瑪爾科 (L1439) / Izo 以藏 (L5269) / Kikunojo("Kiku"→阿菊; "of the Lingering Snow" card→「殘雪」菊之丞) 菊之丞/阿菊 (L5070/L5144) / Kanjuro("of the Evening Shower"→夕立的勘十郎) 勘十郎/「夕立」勘十郎 (L2488/L5196) / Big Mom("Mama"→媽媽; "old hag"→老太婆; Linlin 莉莉) 大媽 (L2038)/莉莉 (L3774) / Zeus 宙斯 (L3887) / Nami 娜美 (L12) / Ace 艾斯 (L27) / Whitebeard 白鬍子 (L50) / Summit War 頂上戰爭 (L4658) / Seven Warlords 七武海 (L42) / ancient weapons 古代兵器 (L189) / One Piece ONE PIECE (L142) / Marine Headquarters 海軍本部 / World Government 世界政府 / Marines 海軍 / Flower Capital 花都 (L4706) / Kurozumi Clan 黑炭一族 (L5309) / Onigashima 鬼島 (L4861) / Kuri 九里 (L2344) / Wano 和之國 / Thunder Bagua 雷鳴八卦 (L4886) / Gum-Gum Gatling 橡膠機關槍 (L94) / Red Hawk 紅鷹 (橡膠紅鷹 L96) / Room 房間 (L4798) / Shambles 搬運 (L2288) / Kappa Style: Yorikiri 河童流：寄切 (L5181) / two-sword style 二刀流 / mink -gara tic 你-{\i1}gara{\i0} (L4664) / cat-puns (mew→喵, purrific→喵呆) (L5316) / shogun 將軍 / samurai 武士 / boiling(execution)→烹刑 (L5356) / video transponder snail 影像電話蟲 | — | all kept — established. Registers: Yamato earnest/idealistic; Luffy casual-stubborn; Ulti whiny-bratty; Kaido/Orochi arrogant-menacing; Kiku formal-vengeful (poetic 殘雪 vow); Kanjuro cold-cruel; narrator epic. Reversed italic {\i0}極地潛水號{\i1} (141) & {\i1}…{\i0} emphasis (72/95/297/300/323/336/390/409 + broadcast {\i1} no-close 349/351/352/378/384/444/445/446) mirrored EXACTLY. {Z} end-tokens, {\an8}(313-315/363), {\q2}(141), {\fad(...)} attack/reveal tags (90/91/93/112/161/162/293-295/387) mirrored. Dual-speaker "－X\N－X"(155/188/192). Captions translated: Title 462 "My Bible"→我的聖經, Skull Dome/Performance Floor 510, Law 527, Castle Attic 873, Note "Oden's Travel Record" 875, Kaido's Daughter 879, (Self-Proclaimed Kozuki Oden) 949, Rear Entrance 1210, Kikunojo of the Lingering Snow card 1363, Olin the Oiran card 1407/1408. 5 per-letter "YAMATO" reveal captions (1003/1047/1087/1155/1183 = Y/a/m/t/o, font ArtificeSSK) KEPT as source Latin letters — un-mappable to 2-char 大和. NB input skips LINE_NUM 172 & 221 (source gaps) — off-by-one caught & fixed. This task produced only the zh-TW TSV (strict 1:1 line parity, no merge/ASS step)
 
 | Recurring (Wano 40, all established/prior): Kozuki Oden("Oden"/"Lord Oden"→御田/御田大人; caption/name 光月御田) 光月御田/御田 (L3368/L3422) / Kozuki Momonosuke("Lord Momonosuke") 桃之助/桃之助大人 (L2260) / Kozuki Hiyori("Lady Hiyori"→日和小姐) 日和 (L4836/L4982) / Kozuki Toki("Otoki"→阿時; "Toki"→時) 時/阿時 (L5080) / Kurozumi Orochi("Orochi"/"Shogun Orochi"→大蛇/大蛇將軍) 黑炭大蛇/大蛇 (L4677/L4707) / Kaido("Viceroy Kaido") 凱多/總督凱多 (L1508/L4872) / Shinobu("kunoichi"→女忍者) 忍 (L4859) / Fukurokuju 福祿壽 (L4994) / Raizo 雷藏 (L3283) / Nekomamushi("Cat"→貓) 貓蝮蛇/貓 (L3357/L5277) / Ashura(Doji) 阿修羅(童子) (L4841/L4922) / Kozuki Sukiyaki("Lord Sukiyaki"→鋤燒大人) 光月鋤燒/鋤燒 (L4843) / Hyogoro 豹五郎 (L5025) / Edward Newgate("Newgate") 紐蓋特 (L382) / Gol D. Roger("Roger") 羅傑 (L192) / Blast Breath 爆炎吐息 (L4874) / Oden Two-Sword Style 御田二刀流 (L5257) / Nine Red Scabbards/Red Scabbards 紅鞘九人眾/紅鞘眾 (L4840) / Beast Pirates 百獸海賊團 (L3252) / Kozuki Clan 光月家 (L3282) / Kurozumi Clan("a Kurozumi"→黑炭家的人) 黑炭一族/黑炭家 (L5309) / Flower Capital 花都 (L4706) / Kuri 九里 (L2344) / Udon 兔丼 (L4894) / Kibi 希美 (L4838) / Ringo 鈴後 (L5024) / Hakumai 白舞 (L4863) / Wano 和之國 (L1348) / daimyo 大名 (L3444) / shogun 將軍 / samurai 武士 / yakuza 黑道 / seppuku 切腹 (L4688) / oden-food boil-pun 關東煮 (L5276) | — | all kept — established. Registers: Oden bold/serene-facing-death (御田大人 from retainers); Kaido intrigued-brutal; Orochi vengeful then treacherous-smug; Shinobu impassioned-loyal; retainers desperate-formal (主公/職責/懇求); townsfolk scornful→remorseful; narrator epic-elegiac. {Z} end-tokens (37/51/52/65/68/77/125/154/155/156/183/198/223/243/249/250/278/285/299/300/301/304/312/313/321/322/323/326/331/410/427/434/448/451/452/455/460) & {\q2}(119/299) & {\fad(...)}(40/42/98/103/104/113/273/335/429/475 + song {\fad(150,150)}) & {\i1}…{\i0} (radio reports 91/92; kunoichi 142/239; now→如今 351; Oden→關東煮 474) mirrored EXACTLY. Dual-speaker "－X\N－X"(105/115/121/200/272/302/328/428/475). Captions: Title "Oden Was Meant to Boil"→關東煮本來就是要拿來煮的 477, Halcyon/Totsuka Brush alpha-reveal 479/481/487/489→桃源/十束, region name-cards Kuri 491/Kibi 543/Flower Capital 567/Ringo 599/Udon 601/Hakumai 603/Hakumai+Wano 605→九里/希美/花都/鈴後/兔丼/白舞/白舞·和之國, Oden's dying-words captions 629/630/631. extract collapsed 128 typeset frames→453 reps; merge fanned 452 translated reps→579 lines. 1 rep kept untranslated: Warning boilerplate (29, English). 0 TAG MISMATCH, no reposition/overlap warnings |
+
+
+## Wano 45–61 CONFLICT RECONCILIATIONS (cross-episode consistency; parallel-translation drift)
+| Term (EN) | Canonical 繁體中文 | Basis + affected files |
+|---|---|---|
+| The Numbers roster (ナンバーズ / 序列戰士) | see roster table below | VERIFIED zh Fandom Template:序列戰士圖片冊 (portrait gallery). Ad-hoc phonetic renderings (邪鬼/三鬼/八鬼/南疑) are WRONG — use the numbered-鬼/茶/美/牙/忍 canon |
+| Marys (Bao Huang's surveillance homies; メアリー) | 瑪麗 | No dedicated Fandom page; 瑪麗 aligns with established "Mary" rendering (Mary Geoise 瑪麗喬亞 L450, Black Maria 黑瑪麗亞). W61 (瑪麗) is canonical/correct; W58 (瑪莉) must be patched. Distinct from Black Maria 黑瑪麗亞 (unaffected) |
+| Gifters (Beasts Pirates SMILE rank; ギフターズ) | 給賦者 | Established VERIFIED Fandom 百獸海賊團 page (L3400); dialogue-form used consistently across Udon eps (L5022/5064/5074/5116). W57 (賦能者) & W58 (賦予者) diverged → patch to 給賦者. NB caption-suffix convention historically wrote 賦予者 (L4747/L5046) — a pre-existing tension; dialogue canon = 給賦者 |
+| Punk Gibson (Kid attack) | 龐克·吉普森 / 吉普森 | L5391 + W45 committed = 吉普森. W48 (吉布森) diverged → patch. Gibson consistently 吉普森 (cf Slam Gibson 重擊·吉普森 W56) |
+| Franosuke (Franky's Wano alias; フランの助) | 佛朗之助 | ESTABLISHED VERIFIED (L4681, used W02/W10/W14/W15 +). W53 (弗朗之介) is a NEW divergence → patch. (Additional inconsistency found during consolidation, beyond the four named) |
+| "Yamabro" (Luffy's nickname for Yamato) | 大和哥 | PICK-ONE: follows established Luffy "-bro"→哥 pattern (Chobro 喬哥, L4671). W49 (大和哥) correct; W48 (大和兄) diverged |
+| Right-Brain Tower (Onigashima castle tower) | 右腦之塔 | PICK-ONE: W51 (右腦之塔) preferred (elegant place-name form); W54 (右腦塔) diverged |
+| Capone Bege (カポネ・ベッジ) | 卡波涅·培基 / 培基 | VERIFIED verify_names.py Fandom (卡波涅·培基); W54 form. NB cross-ARC mismatch: WCI-arc glossary recorded Bege 貝基 (L4042). Not patched here (outside Wano batch); flagged for future WCI reconciliation |
+
+## The Numbers full roster (序列戰士 — Kaido's ten failed artificial ancient-giants; body-marks 壹～拾)
+| # | Romaji (One Pace) | 繁體中文 | Notes |
+|---|---|---|---|
+| 1 | Inbi | 一美 | VERIFIED zh Fandom 序列戰士圖片冊 gallery |
+| 2 | Fuga | 二牙 | VERIFIED gallery |
+| 3 | Zanki | 三鬼 | VERIFIED gallery. NB W50 used 三鬼 for "Jaki" — that was WRONG (三鬼 = Zanki, not Jaki) |
+| 4 | Jaki | 四鬼 | VERIFIED gallery. Corrects W49 邪鬼 & W50 三鬼 (both = Jaki spoken; canonical 四鬼) |
+| 5 | Goki | 五鬼 | VERIFIED gallery + verify_names.py (五鬼). W50 correct |
+| 6 | Rokki | 六鬼 | VERIFIED gallery |
+| 7 | Nangi | 七鬼 | VERIFIED gallery. Corrects W49 南疑 (= Nangi caption "Nangi of the Numbers"→序列戰士的七鬼) |
+| 8 | Hatcha / Haccha | 八茶 | VERIFIED gallery + verify_names.py (L5389). W45 correct; corrects W50 八鬼 |
+| 9 | Kunyun | 九忍 | VERIFIED gallery |
+| 10 | Juki (a.k.a. "Number 10") | 十鬼 | VERIFIED gallery (十鬼 \ Number 10). W50 correct |
+
+## Wano Country Arc (Wano 48 — Onigashima raid: Yamato ("Yamabro") vs Luffy banter & Kaido; Nami/Ulti-cowrilla clash; Law vs Big Mom; Kid Punk-series)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Nami "Black Ball" (Zeus/Weather attack) | 黑球 | COINED — Black 黑 + Ball 球. UNVERIFIED |
+| Ninpo: Ectoplasm Thunder (Shinobu-style ninja SFX) | 忍法：雷霆 | COINED — Ninpo 忍法 (L3390) + 雷霆 (thunder). UNVERIFIED |
+| "cowrilla" (cow-gorilla SMILE mob; Ulti's mount/mob) | 牛猩猩 | COINED — cow 牛 + gorilla 猩猩. UNVERIFIED |
+| Candy Maiden (Perospero/Big-Mom-side candy attack) | 糖果少女 | COINED — Candy 糖果 + Maiden 少女. UNVERIFIED |
+| Amputate (Law, ROOM cut) | 切除 | COINED — surgical "amputate/resect" 切除. Law 特拉法爾加·羅 (L2158). UNVERIFIED |
+| SNATCH (Kid crew chant, here as an attack tag) | 撕裂 | NB the pure Kid-Pirates rallying chant "SNATCH" is KEPT LATIN (L5037); 撕裂 used only where it functions as a translated attack verb, not the chant. UNVERIFIED |
+| Punk Gibson (Kid) — file W48 "Gibson!" | 吉普森 | see reconciliation table (W48 committed 吉布森 → 吉普森) |
+| Yamabro — file W48 | 大和哥 | see reconciliation (W48 committed 大和兄 → 大和哥) |
+
+## Wano Country Arc (Wano 49 — Onigashima: Franky vs Sasaki's dino-Gifters; Numbers Jaki/Nangi; Shinobu smoke ninpo; Brook soul sensing)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Whirlpool Shoulder Throw (Fishman-Karate-style throw) | 漩渦一本背負 | COINED — Whirlpool 漩渦 + 一本背負 (judo one-arm shoulder throw). UNVERIFIED |
+| Smoke Escape Technique (Shinobu ninpo) | 煙遁之術 | COINED — 煙遁 (smoke-escape ninjutsu) + 之術. Ninpo family (L3390). UNVERIFIED |
+| Soul Sensor (Brook soul-perception) | 靈魂感應 | COINED — Soul 靈魂 + Sensor 感應. Brook (L3315). UNVERIFIED |
+| Free Rider Franky (Franky mecha/ride attack) | 自由騎士佛朗基 | COINED — Free Rider 自由騎士 + Franky 佛朗基. UNVERIFIED |
+| Franky Cannon (Franky attack) | 佛朗基加農砲 | COINED — Franky 佛朗基 + Cannon 加農砲. UNVERIFIED |
+| Brachio Head: Change (Franky/Franky Shogun brachio attack) | 腕龍頭：變形 | COINED — Brachio(saurus) 腕龍 + Head 頭 + Change 變形. UNVERIFIED |
+| Jaki (Numbers #4) — file W49 | 四鬼 | see roster (W49 committed 邪鬼 → 四鬼) |
+| Nangi (Numbers #7) — file W49 | 七鬼 | see roster (W49 committed 南疑 → 七鬼) |
+
+## Wano Country Arc (Wano 50 — Onigashima: more Numbers summoned (Juki/Jaki/Goki/Haccha); Kid X-series; Zoro Skull Bombgrass encounter)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| army of one (Zoro/idiom, "an army unto himself") | 一人成軍 | COINED idiom — 一人成軍 (one man = a whole army). UNVERIFIED |
+| X Caliber (Eustass Kid attack) | X·卡利巴 | COINED — X + Caliber 卡利巴 (Excalibur pun). Interpunct form, cf Kid Punk-series. UNVERIFIED |
+| Skull Bombgrass (explosive plant on Onigashima) | 骷髏爆炸草 | COINED — Skull 骷髏 + Bomb 爆炸 + grass 草. UNVERIFIED |
+| Jaki (Numbers #4) — file W50 | 四鬼 | see roster (W50 committed 三鬼 → 四鬼) |
+| Haccha (Numbers #8) — file W50 | 八茶 | see roster (W50 committed 八鬼 → 八茶) |
+| Juki #10 / Goki #5 — file W50 | 十鬼 / 五鬼 | already correct in W50 |
+
+## Wano Country Arc (Wano 51 — Onigashima: Beast Pirates Briscola; Scabbards Kappa/Lingering-Snow attacks; Shinobu scroll ninpo; castle Right-Brain Tower)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Briscola (Beast Pirate; card-game name) | 布利斯哥拉 | VERIFIED (V) per translation session |
+| Kappa Style: Celestial Torrent (Kawamatsu attack) | 河童流·天河激流 | COINED — Kappa Style 河童流 (L5181) + Celestial Torrent 天河激流. UNVERIFIED |
+| Lingering Snow Scythes (Kikunojo attack; "殘雪") | 殘雪之鎌 | COINED — Lingering Snow 殘雪 (Kiku epithet, L5144) + Scythes 之鎌. UNVERIFIED |
+| Ninpo: Scroll-Scroll (Shinobu ninpo) | 忍法：卷卷之術 | COINED — Ninpo 忍法 + Scroll-Scroll 卷卷之術. UNVERIFIED |
+| Right-Brain Tower (Onigashima castle tower) | 右腦之塔 | PICK-ONE canonical (see reconciliation); W54 committed 右腦塔 diverges. UNVERIFIED coinage |
+
+## Wano Country Arc (Wano 52 — Onigashima: Beast Pirates Hamlet & Fourtricks; Scabbards Moon Raid / Bamboo Javelin)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Hamlet (Beast Pirate) | 哈姆雷特 | VERIFIED (V) |
+| Fourtricks (Beast Pirate) | 佛特黎克斯 | VERIFIED (V) |
+| Moon Raid (Scabbard attack) | 月光突襲 | COINED — Moon 月光 + Raid 突襲. UNVERIFIED |
+| Bamboo Javelin (attack) | 竹標槍 | COINED — Bamboo 竹 + Javelin 標槍. UNVERIFIED |
+
+## Wano Country Arc (Wano 53 — Onigashima: Beast Pirate Poker; Franosuke; Scabbard Narikabura arrows; Mizerka; Gorishiro)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Poker (Beast Pirate) | 波卡 | VERIFIED (V) |
+| Narikabura / Narikabura Arrow (whistling-bulb arrow) | 鳴鏑 / 鳴鏑箭 | VERIFIED (V) — 鳴鏑 (traditional whistling arrow) |
+| Mizerka (character) | 米澤卡 | UNVERIFIED (U) — coined phonetic |
+| Flame Clouds (Kaido/焰雲 attack terrain) | 焰雲 | COINED — Flame 焰 + Clouds 雲. UNVERIFIED |
+| "Gorishiro" (gorilla-castle gag; Gorilla + Kyoshiro/-shiro) | 猩猩城 | COINED gag — gorilla 猩猩 + 城 (castle). UNVERIFIED |
+| Franosuke — file W53 | 佛朗之助 | ESTABLISHED (L4681); W53 committed 弗朗之介 → patch. See reconciliation table |
+
+## Wano Country Arc (Wano 54 — Onigashima: Capone Bege; Black Maria's Spider-Spider Fruit reveal; Marco Phoenix Pyreapple; dino/beast species)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Capone "Gang" Bege | 卡波涅·培基 / 培基 | VERIFIED (V) verify_names.py. NB WCI glossary L4042 had 貝基 — cross-arc mismatch flagged |
+| Phoenix Pyreapple (Marco attack; pineapple-flame pun) | 不死鳥·火焰鳳梨 | COINED — Phoenix 不死鳥 + Pyre/flame 火焰 + (pine)apple 鳳梨. UNVERIFIED |
+| Spider-Spider Fruit, Model: Rosamygale Grauvogeli (Black Maria Ancient-Zoan) | 蜘蛛果實：格氏玫瑰古狼蛛 | VERIFIED (V). Black Maria 黑瑪麗亞 (L5375) |
+| Triceratops (Ancient-Zoan SMILE species) | 三角龍 | standard zh palaeontology |
+| Pteranodon (Ancient-Zoan SMILE species; King's form) | 無齒翼龍 | VERIFIED (V) |
+| Saber-Toothed Tiger (SMILE species) | 劍齒虎 | standard zh |
+| Allosaurus (Ancient-Zoan SMILE species) | 異特龍 | VERIFIED (V) |
+| Right-Brain Tower — file W54 | 右腦之塔 | W54 committed 右腦塔 → reconcile to 右腦之塔 (see table) |
+
+## Wano Country Arc (Wano 55 — Onigashima rooftop: Luffy vs Kaido; Gum-Gum Red Roc)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Gum-Gum Red Roc (Luffy Gear-mode attack; giant flaming fist) | 橡膠紅鵬 | UNVERIFIED (U) — Gum-Gum 橡膠 + Red 紅 + Roc 鵬 (giant mythic bird); cf Red Hawk 橡膠紅鷹 (L96) |
+
+## Wano Country Arc (Wano 56 — rooftop: Kaido Kong Rifle/Thunder-god attacks; Kid Punk Rotten & Slam Gibson; Killer Scyther Sonic; Big Mom Heavenly Bon-Bons)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Kong Rifle (Kaido attack) | 猿王來福槍 | COINED — Kong 猿王 + Rifle 來福槍. UNVERIFIED |
+| Punk Rotten (Eustass Kid attack) | 龐克·腐爛 | COINED — Punk 龐克 + Rotten 腐爛. Interpunct form. UNVERIFIED |
+| Slam Gibson (Eustass Kid attack) | 重擊·吉普森 | COINED — Slam 重擊 + Gibson 吉普森 (consistent w/ Punk Gibson canon). UNVERIFIED |
+| Scyther Sonic (Killer attack) | 鎌刃·音速 | COINED — Scyther/scythe 鎌刃 + Sonic 音速. Killer 奇拉 (L1800). UNVERIFIED |
+| Indra (Kaido thunder attack; Hindu deity) | 因陀羅 | standard zh transliteration of Indra 因陀羅. UNVERIFIED as attack |
+| Demolition Gust (Kaido attack) | 破壞疾風 | COINED — Demolition 破壞 + Gust 疾風. UNVERIFIED |
+| God of Lightning Tenjin (Kaido attack; 天神/雷神) | 雷神·天神 | COINED — God of Lightning 雷神 + Tenjin 天神. UNVERIFIED |
+| Beheading Claws (Kaido/attack) | 斬首爪 | COINED — Beheading 斬首 + Claws 爪. UNVERIFIED |
+| Heavenly Bon-Bons (Big Mom attack; candy hail) | 天降邦邦糖 | COINED — Heavenly 天降 + Bon-Bons 邦邦糖 (candy, onomatopoeia-ish). UNVERIFIED |
+
+## Wano Country Arc (Wano 57 — Onigashima: Gifters block the way; Straw Hats advance; Briscola)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Gifters — file W57 | 給賦者 | W57 committed 賦能者 → patch to 給賦者 (established, see reconciliation table) |
+| Briscola | 布利斯哥拉 | dup of W51 entry — kept consistent |
+
+## Wano Country Arc (Wano 58 — Onigashima: Bao Huang's Marys surveillance; Robin vs Black Maria (Caiman Lady, Mimawari-gumi); Robin Spank / One-Sword Style of the Flower)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Marys — file W58 | 瑪麗 | W58 committed 瑪莉 → patch to 瑪麗 (canonical, see reconciliation table) |
+| Caiman Lady (Black Maria's henchwoman / brothel worker) | 鱷魚小姐 | COINED — caiman 鱷魚 + Lady 小姐. Actor field "Caiman Lady". UNVERIFIED |
+| Mimawari-gumi (Black Maria's guard/patrol group; 見迴組) | 見迴組 | Historical-style name kept in kanji 見迴組 (Edo patrol-corps). UNVERIFIED as OP term |
+| Spank (Robin arm-clone slap attack) | 打屁股 | COINED literal — Spank 打屁股. Robin 羅賓 (L16). UNVERIFIED |
+| One-Sword Style of the Flower ("花"一刀流; Hyogoro-lineage) | 花之一刀流 | COINED — 花 (Flower, Hyogoro "the Flower" 「花」L5025) + One-Sword Style 一刀流. UNVERIFIED |
+| Gifters — file W58 | 給賦者 | W58 committed 賦予者 → patch to 給賦者 (see reconciliation table) |
+
+## Wano Country Arc (Wano 59 — Live Floor: Orochi's Oniwabanshu (Daikoku, Hotei, Yatappe, Tsunagoro); Kazekage; Chopper's Chopperphage/Nebulizer)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Daikoku (Oniwabanshu member; god-of-fortune name) | 大黑 | VERIFIED (V) verify_names.py (大黑) |
+| Captain Hotei (Oniwabanshu captain; god-name) | 布袋隊長 | VERIFIED (V) — Hotei 布袋 (Budai) + Captain 隊長 |
+| Kazekage (Oniwabanshu; "wind shadow") | 風影 | COINED/std — 風影. UNVERIFIED as OP name |
+| Yatappe (Oniwabanshu member) | 彌太佩 | UNVERIFIED — coined phonetic |
+| Tsunagoro (Oniwabanshu member) | 綱五郎 | UNVERIFIED — coined phonetic (綱=tsuna + 五郎=goro) |
+| Chopperphage (Chopper medical attack; -phage) | 喬巴噬菌體 | COINED — Chopper 喬巴 + -phage 噬菌體. UNVERIFIED |
+| Nebulizer (Chopper medical attack) | 噴霧器 | COINED — Nebulizer 噴霧器 (medical). UNVERIFIED |
+| Oniwabanshu (Orochi's spy corps) | 御庭番眾 | already established (L4993) — kept |
+
+## Wano Country Arc (Wano 60 — rooftop finale build: Kaido "Conquest of the Sea"/Conqueror titles; Kid Punk Pistols; Zoro Asura)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Conquest of the Sea / Hakai (Kaido title/attack; 覇海) | 霸海 | VERIFIED (V) — 霸海 (覇海) |
+| Conqueror of Three Worlds / 覇三世 (Kaido title) | 霸三世 | VERIFIED (V) |
+| Ragnaraka (Kaido club/attack; Ragnarok pun) | 拉格納拉克 | COINED phonetic (Ragnarök). UNVERIFIED |
+| Punk Pistols (Eustass Kid attack) | 龐克·手槍 | COINED — Punk 龐克 + Pistols 手槍. Interpunct form. UNVERIFIED |
+| Asura: Blades Drawn—Dead Man's Game (Zoro Nine-Sword Style) | 阿修羅·拔刀 死者遊戲 | COINED — Asura 阿修羅 (L4922) + Blades Drawn 拔刀 + Dead Man's Game 死者遊戲. UNVERIFIED |
+
+## Wano Country Arc (Wano 61 — rooftop: Big Mom's homies (Hera, Prometheus/Zeus/Napoleon); Kid & Killer combo; Ulti Demon Face; Bariete callback; watch out for the Marys)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Hera (Big Mom's new thunder-cloud homie) | 赫拉 | VERIFIED (V) — 赫拉 (Greek goddess std) |
+| Fulgora (Big Mom homie / attack; lightning) | 富爾戈拉 | COINED phonetic (Fulgora, Roman lightning goddess). UNVERIFIED |
+| Demon Face (Ulti attack) | 鬼面 | COINED — Demon 鬼 + Face 面. Ulti 烏爾蒂 (L5361). UNVERIFIED |
+| Firework Flowers (attack; 花火花) | 花火花 | COINED — Firework 花火 + Flower 花. UNVERIFIED |
+| Exploding Pine Cones (attack) | 爆裂松果 | COINED — Exploding 爆裂 + Pine Cones 松果. UNVERIFIED |
+| Marys — file W61 | 瑪麗 | canonical/correct (see reconciliation table) |
+| Bariete (callback) | 巴力耶特 | canonical VERIFIED (L3466); W61 correct. Reconciled stale L3410/L3440 |
