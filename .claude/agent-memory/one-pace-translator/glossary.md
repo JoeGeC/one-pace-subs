@@ -5588,3 +5588,93 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Exploding Pine Cones (attack) | 爆裂松果 | COINED — Exploding 爆裂 + Pine Cones 松果. UNVERIFIED |
 | Marys — file W61 | 瑪麗 | canonical/correct (see reconciliation table) |
 | Bariete (callback) | 巴力耶特 | canonical VERIFIED (L3466); W61 correct. Reconciled stale L3410/L3440 |
+
+## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
+**Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
+
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Vegapunk / Dr. Vegapunk | 貝卡帕庫 / 貝卡帕庫博士 | established 貝卡帕庫 (L3231). Egghead standard — do NOT use 貝加龐克 |
+| Stella (Vegapunk's original self / real Vegapunk) | 史黛拉 | VERIFIED (V) verify_names 史黛拉. The "true" Vegapunk brain among the 6 satellites |
+| satellite (a Vegapunk unit) | 衛星 | the 6 Vegapunks are 衛星 (satellites) of Stella |
+| Vegapunk Shaka ("Good" / No.01) | 貝卡帕庫·釋迦 / 釋迦 | VERIFIED (V) — 釋迦 (Fandom zh 貝卡帕庫/釋迦) |
+| Vegapunk Lilith ("Evil" / No.02) | 貝卡帕庫·莉莉絲 / 莉莉絲 | VERIFIED (V) — 莉莉絲 |
+| Vegapunk Edison ("Thinking" / No.03) | 貝卡帕庫·愛迪生 / 愛迪生 | VERIFIED (V) — 愛迪生 |
+| Vegapunk Pythagoras ("Wisdom" / No.04) | 貝卡帕庫·畢達哥拉斯 / 畢達哥拉斯 | VERIFIED (V) — 畢達哥拉斯 (Fandom zh 貝卡帕庫/畢達哥拉斯) |
+| Vegapunk Atlas ("Violence" / No.05) | 貝卡帕庫·阿特拉斯 / 阿特拉斯 | VERIFIED (V) — 阿特拉斯 (distinct from Atlas-beetle L444) |
+| Vegapunk York ("Greed" / No.06) | 貝卡帕庫·約克 / 約克 | VERIFIED (V) — 約克 |
+| Jaygarcia Saturn (Five Elder; Warrior God of Science & Defense) | 傑伊葛西亞·薩圖恩 / 薩圖恩 | VERIFIED (V) — canonical zh page 傑伊葛西亞·薩圖恩 (薩坦 is a redirect). Saturn = 薩圖恩 |
+| Marcus Mars (Five Elder; Warrior God of Environment) | 馬卡司·馬茲 / 馬茲 | VERIFIED (V) verify_names EN-langlink. Mars = 馬茲 |
+| Topman Warcury (Five Elder; Warrior God of Justice) | 托普曼·沃裘利 | VERIFIED (V) verify_names EN-langlink |
+| Ethanbaron V. Nusjuro (Five Elder; Warrior God of Finance) | 夜殘刨瀧·V·茄壽郎 | VERIFIED (V) verify_names EN-langlink. Nusjuro = 茄壽郎 |
+| Shepherd Ju Peter (Five Elder; Warrior God of Agriculture) | 雪帕德·十·彼德 | VERIFIED (V) verify_names EN-langlink |
+| Seraphim | 熾天使 | VERIFIED (V) — 熾天使 (the S-model lineage) |
+| S-Snake (Seraphim of Hancock) | S-蛇 | VERIFIED (V) Fandom zh page S-蛇 |
+| S-Hawk (Seraphim of Mihawk) | S-鷹 | VERIFIED (V) Fandom zh page S-鷹 |
+| S-Bear (Seraphim of Kuma) | S-熊 | VERIFIED (V) Fandom zh page S-熊 |
+| S-Shark (Seraphim of Jinbe) | S-鯊 | VERIFIED (V) Fandom zh page S-鯊 |
+| Egghead (Future Island) | 蛋頭（未來島） | VERIFIED (V) Fandom zh page title 蛋頭 (arc 蛋頭篇). "Future Island, Egghead" = 未來島・蛋頭 |
+| Labophase (laboratory level, above the clouds) | 實驗層 | COINED — "the laboratory level, the Labophase" = 實驗層. UNVERIFIED (no Fandom zh entry) |
+| Fabriophase (factory level, below) | 工廠層 | COINED — "the factory level, the Fabriophase" = 工廠層. UNVERIFIED |
+| Frontier Dome (defense system encircling the Labophase) | 前線巨蛋 | COINED — Frontier 前線 + Dome 巨蛋. UNVERIFIED |
+| Punk Records (Vegapunk's shared knowledge database in the giant egg) | 龐克記錄 | COINED — kept as proper-noun label 龐克記錄. UNVERIFIED |
+| Mother Flame (Vegapunk's new energy source) | 母之炎 | COINED — Mother 母 + Flame 炎. UNVERIFIED |
+| Emet / the Iron Giant (ancient robot warrior) | 埃米特 / 鐵巨人 | COINED — Emet 埃米特 (phonetic), Iron Giant 鐵巨人 (literal). UNVERIFIED |
+| Ginny (Kuma flashback; Bonney's mother) | 金妮 | COINED phonetic — verify_names NOT_FOUND. UNVERIFIED |
+| Vice Admiral Doberman | 杜貝爾曼中將 | COINED phonetic 杜貝爾曼 (Marineford VA callback). verify_names gave generic 鬥犬 — not used. UNVERIFIED |
+
+### Egghead mid-batch locks (driver, 2026-07-31 — resolving parallel-agent divergence; canonical forms for episodes 15-21 onward + reconciliation targets)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Brain-Brain Fruit / Nomi Nomi no Mi (Vegapunk's Devil Fruit) | 腦腦果實 | VERIFIED (V) Fandom zh. Stutter "腦腦腦腦—" ok |
+| Vegaforce-01 (giant robot modeled on Emet) | 貝卡帕庫Force-01 | VERIFIED base term 貝卡帕庫Force (Fandom zh) + 01 |
+| Robonosuke (Luffy's nickname for Emet/Iron Giant) | 羅伯之助 | CANONICAL (resolves ep06 機器之助 vs ep07 羅伯之助). Phonetic Robo 羅伯 + 之助 (parallels 桃之助) |
+| Robo King (Luffy's made-up robot name) | 機器王 | COINED — Luffy coinage |
+| "-quasar" (Vegapunk/Stella futuristic verbal tic) | 類星體 | CANONICAL (resolves ep06 準星 vs ep07 類星體). Standard astronomy term for quasar |
+| Freedom Fighters (Dragon's pre-Revolutionary-Army group) | 自由戰士 | COINED literal. verify_names NOT_FOUND. UNVERIFIED |
+| Special Science Group (SSG; Vegapunk's Marine post) | 海軍特殊科學班 | COINED. "Head of the Marines' SSG" = 海軍特殊科學班負責人 |
+| Dom shoes (Vegapunk's hover shoes) | 多姆鞋 | COINED phonetic. UNVERIFIED |
+| Prince Grus (Rear Admiral, SWORD) | 普林司·古勒斯 | VERIFIED verify_names. 普林司·古勒斯少將 |
+| Vice Admiral Doll | 朵爾 | VERIFIED. 朵爾中將 |
+| Commander Hibari | 雲雀 | VERIFIED. 雲雀中佐 |
+| King Seki (Lulusia king) | 瑟奇 | COINED — EN "Seki" no zh langlink. 瑟奇國王. one-off (Lulusia destroyed). UNVERIFIED |
+| Vice Admiral Yamakaji | 火燒山 | VERIFIED verify_names (火燒山, EN langlink). 火燒山中將 |
+| Egghead (island, base form) | 蛋頭 | RECONCILE: use 蛋頭 (ep03 used 蛋頭島 — normalize to 蛋頭 except "Egghead Island"→未來島蛋頭) |
+| Ranks (Japanese-kanji convention) | 大將/中將/少將/大佐/中佐/少佐 | Admiral 大將, Vice Admiral 中將, Rear Admiral 少將, Captain 大佐, Commander 中佐, Lt.Cmdr 少佐. SWORD/CP0/CP9 kept Latin |
+
+### Egghead 01–21 — new names verified in translation + reconciliations (driver fold-in, 2026-07-31)
+Reconciled cross-episode splits (surgical string-swaps applied to zh-TW files): Flame Emperor (Sabo) = **炎帝** (was 火焰皇帝 ep01); Old Man Punk = **龐克老頭** (was 龐克老爺子 ep08); Apple Gramps = **蘋果老頭** (was 蘋果爺爺 ep21); Vegaforce-01 = **貝卡帕庫Force-01** (was 貝卡福斯01 ep05 / Latin ep09; no zh Fandom page — hybrid matches Vegatank 貝卡帕庫坦克); dom shoes = **多姆鞋** (was 支配之靴 ep11); Robonosuke = **羅伯之助** (was 機器之助 ep06); Empty Bluffs Island = **空蕩斷崖島** (was 空虛斷崖島 ep15); Lulusia Kingdom = **魯魯西亞王國** (was 露露西亞 ep19; Fandom EN→zh langlink confirms 魯魯西亞王國). `-quasar` tic left as-is per file (準星/類星體 both = quasar; 準星 collides with "gun-sight" so not blanket-swapped). Egghead island 蛋頭島 left where used (= 蛋頭 + 島 "Egghead Island", base name consistent).
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Cross Guild | 十字公會 | VERIFIED (V) — Buggy/Crocodile/Mihawk org |
+| Benn Beckman ("Beck") | 班·貝克曼 / 貝克 | VERIFIED (V) |
+| Sphinx (Whitebeard's home island) | 斯芬克斯 | VERIFIED (V) — Fandom zh 斯芬克斯 (島嶼) |
+| Vice Admiral Yamakaji | 火燒山 | VERIFIED (V) |
+| Prince Grus (Rear Admiral, SWORD) | 普林司·古勒斯 | VERIFIED (V) |
+| Vice Admiral Doll | 朵爾 | VERIFIED (V) |
+| Commander Hibari | 雲雀 | VERIFIED (V) |
+| Vasco Shot ("Heavy Drinker") | 巴斯可·簫特 | VERIFIED (V) — Blackbeard Pirates Titanic Captain |
+| Sanjuan Wolf ("Colossal Battleship") | 薩方·烏爾夫 | VERIFIED (V) |
+| Kujaku (Rear Admiral, SWORD) | 孔雀 | VERIFIED (V) |
+| Absalom | 阿布薩羅姆 | VERIFIED (V) |
+| Clear-Clear Fruit (Suke Suke no Mi) | 透明果實 | VERIFIED (V) |
+| Sick-Sick Fruit (Doc Q's) | 病病果實 | VERIFIED (V) |
+| Ryokugyu / Aramaki (Admiral) | 綠牛 | epithet form (matches 黃猿/青雉/赤犬); real name 荒牧 |
+| Morgans ("Morgy") | 摩甘茲 / 摩甘 | VERIFIED (V) — WEN news CEO |
+| Karasu (Revolutionary cmdr) | 卡拉司 | VERIFIED (V) |
+| Morley (Revolutionary cmdr) | 摩利 | VERIFIED (V) (one-off "Morrie" ep17 coincidentally also 摩利) |
+| Pangaea Castle | 盤古城 | VERIFIED (V) |
+| Nika / Sun God Nika | 尼卡 / 太陽神尼卡 | VERIFIED (V) |
+| Lunarian (King's race) | 明月族 | VERIFIED (V) — NOT 月之民 |
+| Alber (King's real name) | 阿爾貝爾 | UNVERIFIED — EN "King" page kept Latin; 阿爾貝爾 = std アルベル. "King" kept Latin (glossary L4995) |
+| Rocks Pirates | 洛克斯海賊團 | VERIFIED (V) |
+| Hongo (Red Hair Pirates doctor) | 北鄉 | VERIFIED (V) |
+| Penguin (Heart Pirates) | 企鵝 | VERIFIED (V) |
+| Ahiru (Revolutionary deputy cmdr) | 阿比留 | VERIFIED (V) |
+| Holy Knights / God's Knights | 神之騎士團 | COINED-standard (no zh Fandom page yet — recent chapters). RECURRING — lock |
+| St. Figarland Garling | 費加蘭·加林聖 | COINED (no zh page). Holy Knights supreme commander. RECURRING |
+| Authority Chip | 權限晶片 | COINED — Egghead access chip |
+| Vegatank (Vegapunk's vehicle) | 貝卡帕庫坦克 | COINED (Vegapunk 貝卡帕庫 + tank) |
+| Freedom Fighters (Dragon's pre-RA group) | 自由戰士 | COINED |
+| Special Science Group (SSG) | 海軍特殊科學班 | COINED |
+| King Seki (Lulusia king) | 瑟奇 | COINED — one-off (Lulusia destroyed) |
