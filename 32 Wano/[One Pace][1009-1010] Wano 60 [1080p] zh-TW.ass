@@ -300,13 +300,13 @@ Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=44}========================
 Dialogue: 2,0:05:10.08,0:05:15.00,Title-207+,,0,0,100,,{\an8\pos(960,100)\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(731,0)}霸王色霸氣
 Dialogue: 1,0:05:10.08,0:05:15.00,Title-207+,,0,0,100,,{\an8\pos(960,100)\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(731,0)\t(689,731,\1a&H00&)}霸王色霸氣
 Comment: 0,0:01:22.44,0:01:23.06,Captions-207+,,0,0,0,,{=52}Conquest of the Sea
-Dialogue: 0,0:18:14.07,0:18:17.83,Captions-207+,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}m 174 19 l 1779 19 1779 1078 174 1078
+Dialogue: 0,0:18:14.07,0:18:17.83,Captions-207+,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}
 Dialogue: 1,0:18:14.07,0:18:17.83,Captions-207+,,0,0,100,,{\an8\pos(960,100)\q2\fnDry Brush\bord0\fscx1225\fscy1000\blur0.8\c&HFAFAFA&}ASURA
-Dialogue: 1,0:18:14.07,0:18:17.83,Captions-207+,,0,0,100,,{\an8\pos(965,155)\q2\fnDry Brush\bord0\fscx1000\fscy1000\blur0.8\c&HFAFAFA&}BLADES
-Dialogue: 1,0:18:14.07,0:18:17.83,Captions-207+,,0,0,100,,{\an8\pos(930,210)\q2\fnDry Brush\bord0\fscx1000\fscy1000\blur0.8\c&HFAFAFA&}DRAWN
-Dialogue: 0,0:18:17.83,0:18:21.04,Captions-207+,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}m 10 19 l 1779 19 1779 1078 174 1078
+Dialogue: 1,0:18:14.07,0:18:17.83,Captions-207+,,0,0,100,,{\an8\pos(965,436)\q2\fnDry Brush\bord0\fscx1000\fscy1000\blur0.8\c&HFAFAFA&}BLADES
+Dialogue: 1,0:18:14.07,0:18:17.83,Captions-207+,,0,0,100,,{\an8\pos(930,100)\q2\fnDry Brush\bord0\fscx1000\fscy1000\blur0.8\c&HFAFAFA&}DRAWN
+Dialogue: 0,0:18:17.83,0:18:21.04,Captions-207+,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}
 Dialogue: 1,0:18:17.83,0:18:21.04,Captions-207+,,0,0,100,,{\an8\pos(960,100)\q2\fnDry Brush\bord0\fscx900\fscy1225\blur0.8\c&HF8F8FD&}DEAD MAN'S
-Dialogue: 1,0:18:17.83,0:18:21.04,Captions-207+,,0,0,100,,{\an8\pos(945,155)\q2\fnDry Brush\bord0\fscx2000\fscy1750\blur0.8\c&HF8F8FD&}GAME
+Dialogue: 1,0:18:17.83,0:18:21.04,Captions-207+,,0,0,100,,{\an8\pos(945,0)\q2\fnDry Brush\bord0\fscx2000\fscy1750\blur0.8\c&HF8F8FD&}GAME
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=45}============================SIGNS AND TITLE=========================
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=34}===============================CREDITS==============================
 Dialogue: 0,0:03:53.42,0:03:56.88,Credits-207+,,0,0,0,,{\pos(200,175)\fad(200,200)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing

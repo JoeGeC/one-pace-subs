@@ -49,6 +49,8 @@ LEGACY_A_TAG_RE = re.compile(r'\\a(?:1[01]|[1-9])(?!\d)')
 # \move is stripped by merge when pinning a caption to the top of the screen,
 # so it must not count as a tag difference (mirrors merge_translation.py).
 MOVE_TAG_RE = re.compile(r'\\move\([^)]*\)')
+# Clips move with a repositioned caption (merge_translation._shift_clip).
+CLIP_TAG_RE = re.compile(r'\\i?clip\([^)]*\)')
 # Karaoke sweeps are re-syllabified in translation (zh has a different
 # syllable count), so \ko/\k/\kf/\K durations can't be compared per-block.
 KARAOKE_TAG_RE = re.compile(r'\\(?:ko|kf|k|K)\d+')
@@ -119,7 +121,7 @@ def extract_format_tags(text):
 
     Returns only {\\...} blocks (real formatting), not editor comments or {Z}.
     Normalizes tags so equivalent forms compare equal:
-      - Strips \\pos() and \\an (changed by repositioning)
+      - Strips \\pos(), \\an and \\clip() (changed by repositioning)
       - Normalizes \\i -> \\i0, \\b -> \\b0 (shorthand equivalents)
     """
     tags = ASS_TAG_RE.findall(text)
@@ -127,6 +129,7 @@ def extract_format_tags(text):
     for tag in tags:
         t = POS_TAG_RE.sub('', tag)
         t = MOVE_TAG_RE.sub('', t)
+        t = CLIP_TAG_RE.sub('', t)
         t = AN_TAG_RE.sub('', t)
         t = LEGACY_A_TAG_RE.sub('', t)
         t = KARAOKE_TAG_RE.sub('', t)
@@ -248,9 +251,11 @@ def validate(original_path, translated_path, fix=False):
     # not-yet-translated Title/Captions line in a WIP episode gets wrongly
     # flagged as "should have been pinned."
     trans_text_by_ln = {ln: text for (ln, _l, _s, _e, _st, _n, _ml, _mr, _mv, _ef, text) in trans_lines}
+    # Drawings differ too (merge blanks them) but are never translated, so
+    # merge never hands them to the planner.
     orig_text_by_ln = {
         ln: text for (ln, _l, _s, _e, _st, _n, _ml, _mr, _mv, _ef, text) in orig_lines
-        if trans_text_by_ln.get(ln) != text
+        if trans_text_by_ln.get(ln) != text and not is_drawing_only(text)
     }
     expected_pins = _plan_top_positions(orig_raw_lines, orig_text_by_ln, res_x, res_y, style_map)
 

@@ -1797,8 +1797,8 @@ Dialogue: 0,0:02:09.10,0:02:09.15,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fs
 Dialogue: 1,0:02:09.10,0:02:09.15,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H050201&}數年前
 Dialogue: 0,0:02:09.15,0:02:09.19,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}數年前
 Dialogue: 1,0:02:09.15,0:02:09.19,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H050201&}數年前
-Dialogue: 0,0:02:09.19,0:02:09.90,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}數年前
-Dialogue: 1,0:02:09.19,0:02:09.90,Captions-207+,,0,0,100,,{\an8\pos(1490,100)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H050201&}數年前
+Dialogue: 0,0:02:09.19,0:02:09.90,Captions-207+,,0,0,100,,{\an8\pos(1490,310.05)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}數年前
+Dialogue: 1,0:02:09.19,0:02:09.90,Captions-207+,,0,0,100,,{\an8\pos(1490,310.05)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H050201&}數年前
 Comment: 0,0:02:01.73,0:02:09.90,Captions-207+,,0,0,0,,{=87}Several Years Ago
 Comment: 0,0:02:01.73,0:02:09.90,Captions-207+,,0,0,0,,{=86}Onigashima\NDuring Kaido's Absence
 Dialogue: 0,0:02:01.76,0:02:01.80,Captions-207+,,0,0,200,,{\an8\pos(444,100)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}鬼島\N凱多不在期間
@@ -2157,10 +2157,10 @@ Dialogue: 0,0:02:09.10,0:02:09.15,Captions-207+,,0,0,200,,{\an8\pos(444,100)\fsc
 Dialogue: 1,0:02:09.10,0:02:09.15,Captions-207+,,0,0,200,,{\an8\pos(444,100)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&}鬼島\N凱多不在期間
 Dialogue: 0,0:02:09.15,0:02:09.19,Captions-207+,,0,0,200,,{\an8\pos(444,100)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}鬼島\N凱多不在期間
 Dialogue: 1,0:02:09.15,0:02:09.19,Captions-207+,,0,0,200,,{\an8\pos(444,100)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&}鬼島\N凱多不在期間
-Dialogue: 0,0:02:09.19,0:02:09.90,Captions-207+,,0,0,200,,{\an8\pos(444,210)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}鬼島\N凱多不在期間
-Dialogue: 1,0:02:09.19,0:02:09.90,Captions-207+,,0,0,200,,{\an8\pos(444,210)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&}鬼島\N凱多不在期間
+Dialogue: 0,0:02:09.19,0:02:09.90,Captions-207+,,0,0,200,,{\an8\pos(444,378.01)\fscx90\fscy90\fnRoboto\b1\bord3\c&HEBEBEB&\3c&HEBEBEB&\blur0.7}鬼島\N凱多不在期間
+Dialogue: 1,0:02:09.19,0:02:09.90,Captions-207+,,0,0,200,,{\an8\pos(444,378.01)\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&}鬼島\N凱多不在期間
 Comment: 0,0:02:01.73,0:02:09.90,Captions-207+,,0,0,0,,{=85}Onigashima\NDuring Kaido's Absence
-Dialogue: 0,0:03:26.56,0:03:33.07,Note-207+,,0,0,100,,{\fad(0,649)}「御田的遊記」
+Dialogue: 0,0:03:26.56,0:03:33.07,Note-207+,,0,0,100,,{\an8\pos(960,102.55)\fad(0,649)}「御田的遊記」
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=84}============================SIGNS AND TITLE=========================
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=83}===============================CREDITS==============================
 Dialogue: 0,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(330,225)\fad(607,610)\blur0.6\bord3\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Video Editing

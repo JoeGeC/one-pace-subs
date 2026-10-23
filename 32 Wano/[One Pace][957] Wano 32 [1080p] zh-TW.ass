@@ -82,8 +82,8 @@ Dialogue: 50,0:04:30.17,0:04:35.09,Main-207+,,0,0,0,,他們開始對世界政府
 Dialogue: 50,0:04:35.96,0:04:40.13,Main-207+,,0,0,0,,他們的恐怖行徑兇殘到無法鎮壓……
 Dialogue: 50,0:04:41.05,0:04:47.27,Main-207+,,0,0,0,,全世界都聞其名而色變
 Dialogue: 50,0:04:47.68,0:04:53.23,Main-207+,,0,0,0,,{\fad(0,980)}三十八年前，在諸神峽谷\N發生了一起格外決定命運的事件
-Dialogue: 50,0:04:54.11,0:04:59.36,Main-207+,,0,0,200,,{\an8\pos(960,210)}新聞報導，被稱為\N世界最強海賊團的洛克斯海賊團……
-Dialogue: 50,0:04:59.36,0:05:01.36,Main-207+,,0,0,100,,{\an8\pos(960,210)}在那座島上全軍覆沒
+Dialogue: 50,0:04:54.11,0:04:59.36,Main-207+,,0,0,200,,{\an8\pos(960,325.3)}新聞報導，被稱為\N世界最強海賊團的洛克斯海賊團……
+Dialogue: 50,0:04:59.36,0:05:01.36,Main-207+,,0,0,100,,{\an8\pos(960,325.3)}在那座島上全軍覆沒
 Dialogue: 50,0:05:36.52,0:05:40.40,Main-207+,,0,0,0,,那股勢不可擋的邪惡力量被擊敗了……
 Dialogue: 50,0:05:40.40,0:05:43.91,Main-207+,,0,0,0,,而擊敗他們的正是海軍本部的中將卡普！
 Dialogue: 50,0:05:47.03,0:05:49.79,Main-207+,,0,0,0,,他的名字\N傳遍了全世界
@@ -215,44 +215,44 @@ Dialogue: 50,0:15:42.59,0:15:47.13,Main-207+,,0,0,0,,我認為這絕非偶然…
 Dialogue: 50,0:15:47.97,0:15:48.97,Main-207+,,0,0,0,,薩卡斯基！
 Dialogue: 1,0:00:00.02,0:00:05.86,Captions-207+,,0,0,200,,{\an8\pos(1722,100)\fad(439,0)\fnKakumin Web\b1\bord0\fs45\blur0.5\fscx120\fscy120}海軍本部\N新世界
 Dialogue: 0,0:00:00.02,0:00:05.86,Captions-207+,,0,0,200,,{\an8\pos(1722,100)\fad(439,0)\fnKakumin Web\b1\bord2.5\1a&HFF&\fs45\blur0.5\fscx120\fscy120\t(0,439,\1a&H00&)}海軍本部\N新世界
-Dialogue: 0,0:01:35.99,0:01:36.03,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.03,0:01:36.07,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.07,0:01:36.11,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.11,0:01:36.15,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.15,0:01:36.20,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.20,0:01:36.24,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.24,0:01:36.28,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.28,0:01:36.32,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.32,0:01:36.36,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.36,0:01:36.40,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.40,0:01:36.45,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.45,0:01:36.49,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.49,0:01:36.53,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.53,0:01:36.57,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.57,0:01:36.61,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.61,0:01:36.65,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.65,0:01:36.70,Captions-207+,,0,0,100,,{\an8\pos(994.34,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.70,0:01:36.74,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.74,0:01:36.78,Captions-207+,,0,0,100,,{\an8\pos(994.33,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.78,0:01:36.82,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.82,0:01:36.86,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.86,0:01:36.90,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.90,0:01:36.95,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.95,0:01:36.99,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:36.99,0:01:37.03,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.03,0:01:37.07,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.07,0:01:37.11,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.11,0:01:37.16,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.16,0:01:37.20,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.20,0:01:37.24,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.24,0:01:37.28,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.28,0:01:37.32,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.32,0:01:37.36,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.36,0:01:37.41,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.41,0:01:37.45,Captions-207+,,0,0,100,,{\an8\pos(994.32,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 0,0:01:37.45,0:01:39.16,Captions-207+,,0,0,100,,{\an8\pos(994.31,100)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
-Dialogue: 1,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,100)\fad(440,0)\fnKakumin Web\b1\bord0\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130}38年前
-Dialogue: 0,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,100)\fad(440,0)\fnKakumin Web\b1\bord2.5\1a&HFF&\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130\t(0,440,\1a&H7F&)}38年前
+Dialogue: 0,0:01:35.99,0:01:36.03,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.03,0:01:36.07,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331\fscy321\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.07,0:01:36.11,Captions-207+,,0,0,100,,{\an8\pos(994.34,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.11,0:01:36.15,Captions-207+,,0,0,100,,{\an8\pos(994.34,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.15,0:01:36.20,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.20,0:01:36.24,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.24,0:01:36.28,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.28,0:01:36.32,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.32,0:01:36.36,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.36,0:01:36.40,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.40,0:01:36.45,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.45,0:01:36.49,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.49,0:01:36.53,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.01\fscy321.01\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.53,0:01:36.57,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.57,0:01:36.61,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.61,0:01:36.65,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.65,0:01:36.70,Captions-207+,,0,0,100,,{\an8\pos(994.34,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.70,0:01:36.74,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.74,0:01:36.78,Captions-207+,,0,0,100,,{\an8\pos(994.33,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.78,0:01:36.82,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.82,0:01:36.86,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.86,0:01:36.90,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.90,0:01:36.95,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.95,0:01:36.99,Captions-207+,,0,0,100,,{\an8\pos(994.31,675.93)\fscx331.02\fscy321.02\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:36.99,0:01:37.03,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.03,0:01:37.07,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.07,0:01:37.11,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.11,0:01:37.16,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.16,0:01:37.20,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.20,0:01:37.24,Captions-207+,,0,0,100,,{\an8\pos(994.31,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.24,0:01:37.28,Captions-207+,,0,0,100,,{\an8\pos(994.31,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.28,0:01:37.32,Captions-207+,,0,0,100,,{\an8\pos(994.31,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.32,0:01:37.36,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.36,0:01:37.41,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.41,0:01:37.45,Captions-207+,,0,0,100,,{\an8\pos(994.32,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 0,0:01:37.45,0:01:39.16,Captions-207+,,0,0,100,,{\an8\pos(994.31,675.93)\fscx331.03\fscy321.03\frz359\fry358\frx14\fnYozakura JP\bord0\c&H251A13&\blur1}一笑
+Dialogue: 1,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,225.6)\fad(440,0)\fnKakumin Web\b1\bord0\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130}38年前
+Dialogue: 0,0:04:53.52,0:05:02.41,Captions-207+,,0,0,100,,{\an8\pos(932,225.6)\fad(440,0)\fnKakumin Web\b1\bord2.5\1a&HFF&\fs60\blur1.2\c&HF6F6F6&\fscx130\fscy130\t(0,440,\1a&H7F&)}38年前
 Dialogue: 0,0:07:44.48,0:07:44.52,Captions-207+,,0,0,100,,{\an8\pos(931.67,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
 Dialogue: 0,0:07:44.52,0:07:44.56,Captions-207+,,0,0,100,,{\an8\pos(931.37,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役
 Dialogue: 0,0:07:44.56,0:07:44.61,Captions-207+,,0,0,100,,{\an8\pos(934.15,100)\fscx280\fscy280\fnYozakura JP\bord0\c&H6464A0&\alpha&H80&\blur3}退役

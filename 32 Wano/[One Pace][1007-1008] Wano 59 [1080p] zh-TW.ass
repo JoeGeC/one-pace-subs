@@ -186,14 +186,14 @@ Dialogue: 0,0:11:22.70,0:11:26.79,Main-207+,,0,0,0,,我們寧願跟救命恩人�
 Dialogue: 0,0:11:26.79,0:11:29.96,Main-207+,,0,0,0,,也不願被我們那瘋子老大殺掉！
 Dialogue: 0,0:11:29.96,0:11:32.46,Main-207+,,0,0,0,,對吧，弟兄們？！
 Dialogue: 0,0:11:35.59,0:11:37.43,Main-207+,,0,0,0,,謝謝你，狸貓！
-Dialogue: 0,0:11:37.43,0:11:38.93,Main-207+,,0,0,0,,{\pos(1452,1053)}狸貓！
-Dialogue: 0,0:11:39.30,0:11:40.72,Main-207+,,0,0,0,,{\pos(470,1053)}狸貓！
-Dialogue: 0,0:11:40.72,0:11:42.68,Main-207+,,0,0,0,,{\pos(1452,1053)}狸貓！
-Dialogue: 0,0:11:42.68,0:11:45.73,Main-207+,,0,0,0,,{\pos(470,1053)}我們欠你一個大人情，\N狸貓先生！
-Dialogue: 0,0:11:46.10,0:11:48.19,Main-207+,,0,0,0,,{\pos(1452,1053)}狸貓先生……謝謝你！
-Dialogue: 0,0:11:48.19,0:11:51.52,Main-207+,,0,0,0,,{\pos(470,1053)}你可真了不起，\N小狸貓。
+Dialogue: 0,0:11:37.43,0:11:38.93,Main-207+,,0,0,0,,{\an2\pos(1452,948.7)}狸貓！
+Dialogue: 0,0:11:39.30,0:11:40.72,Main-207+,,0,0,0,,{\an2\pos(470,948.7)}狸貓！
+Dialogue: 0,0:11:40.72,0:11:42.68,Main-207+,,0,0,0,,{\an2\pos(1452,948.7)}狸貓！
+Dialogue: 0,0:11:42.68,0:11:45.73,Main-207+,,0,0,0,,{\an2\pos(470,854.4)}我們欠你一個大人情，\N狸貓先生！
+Dialogue: 0,0:11:46.10,0:11:48.19,Main-207+,,0,0,0,,{\an2\pos(1452,948.7)}狸貓先生……謝謝你！
+Dialogue: 0,0:11:48.19,0:11:51.52,Main-207+,,0,0,0,,{\an2\pos(470,854.4)}你可真了不起，\N小狸貓。
 Dialogue: 0,0:11:51.86,0:12:01.45,Main-207+,,0,0,0,,– 狸貓！狸貓！狸貓！狸貓！\N– 狸貓！狸貓！狸貓！狸貓！
-Dialogue: 0,0:11:51.86,0:12:01.45,Main-207+,,0,0,200,,{\an8\pos(960,100)}– 狸貓！狸貓！狸貓！狸貓！\N– 狸貓！狸貓！狸貓！狸貓！
+Dialogue: 0,0:11:51.86,0:12:01.45,Main-207+,,0,0,200,,{\an8\pos(960,225.6)}– 狸貓！狸貓！狸貓！狸貓！\N– 狸貓！狸貓！狸貓！狸貓！
 Dialogue: 0,0:12:01.45,0:12:03.79,Main-207+,,0,0,0,,下地獄去吧，Queen！
 Dialogue: 0,0:12:08.00,0:12:10.58,Main-207+,,0,0,0,,你們這些小混蛋！
 Dialogue: 0,0:12:13.46,0:12:16.13,Main-207+,,0,0,0,,這到底是怎麼回事？！
@@ -205,45 +205,45 @@ Dialogue: 0,0:12:25.98,0:12:29.02,Main-207+,,0,0,0,,狸貓！
 Dialogue: 0,0:12:29.77,0:12:30.98,Main-207+,,0,0,0,,{\fad(150,313)}藍波球！
 Dialogue: 0,0:12:31.52,0:12:33.86,Main-207+,,0,0,0,,{\fad(150,150)}怪物強化！
 Dialogue: 0,0:12:34.65,0:12:37.28,Main-207+,,0,0,0,,– 上啊！\N– 上啊！
-Dialogue: 0,0:12:36.03,0:12:37.28,Secondary-207+,,0,0,100,,{\an8\pos(960,100)}你可以的！
+Dialogue: 0,0:12:36.03,0:12:37.28,Secondary-207+,,0,0,100,,{\an8\pos(960,131.3)}你可以的！
 Dialogue: 0,0:12:38.07,0:12:39.03,Main-207+,,0,0,0,,什麼？！
 Dialogue: 0,0:12:40.74,0:12:44.08,Main-207+,,0,0,0,,我才不是狸貓！
 Comment: 0,0:12:40.74,0:12:50.08,Main-207+,,0,0,0,,{=73}I'm not a tanuki!{TS by FiberAhmed}
-Dialogue: 0,0:12:40.74,0:12:44.08,Main-207+,,0,0,0,,{\bord3.8\fscx100\shad3.8\fscy100\1a&H00&\3a&H00&\4a&H78&\pos(960,1053)}我才不是狸貓！
-Dialogue: 0,0:12:44.08,0:12:44.12,Main-207+,,0,0,0,,{\bord3.77\fscx99.25\shad3.77\fscy99.25\1a&H00&\3a&H00&\4a&H78&\pos(959.99,1049.01)}我才不是狸貓！
-Dialogue: 0,0:12:44.12,0:12:44.16,Main-207+,,0,0,0,,{\bord3.68\fscx96.87\shad3.68\fscy96.87\1a&H00&\3a&H00&\4a&H78&\pos(960.33,1036.72)}我才不是狸貓！
-Dialogue: 0,0:12:44.16,0:12:44.20,Main-207+,,0,0,0,,{\bord3.55\fscx93.4\shad3.55\fscy93.4\1a&H00&\3a&H00&\4a&H78&\pos(960.84,1018.74)}我才不是狸貓！
-Dialogue: 0,0:12:44.20,0:12:44.24,Main-207+,,0,0,0,,{\bord3.43\fscx90.27\shad3.43\fscy90.27\1a&H00&\3a&H00&\4a&H78&\pos(961.07,1002.83)}我才不是狸貓！
-Dialogue: 0,0:12:44.24,0:12:44.29,Main-207+,,0,0,0,,{\bord3.24\fscx85.19\shad3.24\fscy85.19\1a&H00&\3a&H00&\4a&H78&\pos(961.8,976.62)}我才不是狸貓！
-Dialogue: 0,0:12:44.29,0:12:44.33,Main-207+,,0,0,0,,{\bord3.03\fscx79.7\shad3.03\fscy79.7\1a&H00&\3a&H00&\4a&H78&\pos(962.57,948.22)}我才不是狸貓！
-Dialogue: 0,0:12:44.33,0:12:44.37,Main-207+,,0,0,0,,{\bord2.82\fscx74.21\shad2.82\fscy74.21\1a&H00&\3a&H00&\4a&H78&\pos(963.29,919.92)}我才不是狸貓！
-Dialogue: 0,0:12:44.37,0:12:44.41,Main-207+,,0,0,0,,{\bord2.61\fscx68.71\shad2.61\fscy68.71\1a&H00&\3a&H00&\4a&H78&\pos(964.01,891.61)}我才不是狸貓！
-Dialogue: 0,0:12:44.41,0:12:44.45,Main-207+,,0,0,0,,{\bord2.41\fscx63.45\shad2.41\fscy63.45\1a&H00&\3a&H00&\4a&H78&\pos(964.7,864.47)}我才不是狸貓！
-Dialogue: 0,0:12:44.45,0:12:44.49,Main-207+,,0,0,0,,{\bord2.23\fscx58.64\shad2.23\fscy58.64\1a&H00&\3a&H00&\4a&H78&\pos(965.33,839.66)}我才不是狸貓！
-Dialogue: 0,0:12:44.49,0:12:44.54,Main-207+,,0,0,0,,{\bord2.07\fscx54.5\shad2.07\fscy54.5\1a&H00&\3a&H00&\4a&H78&\pos(965.87,818.33)}我才不是狸貓！
-Dialogue: 0,0:12:44.54,0:12:44.58,Main-207+,,0,0,0,,{\bord1.95\fscx51.27\shad1.95\fscy51.27\1a&H00&\3a&H00&\4a&H78&\pos(966.3,801.66)}我才不是狸貓！
-Dialogue: 0,0:12:44.58,0:12:44.62,Main-207+,,0,0,0,,{\bord1.87\fscx49.16\shad1.87\fscy49.16\1a&H00&\3a&H00&\4a&H78&\pos(966.58,790.79)}我才不是狸貓！
-Dialogue: 0,0:12:44.62,0:12:44.66,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(972.41,780.38)}我才不是狸貓！
-Dialogue: 0,0:12:44.66,0:12:44.70,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(976.17,792.81)}我才不是狸貓！
-Dialogue: 0,0:12:44.70,0:12:44.74,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(960.71,781.72)}我才不是狸貓！
-Dialogue: 0,0:12:44.74,0:12:44.79,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(973.21,791.52)}我才不是狸貓！
-Dialogue: 0,0:12:44.79,0:12:44.83,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(972.94,783.04)}我才不是狸貓！
-Dialogue: 0,0:12:44.83,0:12:44.87,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(973.12,790.21)}我才不是狸貓！
-Dialogue: 0,0:12:44.87,0:12:44.91,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(969.2,784.29)}我才不是狸貓！
-Dialogue: 0,0:12:44.91,0:12:44.95,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(965.13,788.87)}我才不是狸貓！
-Dialogue: 0,0:12:44.95,0:12:44.99,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(967.16,785.64)}我才不是狸貓！
-Dialogue: 0,0:12:44.99,0:12:45.04,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(966.28,787.53)}我才不是狸貓！
-Dialogue: 0,0:12:45.04,0:12:50.08,Main-207+,,0,0,0,,{\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&\pos(966.67,786.86)}我才不是狸貓！
+Dialogue: 0,0:12:40.74,0:12:44.08,Main-207+,,0,0,0,,{\an2\pos(960,948.7)\bord3.8\fscx100\shad3.8\fscy100\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.08,0:12:44.12,Main-207+,,0,0,0,,{\an2\pos(959.99,945.42)\bord3.77\fscx99.25\shad3.77\fscy99.25\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.12,0:12:44.16,Main-207+,,0,0,0,,{\an2\pos(960.33,935.37)\bord3.68\fscx96.87\shad3.68\fscy96.87\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.16,0:12:44.20,Main-207+,,0,0,0,,{\an2\pos(960.84,920.66)\bord3.55\fscx93.4\shad3.55\fscy93.4\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.20,0:12:44.24,Main-207+,,0,0,0,,{\an2\pos(961.07,907.71)\bord3.43\fscx90.27\shad3.43\fscy90.27\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.24,0:12:44.29,Main-207+,,0,0,0,,{\an2\pos(961.8,886.29)\bord3.24\fscx85.19\shad3.24\fscy85.19\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.29,0:12:44.33,Main-207+,,0,0,0,,{\an2\pos(962.57,863.06)\bord3.03\fscx79.7\shad3.03\fscy79.7\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.33,0:12:44.37,Main-207+,,0,0,0,,{\an2\pos(963.29,839.94)\bord2.82\fscx74.21\shad2.82\fscy74.21\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.37,0:12:44.41,Main-207+,,0,0,0,,{\an2\pos(964.01,816.82)\bord2.61\fscx68.71\shad2.61\fscy68.71\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.41,0:12:44.45,Main-207+,,0,0,0,,{\an2\pos(964.7,794.64)\bord2.41\fscx63.45\shad2.41\fscy63.45\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.45,0:12:44.49,Main-207+,,0,0,0,,{\an2\pos(965.33,774.36)\bord2.23\fscx58.64\shad2.23\fscy58.64\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.49,0:12:44.54,Main-207+,,0,0,0,,{\an2\pos(965.87,756.94)\bord2.07\fscx54.5\shad2.07\fscy54.5\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.54,0:12:44.58,Main-207+,,0,0,0,,{\an2\pos(966.3,743.31)\bord1.95\fscx51.27\shad1.95\fscy51.27\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.58,0:12:44.62,Main-207+,,0,0,0,,{\an2\pos(966.58,734.43)\bord1.87\fscx49.16\shad1.87\fscy49.16\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.62,0:12:44.66,Main-207+,,0,0,0,,{\an2\pos(972.41,724.73)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.66,0:12:44.70,Main-207+,,0,0,0,,{\an2\pos(976.17,737.16)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.70,0:12:44.74,Main-207+,,0,0,0,,{\an2\pos(960.71,726.07)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.74,0:12:44.79,Main-207+,,0,0,0,,{\an2\pos(973.21,735.87)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.79,0:12:44.83,Main-207+,,0,0,0,,{\an2\pos(972.94,727.39)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.83,0:12:44.87,Main-207+,,0,0,0,,{\an2\pos(973.12,734.56)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.87,0:12:44.91,Main-207+,,0,0,0,,{\an2\pos(969.2,728.64)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.91,0:12:44.95,Main-207+,,0,0,0,,{\an2\pos(965.13,733.22)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.95,0:12:44.99,Main-207+,,0,0,0,,{\an2\pos(967.16,729.99)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:44.99,0:12:45.04,Main-207+,,0,0,0,,{\an2\pos(966.28,731.88)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
+Dialogue: 0,0:12:45.04,0:12:50.08,Main-207+,,0,0,0,,{\an2\pos(966.67,731.21)\bord1.84\fscx48.41\shad1.84\fscy48.41\1a&H00&\3a&H00&\4a&H78&}我才不是狸貓！
 Comment: 0,0:12:40.74,0:12:49.12,Main-207+,,0,0,0,,{=74}I'm not a tanuki!
 Comment: 0,0:12:46.79,0:12:49.37,Thoughts-207+,,0,0,0,,{=100}{Oh, I'm sorry! - OG}{Oops! Sorry! - Polly}We're so sorry!{LP}
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\pos(726,233)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\pos(1212,233)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\pos(240,505)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,100,,{\pos(240,567)\an8\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\pos(1690,505)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,100,,{\pos(1690,567)\an8\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,100,,{\pos(726,847)\an8\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
-Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,100,,{\pos(1212,847)\an8\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(726,147.56)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(1212,147.56)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(240,419.56)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(240,557)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(1690,419.56)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(1690,557)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(726,837)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
+Dialogue: 0,0:12:46.79,0:12:50.08,Thoughts-207+,,0,0,0,,{\an2\pos(1212,837)\fscx80\fscy80\bord3.36\shad3.04}我們真的很抱歉！
 Comment: 0,0:12:46.79,0:12:49.37,Thoughts-207+,,0,0,0,,{=101}{Oh, I'm sorry! - OG}{Oops! Sorry! - Polly}We're so sorry!{LP}
 Dialogue: 0,0:12:53.38,0:12:56.96,Main-207+,,0,0,0,,城堡每層樓之間\N都有很大的空隙！
 Dialogue: 0,0:12:56.96,0:12:58.59,Main-207+,,0,0,0,,在那裡沒人會看見我們！
@@ -488,14 +488,14 @@ Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{=110}=======================
 Dialogue: 2,0:01:33.70,0:01:40.20,Title-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(728,726)}頭山盜賊團首領，\N阿修羅童子
 Dialogue: 1,0:01:33.70,0:01:40.20,Title-207+,,0,0,200,,{\an8\pos(960,100)\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(728,726)\t(686,728,\1a&H00&)\t(5774,5816,\1a&HFF&)}頭山盜賊團首領，\N阿修羅童子
 Comment: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,0,,{=90}CHOPPERPHAGE NEBULIZER
-Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,100)\fs80\blur1\bord3\shad0\b0\c&HF3EE9C&\fnDumpling-Regular\4c&HD5CC7E&\3c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
-Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,100)\fs80\blur3\bord0\shad10\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&\3c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
-Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,100)\fs80\bord0\shad0\blur10\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
-Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,100)\fs80\bord0\shad0\blur20\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
-Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,760)\fs100\blur1\bord3\shad0\b0\c&H54EDF6&\fnDumpling-Regular\3c&H3F85C8&}N\NE\NB\NU\NL\NI\NZ\NE\NR
-Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,760)\fs100\blur3\bord0\shad10\b0\c&H54EDF6&\fnDumpling-Regular\4c&H3F85C8&}N\NE\NB\NU\NL\NI\NZ\NE\NR
-Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,760)\fs100\bord0\shad0\blur10\b0\c&H54EDF6&\fnDumpling-Regular}N\NE\NB\NU\NL\NI\NZ\NE\NR
-Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,760)\fs100\bord0\shad0\blur20\b0\c&H54EDF6&\fnDumpling-Regular}N\NE\NB\NU\NL\NI\NZ\NE\NR
+Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,0)\fs80\blur1\bord3\shad0\b0\c&HF3EE9C&\fnDumpling-Regular\4c&HD5CC7E&\3c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
+Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,0)\fs80\blur3\bord0\shad10\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&\3c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
+Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,0)\fs80\bord0\shad0\blur10\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
+Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,1200,,{\an8\pos(960,0)\fs80\bord0\shad0\blur20\b0\c&HFDFCEE&\fnDumpling-Regular\4c&HD5CC7E&}C\NH\NO\NP\NP\NE\NR\NP\NH\NA\NG\NE
+Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,45)\fs100\blur1\bord3\shad0\b0\c&H54EDF6&\fnDumpling-Regular\3c&H3F85C8&}N\NE\NB\NU\NL\NI\NZ\NE\NR
+Dialogue: 1,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,45)\fs100\blur3\bord0\shad10\b0\c&H54EDF6&\fnDumpling-Regular\4c&H3F85C8&}N\NE\NB\NU\NL\NI\NZ\NE\NR
+Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,45)\fs100\bord0\shad0\blur10\b0\c&H54EDF6&\fnDumpling-Regular}N\NE\NB\NU\NL\NI\NZ\NE\NR
+Dialogue: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,900,,{\an8\pos(960,45)\fs100\bord0\shad0\blur20\b0\c&H54EDF6&\fnDumpling-Regular}N\NE\NB\NU\NL\NI\NZ\NE\NR
 Comment: 0,0:09:08.82,0:09:10.74,Captions-207+,,0,0,0,,{=91}CHOPPERPHAGE NEBULIZER
 Dialogue: 0,0:12:50.25,0:12:53.38,Captions-207+,,0,0,300,,{\an8\pos(1285,100)\fnDFGKanTeiRyu-XB-CP\bord4\c&HA2CFE4&\blur0.8\fscx70\fscy70\3c&HA2CFE4&\fad(395,0)\1a&HFF&\t(353,395,\1a&H00&)}右腦塔\N\N圓頂內部
 Dialogue: 1,0:12:50.25,0:12:53.38,Captions-207+,,0,0,300,,{\an8\pos(1285,100)\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8\fscx70\fscy70\fad(395,0)}右腦塔\N\N圓頂內部

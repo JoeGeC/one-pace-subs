@@ -207,9 +207,9 @@ Dialogue: 50,0:24:52.59,0:24:55.91,Main-207+,,0,0,0,,大家會納悶怎麼會有
 Dialogue: 50,0:24:59.38,0:25:00.52,Main-207+,,0,0,0,,對不起。
 Dialogue: 50,0:25:00.52,0:25:05.90,Main-207+,,0,0,0,,總之，我們先把這件事回報給船長吧。
 Dialogue: 0,0:01:41.95,0:01:47.67,Title-207+,,0,0,100,,{\an8\pos(960,100)\fad(1250,0)}阿鶴報恩
-Dialogue: 0,0:18:53.03,0:18:57.99,Captions Wano,,0,0,200,,{\an8\pos(382,100)\fad(100,0)}阿鶴\N茶館老闆娘
+Dialogue: 0,0:18:53.03,0:18:57.99,Captions Wano,,0,0,200,,{\an8\pos(382,325)\fad(100,0)}阿鶴\N茶館老闆娘
 Dialogue: 0,0:21:19.63,0:21:25.05,Captions Wano,,0,0,300,,{\an8\pos(1562.67,100)\fad(400,0)}施捨小鎮\N九里\N和之國
-Dialogue: 0,0:21:55.33,0:22:00.25,Captions Wano,,0,0,200,,{\an8\pos(1545,100)\fad(200,0)}阿菊\N茶館女侍
+Dialogue: 0,0:21:55.33,0:22:00.25,Captions Wano,,0,0,200,,{\an8\pos(1545,205.33)\fad(200,0)}阿菊\N茶館女侍
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207+,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.17,0:00:30.13,Credits-207+,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207+,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso

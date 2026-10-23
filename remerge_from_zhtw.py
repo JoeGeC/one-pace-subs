@@ -16,6 +16,8 @@ from merge_translation import merge
 
 def build_translations(original_path, zhtw_path):
     nums = {ln for ln, _s, _t in extract(original_path)}
+    with open(original_path, "r", encoding="utf-8-sig") as f:
+        orig = [l.rstrip("\n").rstrip("\r") for l in f]
     with open(zhtw_path, "r", encoding="utf-8-sig") as f:
         zh = [l.rstrip("\n").rstrip("\r") for l in f]
     translations = {}
@@ -24,7 +26,12 @@ def build_translations(original_path, zhtw_path):
             line = zh[ln - 1]
             if line.startswith("Dialogue:"):
                 parts = line.split(",", 9)
-                if len(parts) >= 10:
+                # Lines kept in the source language were never in the
+                # translator's TSV, so merge never saw them — leave them out
+                # here too, or the planner sees extra captions on screen and
+                # makes different stacking/montage calls than merge (and the
+                # validator) do.
+                if len(parts) >= 10 and parts[9] != orig[ln - 1].split(",", 9)[-1]:
                     translations[ln] = parts[9]
     return translations
 

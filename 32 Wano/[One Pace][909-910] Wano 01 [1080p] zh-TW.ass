@@ -134,8 +134,8 @@ Dialogue: 50,0:09:11.50,0:09:15.24,Main-207+,,0,0,0,,因為這是他們兩百年
 Dialogue: 50,0:09:15.24,0:09:18.22,Main-207+,,0,0,0,,涅普頓國王和他的兒子們也在那裡……！{Z}
 Dialogue: 50,0:09:19.66,0:09:23.36,Main-207+,,0,0,0,,而且白星似乎在紅港受到了熱烈歡迎！{Z}
 Dialogue: 50,0:09:23.95,0:09:28.99,Main-207+,,0,0,0,,所以她來到地面上了！\N弱星變堅強了！
-Dialogue: 50,0:09:31.33,0:09:34.12,Main-207+,,0,0,100,,{\an8\pos(960,265)}看來是你爺爺當他們的護衛。
-Dialogue: 50,0:09:34.12,0:09:35.22,Main-207+,,0,0,100,,{\an8\pos(960,265)}哦……？
+Dialogue: 50,0:09:31.33,0:09:34.12,Main-207+,,0,0,100,,{\an8\pos(960,353.82)}看來是你爺爺當他們的護衛。
+Dialogue: 50,0:09:34.12,0:09:35.22,Main-207+,,0,0,100,,{\an8\pos(960,353.82)}哦……？
 Dialogue: 50,0:09:35.22,0:09:41.01,Main-207+,,0,0,0,,他們朝著讓魚人遷居地面的夢想邁出了一大步！
 Dialogue: 50,0:09:45.84,0:09:48.31,Main-207+,,0,0,0,,薇薇甜心！{Z}
 Dialogue: 50,0:09:48.31,0:09:51.78,Main-207+,,0,0,0,,妳出落成更加美麗的公主了！
@@ -316,8 +316,8 @@ Dialogue: 0,0:03:16.48,0:03:19.20,Captions,,0,0,200,,{\an8\pos(960,100)\blur0.45
 Dialogue: 1,0:03:16.48,0:03:19.20,Captions,,0,0,200,,{\an8\pos(960,100)\blur0.45\bord0\fad(300,0)\fscx125\fscy125\c&HFEFEFE&\4a&HFF&}貓蝮蛇\N純毛族俠客團
 Dialogue: 0,0:08:54.43,0:08:57.80,Captions,,0,0,200,,{\an8\pos(960,100)\blur0.45\bord2.7\fad(520,0)\fscx135\fscy135\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}海上\N新世界
 Dialogue: 1,0:08:54.43,0:08:57.80,Captions,,0,0,200,,{\an8\pos(960,100)\blur0.45\bord0\fad(520,0)\fscx135\fscy135\c&HFFFFFF&\4a&HFF&}海上\N新世界
-Dialogue: 0,0:09:30.46,0:09:35.22,Captions,,0,0,300,,{\an8\pos(1464.67,100)\blur0.45\bord2.7\fad(530,0)\fscx110\fscy110\c&H000000&\1a&HFF&\t(485,530,\1a&H00&)}船長「草帽」魯夫\N{\fscx125\fscy125}草帽海賊團\N懸賞金：{\fnImpress BT Pace}¬{\fnKakumin Web}15億
-Dialogue: 1,0:09:30.46,0:09:35.22,Captions,,0,0,300,,{\an8\pos(1464.67,100)\blur0.45\bord0\fad(530,0)\fscx110\fscy110\c&HFFFCFE&\4a&HFF&}船長「草帽」魯夫\N{\fscx125\fscy125}草帽海賊團\N懸賞金：{\fnImpress BT Pace}¬{\fnKakumin Web}15億
+Dialogue: 0,0:09:30.46,0:09:35.22,Captions,,0,0,300,,{\an8\pos(1464.67,131.3)\blur0.45\bord2.7\fad(530,0)\fscx110\fscy110\c&H000000&\1a&HFF&\t(485,530,\1a&H00&)}船長「草帽」魯夫\N{\fscx125\fscy125}草帽海賊團\N懸賞金：{\fnImpress BT Pace}¬{\fnKakumin Web}15億
+Dialogue: 1,0:09:30.46,0:09:35.22,Captions,,0,0,300,,{\an8\pos(1464.67,131.3)\blur0.45\bord0\fad(530,0)\fscx110\fscy110\c&HFFFCFE&\4a&HFF&}船長「草帽」魯夫\N{\fscx125\fscy125}草帽海賊團\N懸賞金：{\fnImpress BT Pace}¬{\fnKakumin Web}15億
 Dialogue: 0,0:00:00.00,0:00:02.80,Credits-207+,,100,0,100,,{\fad(400,200)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.00,0:00:02.80,Credits-207+,,100,0,100,,{\fad(400,200)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.00,0:00:02.80,Credits-207+,,150,0,160,,{\fad(400,200)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso

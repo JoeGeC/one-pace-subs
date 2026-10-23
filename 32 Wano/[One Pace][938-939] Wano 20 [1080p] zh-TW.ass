@@ -373,7 +373,7 @@ Dialogue: 55,0:25:05.47,0:25:06.56,Main-207+,,0,0,0,,別擔心……
 Dialogue: 55,0:25:06.56,0:25:10.90,Main-207+,,0,0,0,,船長會繼續相信我們的……{Z}
 Dialogue: 55,0:25:26.67,0:25:32.13,Main-207+,,0,0,0,,快啊，快啊！\N趕緊把他們打趴啊！{Z}
 Dialogue: 55,0:25:36.14,0:25:38.92,Main-207+,,0,0,0,,我也好想參加相撲比賽……{Z}
-Dialogue: 55,0:25:38.92,0:25:45.52,Main-207+,,0,0,200,,{\an8\pos(960,100)}我是犰狳人！吃了\N犰狳SMILE果實的給賦者！
+Dialogue: 55,0:25:38.92,0:25:45.52,Main-207+,,0,0,200,,{\an8\pos(960,225.6)}我是犰狳人！吃了\N犰狳SMILE果實的給賦者！
 Dialogue: 55,0:25:50.11,0:25:53.26,Main-207+,,0,0,0,,哦，你看起來身板挺硬的！{Z}
 Dialogue: 55,0:25:53.26,0:25:54.74,Main-207+,,0,0,0,,正好拿來訓練！
 Dialogue: 55,0:25:54.74,0:25:56.19,Main-207+,,0,0,0,,你這蠢貨！{Z}
@@ -515,8 +515,8 @@ Dialogue: 2,0:12:11.79,0:12:16.41,Sign-Otoko,Border,0,0,0,,{\pos(1402.5,204)\fsc
 Dialogue: 0,0:20:50.72,0:20:58.98,Captions Wano,,0,0,0,,{\pos(960,745.5)\frz5.549\fs45\bord3\c&HC2CACC&\3c&HC2CACC&\1a&HFF&\blur0.9\fad(1000,500)\t(955,1000,\1a&H00&)\t(7760,7805,\1a&HFF&)}T{\frz365.142}H{\frz364.735}E {\frz363.921}N{\frz363.514}I{\frz363.106}N{\frz362.699}E {\frz361.885}R{\frz361.478}E{\frz361.071}D {\frz360.257}S{\frz359.85}C{\frz359.443}A{\frz359.035}B{\frz358.628}B{\frz358.221}A{\frz357.814}R{\frz357.407}D{\frz357}S
 Dialogue: 1,0:20:50.72,0:20:58.98,Captions Wano,,0,0,0,,{\pos(960,745.5)\frz5.549\fs45\bord0\c&H161719&\4a&HFF&\blur0.9\fad(1000,500)}T{\frz365.142}H{\frz364.735}E {\frz363.921}N{\frz363.514}I{\frz363.106}N{\frz362.699}E {\frz361.885}R{\frz361.478}E{\frz361.071}D {\frz360.257}S{\frz359.85}C{\frz359.443}A{\frz359.035}B{\frz358.628}B{\frz358.221}A{\frz357.814}R{\frz357.407}D{\frz357}S
 Dialogue: 0,0:21:03.70,0:21:07.16,Captions Wano,,0,0,100,,{\an8\pos(960,100)\bord0\c&HEAF1F5&\blur0.9}河松
-Dialogue: 0,0:21:03.70,0:21:07.54,Captions Wano,,0,0,100,,{\an8\pos(960,320)\bord0\c&HEAF1F5&\blur0.9}傳二郎
-Dialogue: 0,0:21:04.08,0:21:07.54,Captions Wano,,0,0,100,,{\an8\pos(960,540)\bord0\c&HEAF1F5&\blur0.9}阿修羅童子
+Dialogue: 0,0:21:03.70,0:21:07.54,Captions Wano,,0,0,100,,{\an8\pos(960,170.95)\bord0\c&HEAF1F5&\blur0.9}傳二郎
+Dialogue: 0,0:21:04.08,0:21:07.54,Captions Wano,,0,0,100,,{\an8\pos(960,241.9)\bord0\c&HEAF1F5&\blur0.9}阿修羅童子
 Dialogue: 0,0:23:15.66,0:23:15.70,T3,,0,0,0,,{\pos(1316.445,311.865)\fscx104.51\fscy99.53\c&H070705&\3c&H070705&\alpha&HFF&\blur0.9}F{\alpha&H80&}L{\alpha&H00&}OWER CAP{\alpha&H00&}I{\alpha&H40&}T{\alpha&H80&}A{\alpha&HBF&}L
 Dialogue: 1,0:23:15.66,0:23:15.70,T3,,0,0,0,,{\pos(1316.445,311.865)\fscx104.51\fscy99.53\bord0\c&H070705&\alpha&HFF&\blur0.9}F{\alpha&H80&}L{\alpha&H00&}OWER CAP{\alpha&H00&}I{\alpha&H40&}T{\alpha&H80&}A{\alpha&HBF&}L
 Dialogue: 0,0:23:15.70,0:23:15.74,T3,,0,0,0,,{\pos(1316.925,311.595)\fscx104.67\fscy99.68\c&H070705&\3c&H070705&\blur0.9}FLOWER CAPI{\alpha&H40&}T{\alpha&H80&}A{\alpha&HBF&}L
@@ -617,8 +617,8 @@ Dialogue: 0,0:23:28.76,0:23:34.02,Captions Wano,,0,0,300,,{\an8\pos(1629.8,100)\
 Dialogue: 1,0:23:28.76,0:23:34.02,Captions Wano,,0,0,300,,{\an8\pos(1629.8,100)\fscx75\fscy75\bord0\4a&HFF&\blur0.9\fad(950,0)}囚犯區\N又稱公共牢房\N羅剎町
 Dialogue: 0,0:25:15.36,0:25:17.86,Captions Wano,,0,0,300,,{\an8\pos(1648.5,100)\fscx75\fscy75\c&HDCDCDC&\3c&HDCDCDC&\blur0.9}囚犯礦場\N\N兔丼
 Dialogue: 1,0:25:15.36,0:25:17.86,Captions Wano,,0,0,300,,{\an8\pos(1648.5,100)\fscx75\fscy75\bord0\4a&HFF&\blur0.9}囚犯礦場\N\N兔丼
-Dialogue: 0,0:25:42.73,0:25:46.64,Captions Wano,,0,0,300,,{\an8\pos(430.5,320)\fscx86\fscy86\bord3.75\c&HF7F7F7&\1a&HFF&\blur0.9\fad(350,0)\t(305,350,\1a&H00&)}犰狳人 \N {\fscx95\fnT3\b1\bord3}給賦者 \N犰狳SMILE果實
-Dialogue: 1,0:25:42.73,0:25:46.64,Captions Wano,,0,0,300,,{\an8\pos(430.5,320)\fscx86\fscy86\bord0\4a&HFF&\blur0.9\fad(350,0)}犰狳人 \N {\fscx95\fnT3\b1}給賦者 \N犰狳SMILE果實
+Dialogue: 0,0:25:42.73,0:25:46.64,Captions Wano,,0,0,300,,{\an8\pos(430.5,681.75)\fscx86\fscy86\bord3.75\c&HF7F7F7&\1a&HFF&\blur0.9\fad(350,0)\t(305,350,\1a&H00&)}犰狳人 \N {\fscx95\fnT3\b1\bord3}給賦者 \N犰狳SMILE果實
+Dialogue: 1,0:25:42.73,0:25:46.64,Captions Wano,,0,0,300,,{\an8\pos(430.5,681.75)\fscx86\fscy86\bord0\4a&HFF&\blur0.9\fad(350,0)}犰狳人 \N {\fscx95\fnT3\b1}給賦者 \N犰狳SMILE果實
 Dialogue: 0,0:00:26.19,0:00:30.13,Credits-207+,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.19,0:00:30.13,Credits-207+,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.19,0:00:30.13,Credits-207+,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
