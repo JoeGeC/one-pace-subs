@@ -5589,6 +5589,15 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Marys — file W61 | 瑪麗 | canonical/correct (see reconciliation table) |
 | Bariete (callback) | 巴力耶特 | canonical VERIFIED (L3466); W61 correct. Reconciled stale L3410/L3440 |
 
+## Wano Extended cuts (re-translated from upstream "[1080p] Extended.ass"; output "... Extended zh-TW.ass")
+Convention: dialogue shared with the regular cut reuses the regular zh-TW file's line verbatim (matched by exact EN text); only Extended-only lines are new. Captions in Extended files carry long \clip/\pos tag blocks; keep the full leading tag block and replace text only, preserving the \N\N\N\N spacing (e.g. 佛朗之助\N\N\N\N木匠).
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Wano 02 Ext — all names established (Wano 02 block L4678–4692) | 索隆十郎 / 佛朗之助 / 烏索八 / 阿羅比 / 阿玉 / 狛千代 / 斬人魔 / 黍糰子 / 龍捲風 / 獅子狗 | kept. Note cards "Arrest"/"The Slasher, Zorojuro" = 「逮捕」/「斬人魔·索隆十郎」 |
+| special flower udon (Flower Capital street vendor) | 招牌花烏龍麵 | Extended-only line; descriptive |
+| vivre card (Luffy's, lost at sea — W02 Ext) | 生命之紙 | kept — VERIFIED L3589 |
+| "Toad Oil Salesman" caption (3-row layout) | 蛤蟆油\N\N商人 | splits per source rows |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
