@@ -5597,6 +5597,12 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | special flower udon (Flower Capital street vendor) | 招牌花烏龍麵 | Extended-only line; descriptive |
 | vivre card (Luffy's, lost at sea — W02 Ext) | 生命之紙 | kept — VERIFIED L3589 |
 | "Toad Oil Salesman" caption (3-row layout) | 蛤蟆油\N\N商人 | splits per source rows |
+| Wano 49 Ext — all shared lines reuse regular W49 zh-TW (already patched 四鬼/七鬼, Sulong kept romaji, 大看板, 靈魂之王, 激進光束, Thriller Bark kept Latin, Franky "Super!"→super！) | — | kept |
+| Acceleration Device! (Sanji raid-suit boost vs King) | 加速裝置！ | COINED — Extended-only line. UNVERIFIED |
+| Stealth: Activate! (Sanji raid-suit invisibility) | 隱形：啟動！ | kept — Stealth 隱形 (L3845) + Activate 啟動 (cf Soul Sensor: Activate 靈魂感應：啟動) |
+| Shooting Star Soba Kick! (Sanji, Extended-only) | 流星蕎麥麵踢！ | COINED — Shooting Star 流星 + soba 蕎麥麵 (L3272) + Kick 踢. UNVERIFIED |
+| You-gara (mink speech tic, W49 Ext) | 你們-{\i1}gara{\i0} | per Wano 01 convention (L4664); regular W49 had dropped the hyphen/italics |
+| "One day, I will become... the shogun of Wano!" (Momonosuke, Extended-only) | 總有一天，我會成為……／和之國的將軍！ | shogun 將軍 |
 
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
