@@ -5603,6 +5603,12 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Shooting Star Soba Kick! (Sanji, Extended-only) | 流星蕎麥麵踢！ | COINED — Shooting Star 流星 + soba 蕎麥麵 (L3272) + Kick 踢. UNVERIFIED |
 | You-gara (mink speech tic, W49 Ext) | 你們-{\i1}gara{\i0} | per Wano 01 convention (L4664); regular W49 had dropped the hyphen/italics |
 | "One day, I will become... the shogun of Wano!" (Momonosuke, Extended-only) | 總有一天，我會成為……／和之國的將軍！ | shogun 將軍 |
+| Wano 55 Ext — Extended-only: Yamato & Ace night-talk flashback (vivre card made from Ace's nail), Ace/Sabo/Luffy childhood dream flashback (colour-tagged lines), Kaido/Yamato rooftop clash, Kid/Killer/Law/Big Mom rooftop banter | — | names all established: Ace 艾斯, Sabo 薩波, Yamato 大和, Killer 基拉, Linlin 莉莉 (L3774), Worst Generation 最惡世代 (L44), Red Scabbards 紅鞘 (L4840), Red Hair 紅髮, Emperors 四皇, One Piece = ONE PIECE (L142, kept Latin) |
+| Young Master Yamato (Beast Pirates' address) | 大和少爺 | kept — 14 uses across existing Wano zh-TW files |
+| "Oden's Travel Record" (Note card) | 「御田的遊記」 | kept — existing Wano zh-TW files |
+| Gold Roger (opening narration "Gold Roger, the King of the Pirates") | 海賊王哥爾·羅傑 | per L4504; regular W55 had 哥爾·D·羅傑 — Extended uses the "Gold Roger" form matching the EN |
+| Captions "Several Years Ago" / "Onigashima During Kaido's Absence" | 數年前 / 鬼島\N凱多不在期間 | Extended-only time/place cards |
+| "the biggest, baddest one of all" (child Ace's pirate dream) | 最強最兇的海賊 | descriptive |
 
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
