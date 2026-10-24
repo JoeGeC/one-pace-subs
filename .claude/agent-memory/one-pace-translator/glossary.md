@@ -4756,7 +4756,7 @@ NOTE: Appended at end of file (not in numeric order); WCI 20/19 sections already
 | Bakura Town (kept — Wano 04 ref; Narrator + caption) | 博羅鎮 | kept — established/VERIFIED L4731 (Fandom zh 九里 page ボロ町). Narrator "prosperous town in Wano's Kuri region" = 和之國九里地區一座繁榮的城鎮 |
 | Kamijiro's lion pun context — "His tummy's a lion!" (Otama) | 他的肚子是隻獅子！ | Otama spotting the belly-lion; "the lion got him in the nuts" = 獅子咬中他的蛋蛋了 (Holdem shares Kamijiro's body — 共用一個身體) |
 | oshiruko (お汁粉, sweet red-bean soup w/ mochi; Otsuru serves it) | {\i1}紅豆湯{\i0} | merged "oshiruko red-bean soup" into 紅豆湯 inside the exact {\i1}…{\i0} tags (cf arai 洗造 L4667). mochi 麻糬 in {\i1}麻糬{\i0} |
-| five finger grass (Otsuru's poison-antidote herb) | 五指草 | COINED — 五指の草 medicinal herb; "quite the wonder drug" = 真是靈丹妙藥. UNVERIFIED |
+| five finger grass (Otsuru's poison-antidote herb) | 五指草 | COINED — 五指の草 medicinal herb; "quite the wonder drug" = 真是靈丹妙藥. UNVERIFIED. Upstream 2026-10 Wano 04 retime calls it "cinquefoil" — same herb, keep 五指草: "Brew the cinquefoil!" = 快把五指草煎成藥！ |
 | tanuki (狸貓; Urashima demands it cooked) | {\i1}狸貓{\i0} | kept in exact italic tags. "Tanuki are my favorite food!" = {\i1}狸貓{\i0}是我最愛吃的！ |
 | "Budo" (background sign Note in Bakura, uncertain) | 葡萄 | COINED best-effort — likely an eatery signboard (ぶどう/葡萄). No Fandom reference; UNVERIFIED |
 | Conqueror's Haki / Haki (Luffy's outburst at ep end) | 霸王色霸氣 / 霸氣 | standard OP terms. "That was haki!" = 那是霸氣！; "Conqueror's haki." = 霸王色霸氣。 |
