@@ -1025,26 +1025,26 @@ Dialogue: 2,0:21:01.61,0:21:01.65,Captions Wano,,0,0,0,,{\an7\c&H181818&\p1\bord
 Comment: 0,0:21:01.65,0:21:01.86,Captions Wano,,0,0,0,,{=56}Tokijiro
 Comment: 0,0:21:07.00,0:21:10.17,Captions Wano,,0,0,0,,{Rakuda (Camel) - CR}The Camel{Z}
 Comment: 0,0:21:06.99,0:21:06.99,Captions Wano,,0,0,0,,{=57}Rakuda (Camel)
-Dialogue: 3,0:21:06.99,0:21:09.37,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.5,36)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.37,0:21:09.41,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.515,36)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.41,0:21:09.45,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.665,36.075)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.45,0:21:09.49,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.74,35.835)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.49,0:21:09.53,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.98,36.24)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.53,0:21:09.58,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(372.975,35.7)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.58,0:21:09.62,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.74,36.465)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.62,0:21:09.66,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(372.735,35.46)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.66,0:21:09.70,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(374.52,36.6)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.70,0:21:09.74,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.29,35.235)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.74,0:21:09.79,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(371.985,36.78)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.79,0:21:09.83,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(374.91,35.04)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.83,0:21:09.87,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(374.88,37.005)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.87,0:21:09.91,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(372.345,34.845)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.91,0:21:09.95,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(374.985,37.17)\fs48}駱駝{Z}
-Dialogue: 3,0:21:09.95,0:21:09.99,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(373.68,34.695)\fs48\clip(m 115.5 4.5 l 612 4.5 b 586.5 34.5 558 90 541.5 120 l 115.5 118.5)}駱駝{Z}
-Dialogue: 3,0:21:09.99,0:21:10.04,Captions Wano,,0,0,0,,{=5}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\pos(371.88,37.32)\fs48\clip(m 120 3 l 501 3 b 483 30 450 88.5 435 114 l 120 114)}駱駝{Z}
-Dialogue: 3,0:21:10.04,0:21:10.08,Captions Wano,,0,0,100,,{\an8\pos(370.38,100)\blur0.9\bord0\fs48\clip(m 115.5 64.18 l 393 64.18 324 176.68 115.5 176.68)}駱駝{Z}
-Dialogue: 3,0:21:10.08,0:21:10.12,Captions Wano,,0,0,100,,{\an8\pos(371.88,100)\blur0.9\bord0\fs48\clip(m 118.5 65.68 l 282 65.68 216 179.68 118.5 181.18)}駱駝{Z}
-Dialogue: 3,0:21:10.12,0:21:10.16,Captions Wano,,0,0,100,,{\an8\pos(371.88,100)\blur0.9\bord0\fs48\clip(m 114 67.18 l 180 67.18 106.5 184.18)}駱駝{Z}
+Dialogue: 3,0:21:06.99,0:21:09.37,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.5,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.37,0:21:09.41,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.51,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.41,0:21:09.45,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.67,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.45,0:21:09.49,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.74,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.49,0:21:09.53,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.98,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.53,0:21:09.58,Captions Wano,,0,0,100,,{=5}{\an8\pos(372.98,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.58,0:21:09.62,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.74,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.62,0:21:09.66,Captions Wano,,0,0,100,,{=5}{\an8\pos(372.74,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.66,0:21:09.70,Captions Wano,,0,0,100,,{=5}{\an8\pos(374.52,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.70,0:21:09.74,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.29,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.74,0:21:09.79,Captions Wano,,0,0,100,,{=5}{\an8\pos(371.99,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.79,0:21:09.83,Captions Wano,,0,0,100,,{=5}{\an8\pos(374.91,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.83,0:21:09.87,Captions Wano,,0,0,100,,{=5}{\an8\pos(374.88,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.87,0:21:09.91,Captions Wano,,0,0,100,,{=5}{\an8\pos(372.35,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.91,0:21:09.95,Captions Wano,,0,0,100,,{=5}{\an8\pos(374.99,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48}駱駝{Z}
+Dialogue: 3,0:21:09.95,0:21:09.99,Captions Wano,,0,0,100,,{=5}{\an8\pos(373.68,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48\clip(m 115.5 72.01 l 612 72.01 b 586.5 102.01 558 157.51 541.5 187.51 l 115.5 186.01)}駱駝{Z}
+Dialogue: 3,0:21:09.99,0:21:10.04,Captions Wano,,0,0,100,,{=5}{\an8\pos(371.88,102.2)\fscx100\fscy100\frz0\1a&H00&\3a&H00&\blur0.9\bord0\fs48\clip(m 120 67.88 l 501 67.88 b 483 94.88 450 153.38 435 178.88 l 120 178.88)}駱駝{Z}
+Dialogue: 3,0:21:10.04,0:21:10.08,Captions Wano,,0,0,100,,{\an8\pos(370.38,102.2)\blur0.9\bord0\fs48\clip(m 115.5 66.38 l 393 66.38 324 178.88 115.5 178.88)}駱駝{Z}
+Dialogue: 3,0:21:10.08,0:21:10.12,Captions Wano,,0,0,100,,{\an8\pos(371.88,102.2)\blur0.9\bord0\fs48\clip(m 118.5 67.88 l 282 67.88 216 181.88 118.5 183.38)}駱駝{Z}
+Dialogue: 3,0:21:10.12,0:21:10.16,Captions Wano,,0,0,100,,{\an8\pos(371.88,102.2)\blur0.9\bord0\fs48\clip(m 114 69.38 l 180 69.38 106.5 186.38)}駱駝{Z}
 Dialogue: 2,0:21:06.99,0:21:09.37,Captions Wano,,0,0,0,,{=4}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\an7\pos(0,0)\c&H272422&\p1\blur1.2\bord0}
 Dialogue: 2,0:21:09.37,0:21:09.41,Captions Wano,,0,0,0,,{=4}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\an7\pos(0.015,0)\c&H272422&\p1\blur1.2\bord0}
 Dialogue: 2,0:21:09.41,0:21:09.45,Captions Wano,,0,0,0,,{=4}{\fscx100\fscy100\frz0\1a&H00&\3a&H00&\an7\pos(0.165,0.075)\c&H272422&\p1\blur1.2\bord0}

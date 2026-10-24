@@ -713,44 +713,44 @@ Dialogue: 138,0:06:34.50,0:06:40.38,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\1
 Dialogue: 139,0:06:34.50,0:06:40.38,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\1c&HB4DAE6&\p1}
 Comment: 0,0:06:34.50,0:06:40.38,Captions-207+,,0,0,0,,{=35}{Back Entrance - OG}Back Door{Gord} (2)
 Comment: 0,0:07:45.32,0:07:57.62,Captions-207+,,0,0,0,,{=40}Idiots (1)
-Dialogue: 0,0:07:45.32,0:07:50.86,Captions-207+,,0,0,0,,{=45}{\fscx100\fscy100\fnPaper Johnny Eins\pos(1155.33,674.46)\frz359.5\bord4\c&HF1F3FB&\3c&HF1F3FB&\blur0.8}笨蛋
+Dialogue: 0,0:07:45.32,0:07:50.86,Captions-207+,,0,0,100,,{=45}{\an8\pos(1155.33,100)\fscx100\fscy100\fnPaper Johnny Eins\frz359.5\bord4\c&HF1F3FB&\3c&HF1F3FB&\blur0.8}笨蛋
 Dialogue: 1,0:07:45.32,0:07:50.86,Captions-207+,,0,0,100,,{\an8\pos(1155.33,100)\fscx100\fscy100\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur0.8}笨蛋
-Dialogue: 0,0:07:50.86,0:07:50.90,Captions-207+,,0,0,0,,{=47}{\fscx102.57\fscy102.57\fnPaper Johnny Eins\pos(1160.44,673.56)\frz359.5\bord4.1\c&HF1F3FB&\3c&HF1F3FB&\blur0.81}笨蛋
+Dialogue: 0,0:07:50.86,0:07:50.90,Captions-207+,,0,0,100,,{=47}{\an8\pos(1160.44,100)\fscx102.57\fscy102.57\fnPaper Johnny Eins\frz359.5\bord4.1\c&HF1F3FB&\3c&HF1F3FB&\blur0.81}笨蛋
 Dialogue: 1,0:07:50.86,0:07:50.90,Captions-207+,,0,0,100,,{\an8\pos(1160.44,100)\fscx102.57\fscy102.57\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur0.81}笨蛋
-Dialogue: 0,0:07:50.90,0:07:50.95,Captions-207+,,0,0,0,,{=49}{\fscx112.56\fscy112.56\fnPaper Johnny Eins\pos(1179.95,670.01)\frz359.5\bord4.5\c&HF1F3FB&\3c&HF1F3FB&\blur0.84}笨蛋
+Dialogue: 0,0:07:50.90,0:07:50.95,Captions-207+,,0,0,100,,{=49}{\an8\pos(1179.95,100)\fscx112.56\fscy112.56\fnPaper Johnny Eins\frz359.5\bord4.5\c&HF1F3FB&\3c&HF1F3FB&\blur0.84}笨蛋
 Dialogue: 1,0:07:50.90,0:07:50.95,Captions-207+,,0,0,100,,{\an8\pos(1179.95,100)\fscx112.56\fscy112.56\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur0.84}笨蛋
-Dialogue: 0,0:07:50.95,0:07:50.99,Captions-207+,,0,0,0,,{=51}{\fscx134.24\fscy134.24\fnPaper Johnny Eins\pos(1222.52,662.27)\frz359.5\bord5.37\c&HF1F3FB&\3c&HF1F3FB&\blur0.91}笨蛋
+Dialogue: 0,0:07:50.95,0:07:50.99,Captions-207+,,0,0,100,,{=51}{\an8\pos(1222.52,100)\fscx134.24\fscy134.24\fnPaper Johnny Eins\frz359.5\bord5.37\c&HF1F3FB&\3c&HF1F3FB&\blur0.91}笨蛋
 Dialogue: 1,0:07:50.95,0:07:50.99,Captions-207+,,0,0,100,,{\an8\pos(1222.52,100)\fscx134.24\fscy134.24\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur0.91}笨蛋
-Dialogue: 0,0:07:50.99,0:07:51.03,Captions-207+,,0,0,0,,{=53}{\fscx168.52\fscy168.52\fnPaper Johnny Eins\pos(1289.84,650.05)\frz359.5\bord6.74\c&HF1F3FB&\3c&HF1F3FB&\blur1.02}笨蛋
+Dialogue: 0,0:07:50.99,0:07:51.03,Captions-207+,,0,0,100,,{=53}{\an8\pos(1289.84,100)\fscx168.52\fscy168.52\fnPaper Johnny Eins\frz359.5\bord6.74\c&HF1F3FB&\3c&HF1F3FB&\blur1.02}笨蛋
 Dialogue: 1,0:07:50.99,0:07:51.03,Captions-207+,,0,0,100,,{\an8\pos(1289.84,100)\fscx168.52\fscy168.52\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.02}笨蛋
-Dialogue: 0,0:07:51.03,0:07:51.07,Captions-207+,,0,0,0,,{=55}{\fscx204.02\fscy204.02\fnPaper Johnny Eins\pos(1359.56,637.41)\frz359.5\bord8.16\c&HF1F3FB&\3c&HF1F3FB&\blur1.13}笨蛋
+Dialogue: 0,0:07:51.03,0:07:51.07,Captions-207+,,0,0,100,,{=55}{\an8\pos(1359.56,100)\fscx204.02\fscy204.02\fnPaper Johnny Eins\frz359.5\bord8.16\c&HF1F3FB&\3c&HF1F3FB&\blur1.13}笨蛋
 Dialogue: 1,0:07:51.03,0:07:51.07,Captions-207+,,0,0,100,,{\an8\pos(1359.56,100)\fscx204.02\fscy204.02\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.13}笨蛋
-Dialogue: 0,0:07:51.07,0:07:51.11,Captions-207+,,0,0,0,,{=57}{\fscx232.14\fscy232.14\fnPaper Johnny Eins\pos(1414.74,627.37)\frz359.5\bord9.29\c&HF1F3FB&\3c&HF1F3FB&\blur1.22}笨蛋
+Dialogue: 0,0:07:51.07,0:07:51.11,Captions-207+,,0,0,100,,{=57}{\an8\pos(1414.74,100)\fscx232.14\fscy232.14\fnPaper Johnny Eins\frz359.5\bord9.29\c&HF1F3FB&\3c&HF1F3FB&\blur1.22}笨蛋
 Dialogue: 1,0:07:51.07,0:07:51.11,Captions-207+,,0,0,100,,{\an8\pos(1414.74,100)\fscx232.14\fscy232.14\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.22}笨蛋
-Dialogue: 0,0:07:51.11,0:07:51.15,Captions-207+,,0,0,0,,{=59}{\fscx253.18\fscy253.18\fnPaper Johnny Eins\pos(1456,619.87)\frz359.5\bord10.13\c&HF1F3FB&\3c&HF1F3FB&\blur1.29}笨蛋
+Dialogue: 0,0:07:51.11,0:07:51.15,Captions-207+,,0,0,100,,{=59}{\an8\pos(1456,100)\fscx253.18\fscy253.18\fnPaper Johnny Eins\frz359.5\bord10.13\c&HF1F3FB&\3c&HF1F3FB&\blur1.29}笨蛋
 Dialogue: 1,0:07:51.11,0:07:51.15,Captions-207+,,0,0,100,,{\an8\pos(1456,100)\fscx253.18\fscy253.18\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.29}笨蛋
-Dialogue: 0,0:07:51.15,0:07:51.20,Captions-207+,,0,0,0,,{=61}{\fscx269\fscy269\fnPaper Johnny Eins\pos(1487.14,614.24)\frz359.5\bord10.76\c&HF1F3FB&\3c&HF1F3FB&\blur1.34}笨蛋
+Dialogue: 0,0:07:51.15,0:07:51.20,Captions-207+,,0,0,100,,{=61}{\an8\pos(1487.14,100)\fscx269\fscy269\fnPaper Johnny Eins\frz359.5\bord10.76\c&HF1F3FB&\3c&HF1F3FB&\blur1.34}笨蛋
 Dialogue: 1,0:07:51.15,0:07:51.20,Captions-207+,,0,0,100,,{\an8\pos(1487.14,100)\fscx269\fscy269\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.34}笨蛋
-Dialogue: 0,0:07:51.20,0:07:51.24,Captions-207+,,0,0,0,,{=63}{\fscx281.15\fscy281.15\fnPaper Johnny Eins\pos(1510.96,609.92)\frz359.5\bord11.25\c&HF1F3FB&\3c&HF1F3FB&\blur1.38}笨蛋
+Dialogue: 0,0:07:51.20,0:07:51.24,Captions-207+,,0,0,100,,{=63}{\an8\pos(1510.96,100)\fscx281.15\fscy281.15\fnPaper Johnny Eins\frz359.5\bord11.25\c&HF1F3FB&\3c&HF1F3FB&\blur1.38}笨蛋
 Dialogue: 1,0:07:51.20,0:07:51.24,Captions-207+,,0,0,100,,{\an8\pos(1510.96,100)\fscx281.15\fscy281.15\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.38}笨蛋
-Dialogue: 0,0:07:51.24,0:07:51.28,Captions-207+,,0,0,0,,{=65}{\fscx290.52\fscy290.52\fnPaper Johnny Eins\pos(1529.34,606.56)\frz359.5\bord11.62\c&HF1F3FB&\3c&HF1F3FB&\blur1.41}笨蛋
+Dialogue: 0,0:07:51.24,0:07:51.28,Captions-207+,,0,0,100,,{=65}{\an8\pos(1529.34,100)\fscx290.52\fscy290.52\fnPaper Johnny Eins\frz359.5\bord11.62\c&HF1F3FB&\3c&HF1F3FB&\blur1.41}笨蛋
 Dialogue: 1,0:07:51.24,0:07:51.28,Captions-207+,,0,0,100,,{\an8\pos(1529.34,100)\fscx290.52\fscy290.52\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.41}笨蛋
-Dialogue: 0,0:07:51.28,0:07:51.32,Captions-207+,,0,0,0,,{=67}{\fscx297.73\fscy297.73\fnPaper Johnny Eins\pos(1543.49,604.01)\frz359.5\bord11.91\c&HF1F3FB&\3c&HF1F3FB&\blur1.43}笨蛋
+Dialogue: 0,0:07:51.28,0:07:51.32,Captions-207+,,0,0,100,,{=67}{\an8\pos(1543.49,100)\fscx297.73\fscy297.73\fnPaper Johnny Eins\frz359.5\bord11.91\c&HF1F3FB&\3c&HF1F3FB&\blur1.43}笨蛋
 Dialogue: 1,0:07:51.28,0:07:51.32,Captions-207+,,0,0,100,,{\an8\pos(1543.49,100)\fscx297.73\fscy297.73\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.43}笨蛋
-Dialogue: 0,0:07:51.32,0:07:51.36,Captions-207+,,0,0,0,,{=69}{\fscx303.25\fscy303.25\fnPaper Johnny Eins\pos(1554.31,602.04)\frz359.5\bord12.13\c&HF1F3FB&\3c&HF1F3FB&\blur1.45}笨蛋
+Dialogue: 0,0:07:51.32,0:07:51.36,Captions-207+,,0,0,100,,{=69}{\an8\pos(1554.31,100)\fscx303.25\fscy303.25\fnPaper Johnny Eins\frz359.5\bord12.13\c&HF1F3FB&\3c&HF1F3FB&\blur1.45}笨蛋
 Dialogue: 1,0:07:51.32,0:07:51.36,Captions-207+,,0,0,100,,{\an8\pos(1554.31,100)\fscx303.25\fscy303.25\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.45}笨蛋
-Dialogue: 0,0:07:51.36,0:07:51.40,Captions-207+,,0,0,0,,{=71}{\fscx307.32\fscy307.32\fnPaper Johnny Eins\pos(1562.38,600.58)\frz359.5\bord12.29\c&HF1F3FB&\3c&HF1F3FB&\blur1.46}笨蛋
+Dialogue: 0,0:07:51.36,0:07:51.40,Captions-207+,,0,0,100,,{=71}{\an8\pos(1562.38,100)\fscx307.32\fscy307.32\fnPaper Johnny Eins\frz359.5\bord12.29\c&HF1F3FB&\3c&HF1F3FB&\blur1.46}笨蛋
 Dialogue: 1,0:07:51.36,0:07:51.40,Captions-207+,,0,0,100,,{\an8\pos(1562.38,100)\fscx307.32\fscy307.32\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.46}笨蛋
-Dialogue: 0,0:07:51.40,0:07:51.45,Captions-207+,,0,0,0,,{=73}{\fscx310.26\fscy310.26\fnPaper Johnny Eins\pos(1568.16,599.53)\frz359.5\bord12.41\c&HF1F3FB&\3c&HF1F3FB&\blur1.47}笨蛋
+Dialogue: 0,0:07:51.40,0:07:51.45,Captions-207+,,0,0,100,,{=73}{\an8\pos(1568.16,100)\fscx310.26\fscy310.26\fnPaper Johnny Eins\frz359.5\bord12.41\c&HF1F3FB&\3c&HF1F3FB&\blur1.47}笨蛋
 Dialogue: 1,0:07:51.40,0:07:51.45,Captions-207+,,0,0,100,,{\an8\pos(1568.16,100)\fscx310.26\fscy310.26\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.47}笨蛋
-Dialogue: 0,0:07:51.45,0:07:51.49,Captions-207+,,0,0,0,,{=75}{\fscx312.23\fscy312.23\fnPaper Johnny Eins\pos(1572,598.82)\frz359.5\bord12.49\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
+Dialogue: 0,0:07:51.45,0:07:51.49,Captions-207+,,0,0,100,,{=75}{\an8\pos(1572,100)\fscx312.23\fscy312.23\fnPaper Johnny Eins\frz359.5\bord12.49\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
 Dialogue: 1,0:07:51.45,0:07:51.49,Captions-207+,,0,0,100,,{\an8\pos(1572,100)\fscx312.23\fscy312.23\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.48}笨蛋
-Dialogue: 0,0:07:51.49,0:07:51.53,Captions-207+,,0,0,0,,{=77}{\fscx313.33\fscy313.33\fnPaper Johnny Eins\pos(1574.18,598.43)\frz359.5\bord12.53\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
+Dialogue: 0,0:07:51.49,0:07:51.53,Captions-207+,,0,0,100,,{=77}{\an8\pos(1574.18,100)\fscx313.33\fscy313.33\fnPaper Johnny Eins\frz359.5\bord12.53\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
 Dialogue: 1,0:07:51.49,0:07:51.53,Captions-207+,,0,0,100,,{\an8\pos(1574.18,100)\fscx313.33\fscy313.33\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.48}笨蛋
-Dialogue: 0,0:07:51.53,0:07:57.62,Captions-207+,,0,0,0,,{=79}{\fscx313.71\fscy313.71\fnPaper Johnny Eins\pos(1574.9,598.29)\frz359.5\bord12.55\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
-Dialogue: 1,0:07:51.53,0:07:57.62,Captions-207+,,0,0,0,,{=80}{\fscx313.71\fscy313.71\fnPaper Johnny Eins\pos(1574.9,598.29)\frz359.5\bord0\c&H3147F6&\blur1.48}笨蛋
+Dialogue: 0,0:07:51.53,0:07:57.62,Captions-207+,,0,0,100,,{=79}{\an8\pos(1574.9,100)\fscx313.71\fscy313.71\fnPaper Johnny Eins\frz359.5\bord12.55\c&HF1F3FB&\3c&HF1F3FB&\blur1.48}笨蛋
+Dialogue: 1,0:07:51.53,0:07:57.62,Captions-207+,,0,0,100,,{=80}{\an8\pos(1574.9,100)\fscx313.71\fscy313.71\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur1.48}笨蛋
 Comment: 0,0:07:45.32,0:07:57.62,Captions-207+,,0,0,0,,{=41}Idiots (1)
-Dialogue: 0,0:08:05.13,0:08:10.72,Captions-207+,,0,0,0,,{=81}{\fscx100\fscy100\fnPaper Johnny Eins\pos(1155.33,674.46)\frz359.5\bord4\c&HF1F3FB&\3c&HF1F3FB&\blur0.8}笨蛋
+Dialogue: 0,0:08:05.13,0:08:10.72,Captions-207+,,0,0,100,,{=81}{\an8\pos(1155.33,100)\fscx100\fscy100\fnPaper Johnny Eins\frz359.5\bord4\c&HF1F3FB&\3c&HF1F3FB&\blur0.8}笨蛋
 Dialogue: 1,0:08:05.13,0:08:10.72,Captions-207+,,0,0,100,,{\an8\pos(1155.33,100)\fscx100\fscy100\fnPaper Johnny Eins\frz359.5\bord0\c&H3147F6&\blur0.8}笨蛋
 Comment: 0,0:11:36.22,0:11:40.35,Captions-207+,,0,0,0,,{=38}Gum-Gum Pistol
 Dialogue: 0,0:11:36.22,0:11:36.26,Captions-207+,,0,0,100,,{\an8\pos(1324,100)\q2\fnDFGKanTeiRyu-XB-CP\fscx50\bord0\c&HACD0EE&\blur10\3c&HACD0EE&}橡膠手槍
@@ -784,22 +784,22 @@ Dialogue: 0,0:13:10.77,0:13:13.98,Captions-207+,,0,0,300,,{\an8\pos(509,100)\fnD
 Dialogue: 1,0:13:10.77,0:13:13.98,Captions-207+,,0,0,300,,{\an8\pos(509,100)\fnDFGKanTeiRyu-XB-CP\fscx80\fscy80\bord0\c&H030303&\blur0.8\3c&HACD0EE&}千紫萬紅、巨大手：\N\N踩踏
 Dialogue: 0,0:13:35.25,0:13:38.21,Captions-207+,,0,0,100,,{\an8\pos(896,100)\fscx80\fscy80\fnDFGKanTeiRyu-XB-CP\bord0\c&H030303&\blur0.8\3c&HACD0EE&}側腹肉
 Comment: 0,0:13:47.56,0:13:50.43,Captions-207+,,0,0,0,,{=82}Franky Boxing
-Dialogue: 0,0:13:47.64,0:13:47.68,Captions-207+,,0,0,0,,{=88}{\an5\pos(900,200)\fnDFGKanTeiRyu-XB-CP\fscx290\fscy290\bord0\c&HF0EFF1&\blur30\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.64,0:13:47.68,Captions-207+,,0,0,100,,{=88}{\an8\pos(900,100)\fnDFGKanTeiRyu-XB-CP\fscx290\fscy290\bord0\c&HF0EFF1&\blur30\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.64,0:13:47.68,Captions-207+,,0,0,100,,{\an8\pos(900,100)\fnDFGKanTeiRyu-XB-CP\fscx290\fscy290\bord0\c&H030303&\blur10\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.68,0:13:47.72,Captions-207+,,0,0,0,,{=90}{\an5\pos(880,550)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.68,0:13:47.72,Captions-207+,,0,0,100,,{=90}{\an8\pos(880,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.68,0:13:47.72,Captions-207+,,0,0,100,,{\an8\pos(880,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.72,0:13:47.76,Captions-207+,,0,0,0,,{=92}{\an5\pos(845.91,573.6)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.72,0:13:47.76,Captions-207+,,0,0,100,,{=92}{\an8\pos(845.91,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.72,0:13:47.76,Captions-207+,,0,0,100,,{\an8\pos(845.91,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.76,0:13:47.80,Captions-207+,,0,0,0,,{=94}{\an5\pos(895.73,565.76)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.76,0:13:47.80,Captions-207+,,0,0,100,,{=94}{\an8\pos(895.73,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.76,0:13:47.80,Captions-207+,,0,0,100,,{\an8\pos(895.73,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.80,0:13:47.84,Captions-207+,,0,0,0,,{=96}{\an5\pos(872.13,535.57)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.80,0:13:47.84,Captions-207+,,0,0,100,,{=96}{\an8\pos(872.13,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.80,0:13:47.84,Captions-207+,,0,0,100,,{\an8\pos(872.13,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.84,0:13:47.89,Captions-207+,,0,0,0,,{=98}{\an5\pos(872.13,561.8)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.84,0:13:47.89,Captions-207+,,0,0,100,,{=98}{\an8\pos(872.13,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.84,0:13:47.89,Captions-207+,,0,0,100,,{\an8\pos(872.13,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.89,0:13:47.93,Captions-207+,,0,0,0,,{=100}{\an5\pos(885.27,556.55)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.89,0:13:47.93,Captions-207+,,0,0,100,,{=100}{\an8\pos(885.27,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Dialogue: 1,0:13:47.89,0:13:47.93,Captions-207+,,0,0,100,,{\an8\pos(885.27,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 0,0:13:47.93,0:13:50.43,Captions-207+,,0,0,0,,{=102}{\an5\pos(880,550)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
-Dialogue: 1,0:13:47.93,0:13:50.43,Captions-207+,,0,0,0,,{=103}{\an5\pos(880,550)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 0,0:13:47.93,0:13:50.43,Captions-207+,,0,0,100,,{=102}{\an8\pos(880,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord5\c&HF0EFF1&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
+Dialogue: 1,0:13:47.93,0:13:50.43,Captions-207+,,0,0,100,,{=103}{\an8\pos(880,100)\fnDFGKanTeiRyu-XB-CP\fscx125\fscy125\bord0\c&H030303&\blur0.8\3c&HF0EFF1&}佛朗基拳擊
 Comment: 0,0:13:47.56,0:13:50.43,Captions-207+,,0,0,0,,{=83}Franky Boxing
 Comment: 0,0:18:38.10,0:18:41.73,Captions-207+,,0,0,0,,{=120}Golden Festival
 Dialogue: 0,0:18:38.10,0:18:38.18,Captions-207+,,0,0,100,,{\an8\pos(966,100)\fscx210\fscy205\fnM+ 1c Pace\fsp10\b1\bord48.89\c&HFCFBFB&\3c&HFCFBFB&\blur50}GOLDEN FESTIVAL

@@ -541,13 +541,13 @@ Dialogue: 0,0:13:22.95,0:13:23.03,Captions-207+,,0,0,0,,{\fnElmer_P HenNeko\bord
 Dialogue: 0,0:13:23.03,0:13:23.53,Captions-207+,,0,0,0,,{\fnElmer_P HenNeko\bord0\c&H090606&\fscx1200\fscy200\blur1\frz1.516\fry-180\pos(967.6,869.4)}/
 Comment: 0,0:13:18.36,0:13:23.53,Captions-207+,,0,0,0,,{=31}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\pos(966,855)\frz1.516}Habuminato
 Comment: 0,0:13:23.53,0:13:24.99,Captions-207+,,0,0,0,,{=20}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(955,835)\fad(0,436)}Hato
-Dialogue: 0,0:13:23.53,0:13:23.57,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(951.02,831.47)}波止
-Dialogue: 0,0:13:23.57,0:13:23.61,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(957.21,837.53)}波止
-Dialogue: 0,0:13:23.61,0:13:23.65,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(954.65,832.27)}波止
-Dialogue: 0,0:13:23.65,0:13:23.69,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(951.02,836.66)}波止
-Dialogue: 0,0:13:23.69,0:13:23.74,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(955.36,833.05)}波止
-Dialogue: 0,0:13:23.74,0:13:23.78,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(955.77,835.84)}波止
-Dialogue: 0,0:13:23.78,0:13:23.82,Captions-207+,,0,0,0,,{=28}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(953.96,833.79)}波止
+Dialogue: 0,0:13:23.53,0:13:23.57,Captions-207+,,0,0,100,,{=28}{\an8\pos(951.02,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.57,0:13:23.61,Captions-207+,,0,0,100,,{=28}{\an8\pos(957.21,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.61,0:13:23.65,Captions-207+,,0,0,100,,{=28}{\an8\pos(954.65,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.65,0:13:23.69,Captions-207+,,0,0,100,,{=28}{\an8\pos(951.02,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.69,0:13:23.74,Captions-207+,,0,0,100,,{=28}{\an8\pos(955.36,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.74,0:13:23.78,Captions-207+,,0,0,100,,{=28}{\an8\pos(955.77,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
+Dialogue: 0,0:13:23.78,0:13:23.82,Captions-207+,,0,0,100,,{=28}{\an8\pos(953.96,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101}波止
 Dialogue: 0,0:13:23.82,0:13:24.99,Captions-207+,,0,0,100,,{\an8\pos(955,316.25)\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\fad(0,436)}波止
 Comment: 0,0:13:23.53,0:13:24.99,Captions-207+,,0,0,0,,{=21}{\fnElmer_P HenNeko\bord0\c&H090606&\fscx200\fscy200\blur1\frz0.3101\pos(955,835)\fad(0,436)}Hato
 Comment: 0,0:13:24.58,0:13:26.91,Captions-207+,,0,0,0,,{=24}Wharf/Hato

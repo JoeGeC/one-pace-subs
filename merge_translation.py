@@ -302,11 +302,15 @@ def _apply_top_pos(text, x, y, orig_text="", clip_dy=0):
         shifted = iter([_shift_clip(m, clip_dy) for m in CLIP_TAG_RE.finditer(orig_text)])
         text = CLIP_TAG_RE.sub(lambda m: next(shifted, m.group(0)), text)
     pos_tag = f"\\an8\\pos({_num(x)},{_num(y)}){fad}"
+    # Keep a leading Aegisub-Motion {=NN} marker block intact and in front —
+    # writing tags into it ({\an8\pos(..)=59}) corrupts the marker.
+    marker = re.match(r'(?:\{=[^}\\]*\})*', text).group(0)
+    text = text[len(marker):]
     # Insert into the existing leading override block (which may now be empty
     # after stripping \pos/\an), otherwise open a new one.
     if text.startswith("{"):
-        return "{" + pos_tag + text[1:]
-    return "{" + pos_tag + "}" + text
+        return marker + "{" + pos_tag + text[1:]
+    return marker + "{" + pos_tag + "}" + text
 
 
 def _shift_clip(match, dy):
@@ -550,8 +554,13 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
         if not (is_caption or is_top_aligned):
             continue
         # Motion-tracked frames (Aegisub-Motion {=NN...} marker) are positioned
-        # per-frame to follow the camera — never pin them to the top.
-        if re.search(r'\{=\d', parts[9]):
+        # per-frame to follow the camera. Captions/Title frames still go to the
+        # top: they track the burned-in English name card / sign, so leaving them
+        # in place covers it (Wano 35 Raizo card after the Oct 2026 upstream
+        # retime marked it {=59}). The run chaining below gives the whole track
+        # one y, and the montage rule keeps word-by-word boards (Dressrosa 39)
+        # in place. Other tracked lines (\an8 dialogue) keep their positions.
+        if re.search(r'\{=\d', parts[9]) and not is_caption:
             continue
         # Perspective/3D-rotated typeset (an \org() rotation origin paired with
         # \frx/\fry/\frz) is locked to scene geometry: the glyphs rotate about
