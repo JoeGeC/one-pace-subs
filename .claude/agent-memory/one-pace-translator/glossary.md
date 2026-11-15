@@ -5610,6 +5610,19 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Captions "Several Years Ago" / "Onigashima During Kaido's Absence" | 數年前 / 鬼島\N凱多不在期間 | Extended-only time/place cards |
 | "the biggest, baddest one of all" (child Ace's pirate dream) | 最強最兇的海賊 | descriptive |
 
+| Wano 62 Ext — SOURCE NOTE | — | No upstream .ass exists; English source OCR'd from the hardsubbed "[One Pace][1012-1013] Wano 62 - Extended Cut [1080p][En Sub]" release (Apple Vision, frame-exact timing). OP lyrics omitted; credits re-typed as Credits-207+ |
+| Anarchy In The BM (Wano 62 title card; BM = Big Mom) | 大媽的無政府狀態 | COINED — title pun on "Anarchy in the UK"; BM glossed as Big Mom (ruby on JP card). UNVERIFIED |
+| Master Cannon (Big Mom + Hera/Prometheus/Napoleon combined attack, マスターキャノン) | 主人加農砲 | COINED — "Master" 主人 + Cannon 加農砲. UNVERIFIED |
+| Gum-Gum Red Roc (Luffy attack) | 橡膠……紅色大鵬 | COINED — Roc 大鵬 (mythic bird); split "Gum-Gum…/Red Roc!" = 橡膠……／紅色大鵬！ UNVERIFIED |
+| Punk Gibson (Kid attack) | 龐克吉布森 | COINED phonetic. UNVERIFIED |
+| Swordsmoron (Sanji insult for Zoro) | 白痴劍士 | descriptive |
+| Performance Floor (Onigashima Live Floor, Momonosuke/Raizo direction) | 表演樓層 | descriptive |
+| Lady Ulti, cheerleader (Ulti self-title) | 啦啦隊長烏爾蒂大人 | Ulti 烏爾蒂 (L5407) |
+| Olin (Big Mom's amnesiac Otama-friend alias) | 阿玲 | kept — L5421 |
+| Pay-Pay (Ulti's pet name for Page One) | 培培 | kept — existing W50 zh-TW |
+| Second Floor / Inside the Castle (map caption) | 二樓 / 城內 | |
+| "A short while ago..." (time caption) | 不久之前…… | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
