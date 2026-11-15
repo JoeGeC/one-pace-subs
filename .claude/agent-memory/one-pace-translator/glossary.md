@@ -5711,6 +5711,24 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Diable... Mouton Mallet / Three Sword Style: Purgatory Demon Slash | 惡魔……羊肉槌 / 三刀流：煉獄鬼斬 | Purgatory Demon Slash 煉獄鬼斬 canon |
 | Tristan (Heart Pirates doctor's aide) | 崔斯坦 | COINED. UNVERIFIED |
 
+| Onigashima 34 [1023-1024] — So-and-So | — | Yamato/Oden-retainer flashback; "KING" name-card read dropped |
+| All-Stars (HatSubs: Tobiroppo's superiors / Calamities) | 大看板 | established |
+| The Three Calamities: The Drought / The Wildfire / The Plague | 三災：「旱災」／「火災」／「疫災」 | established |
+| Kingpin Hyogoro | 兵五郎老大 | established Hyogoro 兵五郎 |
+| Land of the Gods / Lunarian | 神之國 / 月之民 | Fandom zh 月之民 |
+| Bridal Grabber (Sanji) | 新娘擒拿 | COINED. UNVERIFIED |
+| Shimotsuki Ushimaru, Daimyo of Ringo / Shimotsuki Ryuma, God of the Blade | 林檎大名 霜月牛丸 / 劍神 霜月龍馬 | established |
+| Enma / Shusui | 閻魔 / 秋水 | established |
+| Sulong form / Day King (Inuarashi) | 月獅 / 白晝之王 | established |
+| Lick-Spittle (Nekomamushi's name for Perospero) | 舔舔仔 | COINED |
+| Baron Corpse (Brook alias) | 屍體男爵 | COINED. UNVERIFIED |
+| Usohachi the Sibling Hunter | 兄妹獵人烏索八 | COINED |
+| Narikabura Arrow / Vajra Arrow (Yamato) | 鏑矢 / 金剛矢 | COINED. UNVERIFIED |
+| Ogre Princess (Yamato) / Sacred Stone Door | 鬼姬 / 神聖的石門 | COINED |
+| So-and-So (Ashura? — "Just call me So-and-So", episode title) | 無名氏 | |
+| Color of the Conqueror (HatSubs: Conqueror's Haki) | 霸王色 | established |
+| Yamato's mouth-full "Fank you aww... Sammmurai" | 謝謝里們……武喜們…… | mimicked garbled speech |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 

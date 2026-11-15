@@ -55,7 +55,8 @@ TYPO_FIXES = [
     (r"^(co|bo|oo|o)\.\s+(?=[a-z])", "..."),                     # "co. would" -> "...would"
     (r"^(poo|ooo|oo|co)\s+(?=[a-z]{3})", "..."), (r"^oo (?=[A-Z])", "..."),  # "poo work", "oo Suplex"
     (r"^[B-HJ-Z] (?=[a-z])", ""),                               # stray capital before a lowercase line
-    (r"^1 (?=[a-z])", "I "), (r"(?<=[\s,.!?])[l1] (?=(am|have|was|had|can|will|think|guess|know|pity)\b)", "I "),
+    (r"^1 (?=[a-z])", "I "), (r"(?<=\w )1 (?=[a-z]{2,})", "I "),
+    (r"(?<=[.!?,])\s+(?!OK$|I$)[A-Z]{1,3}$", ""),                  # trailing "DDY" / " A" after punctuation (r"(?<=[\s,.!?])[l1] (?=(am|have|was|had|can|will|think|guess|know|pity)\b)", "I "),
     (r"(?<= )i(?= )", "I"), (r"^i(?= )", "I"), (r"\bMl\b", "I'll"), (r"\b([a-z]{2,})W\b", lambda m: m.group(1) + "w"),
     (r"^'(?=[A-Z][a-z])", ""),                                  # stray leading apostrophe
     (r"(?:(?<=^)|(?<=[\s\"]))l(?=(ain't|'m|'ll|'ve|'d)\b)", "I "),  # "lain't" -> "I ain't"
@@ -187,7 +188,11 @@ def fix_ellipsis_artifacts(ln, vocab):
         if w0 and w0.lower() not in SUB_WORDS and w0.lower() not in INTERJECTIONS:
             for j in LEAD_JUNK:
                 if w0.lower().startswith(j) and len(w0) - len(j) >= 2 and w0[len(j):].lower() in SUB_WORDS:
-                    words[0] = "..." + words[0][words[0].lower().index(j) + len(j):]
+                    k = words[0].lower().find(j)
+                    if k >= 0:
+                        words[0] = "..." + words[0][k + len(j):]
+                    else:   # prefix split by punctuation ("c.oothat"): rebuild from the letters
+                        words[0] = "..." + w0[len(j):] + re.search(r"[^A-Za-z']*$", words[0]).group()
                     break
     for k, w in enumerate(words):
         m = re.fullmatch(r"(\.*)([A-Za-z']+?)(o{1,3})(\.*)", w)            # "amoo" -> "am..."
@@ -200,12 +205,29 @@ def fix_ellipsis_artifacts(ln, vocab):
     return " ".join(words)
 
 
+def is_junk_line(ln, vocab):
+    """A short line of OCR garbage sitting above/below real text — not a number, ordinal or word."""
+    if not ln or len(ln) > 6:
+        return False
+    core = ln.strip(".!?,…-— ")
+    if ln in ("I", "OK", "A") or re.fullmatch(r"\d+(st|nd|rd|th)?|\d{1,3}(,\d{3})+", ln):
+        return False                                   # "20", "3rd", "4,000"
+    if re.fullmatch(r"[A-Za-z][a-z']+", core) and known(core, vocab):
+        return False                                   # a real word ("Yes", "Momo")
+    return bool(re.fullmatch(r"[\W\d_]+", ln) or "/" in ln or "\\" in ln   # "11.", "/NII"
+                or re.fullmatch(r"[A-Z]{1,3}( \d+)?", ln)  # "U", "DDY", "D 06"
+                or (re.search(r"\d", ln) and re.search(r"[A-Za-z]", ln)))  # "I20.bo"
+
+
 def fix_typos(text, vocab):
     out = []
     text = text.replace("™", "").replace("®", "").replace("©", "")
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
-    for ln in text.split("\\N"):
+    lines = text.split("\\N")
+    if len(lines) > 1:   # drop short junk lines ("11.", "U", "D 06", "I20.bo") above/below real text
+        lines = [ln for ln in lines if not is_junk_line(ln.strip(), vocab)]
+    for ln in lines:
         ln = fix_ellipsis_artifacts(ln, vocab)
         for pat, rep in TYPO_FIXES:
             if pat == LETTER_L_FIX.pattern:
@@ -418,8 +440,9 @@ def main():
     for oc in final:
         text = oc["text"]
         text = fix_typos(text, vocab)
-        if text.upper().replace("\\N", " ").strip() in ("TO BE CONTINUED", "ONE PIECE"):
-            continue
+        flat_up = text.upper().replace("\\N", " ").strip(" -.")
+        if flat_up in ("ONE PIECE", "TO BE") or re.fullmatch(r"(TO BE\s*)?CONTIN\w*", flat_up):
+            continue   # the "TO BE CONTINUED" eyecatch art (any partial read of it)
         x, y = round(oc["cx"] * 1920), round((1 - oc["cy"]) * 1080)
         events.append({"s": oc["s"], "e": oc["last"] + step, "text": text, "kind": "caption",
                        "pos": (x, y), "flags": ["caption (timing ±0.5s, check position/whether needed)"]})
