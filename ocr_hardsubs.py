@@ -58,6 +58,8 @@ TYPO_FIXES = [
     (r"^1 (?=[a-z])", "I "), (r"(?<=[\s,.!?])[l1] (?=(am|have|was|had|can|will|think|guess|know|pity)\b)", "I "),
     (r"(?<= )i(?= )", "I"), (r"^i(?= )", "I"), (r"\bMl\b", "I'll"), (r"\b([a-z]{2,})W\b", lambda m: m.group(1) + "w"),
     (r"^'(?=[A-Z][a-z])", ""),                                  # stray leading apostrophe
+    (r"(?:(?<=^)|(?<=[\s\"]))l(?=(ain't|'m|'ll|'ve|'d)\b)", "I "),  # "lain't" -> "I ain't"
+    (r"\b([a-z]{3,})([A-Z])\b", lambda m: m.group(1) + m.group(2).lower()),   # "monsterS" -> "monsters"
     (r"\b([A-Z][a-z']+) (sama|san|chan|kun|dono)\b", r"\1-\2"),  # lost honorific hyphen
     (r"(\w)!!$", r"\1!"),
     (r"(\w)l$", r"\1!"),                                       # trailing "!" read as "l" (only if word unknown; see below)

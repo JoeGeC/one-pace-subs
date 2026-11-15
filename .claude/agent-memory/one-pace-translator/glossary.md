@@ -5698,6 +5698,19 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Onigashima Skull Dome, Right-Brain Tower / Castle Interior, Performance Floor | 鬼島骷髏圓頂 右腦塔 / 城內 表演樓層 | |
 | Swirly Brow (Zoro's name for Sanji) | 捲眉毛 | established |
 
+| Onigashima+ 33 [1021-1022] — The Stars Take the Stage | — | "+" cut kept in filename. Typeset attack-title echoes dropped |
+| Oiran Knuckles / Mariarson / Maricade / Gran Jacuzzi Clutch (Black Maria & Robin attacks) | 花魁鐵拳 / 瑪莉亞森 / 瑪莉凱德 / 巨大扭轉鎖 | COINED. UNVERIFIED |
+| Mil Fleurs, Fishman Karate: Giganteum / Phrase d'Armes: Orchestra (Robin/Brook) | 千花 魚人空手道：巨人掌 / 武器之句：管弦樂團 | COINED. UNVERIFIED |
+| Demon Child (Robin's epithet) | 惡魔之子 | established |
+| Dragon Claw Fist (Sabo) / Koala / Hack / Sabo | 龍爪拳 / 可亞拉 / 哈克 / 薩波 | established |
+| "iw aaiu!!" (Luffy's garbled "I'm alive!!" through the transmitter) / "is alive!!" sign | 「……還活著呃！！」 / 還活著！！ | gibberish rendered as garbled 還活著 |
+| Swamp-Swamp Fruit (Caribou) / Bepo | 沼澤果實 / 貝波 | established |
+| Udon (Tokage Port, Udon caption) | 兔丼 | established Udon 兔丼 |
+| Fukurokuju / Ninja Art: Clone Technique | 福祿壽 / 忍法：分身之術 | established |
+| King the Wildfire / Imperial Flame | 「火災」的燼 / 皇帝之炎 | King 燼 established; Imperial Flame COINED |
+| Diable... Mouton Mallet / Three Sword Style: Purgatory Demon Slash | 惡魔……羊肉槌 / 三刀流：煉獄鬼斬 | Purgatory Demon Slash 煉獄鬼斬 canon |
+| Tristan (Heart Pirates doctor's aide) | 崔斯坦 | COINED. UNVERIFIED |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
