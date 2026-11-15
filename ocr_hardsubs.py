@@ -63,6 +63,8 @@ TYPO_FIXES = [
     (r"\b([a-z]{3,})([A-Z])\b", lambda m: m.group(1) + m.group(2).lower()),   # "monsterS" -> "monsters"
     (r"\b([A-Z][a-z']+) (sama|san|chan|kun|dono)\b", r"\1-\2"),  # lost honorific hyphen
     (r"(\w)!!$", r"\1!"),
+    (r'"tis\b', "'tis"), (r"^Tis\b", "'Tis"), (r"(?<=[\s\"])Tis\b", "'Tis"), (r"\bHeis\b", "He's"), (r"\bShes\b(?= [a-z])", "She's"),
+    (r"([a-z])' s\b", r"\1's"), (r"\.+o{2,3}\.*$", "..."),
     (r"(\w)l$", r"\1!"),                                       # trailing "!" read as "l" (only if word unknown; see below)
     (r"[‹›«»|]+$", ""), (r"^[‹›«»|]+", ""),
 ]

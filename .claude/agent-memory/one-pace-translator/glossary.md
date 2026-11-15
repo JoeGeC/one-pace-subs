@@ -5729,6 +5729,18 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Color of the Conqueror (HatSubs: Conqueror's Haki) | 霸王色 | established |
 | Yamato's mouth-full "Fank you aww... Sammmurai" | 謝謝里們……武喜們…… | mimicked garbled speech |
 
+| Onigashima 35 [1025-1026] — Twin Dragons | — | sign captions merged; Polar Tang "DEATH" hull read dropped |
+| Mirror Mountain / Hallowed Glacier Slash (Yamato) | 鏡山 / 神聖冰河斬 | COINED. UNVERIFIED |
+| Divine Swiftness: White Serpent (Yamato) | 神速：白蛇 | COINED. UNVERIFIED |
+| Gear 4: Snakeman / Gum-Gum Jet Culverin / Gear 3 / Elephant Gun | 四檔：蛇人 / 橡膠噴射大砲 / 三檔 / 象槍 | established |
+| Yamabro (Luffy's nickname for Yamato) | 大和兄 | COINED |
+| Straw Hatter (Killer/Kid's address) | 草帽仔 | |
+| Azure Dragon (Kaido's form) | 青龍 | established |
+| Emperor of the Sea (Yonko) | 海上皇帝 | |
+| Boss Cat (Carrot→Nekomamushi) | 貓老大 | |
+| Oden One-Sword Style: Feline Frenzy Cleaver (Nekomamushi) | 御田一刀流：貓狂切 | COINED. UNVERIFIED |
+| "you-gara" (mink speech tic) | 喲咿 | established |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
