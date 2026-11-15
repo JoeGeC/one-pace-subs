@@ -5680,6 +5680,24 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Color of Arms (HatSubs: Armament Haki) | 武裝色 | established |
 | "Red Haired" Shanks | 「紅髮」傑克 | established |
 
+| Onigashima 32 [1019-1021] — Triceracopter | — | shaking-text duplicates merged; artwork reads dropped |
+| Heliceratops / Bulletriceratops / Magnumceratops (Sasaki attacks) | 直升三角龍 / 子彈三角龍 / 麥格農三角龍 | COINED. UNVERIFIED |
+| Iron Bro / Armored Division / General Left / General Shield / General Cannon (Franky/Sasaki) | 鐵大哥 / 裝甲部隊 / 左將軍 / 將軍盾 / 將軍砲 | COINED. UNVERIFIED |
+| Trick Mechanism: Screw Sword / Franken-Sword: V-for-Victory Flash / Portable Gaon Cannon / Franky Radical Beam | 機關：螺旋劍 / 弗蘭肯劍：勝利V字閃 / 攜帶型雷音砲 / 佛朗基激進光束 | Gaon Cannon 雷音砲 & Radical Beam established; rest COINED |
+| Miyagi (Mink doctor) | 三宅 | COINED. UNVERIFIED |
+| Dog-Dog Fruit, Mythical Type, Model: Okuchi-no-Makami (Yamato) | 狗狗果實 幻獸種 大口真神型 | Fandom zh 大口真神 |
+| Blast Breath (Kaido) / Namuji Glacier Fang (Yamato) | 爆風吐息 / 鳴神冰牙 | COINED. UNVERIFIED |
+| Illusion Mist (Black Maria) / Spider Net / Marianette | 幻覺之霧 / 蜘蛛網 / 牽絲人偶 | COINED. UNVERIFIED |
+| Wanyudo / Wanyudo Sleeve Swing (Black Maria's flaming-wheel weapon) | 輪入道 / 輪入道袖揮 | Wanyudo 輪入道 (yokai). Sleeve Swing COINED |
+| Pug Smile Fruit | 巴哥犬SMILE果實 | |
+| Soul: Cold Soul / Soul Parade: Iceburn (Brook) | 靈魂：寒冷靈魂 / 靈魂遊行：冰焰 | COINED. UNVERIFIED |
+| Tres Mano: Freesia / Gigante Fleurs / Sea Serpent Snapdragon (Robin) | 三手：小蒼蘭 / 巨人之花 / 海蛇金魚草 | COINED. UNVERIFIED |
+| Saul (Jaguar D. Saul) | 薩龍 | established |
+| Polar Tang (Heart Pirates sub) | 極地潛航號 | |
+| Tokage Port | 蜥蜴港 | |
+| Onigashima Skull Dome, Right-Brain Tower / Castle Interior, Performance Floor | 鬼島骷髏圓頂 右腦塔 / 城內 表演樓層 | |
+| Swirly Brow (Zoro's name for Sanji) | 捲眉毛 | established |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 

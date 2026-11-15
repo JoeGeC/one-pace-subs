@@ -53,6 +53,7 @@ TYPO_FIXES = [
     (r"\.{4,}", "..."),
     (r"^L, ", "I, "), (r"'S\b", "'s"), (r"^\\(?=\w)", ""),
     (r"^(co|bo|oo|o)\.\s+(?=[a-z])", "..."),                     # "co. would" -> "...would"
+    (r"^(poo|ooo|oo|co)\s+(?=[a-z]{3})", "..."), (r"^oo (?=[A-Z])", "..."),  # "poo work", "oo Suplex"
     (r"^[B-HJ-Z] (?=[a-z])", ""),                               # stray capital before a lowercase line
     (r"^1 (?=[a-z])", "I "), (r"(?<=[\s,.!?])[l1] (?=(am|have|was|had|can|will|think|guess|know|pity)\b)", "I "),
     (r"(?<= )i(?= )", "I"), (r"^i(?= )", "I"), (r"\bMl\b", "I'll"), (r"\b([a-z]{2,})W\b", lambda m: m.group(1) + "w"),
