@@ -5623,6 +5623,28 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Second Floor / Inside the Castle (map caption) | 二樓 / 城內 | |
 | "A short while ago..." (time caption) | 不久之前…… | |
 
+## Wano — Onigashima Paced (fan edit, dir "32 Wano - Onigashima Paced/"; English sources OCR'd from hardsubs via ocr_hardsubs.py)
+| English | 繁體中文 | Notes |
+|---|---|---|
+| Onigashima 29 [1014-1015] — SOURCE NOTE | — | Onigashima Paced cut (HatSubs subs, edited by fedew); timing does NOT match One Pace. OP dropped. Credits "Edited by fedew"/"Subtitles by HatSubs" kept in English |
+| Bao Huang (Beast Pirates announcer, Marys broadcast) | 寶黃 | Fandom zh 寶黃. UNVERIFIED via verify_names.py this session |
+| Marys: Spread-the-News Mode! (Bao Huang broadcast call) | 瑪麗：傳播消息模式！ | Marys 瑪麗 (W61 reconciled); mode name COINED |
+| Black Light Roast (Queen attack) | 黑光燒烤 | COINED. UNVERIFIED |
+| Raccoon Dog (Queen's name for Chopper; "Raccoon Dog-san" from Speed) | 狸貓 / 狸貓先生 | tanuki 狸貓 (Wano 04 established) |
+| Kikunojo / Kiku (Okiku's true name; Kin'emon calls her Kiku) | 菊之丞 / 阿菊 | Okiku 阿菊 (L4728); true name 菊之丞 per verify_names note |
+| Kikunojo of the Fallen Snow (Kiku's epithet) | 殘雪之菊之丞 | COINED — 残雪 (fallen/lingering snow). UNVERIFIED |
+| Kin-sama / Kin (Kiku & Kanjuro's address for Kin'emon) | 錦大人 / 阿錦 | Kin'emon 錦右衛門 (L2486) |
+| Izo (Kiku's brother, Kanjuro reference) | 以藏 | Fandom zh 以藏 |
+| Ashura-san (Ashura Doji, Kiku's reference) | 阿修羅先生 | Ashura Doji 阿修羅童子 (Wano 09) |
+| Slicing Rounds (attack shout) | 斬擊彈 | COINED. UNVERIFIED |
+| Kappa Style: River of Retribution (Kawamatsu attack) | 河童流：報應之河 | Kappa Style 河童流 (L5181) + COINED attack name. UNVERIFIED |
+| Diable Jambe... Rotisserie... Strike! (Sanji attack, split) | 惡魔風腳……／……炙烤……／……打擊！ | Diable Jambe 惡魔風腳 (L100); rest COINED. UNVERIFIED |
+| Judge's son (Queen's name for Sanji) | 賈吉士的兒子 | Judge 賈吉士 (L3600) |
+| Mlem! (Queen's tongue/virus attack shout) | 舔！ | onomatopoeia |
+| candy arrow volley | 糖果箭雨 | descriptive |
+| Grave of Kozuki Oden / Grave of retainer X (grave-marker captions) | 光月御田之墓 / 家臣X之墓 | 家臣 retainer |
+| Castle interior, Third floor / First floor, Crawl space (location captions) | 城內 三樓 / 一樓 地板下 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
