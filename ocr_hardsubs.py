@@ -52,6 +52,11 @@ TYPO_FIXES = [
     (r"(?<!\.)\.\.(?!\.)", "..."),                                # two dots -> ellipsis
     (r"\.{4,}", "..."),
     (r"^L, ", "I, "), (r"'S\b", "'s"), (r"^\\(?=\w)", ""),
+    (r"^(co|bo|oo|o)\.\s+(?=[a-z])", "..."),                     # "co. would" -> "...would"
+    (r"^[B-HJ-Z] (?=[a-z])", ""),                               # stray capital before a lowercase line
+    (r"^1 (?=[a-z])", "I "), (r"(?<=[\s,.!?])[l1] (?=(am|have|was|had|can|will|think|guess|know|pity)\b)", "I "),
+    (r"(?<= )i(?= )", "I"), (r"^i(?= )", "I"), (r"\bMl\b", "I'll"), (r"\b([a-z]{2,})W\b", lambda m: m.group(1) + "w"),
+    (r"^'(?=[A-Z][a-z])", ""),                                  # stray leading apostrophe
     (r"\b([A-Z][a-z']+) (sama|san|chan|kun|dono)\b", r"\1-\2"),  # lost honorific hyphen
     (r"(\w)!!$", r"\1!"),
     (r"(\w)l$", r"\1!"),                                       # trailing "!" read as "l" (only if word unknown; see below)
@@ -167,7 +172,8 @@ def known(word, vocab, _depth=0):
     return False
 
 
-LEAD_JUNK = ("ooo", "oo", "cod", "co", "o", "c")
+LEAD_JUNK = ("ooo", "coo", "oo", "cod", "co", "o", "c")
+INTERJECTIONS = {"oof", "ooh", "oops", "oho", "ohh", "oi", "oy", "ow", "ouch", "oooh", "ooo", "oh", "ohoho", "coo"}
 
 
 def fix_ellipsis_artifacts(ln, vocab):
@@ -175,9 +181,9 @@ def fix_ellipsis_artifacts(ln, vocab):
     words = ln.split(" ")
     if words and words[0]:
         w0 = re.sub(r"[^A-Za-z']", "", words[0])
-        if w0 and w0.lower() not in SUB_WORDS:
+        if w0 and w0.lower() not in SUB_WORDS and w0.lower() not in INTERJECTIONS:
             for j in LEAD_JUNK:
-                if w0.lower().startswith(j) and len(w0) > len(j) and w0[len(j):].lower() in SUB_WORDS:
+                if w0.lower().startswith(j) and len(w0) - len(j) >= 2 and w0[len(j):].lower() in SUB_WORDS:
                     words[0] = "..." + words[0][words[0].lower().index(j) + len(j):]
                     break
     for k, w in enumerate(words):
@@ -193,6 +199,7 @@ def fix_ellipsis_artifacts(ln, vocab):
 
 def fix_typos(text, vocab):
     out = []
+    text = text.replace("™", "").replace("®", "").replace("©", "")
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
     for ln in text.split("\\N"):

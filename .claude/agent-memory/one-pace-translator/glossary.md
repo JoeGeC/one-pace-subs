@@ -5662,6 +5662,24 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Ripe-Ripe Jutsu (Shinobu) | 熟熟之術 | Ripe-Ripe 熟熟 (L4897) |
 | explainer captions: troop counts / "The world's most powerful intelligence agency" (CP0) | 兵力數字用中文數字（兩萬四千）／世界最強的諜報機關 | |
 
+| Onigashima 31 [1017-1018] — Jinbe vs Who's Who | — | "WHO WHO" tattoo reads dropped |
+| Who's Who (Tobi Roppo, ex-CP9) | 福茲胡 | established (L5374) |
+| Horselina-chan (Otama's name for Speed) | 馬妞 | established Horsella 馬妞 (Wano 07) |
+| Daifugo-kun / Gazelleman-kun (Gifters befriended by Otama) | 大富豪小弟 / 瞪羚人小弟 | COINED. UNVERIFIED |
+| Hamlet-sama / Poker (Gifters) | 哈姆雷特大人 / 撲克 | COINED phonetic/literal. UNVERIFIED |
+| Baby Geezer Chopper (Rumble Ball side-effect name card) | 嬰兒老頭喬巴 | COINED |
+| Big Cat Café (Castle Interior, Fourth Floor caption) | 大貓咖啡廳 | |
+| Collier Strike (Sanji attack) | 項圈打擊 | COINED. UNVERIFIED |
+| Six Forms: Shaving / Tempest Kick / Iron Body / Moonwalk / Finger Pistol | 六式：剃／嵐腳／鐵塊／月步／指槍 | established CP9 terms |
+| Blade Pistol / Fang Pistol / Fang Flash (Who's Who) | 刃指槍 / 牙指槍 / 牙閃 | COINED from 指槍. UNVERIFIED |
+| Fishman Karate: Arabesque Brick Fist / Secret Art: Demon Brick Fist | 魚人空手道：唐草瓦正拳 / 魚人空手道·奧義：武頼貫 | canon zh. Demon Brick Fist 武頼貫 UNVERIFIED |
+| Fishman Jujutsu: Low Tide Shoulder Throw / Water Shot | 魚人柔術：退潮過肩摔 / 水槍 | COINED. UNVERIFIED |
+| Scorpion Death Needle Poison (Headliner attack) | 蠍子死亡毒針 毒 | COINED |
+| Sun God Nika | 太陽神尼卡 | Fandom zh 尼卡 |
+| MADS (Vegapunk's old research team) | MADS | kept Latin |
+| Color of Arms (HatSubs: Armament Haki) | 武裝色 | established |
+| "Red Haired" Shanks | 「紅髮」傑克 | established |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
