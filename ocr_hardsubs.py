@@ -42,7 +42,7 @@ DEFAULT_TEMPLATE = os.path.join(ROOT, "32 Wano", "[One Pace][1012-1013] Wano 62 
 # Known Vision misreads of this subtitle font (applied word-wise / to whole lines).
 TYPO_FIXES = [
     (r"\bl'm\b", "I'm"), (r"\bl'll\b", "I'll"), (r"\bl've\b", "I've"), (r"\bl'd\b", "I'd"),
-    (r"\bfll\b", "I'll"), (r"\bIl\b", "I'll"),
+    (r"\bfll\b", "I'll"), (r"\bIl\b", "I'll"), (r"^lam\b", "I am"), (r"(?<=[.!?] )lam\b", "I am"),
     (r"\b(T|t)heyre\b", r"\1hey're"), (r"\b(Y|y)oure\b", r"\1ou're"), (r"\b(Y|y)oull\b", r"\1ou'll"),
     (r"\b(W|w)ere gonna\b", r"\1e're gonna"), (r"\b(I|i)ts a\b", r"\1t's a"),
     (r"\b(I|i)f's\b", r"\1t's"), (r"\b(W|w)elve\b", r"\1e've"),
@@ -115,10 +115,14 @@ def plausible(text):
 def clean_tokens(text):
     lines = []
     for ln in text.split("\\N"):
-        toks = [w for w in ln.split() if re.search(r"[A-Za-z]", w) or re.fullmatch(r"[-.!?…\"'—]+", w)]
+        toks = [w for w in ln.split() if re.search(r"[A-Za-z]", w) or re.fullmatch(r"[-.!?…\"'—]+", w)
+                or re.fullmatch(r"\d{1,3}(,\d{3})*([.,!?]+)?|\d+%?[.,!?]*", w)]   # keep numbers like 4,000 / 30%
         if toks:
             lines.append(" ".join(toks))
     return "\\N".join(lines)
+
+
+SUB_WORDS = set()   # words seen in real (non-OCR) subtitle scripts — stricter than the dictionary
 
 
 def load_vocab():
@@ -130,10 +134,15 @@ def load_vocab():
         if "zh-TW" in p:
             continue
         try:
+            with open(p, encoding="utf-8-sig", errors="ignore") as fh:
+                if "{Source: OCR" in fh.read(20000):
+                    continue   # OCR-built sources may contain misreads; don't learn words from them
             for line in open(p, encoding="utf-8-sig", errors="ignore"):
                 if line.startswith("Dialogue:"):
                     txt = re.sub(r"\{[^}]*\}", "", line.split(",", 9)[-1])
-                    words |= {w.lower().strip("'’-") for w in re.findall(r"[A-Za-z][A-Za-z'’-]*", txt)}
+                    ws = {w.lower().strip("'’-") for w in re.findall(r"[A-Za-z][A-Za-z'’-]*", txt)}
+                    words |= ws
+                    SUB_WORDS.update(ws)
         except OSError:
             pass
     return words
@@ -166,9 +175,9 @@ def fix_ellipsis_artifacts(ln, vocab):
     words = ln.split(" ")
     if words and words[0]:
         w0 = re.sub(r"[^A-Za-z']", "", words[0])
-        if w0 and not known(w0, vocab):
+        if w0 and w0.lower() not in SUB_WORDS:
             for j in LEAD_JUNK:
-                if w0.lower().startswith(j) and len(w0) > len(j) and known(w0[len(j):], vocab):
+                if w0.lower().startswith(j) and len(w0) > len(j) and w0[len(j):].lower() in SUB_WORDS:
                     words[0] = "..." + words[0][words[0].lower().index(j) + len(j):]
                     break
     for k, w in enumerate(words):
@@ -213,7 +222,7 @@ def find_op_window(scans, fr):
         if len(run) >= 2 and (best is None or run[-1] - run[0] > best[1] - best[0]):
             best = (run[0], run[-1])
     if best and best[1] - best[0] >= 40 * fr:
-        return best[0] - int(1.5 * fr), best[1] + int(2.5 * fr)
+        return max(0, best[0] - int(1.5 * fr)), best[1] + int(2.5 * fr)
     return None
 
 

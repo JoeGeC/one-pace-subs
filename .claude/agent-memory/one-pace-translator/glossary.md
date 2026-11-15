@@ -5645,6 +5645,23 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Grave of Kozuki Oden / Grave of retainer X (grave-marker captions) | 光月御田之墓 / 家臣X之墓 | 家臣 retainer |
 | Castle interior, Third floor / First floor, Crawl space (location captions) | 城內 三樓 / 一樓 地板下 | |
 
+| Onigashima 30 [1015-1017] — SOURCE NOTE | — | Episode opens with the OP (auto-dropped 0:00–1:19). Typeset echoes of subtitled lines (e.g. "Gorilla Punch: Starring My Fist") dropped as captions |
+| Klima Takt (HatSubs spelling of Clima-Tact) | 天候棒 | established Clima-Tact 天候棒 (L122) |
+| Ex-Zeus (Zeus reborn in the Clima-Tact) | 前宙斯 | Zeus 宙斯 (L3887) |
+| Lightning Blast (Nami/Zeus attack) | 雷電爆擊 | COINED. UNVERIFIED |
+| Fluff (name Nami nearly gives Zeus) | 毛毛 | gag name |
+| Gorilla Punch: Starring My Fist! (Gifter attack) | 猩猩拳：我的拳頭主演！ | COINED. UNVERIFIED |
+| Gifters Elite Corps | 給賦者精銳部隊 | Gifters 給賦者 (established) |
+| Pleasures / Waiters | 愉悅者 / 待者 | established (L3401/L5377) |
+| Flying Six (HatSubs for Tobi Roppo) | 飛六胞 | established Soaring Six 飛六胞 |
+| Briscola (Gifter) | 布里斯科拉 | COINED phonetic. UNVERIFIED |
+| Eustasser (Law's "Eustass-ya") | 尤斯塔斯當家的 | Law's -ya = 當家的 |
+| O-Toko (Toko, kamuro) | 阿鳶 | お→阿 + Toko 鳶 (canon トコ). UNVERIFIED |
+| Fire Festival | 火祭 | |
+| Ninja Art: Great Kite (Shinobu) | 忍法：大風箏 | established (L4928) |
+| Ripe-Ripe Jutsu (Shinobu) | 熟熟之術 | Ripe-Ripe 熟熟 (L4897) |
+| explainer captions: troop counts / "The world's most powerful intelligence agency" (CP0) | 兵力數字用中文數字（兩萬四千）／世界最強的諜報機關 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
