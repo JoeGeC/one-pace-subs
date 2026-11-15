@@ -5741,6 +5741,18 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Oden One-Sword Style: Feline Frenzy Cleaver (Nekomamushi) | 御田一刀流：貓狂切 | COINED. UNVERIFIED |
 | "you-gara" (mink speech tic) | 喲咿 | established |
 
+| Onigashima 36 [1027-1028] — Brachiosnakeus | — | troop-count explainer rebuilt as 2 top subs + 2 signboards + 2 army labels |
+| "Gutless" (Luffy's name for Momonosuke) | 「膽小鬼」 | |
+| Flame Clouds (Kaido/Momonosuke's cloud-making) | 焰雲 | Fandom zh 焰雲 |
+| Three Sword Style: Imperial Archer / Ultra Tiger / Two-Sword Style: Clear Lance (Zoro) | 三刀流：皇弓 / 極虎 / 二刀流：清明槍 | COINED. UNVERIFIED |
+| Three-Verse Humming: Nock Slash (Brook) | 三番歌：箭矢斬 | COINED. UNVERIFIED |
+| Flying Pan / super machine gun (Sanji vs Queen) | 飛天平底鍋 / 超級機關槍 | COINED |
+| Diable Jambe: Bien Cuit Gril Shot (HatSubs spelling "Gril") | 惡魔風腳：全熟·燒烤射擊 | established (L2059) |
+| Brachiosnakeus / Brachiocoilus / Brachio Launchers (Queen) | 腕龍蛇 / 腕龍纏繞 / 腕龍發射器 | COINED. UNVERIFIED |
+| Cipher Pol "Aigis" Zero (caption) | 世界政府 諜報機關 聖地守護者 CP0 | Fandom zh CP0「聖地守護者」 |
+| Kaido's army / Samurai army (go-board labels) | 凱多軍 / 武士軍 | |
+| troop counts "Initially: 30,000 VS 5,400 / Now: 12,000 VS 8,000" | 初期：三萬 對 五千四百 ／ 現在：一萬兩千 對 八千 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 

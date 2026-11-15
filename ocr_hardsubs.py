@@ -60,9 +60,9 @@ TYPO_FIXES = [
     (r"(?<= )i(?= )", "I"), (r"^i(?= )", "I"), (r"\bMl\b", "I'll"), (r"\b([a-z]{2,})W\b", lambda m: m.group(1) + "w"),
     (r"^'(?=[A-Z][a-z])", ""),                                  # stray leading apostrophe
     (r"(?:(?<=^)|(?<=[\s\"]))l(?=(ain't|'m|'ll|'ve|'d)\b)", "I "),  # "lain't" -> "I ain't"
-    (r"\b([a-z]{3,})([A-Z])\b", lambda m: m.group(1) + m.group(2).lower()),   # "monsterS" -> "monsters"
+    (r"\b([A-Za-z][a-z]{2,})([A-Z])\b", lambda m: m.group(1) + m.group(2).lower()),   # "monsterS"/"LauncherS"
     (r"\b([A-Z][a-z']+) (sama|san|chan|kun|dono)\b", r"\1-\2"),  # lost honorific hyphen
-    (r"(\w)!!$", r"\1!"),
+    (r"(\w)!!$", r"\1!"), (r"\br'll\b", "I'll"),
     (r'"tis\b', "'tis"), (r"^Tis\b", "'Tis"), (r"(?<=[\s\"])Tis\b", "'Tis"), (r"\bHeis\b", "He's"), (r"\bShes\b(?= [a-z])", "She's"),
     (r"([a-z])' s\b", r"\1's"), (r"\.+o{2,3}\.*$", "..."),
     (r"(\w)l$", r"\1!"),                                       # trailing "!" read as "l" (only if word unknown; see below)
@@ -127,7 +127,7 @@ def clean_tokens(text):
     lines = []
     for ln in text.split("\\N"):
         toks = [w for w in ln.split() if re.search(r"[A-Za-z]", w) or re.fullmatch(r"[-.!?…\"'—]+", w)
-                or re.fullmatch(r"\d{1,3}(,\d{3})*([.,!?]+)?|\d+%?[.,!?]*", w)]   # keep numbers like 4,000 / 30%
+                or re.fullmatch(r"\d{1,3}(,\d{3})*([.,!?…]+)?|\d+%?[.,!?…]*", w)]   # keep numbers like 4,000 / 30%
         if toks:
             lines.append(" ".join(toks))
     return "\\N".join(lines)
