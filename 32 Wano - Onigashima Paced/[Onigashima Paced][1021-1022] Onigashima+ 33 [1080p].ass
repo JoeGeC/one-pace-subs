@@ -29,7 +29,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main-207+,,0,0,0,,{Source: OCR of hardcoded English subs ([1021-1022] Onigashima+ 33 - The Stars Take the Stage.mp4); opening lyrics omitted}
 Dialogue: 0,0:01:21.28,0:01:24.08,Credits-207+,,0,0,0,,{\an8}Edited by fedew
 Dialogue: 0,0:01:21.28,0:01:24.08,Credits-207+,,0,0,0,,{\an8}Subtitles by HatSubs
-Dialogue: 0,0:01:30.00,0:01:34.80,Main-207+,,0,0,0,,I am a brawler by trade.
+Dialogue: 0,0:01:30.00,0:01:33.59,Main-207+,,0,0,0,,I am a brawler by trade.
+Dialogue: 0,0:01:33.59,0:01:34.80,Main-207+,,0,0,0,,I show mercy to none...
 Dialogue: 0,0:01:35.84,0:01:37.30,Main-207+,,0,0,0,,...not even women!
 Dialogue: 0,0:01:52.11,0:01:53.98,Main-207+,,0,0,0,,Oiran...
 Dialogue: 0,0:01:54.03,0:01:55.11,Main-207+,,0,0,0,,...Knuckles!
@@ -38,7 +39,8 @@ Dialogue: 0,0:02:08.75,0:02:10.92,Main-207+,,0,0,0,,It must be because you're so
 Dialogue: 0,0:02:23.35,0:02:25.93,Main-207+,,0,0,0,,My, now.\NRunning out on me, are we!
 Dialogue: 0,0:02:30.19,0:02:31.81,Main-207+,,0,0,0,,Maricade!
 Dialogue: 0,0:02:38.78,0:02:41.45,Main-207+,,0,0,0,,The webs that barred your way...
-Dialogue: 0,0:02:42.16,0:02:46.20,Main-207+,,0,0,0,,...are flammable!
+Dialogue: 0,0:02:42.16,0:02:44.49,Main-207+,,0,0,0,,...are flammable!
+Dialogue: 0,0:02:44.49,0:02:46.20,Main-207+,,0,0,0,,Mariarson!
 Dialogue: 0,0:02:54.25,0:02:57.67,Main-207+,,0,0,0,,"Over before it even began,"\Nyou say!
 Dialogue: 0,0:02:59.51,0:03:05.35,Main-207+,,0,0,0,,In you came, like a knight in shining armor,\Nto cover for the shameful Black-Leg Sanji's disgrace,
 Dialogue: 0,0:03:05.35,0:03:09.23,Main-207+,,0,0,0,,but should you be\Nhandily defeated here,
@@ -60,7 +62,8 @@ Dialogue: 0,0:04:12.00,0:04:14.79,Main-207+,,0,0,0,,Punching such\Nan irritating
 Dialogue: 0,0:04:14.96,0:04:17.63,Main-207+,,0,0,0,,feels sooo good!
 Dialogue: 0,0:04:22.80,0:04:27.60,Main-207+,,0,0,0,,See, now? Your vulgar rampage\Ncaused this raging inferno to spread!
 Dialogue: 0,0:04:27.60,0:04:29.31,Main-207+,,0,0,0,,What are you going to\Ndo about it?
-Dialogue: 0,0:04:29.81,0:04:37.65,Main-207+,,0,0,0,,Going to ask that skeleton monster\Nto put it out again?
+Dialogue: 0,0:04:29.81,0:04:32.85,Main-207+,,0,0,0,,Going to ask that skeleton monster\Nto put it out again?
+Dialogue: 0,0:04:32.85,0:04:37.65,Main-207+,,0,0,0,,Go on, ask him to clean up\Nthe mess you made!
 Dialogue: 0,0:04:38.02,0:04:42.65,Main-207+,,0,0,0,,I overheard you utter some\Nridiculous things yourself, Black Maria-san.
 Dialogue: 0,0:04:42.65,0:04:44.65,Main-207+,,0,0,0,,Were I you...
 Dialogue: 0,0:04:45.61,0:04:47.70,Main-207+,,0,0,0,,I would flee from\Nwhere you stand!
@@ -69,7 +72,8 @@ Dialogue: 0,0:04:52.12,0:04:53.29,Main-207+,,0,0,0,,Robin-san!
 Dialogue: 0,0:04:54.62,0:04:56.00,Main-207+,,0,0,0,,Hey, you listening?
 Dialogue: 0,0:04:56.50,0:04:57.54,Main-207+,,0,0,0,,I've been telling you...
 Dialogue: 0,0:04:58.46,0:05:01.55,Main-207+,,0,0,0,,you've gotta know how\Nto throw a punch, just in case!
-Dialogue: 0,0:05:02.55,0:05:07.22,Main-207+,,0,0,0,,Is slapping\Nout of the question, Koala!
+Dialogue: 0,0:05:02.55,0:05:04.59,Main-207+,,0,0,0,,Is slapping\Nout of the question, Koala!
+Dialogue: 0,0:05:04.59,0:05:07.22,Main-207+,,0,0,0,,The people after you\Nwant you dead, though!
 Dialogue: 0,0:05:07.22,0:05:08.55,Main-207+,,0,0,0,,Slapping won't cut it!
 Dialogue: 0,0:05:10.72,0:05:14.06,Main-207+,,0,0,0,,How about using the heel of your palm,\Nthis part of it?
 Dialogue: 0,0:05:14.60,0:05:16.48,Main-207+,,0,0,0,,Speed matters more than power!
@@ -82,7 +86,8 @@ Dialogue: 0,0:05:31.78,0:05:36.25,Main-207+,,0,0,0,,What're you doing here, Sabo
 Dialogue: 0,0:05:36.25,0:05:38.54,Main-207+,,0,0,0,,Doesn't matter\Nwho teaches her, does it?
 Dialogue: 0,0:05:38.54,0:05:39.83,Main-207+,,0,0,0,,Then I will!
 Dialogue: 0,0:05:39.83,0:05:41.25,Main-207+,,0,0,0,,No, I'm gonna!
-Dialogue: 0,0:05:41.25,0:05:49.55,Main-207+,,0,0,0,,I'm more suited for it than you!\NI'm a Fishman Karate assistant instructor!
+Dialogue: 0,0:05:41.25,0:05:46.30,Main-207+,,0,0,0,,I'm more suited for it than you!\NI'm a Fishman Karate assistant instructor!
+Dialogue: 0,0:05:46.30,0:05:49.55,Main-207+,,0,0,0,,Hey now, hey now... No need for\Nthe both of you to impose!
 Dialogue: 0,0:05:49.55,0:05:50.97,Main-207+,,0,0,0,,Oh, Hack!
 Dialogue: 0,0:05:50.97,0:05:53.47,Main-207+,,0,0,0,,Robin's strong enough\Nwith her locking techniques.
 Dialogue: 0,0:05:53.47,0:05:57.27,Main-207+,,0,0,0,,But once we've gone our separate ways,\Nwe can't protect her!
@@ -100,7 +105,8 @@ Dialogue: 0,0:06:31.64,0:06:37.18,Main-207+,,0,0,0,,Help me, Robin-chan!
 Dialogue: 0,0:06:40.06,0:06:43.36,Main-207+,,0,0,0,,Never did I think that I would\Nwant to become stronger...
 Dialogue: 0,0:06:43.36,0:06:45.78,Main-207+,,0,0,0,,...for the sake of another.
 Dialogue: 0,0:06:46.23,0:06:51.53,Main-207+,,0,0,0,,You'll be just fine\Nif you leave it to me!
-Dialogue: 0,0:06:51.53,0:06:53.07,Main-207+,,0,0,0,,Huh?
+Dialogue: 0,0:06:51.53,0:06:52.03,Main-207+,,0,0,0,,Then...
+Dialogue: 0,0:06:52.03,0:06:53.07,Main-207+,,0,0,0,,Huh?
 Dialogue: 0,0:06:53.78,0:06:57.79,Main-207+,,0,0,0,,Mind teaching me a little\Nabout that "palm" thing?
 Dialogue: 0,0:07:00.54,0:07:01.62,Main-207+,,0,0,0,,Okay!
 Dialogue: 0,0:07:02.54,0:07:05.09,Main-207+,,0,0,0,,Are you sure about\Nteaching me this, though?
@@ -136,7 +142,8 @@ Dialogue: 0,0:10:31.38,0:10:34.13,Main-207+,,0,0,0,,"Need neither arms nor legs"
 Dialogue: 0,0:10:35.92,0:10:39.05,Main-207+,,0,0,0,,No! Not mine...!
 Dialogue: 0,0:10:39.05,0:10:40.93,Main-207+,,0,0,0,,I was talking about yours!
 Dialogue: 0,0:10:59.03,0:11:01.07,Main-207+,,0,0,0,,What... was that noise?!
-Dialogue: 0,0:11:01.07,0:11:04.53,Main-207+,,0,0,0,,Black Maria-sama!
+Dialogue: 0,0:11:01.07,0:11:02.49,Main-207+,,0,0,0,,Black Maria-sama!
+Dialogue: 0,0:11:02.49,0:11:04.53,Main-207+,,0,0,0,,The ice is in the way!
 Dialogue: 0,0:11:04.53,0:11:06.79,Main-207+,,0,0,0,,Damn that skeleton monster!
 Dialogue: 0,0:11:10.25,0:11:13.46,Main-207+,,0,0,0,,Black Maria... sama?
 Dialogue: 0,0:11:18.63,0:11:22.09,Main-207+,,0,0,0,,Black Maria-sama was...?
@@ -163,7 +170,9 @@ Dialogue: 0,0:12:48.30,0:12:50.64,Main-207+,,0,0,0,,What's happened to our capta
 Dialogue: 0,0:12:52.77,0:12:53.77,Captions-207+,,0,0,0,,{\an5\pos(957,702)}is alive!!
 Dialogue: 0,0:12:52.77,0:12:53.77,Captions-207+,,0,0,0,,{\an5\pos(962,91)}...iw aaiu!!
 Dialogue: 0,0:12:54.31,0:12:55.44,Main-207+,,0,0,0,,"Iw aaiu"?
-Dialogue: 0,0:12:55.44,0:13:05.53,Main-207+,,0,0,0,,I am begging you!\NOnly you, Shinobu, are capable of this!
+Dialogue: 0,0:12:55.44,0:12:59.52,Main-207+,,0,0,0,,I am begging you!\NOnly you, Shinobu, are capable of this!
+Dialogue: 0,0:12:59.52,0:13:03.24,Main-207+,,0,0,0,,Indeed I am capable,\Nbut why do you wish this?!
+Dialogue: 0,0:13:03.24,0:13:05.53,Main-207+,,0,0,0,,I would grant\NLuffy his wish!
 Dialogue: 0,0:13:06.07,0:13:07.57,Main-207+,,0,0,0,,His wish?
 Dialogue: 0,0:13:08.37,0:13:12.08,Main-207+,,0,0,0,,I must take Luffy there!
 Dialogue: 0,0:13:12.08,0:13:15.21,Main-207+,,0,0,0,,That is why I wish to go\Nto Onigashima once again!
@@ -173,14 +182,16 @@ Dialogue: 0,0:13:21.88,0:13:27.38,Main-207+,,0,0,0,,I could never again let you\
 Dialogue: 0,0:13:27.38,0:13:28.59,Main-207+,,0,0,0,,Wait, Shinobu!
 Dialogue: 0,0:13:28.59,0:13:33.85,Main-207+,,0,0,0,,If nothing is done, the Flower Capital\Nand the Land of Wano will be annihilated!
 Dialogue: 0,0:13:33.85,0:13:38.23,Main-207+,,0,0,0,,It is for that reason I must go,\Nno matter the cost!
-Dialogue: 0,0:13:38.23,0:13:44.49,Main-207+,,0,0,0,,I beg of you!\NYou must, for our sakes-
+Dialogue: 0,0:13:38.23,0:13:39.61,Main-207+,,0,0,0,,I beg of you!\NYou must, for our sakes-
+Dialogue: 0,0:13:39.61,0:13:44.49,Main-207+,,0,0,0,,Momonosuke-sama,\Nlisten to me very carefully.
 Dialogue: 0,0:13:44.49,0:13:47.74,Main-207+,,0,0,0,,If I do this,\Nyou will never...
 Dialogue: 0,0:13:47.74,0:13:50.99,Main-207+,,0,0,0,,...be able to return\Nto your current appearance!
 Dialogue: 0,0:13:52.28,0:13:56.12,Main-207+,,0,0,0,,That is to say,\Nyour mind will remain that of a child...
 Dialogue: 0,0:13:56.12,0:13:59.38,Main-207+,,0,0,0,,...and only your body will mature!
 Dialogue: 0,0:13:59.38,0:14:00.63,Main-207+,,0,0,0,,If you follow through-
 Dialogue: 0,0:14:00.63,0:14:01.67,Main-207+,,0,0,0,,I care not!
-Dialogue: 0,0:14:02.34,0:14:07.59,Main-207+,,0,0,0,,I might be able to become...
+Dialogue: 0,0:14:02.34,0:14:05.21,Main-207+,,0,0,0,,I might be able to become...
+Dialogue: 0,0:14:05.21,0:14:07.59,Main-207+,,0,0,0,,...a bigger dragon that way!
 Dialogue: 0,0:14:11.93,0:14:13.14,Main-207+,,0,0,0,,And yet.
 Dialogue: 0,0:14:13.14,0:14:15.43,Main-207+,,0,0,0,,I cannot bring myself\Nto do such a thing...
 Dialogue: 0,0:14:16.10,0:14:17.18,Main-207+,,0,0,0,,Momonosuke-sama!
@@ -191,7 +202,8 @@ Dialogue: 0,0:14:24.82,0:14:27.36,Main-207+,,0,0,0,,Use your Ripe Ripe Jutsu...
 Dialogue: 0,0:14:29.11,0:14:31.66,Main-207+,,0,0,0,,...to make me an adult...
 Dialogue: 0,0:14:31.66,0:14:37.04,Main-207+,,0,0,0,,Please...\Nmake me an adult...
 Dialogue: 0,0:14:37.04,0:14:40.21,Main-207+,,0,0,0,,Make me an adult!
-Dialogue: 0,0:14:43.09,0:14:50.84,Main-207+,,0,0,0,,The Animal Kingdom Pirates,\Nnumbering 30,000, versus...
+Dialogue: 0,0:14:43.09,0:14:46.26,Main-207+,,0,0,0,,The Animal Kingdom Pirates,\Nnumbering 30,000, versus...
+Dialogue: 0,0:14:46.26,0:14:50.84,Main-207+,,0,0,0,,the 5,400-strong\NSamurai-Pirate Alliance raiders!
 Dialogue: 0,0:14:50.84,0:14:52.72,Main-207+,,0,0,0,,The gap in manpower quickly shrank...
 Dialogue: 0,0:14:52.72,0:14:55.22,Main-207+,,0,0,0,,...thanks to\NO-Tama's Kibi Dango strategy,
 Dialogue: 0,0:14:55.22,0:14:59.73,Main-207+,,0,0,0,,...and the valiant fighting by\Nsamurai and pirate alike.
@@ -215,7 +227,12 @@ Dialogue: 0,0:16:22.98,0:16:27.86,Main-207+,,0,0,0,,It is thanks to our emotions
 Dialogue: 0,0:16:28.77,0:16:31.40,Main-207+,,0,0,0,,That day, we...
 Dialogue: 0,0:16:31.86,0:16:35.57,Main-207+,,0,0,0,,...cried together,\Nlaughed together.
 Dialogue: 0,0:16:36.24,0:16:40.12,Main-207+,,0,0,0,,And together,\Nwe died with Oden-sama!
-Dialogue: 0,0:16:40.74,0:17:04.06,Main-207+,,0,0,0,,We are but apparitions,\Nseeking to execute our lord's will!
+Dialogue: 0,0:16:46.00,0:16:49.00,Main-207+,,0,0,0,,You will not sully that\Nby calling it a mere "duty"!
+Dialogue: 0,0:16:49.00,0:16:53.92,Main-207+,,0,0,0,,It is because we servants\Nbear these emotions...
+Dialogue: 0,0:16:53.92,0:16:56.09,Main-207+,,0,0,0,,...that we have no qualms\Nif we should die in battle!
+Dialogue: 0,0:16:56.09,0:17:00.31,Main-207+,,0,0,0,,Today, the night called\NOrochi-Kaido shall end,
+Dialogue: 0,0:17:00.31,0:17:00.31,Main-207+,,0,0,0,,We are but apparitions,\Nseeking to execute our lord's will!
+Dialogue: 0,0:17:00.31,0:17:04.06,Main-207+,,0,0,0,,and the brilliant sun\Nwill rise in its place...
 Dialogue: 0,0:17:04.06,0:17:08.48,Main-207+,,0,0,0,,...with Momonosuke-sama\Nas Shogun!
 Dialogue: 0,0:17:12.61,0:17:13.86,Main-207+,,0,0,0,,Hawkins!
 Dialogue: 0,0:17:13.86,0:17:18.12,Main-207+,,0,0,0,,Just how many damn substitutes\Ndo you have?!
@@ -231,7 +248,8 @@ Dialogue: 0,0:18:13.80,0:18:15.67,Main-207+,,0,0,0,,Hey, what's with you\Nall of
 Dialogue: 0,0:18:22.72,0:18:25.68,Main-207+,,0,0,0,,Don't tell me that straw doll...!
 Dialogue: 0,0:18:26.18,0:18:28.44,Main-207+,,0,0,0,,Now you notice...
 Dialogue: 0,0:18:29.56,0:18:36.28,Main-207+,,0,0,0,,It would have been entertaining to observe you\Nkill Kid without realizing that it's him...
-Dialogue: 0,0:18:36.78,0:18:43.41,Main-207+,,0,0,0,,...but watching you\Ngrow helpless...
+Dialogue: 0,0:18:36.78,0:18:41.16,Main-207+,,0,0,0,,...but watching you\Ngrow helpless...
+Dialogue: 0,0:18:41.16,0:18:43.41,Main-207+,,0,0,0,,...is just as interesting,\Nwouldn't you say?
 Dialogue: 0,0:18:45.08,0:18:48.50,Main-207+,,0,0,0,,You can kill me...
 Dialogue: 0,0:18:48.50,0:18:52.25,Main-207+,,0,0,0,,...only after killing your own captain!
 Dialogue: 0,0:18:52.25,0:18:53.75,Main-207+,,0,0,0,,You damned, lousy...!
@@ -256,7 +274,8 @@ Dialogue: 0,0:20:53.21,0:20:55.67,Main-207+,,0,0,0,,He was in critical condition
 Dialogue: 0,0:20:55.67,0:20:57.33,Main-207+,,0,0,0,,Chopper, Miyagi!
 Dialogue: 0,0:20:57.75,0:21:01.76,Main-207+,,0,0,0,,If the drug ain't working,\Ntake that green mummy and get outta here!
 Dialogue: 0,0:21:01.76,0:21:04.76,Main-207+,,0,0,0,,Sanji...\NWe've already administered the shot!
-Dialogue: 0,0:21:06.55,0:21:11.22,Main-207+,,0,0,0,,Hang in there, Zoro!
+Dialogue: 0,0:21:06.55,0:21:08.80,Main-207+,,0,0,0,,Hang in there, Zoro!
+Dialogue: 0,0:21:08.80,0:21:11.22,Main-207+,,0,0,0,,Who can stop them?!
 Dialogue: 0,0:21:11.22,0:21:14.73,Main-207+,,0,0,0,,If nothing is done,\Neveryone on this floor is dead!
 Dialogue: 0,0:21:15.27,0:21:17.60,Main-207+,,0,0,0,,Find Roronoa Zoro...
 Dialogue: 0,0:21:17.60,0:21:18.98,Main-207+,,0,0,0,,...and choke the life out of him!
@@ -279,7 +298,8 @@ Dialogue: 0,0:22:31.51,0:22:32.97,Main-207+,,0,0,0,,Mlem!
 Dialogue: 0,0:22:33.60,0:22:37.43,Main-207+,,0,0,0,,Chew on this,\Nyou Germa defect!
 Dialogue: 0,0:22:39.90,0:22:44.82,Main-207+,,0,0,0,,Come on ouuuut!
 Dialogue: 0,0:22:48.53,0:22:51.57,Main-207+,,0,0,0,,This un's for Pedro!
-Dialogue: 0,0:23:02.88,0:23:07.88,Main-207+,,0,0,0,,Ain't done with ye yet!
+Dialogue: 0,0:23:02.88,0:23:05.13,Main-207+,,0,0,0,,Ain't done with ye yet!
+Dialogue: 0,0:23:05.13,0:23:07.88,Main-207+,,0,0,0,,I found Roronoa Zoro!
 Dialogue: 0,0:23:08.26,0:23:09.84,Main-207+,,0,0,0,,Make him dead!
 Dialogue: 0,0:23:09.84,0:23:12.80,Main-207+,,0,0,0,,Aye!
 Dialogue: 0,0:23:13.43,0:23:14.97,Main-207+,,0,0,0,,They found us!
@@ -293,7 +313,8 @@ Dialogue: 0,0:24:19.66,0:24:21.46,Main-207+,,0,0,0,,Don't do it, sonny!
 Dialogue: 0,0:24:25.13,0:24:27.71,Main-207+,,0,0,0,,Dammit! Do I gotta do\Neverything for ya, Mossbrain?!
 Dialogue: 0,0:24:33.80,0:24:36.68,Main-207+,,0,0,0,,You ain't gettin' in our way,\NBlack Leg!
 Dialogue: 0,0:24:46.56,0:24:47.56,Main-207+,,0,0,0,,You're done!
-Dialogue: 0,0:24:49.27,0:24:52.53,Main-207+,,0,0,0,,Imperial Flame!
+Dialogue: 0,0:24:49.27,0:24:51.36,Main-207+,,0,0,0,,Imperial Flame!
+Dialogue: 0,0:24:51.36,0:24:52.53,Main-207+,,0,0,0,,Undying Thistle!
 Dialogue: 0,0:25:04.71,0:25:06.71,Main-207+,,0,0,0,,I once heard...
 Dialogue: 0,0:25:06.71,0:25:11.84,Main-207+,,0,0,0,,A long, long time ago,\Nupon the red wall...
 Dialogue: 0,0:25:11.84,0:25:15.51,Main-207+,,0,0,0,,dwelled a race of people\Ncapable of igniting themselves.
@@ -302,7 +323,8 @@ Dialogue: 0,0:25:21.18,0:25:23.77,Main-207+,,0,0,0,,How the hell're you still ki
 Dialogue: 0,0:25:23.77,0:25:25.77,Main-207+,,0,0,0,,Marco?!
 Dialogue: 0,0:25:25.77,0:25:27.48,Main-207+,,0,0,0,,Go to hell already...
 Dialogue: 0,0:25:27.90,0:25:29.86,Main-207+,,0,0,0,,Whitebeard Pirates!
-Dialogue: 0,0:25:29.86,0:25:33.28,Main-207+,,0,0,0,,Sure...
+Dialogue: 0,0:25:29.86,0:25:31.94,Main-207+,,0,0,0,,Sure...
+Dialogue: 0,0:25:31.94,0:25:33.28,Main-207+,,0,0,0,,I give!
 Dialogue: 0,0:25:35.95,0:25:39.95,Main-207+,,0,0,0,,I've gotten all I want outta this.\NThis is as far as I take things.
 Dialogue: 0,0:25:54.38,0:25:57.22,Main-207+,,0,0,0,,And now...\NThe real stars of this show, oh yeah.
 Dialogue: 0,0:26:38.30,0:26:40.89,Main-207+,,0,0,0,,Roronoa!
