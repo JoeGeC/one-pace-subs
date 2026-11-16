@@ -44,7 +44,8 @@ Dialogue: 0,0:02:18.26,0:02:22.05,Main-207+,,0,0,0,,Apologies for leaving you ea
 Dialogue: 0,0:02:22.05,0:02:23.30,Main-207+,,0,0,0,,Yamato!
 Dialogue: 0,0:02:23.30,0:02:26.64,Main-207+,,0,0,0,,Well, then!\NLet us stop Onigashima!
 Dialogue: 0,0:02:27.73,0:02:29.89,Main-207+,,0,0,0,,Countin' on ya, Momo!
-Dialogue: 0,0:02:33.94,0:02:37.32,Main-207+,,0,0,0,,Hey, Yamato!
+Dialogue: 0,0:02:33.94,0:02:36.03,Main-207+,,0,0,0,,Hey, Yamato!
+Dialogue: 0,0:02:36.03,0:02:37.32,Main-207+,,0,0,0,,Momonosuke!
 Dialogue: 0,0:02:40.99,0:02:44.03,Main-207+,,0,0,0,,Where the hell do you\Nthink you're going?!
 Dialogue: 0,0:02:53.96,0:02:55.67,Main-207+,,0,0,0,,Lend me your strength...
 Dialogue: 0,0:02:57.67,0:02:59.01,Main-207+,,0,0,0,,Kin'emon!
@@ -73,7 +74,8 @@ Dialogue: 0,0:05:01.17,0:05:02.38,Main-207+,,0,0,0,,Kin'emon!
 Dialogue: 0,0:05:03.55,0:05:06.76,Main-207+,,0,0,0,,Take Momonosuke-sama and flee!
 Dialogue: 0,0:05:08.18,0:05:09.72,Main-207+,,0,0,0,,I will...
 Dialogue: 0,0:05:12.68,0:05:16.31,Main-207+,,0,0,0,,Surely come back to you,\Nmy retainers!
-Dialogue: 0,0:05:17.85,0:05:23.61,Main-207+,,0,0,0,,Dragons do not merely fly!
+Dialogue: 0,0:05:17.85,0:05:20.32,Main-207+,,0,0,0,,Dragons do not merely fly!
+Dialogue: 0,0:05:20.32,0:05:23.61,Main-207+,,0,0,0,,They create clouds, clutch them,
 Dialogue: 0,0:05:25.07,0:05:27.11,Main-207+,,0,0,0,,and dash through the skies!
 Dialogue: 0,0:05:27.49,0:05:29.53,Main-207+,,0,0,0,,Such are dragons!
 Dialogue: 0,0:05:34.58,0:05:38.46,Main-207+,,0,0,0,,I am flyiiing!
@@ -89,7 +91,8 @@ Dialogue: 0,0:06:11.20,0:06:13.62,Main-207+,,0,0,0,,Kaido is...
 Dialogue: 0,0:06:13.62,0:06:15.29,Main-207+,,0,0,0,,losing strength!
 Dialogue: 0,0:06:15.91,0:06:18.54,Main-207+,,0,0,0,,The Flame Clouds Kaido created\Nare becoming unstable,
 Dialogue: 0,0:06:18.92,0:06:22.29,Main-207+,,0,0,0,,and they can no longer support\Nthe fracturing bedrock!
-Dialogue: 0,0:06:22.29,0:06:27.72,Main-207+,,0,0,0,,We must hurry, then!
+Dialogue: 0,0:06:22.29,0:06:24.21,Main-207+,,0,0,0,,We must hurry, then!
+Dialogue: 0,0:06:24.21,0:06:27.72,Main-207+,,0,0,0,,I care not what happens to me!
 Dialogue: 0,0:06:32.43,0:06:38.18,Main-207+,,0,0,0,,I shall not permit such a treacherous thing\Nto make its way to the Flower Capital!
 Dialogue: 0,0:06:39.27,0:06:42.15,Main-207+,,0,0,0,,You mustn't,\NMomonosuke-kun!
 Dialogue: 0,0:06:45.53,0:06:49.49,Main-207+,,0,0,0,,I grew so that I could\Nstop this island!
@@ -97,12 +100,15 @@ Dialogue: 0,0:06:50.11,0:06:52.45,Main-207+,,0,0,0,,You cannot,\NMomonosuke-kun!
 Dialogue: 0,0:06:52.87,0:06:54.95,Main-207+,,0,0,0,,This is not the way!
 Dialogue: 0,0:06:55.66,0:06:57.83,Main-207+,,0,0,0,,But we do not have time!
 Dialogue: 0,0:06:57.83,0:07:01.00,Main-207+,,0,0,0,,And lo!\NWe are very nearly at the capital!
-Dialogue: 0,0:07:01.37,0:07:06.42,Main-207+,,0,0,0,,It will arrive\Nin less than five minutes!
+Dialogue: 0,0:07:01.37,0:07:04.17,Main-207+,,0,0,0,,It will arrive\Nin less than five minutes!
+Dialogue: 0,0:07:04.17,0:07:06.42,Main-207+,,0,0,0,,Out with the\NFlame Clouds, then!
 Dialogue: 0,0:07:06.88,0:07:09.59,Main-207+,,0,0,0,,With those colossal,\Ndraconic clouds,
 Dialogue: 0,0:07:09.59,0:07:12.72,Main-207+,,0,0,0,,Kaido is moving Onigashima!
-Dialogue: 0,0:07:12.72,0:07:20.98,Main-207+,,0,0,0,,To push it back, you must create\Nmore powerful Flame Clouds than his!
+Dialogue: 0,0:07:12.72,0:07:17.52,Main-207+,,0,0,0,,To push it back, you must create\Nmore powerful Flame Clouds than his!
+Dialogue: 0,0:07:17.52,0:07:20.98,Main-207+,,0,0,0,,That is impossible!\NI cannot possibly produce such things!
 Dialogue: 0,0:07:21.48,0:07:23.86,Main-207+,,0,0,0,,I have barely learned flight!
-Dialogue: 0,0:07:23.86,0:07:32.03,Main-207+,,0,0,0,,Besides, I do not necessarily share\Nthe same powers as he!
+Dialogue: 0,0:07:23.86,0:07:28.23,Main-207+,,0,0,0,,Besides, I do not necessarily share\Nthe same powers as he!
+Dialogue: 0,0:07:28.23,0:07:32.03,Main-207+,,0,0,0,,But you can conjure Flame Clouds!\NI am sure you are capable!
 Dialogue: 0,0:07:35.12,0:07:37.37,Main-207+,,0,0,0,,It is all in our hands now.
 Dialogue: 0,0:07:37.91,0:07:40.79,Main-207+,,0,0,0,,The situation is more dire\Nthan we thought!
 Dialogue: 0,0:07:41.33,0:07:44.83,Main-207+,,0,0,0,,Even if it lands as Kaido plans,
@@ -130,7 +136,8 @@ Dialogue: 0,0:09:41.62,0:09:45.41,Main-207+,,0,0,0,,He ain't an All-Star for not
 Dialogue: 0,0:09:45.41,0:09:47.29,Main-207+,,0,0,0,,He's damn strong...
 Dialogue: 0,0:09:47.67,0:09:49.50,Main-207+,,0,0,0,,No surprise there.
 Dialogue: 0,0:09:49.50,0:09:51.75,Main-207+,,0,0,0,,The hell's goin' on,\Nover on the Floor?
-Dialogue: 0,0:09:51.84,0:09:55.72,Main-207+,,0,0,0,,Need a hand?
+Dialogue: 0,0:09:51.84,0:09:52.88,Main-207+,,0,0,0,,Need a hand?
+Dialogue: 0,0:09:52.88,0:09:55.72,Main-207+,,0,0,0,,Nah, I'm good!
 Dialogue: 0,0:10:01.05,0:10:03.97,Main-207+,,0,0,0,,Dammit, King!
 Dialogue: 0,0:10:03.97,0:10:07.85,Main-207+,,0,0,0,,Don't just throw out random attacks!\NYou cut my butt!
 Dialogue: 0,0:10:07.85,0:10:10.65,Main-207+,,0,0,0,,Better if it were your neck!
@@ -138,7 +145,8 @@ Dialogue: 0,0:10:13.23,0:10:18.61,Main-207+,,0,0,0,,Pirate Hunter Zoro...\Ndamag
 Dialogue: 0,0:10:18.61,0:10:23.08,Main-207+,,0,0,0,,Yeah, that would piss him off...
 Dialogue: 0,0:10:23.08,0:10:27.08,Main-207+,,0,0,0,,Nobody knows what he looks like\Nunder that mask!
 Dialogue: 0,0:10:29.58,0:10:31.79,Main-207+,,0,0,0,,Sorry, Franky...
-Dialogue: 0,0:10:32.25,0:10:36.01,Main-207+,,0,0,0,,Better steer clear!
+Dialogue: 0,0:10:32.25,0:10:33.42,Main-207+,,0,0,0,,Better steer clear!
+Dialogue: 0,0:10:33.42,0:10:36.01,Main-207+,,0,0,0,,Gotcha, hang in there!
 Dialogue: 0,0:10:46.14,0:10:47.73,Main-207+,,0,0,0,,Three Sword Style:
 Dialogue: 0,0:10:55.32,0:10:56.69,Main-207+,,0,0,0,,Imperial...
 Dialogue: 0,0:10:59.20,0:10:59.90,Main-207+,,0,0,0,,...Archer!
@@ -153,13 +161,17 @@ Dialogue: 0,0:11:46.83,0:11:48.91,Main-207+,,0,0,0,,At least use your\Ndamn swor
 Dialogue: 0,0:11:49.95,0:11:51.08,Main-207+,,0,0,0,,I ain't lettin' you off!
 Dialogue: 0,0:11:52.12,0:11:53.71,Main-207+,,0,0,0,,Same to you!
 Dialogue: 0,0:11:54.71,0:11:58.21,Captions-207+,,0,0,0,,{\an5\pos(1504,303)}Castle Interior\NGuest Parlor
-Dialogue: 0,0:11:57.96,0:12:03.80,Main-207+,,0,0,0,,Do you doubt me?\NThink I'm lying, perhaps!
+Dialogue: 0,0:11:57.96,0:12:02.17,Main-207+,,0,0,0,,Do you doubt me?\NThink I'm lying, perhaps!
+Dialogue: 0,0:12:02.17,0:12:03.80,Main-207+,,0,0,0,,Never said that.
 Dialogue: 0,0:12:04.18,0:12:09.68,Main-207+,,0,0,0,,What I'm saying is, another dragon that isn't Kaido\Nmade their appearance.
 Dialogue: 0,0:12:09.68,0:12:14.23,Main-207+,,0,0,0,,This must be the Devil Fruit\NVegapunk created!
 Dialogue: 0,0:12:14.81,0:12:17.23,Main-207+,,0,0,0,,And they appear to be\Nallied with Straw Hat Luffy.
 Dialogue: 0,0:12:17.23,0:12:21.57,Main-207+,,0,0,0,,That's fine, isn't it?\NJust pirates trying to put each other out of business.
+Dialogue: 0,0:12:23.07,0:12:25.57,Main-207+,,0,0,0,,Then, what did you call us for?
+Dialogue: 0,0:12:25.57,0:12:28.03,Main-207+,,0,0,0,,Got orders from above.
 Dialogue: 0,0:12:28.03,0:12:32.50,Main-207+,,0,0,0,,"If by any chance Kaido loses...
-Dialogue: 0,0:12:32.50,0:12:39.46,Main-207+,,0,0,0,,...the Land of Wano,\Na non-member state of the World Government,
+Dialogue: 0,0:12:32.50,0:12:35.83,Main-207+,,0,0,0,,...the Land of Wano,\Na non-member state of the World Government,
+Dialogue: 0,0:12:35.83,0:12:39.46,Main-207+,,0,0,0,,"is to be brought under\Ndirect control of the Government."
 Dialogue: 0,0:12:40.38,0:12:44.34,Main-207+,,0,0,0,,We've already\Ndispatched ships to Wano...
 Dialogue: 0,0:12:44.68,0:12:47.55,Main-207+,,0,0,0,,Seizing a country by force, huh?
 Dialogue: 0,0:12:47.55,0:12:51.27,Main-207+,,0,0,0,,No better than\Npirates themselves...
@@ -173,11 +185,17 @@ Dialogue: 0,0:13:01.78,0:13:06.78,Captions-207+,,0,0,0,,{\an5\pos(225,183)}Now:\
 Dialogue: 0,0:13:05.28,0:13:06.78,Captions-207+,,0,0,0,,{\an5\pos(960,100)}but now they number 8,000...
 Dialogue: 0,0:13:06.41,0:13:10.58,Main-207+,,0,0,0,,It is a fascinating battle,\NI'll admit...
 Dialogue: 0,0:13:10.58,0:13:14.58,Main-207+,,0,0,0,,I can't see\NKaido actually falling, however.
-Dialogue: 0,0:13:14.58,0:13:22.42,Main-207+,,0,0,0,,I didn't think so...
+Dialogue: 0,0:13:16.92,0:13:18.92,Main-207+,,0,0,0,,Keep me updated.
+Dialogue: 0,0:13:18.92,0:13:18.92,Main-207+,,0,0,0,,I didn't think so...
+Dialogue: 0,0:13:18.92,0:13:22.42,Main-207+,,0,0,0,,Oh, and...\NOne more order that came down:
 Dialogue: 0,0:13:27.05,0:13:30.51,Main-207+,,0,0,0,,Bring Nico Robin in!
-Dialogue: 0,0:13:30.51,0:13:38.69,Main-207+,,0,0,0,,Rob Lucci...
+Dialogue: 0,0:13:31.93,0:13:34.06,Main-207+,,0,0,0,,No matter the battle's victor,
+Dialogue: 0,0:13:34.06,0:13:34.06,Main-207+,,0,0,0,,Rob Lucci...
 Dialogue: 0,0:13:30.81,0:13:38.81,Captions-207+,,0,0,0,,{\an5\pos(390,624)}World Government\NIntelligence Agency\NCipher Pol "Aigis" Zero
-Dialogue: 0,0:13:38.69,0:13:45.86,Main-207+,,0,0,0,,Further failure\Nwill not be tolerated.
+Dialogue: 0,0:13:34.06,0:13:38.69,Main-207+,,0,0,0,,that woman's existence\Nwill prove vital to the pirates.
+Dialogue: 0,0:13:38.69,0:13:42.44,Main-207+,,0,0,0,,Further failure\Nwill not be tolerated.
+Dialogue: 0,0:13:42.44,0:13:44.32,Main-207+,,0,0,0,,We know.
+Dialogue: 0,0:13:44.32,0:13:45.86,Main-207+,,0,0,0,,Clik.
 Dialogue: 0,0:13:46.32,0:13:47.82,Captions-207+,,0,0,0,,{\an5\pos(1593,225)}Castle Interior\N3rd Floor
 Dialogue: 0,0:13:47.74,0:13:51.16,Main-207+,,0,0,0,,You expect I would hand over\Na friend of mine?!
 Dialogue: 0,0:13:55.25,0:13:57.37,Main-207+,,0,0,0,,Three-Verse Humming:
@@ -185,14 +203,17 @@ Dialogue: 0,0:14:01.04,0:14:03.05,Main-207+,,0,0,0,,Nock Slash!
 Dialogue: 0,0:14:06.22,0:14:10.34,Main-207+,,0,0,0,,How was I?\NWas I the slightest bit helpful?
 Dialogue: 0,0:14:10.34,0:14:12.60,Main-207+,,0,0,0,,Yes, quite!
 Dialogue: 0,0:14:13.47,0:14:15.02,Main-207+,,0,0,0,,Whoa!
-Dialogue: 0,0:14:15.02,0:14:18.69,Main-207+,,0,0,0,,Are you all right?
+Dialogue: 0,0:14:15.02,0:14:16.56,Main-207+,,0,0,0,,Are you all right?
+Dialogue: 0,0:14:16.56,0:14:18.69,Main-207+,,0,0,0,,Thank you, Brook.
 Dialogue: 0,0:14:18.69,0:14:20.94,Main-207+,,0,0,0,,There she is!\NIt's Nico Robin!
 Dialogue: 0,0:14:20.94,0:14:22.48,Main-207+,,0,0,0,,Don't let her get away!
 Dialogue: 0,0:14:22.48,0:14:24.82,Main-207+,,0,0,0,,Nab her!
 Dialogue: 0,0:14:24.82,0:14:28.53,Main-207+,,0,0,0,,My,\Nthey've sent the horde!
 Dialogue: 0,0:14:28.53,0:14:31.45,Main-207+,,0,0,0,,You're quite\Nthe popular one, Robin-san!
-Dialogue: 0,0:14:31.45,0:14:34.66,Main-207+,,0,0,0,,It's a bother, really!
-Dialogue: 0,0:14:34.66,0:14:41.38,Main-207+,,0,0,0,,I know how hard it is,\Nbeing the center of attention.
+Dialogue: 0,0:14:31.45,0:14:33.12,Main-207+,,0,0,0,,It's a bother, really!
+Dialogue: 0,0:14:33.12,0:14:34.66,Main-207+,,0,0,0,,Whatever shall I do?
+Dialogue: 0,0:14:34.66,0:14:37.71,Main-207+,,0,0,0,,I know how hard it is,\Nbeing the center of attention.
+Dialogue: 0,0:14:37.71,0:14:41.38,Main-207+,,0,0,0,,But don't you worry!\NI shall defend you, come what may!
 Dialogue: 0,0:14:41.38,0:14:44.04,Main-207+,,0,0,0,,Most reassuring, Brook!
 Dialogue: 0,0:14:46.34,0:14:48.84,Main-207+,,0,0,0,,Careful,\Nor I'll get carried away!
 Dialogue: 0,0:14:50.68,0:14:52.72,Main-207+,,0,0,0,,Stop right there!
@@ -207,7 +228,7 @@ Dialogue: 0,0:15:26.00,0:15:27.25,Main-207+,,0,0,0,,Whaaaa?!
 Dialogue: 0,0:15:27.71,0:15:31.59,Main-207+,,0,0,0,,There are countless explosives\Nin the giant armory beneath the dome...
 Dialogue: 0,0:15:32.09,0:15:34.26,Main-207+,,0,0,0,,...that I must somehow\Ndispose of,
 Dialogue: 0,0:15:35.10,0:15:36.60,Main-207+,,0,0,0,,lest the worst comes to pass,
-Dialogue: 0,0:15:36.60,0:15:39.73,Main-207+,,0,0,0,,and the damage caused is\Nmultiplied many times over?
+Dialogue: 0,0:15:36.60,0:15:39.73,Main-207+,,0,0,0,,and the damage caused is\Nmultiplied many times over!
 Dialogue: 0,0:15:58.08,0:16:00.00,Main-207+,,0,0,0,,I shall leave this task to you!
 Dialogue: 0,0:16:01.54,0:16:04.96,Main-207+,,0,0,0,,Eh?!\NYou would leave me behind?!
 Dialogue: 0,0:16:04.96,0:16:09.21,Main-207+,,0,0,0,,I am certain you can summon\NFlame Clouds more powerful than Kaido's!
@@ -220,7 +241,8 @@ Dialogue: 0,0:16:31.36,0:16:33.20,Main-207+,,0,0,0,,You can do this!\NI know you
 Dialogue: 0,0:16:37.03,0:16:39.28,Main-207+,,0,0,0,,Alas, I cannot!
 Dialogue: 0,0:16:40.62,0:16:42.87,Main-207+,,0,0,0,,Nay, nay!\NI must do this!
 Dialogue: 0,0:16:43.58,0:16:45.87,Main-207+,,0,0,0,,Create clouds, then clutch them!
-Dialogue: 0,0:16:46.75,0:16:50.00,Main-207+,,0,0,0,,I summon thee...
+Dialogue: 0,0:16:46.75,0:16:48.38,Main-207+,,0,0,0,,I summon thee...
+Dialogue: 0,0:16:48.38,0:16:50.00,Main-207+,,0,0,0,,Flame Clouds!
 Dialogue: 0,0:16:54.76,0:16:55.88,Main-207+,,0,0,0,,I summon thee!
 Dialogue: 0,0:16:56.72,0:17:01.14,Main-207+,,0,0,0,,I must do this,\Nelse many of my people will perish!
 Dialogue: 0,0:17:07.86,0:17:10.15,Main-207+,,0,0,0,,I will not let this island...
@@ -229,7 +251,8 @@ Dialogue: 0,0:17:31.75,0:17:32.80,Main-207+,,0,0,0,,What?!
 Dialogue: 0,0:17:32.80,0:17:34.30,Main-207+,,0,0,0,,A huge wolf?!
 Dialogue: 0,0:17:40.05,0:17:42.68,Main-207+,,0,0,0,,It is in your hands now,\NMomonosuke-kun!
 Dialogue: 0,0:17:42.68,0:17:45.43,Main-207+,,0,0,0,,I summon thee, Flame Clouds!
-Dialogue: 0,0:17:46.23,0:17:49.69,Main-207+,,0,0,0,,Because it is you...
+Dialogue: 0,0:17:46.23,0:17:48.15,Main-207+,,0,0,0,,Because it is you...
+Dialogue: 0,0:17:48.15,0:17:49.69,Main-207+,,0,0,0,,...you will succeed!
 Dialogue: 0,0:17:56.57,0:17:59.03,Main-207+,,0,0,0,,Vinsmoke Sanji!
 Dialogue: 0,0:17:59.03,0:18:03.16,Main-207+,,0,0,0,,Dance with me some more!
 Dialogue: 0,0:18:03.16,0:18:03.45,Main-207+,,0,0,0,,Flying Pan!
@@ -245,7 +268,8 @@ Dialogue: 0,0:18:47.75,0:18:51.88,Main-207+,,0,0,0,,You were showin' off your co
 Dialogue: 0,0:18:51.88,0:18:54.63,Main-207+,,0,0,0,,I'm pretty damn sure\Nyou went invisible right then!
 Dialogue: 0,0:18:54.63,0:18:57.13,Main-207+,,0,0,0,,That's Judge's\Nscientific smarts for ya!
 Dialogue: 0,0:18:57.13,0:18:59.59,Main-207+,,0,0,0,,Stupid ass loudmouth lizard!
-Dialogue: 0,0:19:01.68,0:19:06.93,Main-207+,,0,0,0,,Man, I really am feeling off...
+Dialogue: 0,0:19:01.68,0:19:03.60,Main-207+,,0,0,0,,Man, I really am feeling off...
+Dialogue: 0,0:19:03.60,0:19:06.93,Main-207+,,0,0,0,,Put on that suit, Vinsmoke!
 Dialogue: 0,0:19:06.93,0:19:09.02,Main-207+,,0,0,0,,I told you to\Ndrop that damn name!
 Dialogue: 0,0:19:09.02,0:19:11.73,Main-207+,,0,0,0,,You don't know squat about\Nwhat's going on in my family!
 Dialogue: 0,0:19:11.73,0:19:13.90,Main-207+,,0,0,0,,Scratch that,\Nthey're not my family at all!
@@ -270,6 +294,7 @@ Dialogue: 0,0:21:22.94,0:21:24.40,Main-207+,,0,0,0,,Here I go!
 Dialogue: 0,0:21:32.95,0:21:33.62,Main-207+,,0,0,0,,Brachiosnakeus!
 Dialogue: 0,0:21:34.00,0:21:35.54,Main-207+,,0,0,0,,Brachiosnakeus!
 Dialogue: 0,0:21:38.50,0:21:42.13,Main-207+,,0,0,0,,Hwuuuuh?!
+Dialogue: 0,0:21:43.38,0:21:45.59,Main-207+,,0,0,0,,That's how it works?!
 Dialogue: 0,0:21:50.39,0:21:51.89,Main-207+,,0,0,0,,Ah, crap!
 Dialogue: 0,0:22:00.40,0:22:03.03,Main-207+,,0,0,0,,You dropped your guard!
 Dialogue: 0,0:22:03.03,0:22:06.36,Main-207+,,0,0,0,,This's the kind of dino\Na brachiosaurus is!
@@ -277,9 +302,11 @@ Dialogue: 0,0:22:06.36,0:22:09.36,Main-207+,,0,0,0,,You don't say...\NDammit!
 Dialogue: 0,0:22:10.16,0:22:15.75,Main-207+,,0,0,0,,Now you see the true power of the dinosaur,\Nking of the ancient world!
 Dialogue: 0,0:22:21.63,0:22:28.68,Main-207+,,0,0,0,,Nobody's ever gotten loose\Nfrom the Brachiocoilus!
 Dialogue: 0,0:22:29.09,0:22:30.22,Main-207+,,0,0,0,,Sangoro-san!
-Dialogue: 0,0:22:30.22,0:22:37.14,Main-207+,,0,0,0,,Sanji-san's done for\Nif this keeps up!
+Dialogue: 0,0:22:30.22,0:22:33.47,Main-207+,,0,0,0,,Sanji-san's done for\Nif this keeps up!
+Dialogue: 0,0:22:33.47,0:22:37.14,Main-207+,,0,0,0,,He's in real danger!\NA human body can't stand that!
 Dialogue: 0,0:22:37.14,0:22:38.81,Main-207+,,0,0,0,,Sanji!
-Dialogue: 0,0:22:42.73,0:22:48.15,Main-207+,,0,0,0,,Who knew dinosaurs\Nwere this terrifying...
+Dialogue: 0,0:22:42.73,0:22:46.74,Main-207+,,0,0,0,,Who knew dinosaurs\Nwere this terrifying...
+Dialogue: 0,0:22:46.74,0:22:48.15,Main-207+,,0,0,0,,Sangoro-san!
 Dialogue: 0,0:22:50.53,0:22:53.83,Main-207+,,0,0,0,,Not even a master of\NConqueror's Haki...
 Dialogue: 0,0:22:53.83,0:22:58.83,Main-207+,,0,0,0,,...can prevent my pressure from\Nshattering their bones and crushing their organs!
 Dialogue: 0,0:22:58.83,0:23:01.25,Main-207+,,0,0,0,,Anyone caught in it\Nain't comin' back!
@@ -287,7 +314,8 @@ Dialogue: 0,0:23:01.83,0:23:05.59,Main-207+,,0,0,0,,Done so soon,\Nson of Judge?
 Dialogue: 0,0:23:06.00,0:23:09.84,Main-207+,,0,0,0,,If you show me what\NGerma's got cookin'?
 Dialogue: 0,0:23:09.84,0:23:12.72,Main-207+,,0,0,0,,I'll let ya go.
 Dialogue: 0,0:23:13.64,0:23:14.97,Main-207+,,0,0,0,,I refuse...
-Dialogue: 0,0:23:22.77,0:23:31.36,Main-207+,,0,0,0,,Check that out!\NWere I just any old brachiosaurus...
+Dialogue: 0,0:23:22.77,0:23:27.19,Main-207+,,0,0,0,,Check that out!\NWere I just any old brachiosaurus...
+Dialogue: 0,0:23:27.19,0:23:31.36,Main-207+,,0,0,0,,my torso and legs\Nwould be totally useless!
 Dialogue: 0,0:23:31.36,0:23:34.37,Main-207+,,0,0,0,,But... I'm a scientist!
 Dialogue: 0,0:23:39.41,0:23:42.25,Main-207+,,0,0,0,,Torso-mounted super weapons!
 Dialogue: 0,0:23:42.25,0:23:47.30,Main-207+,,0,0,0,,A genius idea\Nfor making use of the useless!
@@ -295,15 +323,18 @@ Dialogue: 0,0:23:47.30,0:23:52.43,Main-207+,,0,0,0,,All I gotta do is call out t
 Dialogue: 0,0:23:52.43,0:23:54.39,Main-207+,,0,0,0,,They're the\NBrachio Launchers!
 Dialogue: 0,0:23:57.31,0:23:59.18,Main-207+,,0,0,0,,Queen-sama!
 Dialogue: 0,0:23:59.18,0:24:01.44,Main-207+,,0,0,0,,No!
-Dialogue: 0,0:24:01.44,0:24:04.60,Main-207+,,0,0,0,,I was just...
+Dialogue: 0,0:24:01.44,0:24:03.27,Main-207+,,0,0,0,,I was just...
+Dialogue: 0,0:24:03.27,0:24:04.60,Main-207+,,0,0,0,,...explaining...
 Dialogue: 0,0:24:04.60,0:24:08.53,Main-207+,,0,0,0,,You damned piece o' junk!\NDo it only when I shout it out like an attack...!
 Dialogue: 0,0:24:08.53,0:24:11.07,Main-207+,,0,0,0,,Like this: Brachio Launchers...
 Dialogue: 0,0:24:12.78,0:24:14.66,Main-207+,,0,0,0,,Queen-sama!
 Dialogue: 0,0:24:19.54,0:24:23.83,Main-207+,,0,0,0,,M-Man...\NI pack a helluva punch...
 Dialogue: 0,0:24:23.83,0:24:28.46,Main-207+,,0,0,0,,But! My constriction technique's decided things!\NThis fight's over!
 Dialogue: 0,0:24:29.05,0:24:32.55,Main-207+,,0,0,0,,You are already... dead.
-Dialogue: 0,0:24:32.55,0:24:40.52,Main-207+,,0,0,0,,Every bone in his body's\Ngot to be broken,
-Dialogue: 0,0:24:40.52,0:24:45.48,Main-207+,,0,0,0,,We must administer\Nthe super restorative!
+Dialogue: 0,0:24:32.55,0:24:36.55,Main-207+,,0,0,0,,Every bone in his body's\Ngot to be broken,
+Dialogue: 0,0:24:36.55,0:24:40.52,Main-207+,,0,0,0,,and there's no way\Nhis internal organs're intact...
+Dialogue: 0,0:24:40.52,0:24:44.44,Main-207+,,0,0,0,,We must administer\Nthe super restorative!
+Dialogue: 0,0:24:44.44,0:24:45.48,Main-207+,,0,0,0,,Yes!
 Dialogue: 0,0:24:47.86,0:24:49.44,Main-207+,,0,0,0,,Whaaaa?!
 Dialogue: 0,0:24:57.74,0:25:00.04,Main-207+,,0,0,0,,Are you all right, my boy?!
 Dialogue: 0,0:25:00.04,0:25:05.46,Main-207+,,0,0,0,,Well, it definitely hurts,\Nbut I can move around like I usually do...
