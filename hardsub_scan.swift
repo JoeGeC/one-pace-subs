@@ -120,6 +120,25 @@ func ocr(_ data: Data, rows: Int, row0: Int, minHeight: Float, frame: Int, done:
 var pinkFrames: [Int] = []
 var curStart = -1, curAge = 0
 var prevCells = [Bool](repeating: false, count: cellsX * cellsY)
+// Fine mask at the 2px sampling grid. The coarse cell IoU can't tell apart two
+// back-to-back one-line subtitles of similar width (they cover the same cells), so
+// a change is also detected when most outlined-white samples of one frame have no
+// counterpart (within 1 sample) in the other.
+let fineW = W / 2, fineH = bandH / 2 + 1
+var prevFine = [Bool](repeating: false, count: fineW * fineH)
+var prevFineN = 0
+func dilate(_ m: [Bool]) -> [Bool] {
+    var d = m
+    for fy in 0..<fineH { for fx in 0..<fineW where m[fy * fineW + fx] {
+        for dy in -1...1 { for dx in -1...1 {
+            let yy = fy + dy, xx = fx + dx
+            if yy >= 0 && yy < fineH && xx >= 0 && xx < fineW { d[yy * fineW + xx] = true }
+        } }
+    } }
+    return d
+}
+var prevFineDil = prevFine
+var changeScore: [Double] = []   // per frame, 0 = band identical to previous frame, 1 = entirely different
 var segs: [(Int, Int)] = []
 var frame = 0
 let OFF = 3  // outline search distance (px at 720p)
@@ -133,6 +152,7 @@ while let sb = output.copyNextSampleBuffer() {
     var cells = [Bool](repeating: false, count: cellsX * cellsY)
     var cellCount = [UInt16](repeating: 0, count: cellsX * cellsY)
     var white = 0, pink = 0
+    var fine = [Bool](repeating: false, count: fineW * fineH)
     var y = bandY0 + OFF
     while y < H - OFF {
         let row = base + y * bpr
@@ -147,6 +167,7 @@ while let sb = output.copyNextSampleBuffer() {
                         white += 1
                         let ci = ((y - bandY0) / CELL) * cellsX + x / CELL
                         cellCount[ci] &+= 1
+                        fine[((y - bandY0) / 2) * fineW + x / 2] = true
                     } else { pink += 1 }
                 }
             }
@@ -161,15 +182,28 @@ while let sb = output.copyNextSampleBuffer() {
     var inter = 0, uni = 0
     for i in 0..<cells.count { if cells[i] || prevCells[i] { uni += 1; if cells[i] && prevCells[i] { inter += 1 } } }
     let iou = uni == 0 ? 1.0 : Double(inter) / Double(uni)
+    // fine-grained text change: fraction of each frame's samples unmatched in the other
+    let fineDil = dilate(fine)
+    var curN = 0, curMiss = 0, prevMiss = 0
+    for i in 0..<fine.count {
+        if fine[i] { curN += 1; if !prevFineDil[i] { curMiss += 1 } }
+        if prevFine[i] && !fineDil[i] { prevMiss += 1 }
+    }
+    let missFrac = max(curN > 0 ? Double(curMiss) / Double(curN) : 0, prevFineN > 0 ? Double(prevMiss) / Double(prevFineN) : 0)
+    changeScore.append(max(missFrac, 1 - iou))
+    let textChanged = curN > 60 && prevFineN > 60 &&
+        Double(curMiss) / Double(curN) > 0.5 && Double(prevMiss) / Double(prevFineN) > 0.5
 
-    if curStart >= 0 && (!present || iou < 0.45) {
+    if curStart >= 0 && (!present || iou < 0.45 || textChanged) {
         segs.append((curStart, frame)); curStart = -1
     }
     if present && curStart < 0 { curStart = frame; curAge = 0 }
 
-    // OCR a few frames per segment: shortly after it appears (past a fade-in) and ~1s in.
+    // OCR shortly after a segment appears (past a fade-in), then every 0.5s. Busy
+    // backgrounds can hide a subtitle change from the mask test, so the driver splits
+    // a segment wherever these samples' text changes.
     if curStart >= 0 {
-        if curAge == 3 || curAge == 24 {
+        if curAge == 3 || (curAge > 3 && (curAge - 3) % 12 == 0) {
             var d = Data(count: W * bandH * 4)
             d.withUnsafeMutableBytes { dst in
                 let dp = dst.baseAddress!.assumingMemoryBound(to: UInt8.self)
@@ -195,6 +229,7 @@ while let sb = output.copyNextSampleBuffer() {
         }
     }
     prevCells = cells
+    prevFine = fine; prevFineDil = fineDil; prevFineN = curN
     CVPixelBufferUnlockBaseAddress(pb, .readOnly)
     frame += 1
     if frame % 5000 == 0 { FileHandle.standardError.write("  frame \(frame)\n".data(using: .utf8)!) }
@@ -208,5 +243,6 @@ lines.append(j(["k": "meta", "fps_num": fpsNum, "fps_den": fpsDen, "w": W, "h": 
 for (s, e) in segs { lines.append(j(["k": "seg", "s": s, "e": e, "o": segOCR[s] ?? []])) }
 for f in scanOCR.keys.sorted() where !(scanOCR[f]!.isEmpty) { lines.append(j(["k": "scan", "f": f, "o": scanOCR[f]!])) }
 lines.append(j(["k": "pink", "f": pinkFrames]))
+lines.append(j(["k": "chg", "v": changeScore.map { ($0 * 1000).rounded() / 1000 }]))
 try! lines.joined(separator: "\n").write(toFile: outPath, atomically: true, encoding: .utf8)
 FileHandle.standardError.write("  \(frame) frames, \(segs.count) segments\n".data(using: .utf8)!)

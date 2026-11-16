@@ -314,7 +314,7 @@ def main():
         log("Scanning video (one pass)…")
         subprocess.run([BIN, a.video, scan_json, str(a.band)], check=True)
 
-    meta, segs, scans = {}, [], []
+    meta, segs, scans, chg = {}, [], [], []
     for line in open(scan_json):
         r = json.loads(line)
         if r["k"] == "meta":
@@ -323,6 +323,8 @@ def main():
             segs.append(r)
         elif r["k"] == "scan":
             scans.append(r)
+        elif r["k"] == "chg":
+            chg = r["v"]
     fr = meta["fps_num"] / meta["fps_den"]
     op = find_op_window(scans, fr)
     if op:
@@ -333,17 +335,55 @@ def main():
     vocab = load_vocab()
 
     # ---- bottom dialogue ----
-    events = []  # dicts: s, e, text, flags, kind, pos
-    for sg in segs:
-        n = sg["e"] - sg["s"]
-        if n < 3 or in_op(sg["s"]) or in_op(sg["e"] - 1):
-            continue
+    def text_runs(sg):
+        """Split a mask segment where its OCR samples change text (busy backgrounds can
+        hide a subtitle change from the scanner's mask test). Each cut goes on the frame
+        with the largest band change between the two differing samples."""
         by_frame = collections.defaultdict(list)
         for o in sg["o"]:
             by_frame[o["f"]].append(o)
-        samples = [obs_to_text(v) for _, v in sorted(by_frame.items())]
-        samples = [(clean_tokens(t), c) for t, c in samples]
-        samples = [(t, c) for t, c in samples if plausible(t)]
+        # sampled frames with no OCR result at all count as blank (text "")
+        frames = sorted(set(by_frame) | {sg["s"] + 3 + 12 * k for k in range(max(0, (sg["e"] - sg["s"] - 4) // 12 + 1))})
+        samples = []
+        for f in frames:
+            t, c = obs_to_text(by_frame.get(f, []))
+            t = clean_tokens(t)
+            samples.append((f, t if plausible(t) else "", c))
+        runs = []
+        for smp in samples:
+            if runs and (runs[-1][-1][1] == smp[1] == "" or
+                         (runs[-1][-1][1] and smp[1] and sim(runs[-1][-1][1], smp[1]) >= 0.6)):
+                runs[-1].append(smp)
+            else:
+                runs.append([smp])
+        # a lone sample that disagrees with matching text on both sides is a misread, not a new line
+        i = 1
+        while i < len(runs) - 1:
+            a_, b_ = runs[i - 1][-1][1], runs[i + 1][0][1]
+            if len(runs[i]) == 1 and a_ and b_ and sim(a_, b_) >= 0.6:
+                runs[i - 1] += runs[i] + runs.pop(i + 1)
+                runs.pop(i)
+            else:
+                i += 1
+        out, s = [], sg["s"]
+        for k, run in enumerate(runs):
+            if k + 1 < len(runs):
+                lo, hi = run[-1][0] + 1, runs[k + 1][0][0]
+                e = max(range(lo, hi + 1), key=lambda f: (chg[f] if f < len(chg) else 0, -f))
+            else:
+                e = sg["e"]
+            texts = [(t, c) for _, t, c in run if t]
+            if texts:
+                out.append((s, e, texts))
+            s = e
+        return out
+
+    events = []  # dicts: s, e, text, flags, kind, pos
+    for s0, e0, samples in [r for sg in segs for r in text_runs(sg)]:
+        sg = {"s": s0, "e": e0}
+        n = sg["e"] - sg["s"]
+        if n < 3 or in_op(sg["s"]) or in_op(sg["e"] - 1):
+            continue
         if not samples:
             continue
         flags = []
