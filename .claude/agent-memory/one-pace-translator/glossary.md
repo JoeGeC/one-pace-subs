@@ -5842,3 +5842,6 @@ Reconciled cross-episode splits (surgical string-swaps applied to zh-TW files): 
 | Freedom Fighters (Dragon's pre-RA group) | 自由戰士 | COINED |
 | Special Science Group (SSG) | 海軍特殊科學班 | COINED |
 | King Seki (Lulusia king) | 瑟奇 | COINED — one-off (Lulusia destroyed) |
+| Shark Crunch (Jinbe, Fishman Karate; Onigashima 31) | 鯊魚碎擊 | COINED |
+| Mariarson (Black Maria fire attack; Onigashima+ 33) | 瑪麗亞縱火 | COINED |
+| Undying Thistle (Marco attack; Onigashima+ 33) | 不死薊 | COINED |
