@@ -132,6 +132,16 @@ FSCY_TAG_RE = re.compile(r'\\fscy(\d+(?:\.\d+)?)')
 POS_LINE_SPACING = 1.15   # rendered line height as a multiple of the font size
 POS_GAP = 10              # px of clearance between the English and Chinese blocks
 
+# Dialogue animated one line per frame — a shout that shakes (Wano 12 Kid/Luffy
+# 19:11), a line that flies off or shrinks away (Wano 35/59), a motion-tracked
+# rotated reply (Wano 37) — is drawn on top of its burned-in English copy, and
+# being typeset it's skipped by _plan_pos_offsets. Such runs are frozen instead:
+# the top planner gives the whole run one y, every frame becomes plain text at
+# that \an8\pos, and extra layers of a frame (a colour pass under a fill pass)
+# are emptied so the text isn't drawn twice.
+ANIMATED_FRAME_MAX = 0.1   # seconds; a frame of animation is shorter than this
+ANIMATED_MIN_FRAMES = 3    # frames needed before a moving run counts as animated
+
 
 def _load_position_overrides(original_name):
     """Return {line_num: (x, y)} overrides for this original file, if any."""
@@ -493,6 +503,38 @@ def _apply_pos_offset(text, x, y, an):
     return "{" + pos_tag + "}" + text
 
 
+def _animated_dialogue_lines(raw_lines, line_nums):
+    """Line numbers (out of line_nums) in a run of animated dialogue: back-to-
+    back Dialogue-style lines of the same source text (chained within
+    FRAME_EPS) holding at least ANIMATED_MIN_FRAMES frame-length lines whose
+    \\pos changes. Every line of such a run is included — a plain lead-in
+    before the animated tail (Wano 37) goes to the top with it."""
+    frames = []
+    for line_num, line in enumerate(raw_lines, 1):
+        if line_num not in line_nums or not line.startswith("Dialogue:"):
+            continue
+        parts = line.split(",", 9)
+        if len(parts) < 10 or not style_matches(parts[3], POS_DIALOGUE_PREFIXES):
+            continue
+        plain = re.sub(r'\{[^}]*\}', '', parts[9])
+        frames.append((_parse_time(parts[1]), _parse_time(parts[2]), parts[3], plain,
+                       line_num, _orig_pos(parts[9])))
+    runs, open_runs = [], {}
+    for start, end, style, plain, line_num, pos in sorted(frames):
+        run = open_runs.get((style, plain))
+        if run is None or start > run["end"] + FRAME_EPS:
+            run = open_runs[(style, plain)] = {"end": end, "lines": [], "frames": 0, "pos": set()}
+            runs.append(run)
+        run["end"] = max(run["end"], end)
+        run["lines"].append(line_num)
+        if end - start < ANIMATED_FRAME_MAX and pos[1] is not None:
+            run["frames"] += 1
+            run["pos"].add(pos)
+    return {n for run in runs
+            if run["frames"] >= ANIMATED_MIN_FRAMES and len(run["pos"]) > 1
+            for n in run["lines"]}
+
+
 def load_translations(tsv_path):
     """Load translated lines from TSV into a dict keyed by line number."""
     translations = {}
@@ -538,6 +580,7 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
     Returns {line_num: (x, y)} for every line to be pinned with \\an8\\pos.
     """
     style_fonts = _parse_style_fonts(raw_lines)
+    animated = _animated_dialogue_lines(raw_lines, translations)
     groups = {}  # (start_str, end_str, plain_text) -> info incl. member line numbers
     for line_num, line in enumerate(raw_lines, 1):
         if line_num not in translations or not line.startswith("Dialogue:"):
@@ -548,6 +591,24 @@ def _plan_top_positions(raw_lines, translations, res_x, res_y, style_map):
         style = parts[3]
         trans_text = translations[line_num]
         dialogue_marginv = _float(parts[7])
+        if line_num in animated:
+            # Frozen to plain centred text (see ANIMATED_FRAME_MAX): size it
+            # without its \fs/\fscy and ignore its per-frame x.
+            plain = re.sub(r'\{[^}]*\}', '', trans_text)
+            key = (parts[1], parts[2], plain)
+            g = groups.setdefault(key, {
+                "start": _parse_time(parts[1]),
+                "end": _parse_time(parts[2]),
+                "ox": None,
+                "place": plain,
+                "is_caption": False,
+                "plain": plain,
+                "nlines": 1 + plain.count("\\N"),
+                "line_h": _line_height(plain, style, style_fonts),
+                "members": [],
+            })
+            g["members"].append(line_num)
+            continue
         is_caption = style_matches(style, TOP_POSITION_PREFIXES)
         is_top_aligned = (_is_flush_top(trans_text, style, dialogue_marginv, style_map, res_y)
                            or _is_flush_top(parts[9], style, dialogue_marginv, style_map, res_y))
@@ -809,6 +870,8 @@ def merge(original_path, translations, output_path):
     margin_overrides = _load_margin_overrides(Path(original_path).name)
     pos_offsets = _plan_pos_offsets(raw_lines, translations, res_y, style_map,
                                     style_fonts, skip=top_pos)
+    animated = _animated_dialogue_lines(raw_lines, translations)
+    drawn_frames = set()  # (start, end, text) of animated frames already written
 
     with open(output_path, "w", encoding=out_encoding) as fout:
         for line_num, line in enumerate(raw_lines, 1):
@@ -818,7 +881,14 @@ def merge(original_path, translations, output_path):
                     style = parts[3]
                     text = translations[line_num]
 
-                    if line_num in top_pos:
+                    if line_num in animated and line_num in top_pos:
+                        x, y = top_pos[line_num]
+                        plain = re.sub(r'\{[^}]*\}', '', text)
+                        frame = (parts[1], parts[2], plain)
+                        body = "" if frame in drawn_frames else plain
+                        drawn_frames.add(frame)
+                        text = f"{{\\an8\\pos({_num(x)},{_num(y)})}}{body}"
+                    elif line_num in top_pos:
                         x, y = top_pos[line_num]
                         dy = _clip_dy(parts[9], text, style, _float(parts[7]), y,
                                       res_y, style_map, style_fonts)

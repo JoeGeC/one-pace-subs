@@ -32,7 +32,7 @@ from extract_dialogue import (
 # old regex-only TOP_ALIGN_RE approach here and in merge_translation.py both
 # missed).
 from merge_translation import (
-    _plan_top_positions, _apply_top_pos, _parse_styles,
+    _plan_top_positions, _apply_top_pos, _parse_styles, _animated_dialogue_lines,
     DEFAULT_RES_X, DEFAULT_RES_Y,
 )
 
@@ -258,6 +258,9 @@ def validate(original_path, translated_path, fix=False):
         if trans_text_by_ln.get(ln) != text and not is_drawing_only(text)
     }
     expected_pins = _plan_top_positions(orig_raw_lines, orig_text_by_ln, res_x, res_y, style_map)
+    # Animated dialogue is frozen to plain text by merge — its typeset tags
+    # are dropped on purpose, so they can't be compared.
+    animated = _animated_dialogue_lines(orig_raw_lines, orig_text_by_ln)
 
     report = []
     issues = []
@@ -304,7 +307,7 @@ def validate(original_path, translated_path, fix=False):
 
         # Check formatting tag consistency (detects shifted translations)
         # Only check translatable lines — non-translatable lines are copied verbatim
-        if is_translatable(t_style) and not is_drawing_only(o_text):
+        if is_translatable(t_style) and not is_drawing_only(o_text) and t_ln not in animated:
             o_tags = extract_format_tags(o_text)
             t_tags = extract_format_tags(t_text)
             if o_tags != t_tags and not is_caption_cosmetic_collapse(o_tags, t_tags):
