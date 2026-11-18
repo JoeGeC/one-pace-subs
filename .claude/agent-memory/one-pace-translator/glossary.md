@@ -5785,6 +5785,17 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Dome Exterior (caption) / Pets of the Celestial Dragons (Apoo's headline) | 圓頂外 / 天龍人的寵物 | |
 | Komurasaki "milord" (her address to Kaido-dream Orochi) | 主公 / 妾身 | |
 
+| Onigashima+ 40 [1034-1036] — Wings of the Pirate King | — | big centred voice-echo captions kept (Judge/Queen); artwork reads (QUEEN, BARATIE, VINSMOKE, PH-006, MARINE, TO BE) dropped |
+| Queen / Queen the Plague | 奎因 / 「疫災」奎因 | established |
+| Sparking Queen / Winch Queen (Queen attacks) | 閃耀奎因 / 絞盤奎因 | COINED. UNVERIFIED |
+| Ifrit Jambe (Sanji) / Stealth Black / Collier | 魔神風腳 / 隱形黑 / 項圈 | Ifrit Jambe 魔神風腳 standard zh; others COINED |
+| Sanji beef-cut kicks: Basses Côtes / Paleron / Jumeau Bifteck / Tendron / Flanchet / Queue / Poire / Jarret / Flanchet Strike / Boeuf Burst | 下肩胛肉 / 肩胛板腱 / 雙生牛排 / 牛腩 / 後腹肉 / 牛尾 / 臀肉 / 腱子 / 後腹肉打擊 / 牛肉爆擊 | COINED. UNVERIFIED |
+| Johnny Obviouson (HatSubs "Captain Obvious") | 說的都是廢話先生 | gag |
+| Judge of the Afterlife (閻王) Three Sword Style: Purgatory Demon Slash / Three Sword Serpentine: 103 Mercies: Dragon Damnation (Zoro) | 閻王三刀流：煉獄鬼斬 / 閻王三刀龍：一百三情：飛龍侍極 | canon JP 一百三情飛龍侍極 |
+| Imperial Flaming Wings / King Size Imperial Flaming Wings / Bird Dance (King) | 皇帝炎翼 / 超大型皇帝炎翼 / 鳥舞 | COINED. UNVERIFIED |
+| Alber (King's real name) / Punk Hazard | 阿爾柏 / 龐克哈薩特 | verify_names → KING page; 阿爾柏 UNVERIFIED |
+| Joyboy | 喬伊波伊 | established (L2138) |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
