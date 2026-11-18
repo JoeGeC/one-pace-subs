@@ -5775,6 +5775,16 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Hell Memories (Sanji) / Women's bath! | 地獄回憶 / 女澡堂！ | COINED. UNVERIFIED |
 | Cipher Pol / CP-0 | CP / CP0 | |
 
+| Onigashima 39 [1032-1033] — Oden's Beloved Blade | — | map labels (Current location / Armory) and signboards rebuilt as captions; Zoro-childhood flashback |
+| King (Onigashima files) | 燼 | Onigashima Paced uses 燼 (not Latin KING as Wano 16) |
+| Imperial Deep Pride Stake / Imperial Slings and Arrows (King) | 皇帝深傲之樁 / 皇帝之矢石 | COINED. UNVERIFIED |
+| Three-Sword Style: Kalasutra: Grand Dragon Twister / Ultra Tiger Hunt / One-Sword Style, Draw: Death Lion Song (Zoro) | 三刀流：黑繩：大龍捲 / 極虎狩 / 一刀流·拔刀：死獅子歌歌 | Lion Song 獅子歌歌 established (L290/L2274) |
+| Kitetsu III / Wado Ichimonji / Enma / Shimotsuki Kozaburo | 三代鬼徹 / 和道一文字 / 閻魔 / 霜月耕三郎 | established |
+| Sunacchi (Kozaburo's good-luck word) | 斯納奇 | COINED phonetic. UNVERIFIED |
+| Kuina / Isshin Dojo / Shimotsuki Village / Excellent Grade Sword | 克伊娜 / 一心道場 / 霜月村 / 大業物 | standard |
+| Dome Exterior (caption) / Pets of the Celestial Dragons (Apoo's headline) | 圓頂外 / 天龍人的寵物 | |
+| Komurasaki "milord" (her address to Kaido-dream Orochi) | 主公 / 妾身 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
