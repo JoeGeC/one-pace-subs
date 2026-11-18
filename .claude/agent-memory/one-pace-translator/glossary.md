@@ -5764,6 +5764,17 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | reverse crescent moon (Kin'emon's ally signal, fart-talk) / Kin'emon's "-poo" tic | 逆弦月 / 噗 | |
 | Law-dono (Kin'emon) / Cave Chamber caption | 羅殿下 / 洞窟 房間 | |
 
+| Onigashima 38 [1030-1031] — Soldier of Science | — | no captions; repeated "Without you, I...!" echoes collapse to one line |
+| K-Room: Anesthesia / Shock Wille (Law, awakened) | K·ROOM：麻醉 / 衝擊意志 | COINED. UNVERIFIED |
+| Assign / Punk Clash (Kid, awakened Magnet-Magnet Fruit 磁鐵果實) | 指定 / 龐克衝撞 | COINED. UNVERIFIED |
+| Sovereignty (Big Mom) / Soul Pocus / "Life or oshiruko" | 主權 / 靈魂咒縛 / 要命還是要紅豆湯 | Soul Pocus per L4126; Sovereignty COINED |
+| Earlobe Crackers (Fukurokuju) / Flower Shuriken (Kiku) | 耳垂爆擊 / 花手裏劍 | Earlobe COINED; Flower Shuriken established |
+| Animal Kingdom Pirates (HatSubs: Beast Pirates) | 百獸海賊團 | established |
+| X Drake / Scratchmen Apoo / Young Master (Yamato) | 德雷克 / 亞普 / 大和少爺 | established |
+| O-Some (geisha in the hideout) / Chuji (her missing companion) | 阿染 / 忠治 | COINED. UNVERIFIED |
+| Hell Memories (Sanji) / Women's bath! | 地獄回憶 / 女澡堂！ | COINED. UNVERIFIED |
+| Cipher Pol / CP-0 | CP / CP0 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
