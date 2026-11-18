@@ -5753,6 +5753,17 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Kaido's army / Samurai army (go-board labels) | 凱多軍 / 武士軍 | |
 | troop counts "Initially: 30,000 VS 5,400 / Now: 12,000 VS 8,000" | 初期：三萬 對 五千四百 ／ 現在：一萬兩千 對 八千 | |
 
+| Onigashima 37 [1029-1030] — The Tower | — | "QUEEN" tattoo, "NUMBERS" logo and "Kurozumi / Mass Suicide" typeset echo dropped; Numbers name cards kept as captions |
+| Soba Mask (Sanji's alter ego) / Sangoro | 蕎麥面具 / 三五郎 | Sangoro established (Wano zh); Soba Mask COINED |
+| Inbi / Fuga / Zanki (Numbers name cards) | 一美 / 二牙 / 三鬼 | Numbers roster (L5442) |
+| Killer / Basil Hawkins (Onigashima files) | 奇拉 / 巴茲爾·霍金斯 | 32 Wano zh majority form 奇拉 |
+| Straw Man's Cards / Death, Upright / The Tower (Hawkins tarot) | 稻草人卡 / 死神，正位 / 高塔 | Strawman 稻草人 (L4733); tarot 高塔 standard |
+| Guillotine Claws (Hawkins) / Spin Sonic (Killer) | 斷頭台利爪 / 迴旋音速 | COINED. UNVERIFIED |
+| Stolen Feuer / Mama-Raid (Big Mom attacks w/ Hera & Napoleon) | 奪火 / 媽媽突襲 | COINED. UNVERIFIED |
+| Kurozumi Mass Suicide: Swift Finale (Kanjuro) / Kazenbo (his flaming spectre) | 黑炭集體自盡：迅速終幕 / 火前坊 | Kazenbo = yokai 火前坊 (verify_names NOT_FOUND). UNVERIFIED |
+| reverse crescent moon (Kin'emon's ally signal, fart-talk) / Kin'emon's "-poo" tic | 逆弦月 / 噗 | |
+| Law-dono (Kin'emon) / Cave Chamber caption | 羅殿下 / 洞窟 房間 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
