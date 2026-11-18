@@ -5796,6 +5796,16 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Alber (King's real name) / Punk Hazard | 阿爾柏 / 龐克哈薩特 | verify_names → KING page; 阿爾柏 UNVERIFIED |
 | Joyboy | 喬伊波伊 | established (L2138) |
 
+| Onigashima 41 [1036-1037] — Drunken Dragon Bagua | — | rotated Kaido name cards, sky-lantern wishes, map labels kept as captions; "WORLD GOVT" sail reads dropped; scrolling "Burning Grudge" = one \move caption |
+| Drunken Dragon Bagua / Drowning His Sorrows / Tears in His Beer / Drunken Rage (Kaido's drunk states) | 酒龍八卦 / 借酒消愁 / 醉後哭泣 / 醉後暴怒 | Drunken Dragon Bagua from 酒龍八卦 (JP); states COINED readable zh |
+| Lightning Hammered Ragnaraku / Dragon Twister Demolition Breath / Dragon Swarm (Kaido) / Thunder Bagua | 降三世·引奈落 / 龍捲壞風 / 群龍 / 雷鳴八卦 | Thunder Bagua established (L4886); JP-derived, UNVERIFIED |
+| Gum-Gum Roc Gun / Kundali... Roc Gatling (Luffy) | 橡膠大鵬火箭砲 / 昆達里尼……大鵬機關槍 | COINED. UNVERIFIED |
+| Exploding Skull Grass (Usopp) / Sniper King / God Usopp | 爆炸骷髏草 / 狙擊王 / 神之騙人布 | God Usopp UNIFIED (L2931) |
+| Rokki / Inbi / Zanki (Numbers) | 六鬼 / 一美 / 三鬼 | roster L5442 |
+| sky lantern boats (Fire Festival) | 天燈船 | |
+| Five Celestial Elders / "Highest Authoritative Body in the World" / Holy Land of Mary Geoise, Red Line / Reverie | 五老星 / 世界最高權力 / 聖地瑪莉喬亞 紅土大陸 / 世界會議 | standard |
+| Paralysis Technique (Raizo) | 定身術 | COINED |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
