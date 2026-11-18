@@ -5806,6 +5806,15 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Five Celestial Elders / "Highest Authoritative Body in the World" / Holy Land of Mary Geoise, Red Line / Reverie | 五老星 / 世界最高權力 / 聖地瑪莉喬亞 紅土大陸 / 世界會議 | standard |
 | Paralysis Technique (Raizo) | 定身術 | COINED |
 
+| Onigashima+ 42 [1038-1040] — The Main Attraction | — | ENDS WITH AN ED SONG (Kid/Law "HEADLINERS", 40:05–44:27): karaoke romaji/English lyrics + "POLARIS LEI"/"LAW"/"...tion" reads all dropped, like the OP. Map name tags (Zoro/Franky/Yamato) kept as bottom lines |
+| Punk Corna Dio / Damned Punk / "S"! (Kid) | 龐克科爾納·迪奧 / 該死龐克 / 「S」！ | COINED. UNVERIFIED |
+| Maser Saber? / Puncture Wille / Silent / Takt (Law) | 邁射軍刀 / 穿刺……意志 / 靜音 / Takt | Takt kept Latin like Chambres; rest COINED |
+| God of Lightning, Tenjin / Mother's Visit Cannon: 3,000 Leagues of Misery / Misery (Big Mom) | 雷神，天神 / 母親探望砲：三千里苦難 / 苦難 | COINED. UNVERIFIED |
+| Namuji Glacier Fang / Mahoroba (Yamato) | 鳴神冰牙 / 真秀場 | Glacier Fang established (O-32); Mahoroba COINED |
+| Aigis Zero (CP0) / Surgeon of Death | 聖地守護者CP0 / 死亡外科醫生 | |
+| Zunesha / Great Pirate Era | 象主 / 大海賊時代 | standard |
+| Traf (Kid's address for Law) | 特拉法 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
