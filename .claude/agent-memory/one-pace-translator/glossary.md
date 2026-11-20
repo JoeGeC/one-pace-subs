@@ -5824,6 +5824,12 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Dome Interior, Forehead Floor, Animal Kingdom Bath / 2nd Floor Treasury (captions) | 圓頂內 額頭樓層 百獸 浴場 / 二樓 寶物庫 | |
 | Den Den ring / pickup "Clik" | 噗嚕噗嚕噗嚕…… / 喀嚓 | per L4402 |
 
+| Onigashima 44 [1042-1043] — Let Us Face Death Together! | — | Kaido drunk-state cards rebuilt (Drunken Beggar / Drunken Thief / Blood-Thirsty Drunk); "Castle Interior / Basement" sign merged |
+| Drunken Beggar / Drunken Thief / Blood-Thirsty Drunk (Kaido's drunk states, cards) | 醉後撒嬌 / 醉後偷學 / 醉後嗜血 | COINED, same 醉後… pattern as 醉後哭泣/醉後暴怒 (O-41). Beggar = 甘え上戸 |
+| Gum-Gum Over-Kong Gun (Luffy, Gear 4) | 橡膠超猿王槍 | Kong Gun 猿王槍 (L3809) + 超. COINED |
+| Battle of the Skull Dome Rooftop / Kaido the Beast King | 骷髏圓頂屋頂之戰 / 「百獸」凱多 | |
+| Drums of Liberation | 解放之鼓 | COINED. UNVERIFIED |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
