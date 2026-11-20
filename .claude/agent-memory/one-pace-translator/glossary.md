@@ -5846,6 +5846,13 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Water Heart, Fishman Jujutsu: Ocean Current Shoulder Throw (Jinbe) | 水心，魚人柔術：海流過肩摔 | matches O-31 退潮過肩摔. COINED |
 | Sea Prism Stone (HatSubs) / Hakumai / Ringo | 海樓石 / 白舞 / 林檎 | established |
 
+| Onigashima 47 [1048-1049] — The World You Wish For | — | OP tail + ED (29:14–end) dropped by hand. Sky-lantern wishes montage rebuilt as 10 clean lantern captions (montage keeps positions); region name cards (Ringo/Udon/Kibi/Hakumai) and flashback cards kept; WANTED/DEAD OR ALIVE poster reads and "Torch" echo dropped |
+| Flame Dragon Torch / Flame Bagua (Kaido) | 焰龍火炬 / 火焰八卦 | COINED. UNVERIFIED |
+| Gum-Gum Rising Dragon / Bajrang Gun (Luffy) | 橡膠升龍 / 猿神槍 | Bajrang 猿神 (JP 猿神銃). COINED |
+| Vodka Kingdom / Pirate Island Fullalead (Kaido flashback cards) | 伏特加王國 / 海賊島富拉利德 | COINED phonetic Fullalead. UNVERIFIED |
+| "Kaido's only ten years old... and he's the ultimate soldier!" | 凱多才十歲……就已經是最強的士兵了！ | |
+| Bakura Town (Onigashima files) | 芭秋拉町 | per L5082 (verified) |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
