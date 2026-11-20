@@ -5838,6 +5838,14 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Shooting Luffytaro / Gentleman Pirate | 流星魯夫太郎 / 紳士海賊 | |
 | Pleasure Hall, Left-Brain Tower / Holy Land Mary Geoise / Hall of Authority (captions) | 遊樂廳 左腦塔 / 聖地 瑪莉喬亞 / 權力之間 | COINED. UNVERIFIED |
 
+| Onigashima 46 [1046-1047] — The Skies Above the Capital | — | New OP (0:03–1:12 auto-dropped; lyric tail at 1:19 dropped by hand). ENDS WITH AN ED SONG (27:44–end: romaji karaoke, English lyrics, staff credits) — all dropped by hand, scanner doesn't catch it. Floor/location signs merged into one caption each; "PENGUIN" cap read dropped |
+| Kundali Dragon Swarm / Demolition Gust / Destroyer of Death Thunder Bagua (Kaido) | 昆達里尼·群龍 / 壞風 / 滅死·雷鳴八卦 | Kundali per O-41; Destroyer of Death COINED |
+| Gum-Gum Lightning (Luffy, Gear 5) | 橡膠閃電 | COINED. UNVERIFIED |
+| Sure-Kill Green Star: Sprinkler (Usopp) | 必殺綠星：灑水器 | COINED |
+| Ninja Art: Scrolling Technique / The Elephant's Bath — Restoration (Raizo) | 忍法：卷軸之術 / 象之沐浴——重現 | COINED. UNVERIFIED |
+| Water Heart, Fishman Jujutsu: Ocean Current Shoulder Throw (Jinbe) | 水心，魚人柔術：海流過肩摔 | matches O-31 退潮過肩摔. COINED |
+| Sea Prism Stone (HatSubs) / Hakumai / Ringo | 海樓石 / 白舞 / 林檎 | established |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
