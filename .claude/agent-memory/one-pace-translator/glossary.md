@@ -5853,6 +5853,14 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | "Kaido's only ten years old... and he's the ultimate soldier!" | 凱多才十歲……就已經是最強的士兵了！ | |
 | Bakura Town (Onigashima files) | 芭秋拉町 | per L5082 (verified) |
 
+| Onigashima 48 [1050-1051] — Kozuki Momonosuke | — | OP tail + ED (33:21–end) dropped. "Big Mom's hole" zoom label = one caption; O-Toko's lanterns "Daddy, I miss you" → final one with "I miss you" struck out ({\s1}…{\s0}) + "thank you"; region cards (Kuri/Ringo/Hakumai/Kibi/Udon/Ebisu Town) kept |
+| Denjiro of the Nine Red Scabbards / "Napping" Kyoshiro / Boss Kyoshiro | 九人赤鞘之一，傳二郎 / 「打盹」狂死郎 / 狂死郎老大 | per L5036 |
+| Yasuie-dono / O-Toko / Tengu-san (Hitetsu) | 康家大人 / 阿鳶 / 天狗先生 | |
+| Babanuki / Light Scroll | 巴伐奴基 / 光影卷軸 | established |
+| Supreme Commander of the Animal Kingdom Pirates / commander-in-chief (Momonosuke) | 百獸海賊團總督 / 總大將 | |
+| Battle in the Skies over the Land of Wano / Former Victor / New Victor | 和之國上空之戰 / 前勝者 / 新勝者 | |
+| Momonosuke "one without peer" (name meaning) | 「無人能及」 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
