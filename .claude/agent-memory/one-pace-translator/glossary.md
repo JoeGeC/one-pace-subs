@@ -5815,6 +5815,15 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Zunesha / Great Pirate Era | 象主 / 大海賊時代 | standard |
 | Traf (Kid's address for Law) | 特拉法 | |
 
+| Onigashima 43 [1041] — Komurasaki | — | short single-ep cut (ends 19:13). Shaking-text repeats collapsed; "WORLD GOVT" sail read and duplicate "Ring, ring, ring" typeset dropped; Raizo victor card / 2nd Floor Treasury sign merged into one caption each |
+| Jaggy / Traf (Luffy's nicknames for Kid / Law) | 傑基 / 特拉男 | Jaggy 傑基 per Wano 14; Traf = Luffy's トラ男 特拉男 (L4814) — Kid's "Traf" stays 特拉法 |
+| Maha (CP0 agent) | 瑪哈 | UNVERIFIED |
+| Imperial Edict from the Five Celestial Elders | 來自五老星的緊急命令 | |
+| Gum-Gum Hydra (Luffy, Gear 4 Snakeman) | 橡膠九頭蛇 | COINED. UNVERIFIED |
+| Oden's Travel Log (caption) / Moon Princess (Hiyori's song) | 御田的航海日誌 / 月之公主 | Moon Princess per L5361 |
+| Dome Interior, Forehead Floor, Animal Kingdom Bath / 2nd Floor Treasury (captions) | 圓頂內 額頭樓層 百獸 浴場 / 二樓 寶物庫 | |
+| Den Den ring / pickup "Clik" | 噗嚕噗嚕噗嚕…… / 喀嚓 | per L4402 |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
