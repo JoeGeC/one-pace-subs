@@ -5830,6 +5830,14 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Battle of the Skull Dome Rooftop / Kaido the Beast King | 骷髏圓頂屋頂之戰 / 「百獸」凱多 | |
 | Drums of Liberation | 解放之鼓 | COINED. UNVERIFIED |
 
+| Onigashima 45 [1044-1046] — Warrior of Liberation | — | NO OP AT START: the new OP plays over the end (26:55–28:03, auto-dropped) followed by "Edited by fedew" (dropped). "GEAR 5" logo, "ZUN" SFX and "WORLD GOVT" sail reads dropped. Hall of Authority sign turned into a caption |
+| Human-Human Fruit, Mythical Type, Model: Nika / Warrior of Liberation / Nika the Sun God | 動物系 人人果實 幻獸種 型號：尼卡 / 解放的戰士 / 太陽神尼卡 | Nika 尼卡 established |
+| Gear 5 / Paramythia (HatSubs: Paramecia) | 五檔 / 超人系 | |
+| Gum-Gum Balloon / Escape Rocket / Gigant / Jump Rope / Rightbackatcha (Luffy, Gear 5) | 橡膠氣球 / 逃脫火箭 / 巨人 / 跳繩 / 還給你 | Balloon established; rest COINED. UNVERIFIED |
+| Conqueror of Three Worlds: Ragnaraku (Kaido) | 降三世·引奈落 | per O-41 |
+| Shooting Luffytaro / Gentleman Pirate | 流星魯夫太郎 / 紳士海賊 | |
+| Pleasure Hall, Left-Brain Tower / Holy Land Mary Geoise / Hall of Authority (captions) | 遊樂廳 左腦塔 / 聖地 瑪莉喬亞 / 權力之間 | COINED. UNVERIFIED |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
