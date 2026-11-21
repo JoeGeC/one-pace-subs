@@ -5894,6 +5894,11 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Fraguy (Hitetsu/Tenguyama's name for Franky) | 佛朗仔 | COINED |
 | Sangoro's Specialty Soba / Chuji | 三五郎特製蕎麥麵 / 忠治 | |
 
+| End of Wano 04 [1057] — Final Curtain | — | Ends Wano. Storyteller framing (Momo's retelling). OP tail + ED (20:02–end) dropped; "The End" card kept (完). Top-of-screen lines (shop vendor, "Momonosuke-sama!"/"Shogun-sama!") set as {\an8} Main. "DEATH" hull reads dropped |
+| Port of Habu / Wisdom Kings / Dragon King Kaido | 波浮港 / 明王 / 龍王凱多 | Habu COINED |
+| "If it does not burn... then it is not charcoal!" (Hiyori's Kurozumi pun) | 「不燃燒的話……就不是黑炭！」 | 黑炭 = Kurozumi = charcoal, pun preserved |
+| Hakumai official port (lift) / followers | 白舞 官方港口 / 跟屁蟲 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
