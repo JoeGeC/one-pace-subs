@@ -5888,6 +5888,12 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Cross Guild / Hawkeye | 十字公會 / 鷹眼 | |
 | "the Man with the Burn Scar" (Kid/Killer's lead) | 有燒傷疤痕的男人 | |
 
+| End of Wano 03.5 [1056 Filler] — Farewell | — | Filler flashback (farewells before departure). OP tail + ED (18:33–end) dropped; "DRAPERY" shop sign dropped. Filename keeps "[1056 Filler]" |
+| Oden Castle Ruins, Kuri (caption) | 九里 御田城遺跡 | |
+| Wanda / Miyagi / Tristan / Garchu / Chobro | 萬妲 / 三宅 / 崔斯坦 / 嘎啾 / 喬巴兄 | established |
+| Fraguy (Hitetsu/Tenguyama's name for Franky) | 佛朗仔 | COINED |
+| Sangoro's Specialty Soba / Chuji | 三五郎特製蕎麥麵 / 忠治 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
