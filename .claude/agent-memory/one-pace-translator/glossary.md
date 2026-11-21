@@ -5880,6 +5880,14 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Barto (Bartolomeo) / Luffy-senpai | 巴托 / 魯夫學長 | |
 | Former Excavation Labor Camp (Udon caption) | 原採掘強制勞動所 | |
 
+| End of Wano 03 [1055-1056] — New Era | — | OP tail + ED (31:33–end) and "TO BE CONTINUED" dropped. Log Pose compass map labels (Calm Belt/North/West…) dropped. Momonosuke's roll-call repeats collapsed |
+| Fire Escape (Raizo) / Firebreak Forest (Green Bull) | 火遁 / 防火林 | COINED. UNVERIFIED |
+| Fujiyama / Old Wano (underwater, 800 years ago) | 富士山 / 舊和之國 | |
+| Inuarashi's Three Musketeers (card) | 犬嵐三銃士 | |
+| O-Tsuru / Okobore Town | 阿鶴 / 施捨小鎮 | per Wano zh |
+| Cross Guild / Hawkeye | 十字公會 / 鷹眼 | |
+| "the Man with the Burn Scar" (Kid/Killer's lead) | 有燒傷疤痕的男人 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
