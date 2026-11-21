@@ -5861,6 +5861,14 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Battle in the Skies over the Land of Wano / Former Victor / New Victor | 和之國上空之戰 / 前勝者 / 新勝者 | |
 | Momonosuke "one without peer" (name meaning) | 「無人能及」 | |
 
+| End of Wano 01 [1052] — New Morning | — | Same Onigashima Paced edit (fedew/HatSubs), files named "[Onigashima Paced][1052] End of Wano 01". OP tail + ED (17:50–end, Chilli Beans "Raise") dropped. "WORLD GOVT" sail, bounty-poster reads, "FRU" mech text dropped. "7 days after the Great Sky Battle" card restored ("7 days" missed by OCR) |
+| Sarahebi (Orochi-era teacher, "Miss Sarahebi") | 皿蛇老師 | COINED. UNVERIFIED |
+| Onimaru (Ringo komagitsune / Gyukimaru) | 鬼丸 | per Wano zh files |
+| Green Bull (Admiral Ryokugyu) / Sakazuki-san | 綠牛 / 薩卡斯基先生 | established |
+| Marco-dono (Kawamatsu's address) / Marco's "yoi" tic ("yes sirree") | 馬可大人 / 喲咿 | Onigashima files use 馬可 |
+| Men's Bath / Women's Bath / Rock Bath (signs) | 男湯 / 女湯 / 岩石浴場 | |
+| Great Sky Battle Over the Land of Wano | 和之國上空大決戰 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
