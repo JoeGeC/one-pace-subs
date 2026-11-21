@@ -5869,6 +5869,17 @@ Convention: dialogue shared with the regular cut reuses the regular zh-TW file's
 | Men's Bath / Women's Bath / Rock Bath (signs) | 男湯 / 女湯 / 岩石浴場 | |
 | Great Sky Battle Over the Land of Wano | 和之國上空大決戰 | |
 
+| End of Wano 02 [1053-1054] — New Emperors | — | OP tail + ED (31:32–end) dropped. Bounty posters, "WE NEWS"/MARINE reads dropped. Shanks/Luffy flashback two-liners were split by OCR (top line read as a caption) — rejoined. Sukiyaki name card kept as one caption |
+| Kozuki Sukiyaki, Former Shogun of Wano (Tengu-san / Hitetsu) | 光月壽喜燒 / 前和之國將軍 | |
+| Guernica (CP0) | 格爾尼卡 | COINED. UNVERIFIED |
+| Woods-Woods Fruit / Woodsman / Groves of Wrath (Green Bull) | 森林果實 / 森林人 / 森之怒 | COINED. UNVERIFIED |
+| Buggy the Genius Jester / Four Emperors of the Sea | 「千兩道化」巴其 / 海上四皇 | |
+| Hoof of the Celestial Dragon (Mary Geoise symbol) | 天翔龍之蹄 | established (glossary) |
+| Eight-Nation Revolution / "Insurgent Serpent" Dragon / Flame Emperor (Sabo) | 八國革命 / 「叛亂之蛇」龍 / 炎帝 | Eight-Nation & Insurgent Serpent COINED |
+| Naval Bureau of Investigation / Red Port / Red Hound (Akainu) | 海軍調查局 / 紅港 / 赤犬 | |
+| Barto (Bartolomeo) / Luffy-senpai | 巴托 / 魯夫學長 | |
+| Former Excavation Labor Camp (Udon caption) | 原採掘強制勞動所 | |
+
 ## Egghead Arc (Egghead 01–21 [1058–1094] — pre-seeded by driver 2026-07-31 before parallel translation)
 **Vegapunk standard for this arc = 貝卡帕庫** (recent/dominant form, matches WCI/Bonney arc L3231/L3243 and all satellite pages; older 貝加龐克 L1437/L3837 is NOT used in Egghead). Five Elders = 五老星 (L383). Imu = 伊姆 (L4639).
 
